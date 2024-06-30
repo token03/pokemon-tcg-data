@@ -1,0 +1,25 @@
+{
+    "id": "xy8-32",
+    "name": "Remoraid",
+    "number": "32",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959220",
+        "reverse-holo": "959382"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$36.02",
+                "grade9": "$13.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$38.08",
+                "grade9": "$14.72"
+            }
+        }
+    }
+}

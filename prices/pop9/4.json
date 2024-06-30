@@ -1,0 +1,25 @@
+{
+    "id": "pop9-4",
+    "name": "Regigigas",
+    "number": "4",
+    "setId": "pop9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762862",
+        "holo": "762878"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$63.43",
+                "grade9": "$11.00"
+            },
+            "holo": {
+                "ungraded": "$4.88",
+                "psa10": "$97.17",
+                "grade9": "$96.57"
+            }
+        }
+    }
+}

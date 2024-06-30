@@ -1,0 +1,25 @@
+{
+    "id": "pl4-32",
+    "name": "Spiritomb",
+    "number": "32",
+    "setId": "pl4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925651",
+        "reverse-holo": "925762"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$63.85",
+                "grade9": "$24.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$79.06",
+                "grade9": "$12.83"
+            }
+        }
+    }
+}

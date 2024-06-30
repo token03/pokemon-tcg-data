@@ -1,0 +1,25 @@
+{
+    "id": "pl2-8",
+    "name": "Lucario GL",
+    "number": "8",
+    "setId": "pl2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925404",
+        "reverse-holo": "925524"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.75",
+                "psa10": "$105.10",
+                "grade9": "$31.69"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$82.16",
+                "grade9": "$69.99"
+            }
+        }
+    }
+}

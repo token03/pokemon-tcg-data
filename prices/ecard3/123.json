@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-123",
+    "name": "Desert Shaman",
+    "number": "123",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842773",
+        "reverse-holo": "2252722"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.51",
+                "psa10": "$46.00",
+                "grade9": "$34.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$25.00",
+                "psa10": "$61.00",
+                "grade9": "$42.00"
+            }
+        }
+    }
+}

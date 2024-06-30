@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-69",
+    "name": "Jynx",
+    "number": "69",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806181",
+        "reverse-holo": "806287"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$49.26",
+                "grade9": "$18.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.16",
+                "psa10": "$67.52",
+                "grade9": "$26.45"
+            }
+        }
+    }
+}

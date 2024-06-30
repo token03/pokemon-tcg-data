@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-58",
+    "name": "Rotom V",
+    "number": "58",
+    "setId": "swsh11",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4049975"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$25.38",
+                "grade9": "$7.19"
+            }
+        }
+    }
+}

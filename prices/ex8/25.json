@@ -1,0 +1,25 @@
+{
+    "id": "ex8-25",
+    "name": "Shiftry",
+    "number": "25",
+    "setId": "ex8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888046",
+        "reverse-holo": "888153"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "$16.15",
+                "grade9": "$15.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.00",
+                "psa10": "$201.25",
+                "grade9": "$38.14"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-30",
+    "name": "Nidorina",
+    "number": "30",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809410",
+        "reverse-holo": "5809617"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.74",
+                "grade9": "$11.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$36.38",
+                "grade9": "$11.93"
+            }
+        }
+    }
+}

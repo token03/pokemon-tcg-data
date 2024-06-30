@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-191",
+    "name": "Gym Trainer",
+    "number": "191",
+    "setId": "swsh12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277312"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.47",
+                "psa10": "$23.64",
+                "grade9": "$9.97"
+            }
+        }
+    }
+}

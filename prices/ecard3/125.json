@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-125",
+    "name": "Fisherman",
+    "number": "125",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842775",
+        "reverse-holo": "2252724"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.13",
+                "psa10": "$46.00",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$25.31",
+                "psa10": "$270.25",
+                "grade9": "$43.55"
+            }
+        }
+    }
+}

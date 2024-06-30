@@ -1,0 +1,43 @@
+{
+    "id": "swsh9-132",
+    "name": "Boss's Orders",
+    "number": "132",
+    "setId": "swsh9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4134548",
+        "holo": "3188356",
+        "regional-championships-staff": "5114586",
+        "regional-championships": "5114585",
+        "reverse-holo": "3219476"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "",
+                "grade9": "$24.92"
+            },
+            "holo": {
+                "ungraded": "$1.50",
+                "psa10": "$36.17",
+                "grade9": "$12.54"
+            },
+            "regional-championships-staff": {
+                "ungraded": "$123.91",
+                "psa10": "",
+                "grade9": ""
+            },
+            "regional-championships": {
+                "ungraded": "$18.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$36.77",
+                "grade9": "$12.78"
+            }
+        }
+    }
+}

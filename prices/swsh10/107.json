@@ -1,0 +1,31 @@
+{
+    "id": "swsh10-107",
+    "name": "Magnezone",
+    "number": "107",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "3489606",
+        "holo": "4566860",
+        "reverse-holo": "3489804"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$38.11",
+                "grade9": "$13.19"
+            },
+            "holo": {
+                "ungraded": "$1.22",
+                "psa10": "$15.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$37.30",
+                "grade9": "$12.87"
+            }
+        }
+    }
+}

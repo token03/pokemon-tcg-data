@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-38",
+    "name": "Glaceon",
+    "number": "38",
+    "setId": "swsh10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3489536",
+        "reverse-holo": "3489748"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.18",
+                "grade9": "$12.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$37.30",
+                "grade9": "$10.99"
+            }
+        }
+    }
+}

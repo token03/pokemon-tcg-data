@@ -1,0 +1,19 @@
+{
+    "id": "mcd14-2",
+    "name": "Chespin",
+    "number": "2",
+    "setId": "mcd14",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179993"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

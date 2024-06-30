@@ -1,0 +1,25 @@
+{
+    "id": "xy12-55",
+    "name": "Diglett",
+    "number": "55",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960343",
+        "reverse-holo": "960435"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$27.33",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$59.43",
+                "grade9": "$12.64"
+            }
+        }
+    }
+}

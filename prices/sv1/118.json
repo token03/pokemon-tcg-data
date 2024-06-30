@@ -1,0 +1,25 @@
+{
+    "id": "sv1-118",
+    "name": "Hawlucha",
+    "number": "118",
+    "setId": "sv1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "4933893",
+        "reverse-holo": "4934143"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.25",
+                "psa10": "$13.81",
+                "grade9": "$6.35"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$29.99",
+                "grade9": "$11.80"
+            }
+        }
+    }
+}

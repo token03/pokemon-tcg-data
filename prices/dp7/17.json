@@ -1,0 +1,25 @@
+{
+    "id": "dp7-17",
+    "name": "Dusknoir",
+    "number": "17",
+    "setId": "dp7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925230",
+        "reverse-holo": "925319"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "$48.31",
+                "grade9": "$17.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

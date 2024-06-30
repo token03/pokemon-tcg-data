@@ -1,0 +1,25 @@
+{
+    "id": "sm35-47",
+    "name": "Spiritomb",
+    "number": "47",
+    "setId": "sm35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961116",
+        "reverse-holo": "2978775"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": "$1.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$99.99",
+                "grade9": "$14.99"
+            }
+        }
+    }
+}

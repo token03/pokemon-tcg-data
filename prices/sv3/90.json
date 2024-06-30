@@ -1,0 +1,25 @@
+{
+    "id": "sv3-90",
+    "name": "Spoink",
+    "number": "90",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605608",
+        "reverse-holo": "5605839"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$33.63",
+                "grade9": "$11.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.63",
+                "psa10": "$32.77",
+                "grade9": "$10.86"
+            }
+        }
+    }
+}

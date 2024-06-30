@@ -1,0 +1,25 @@
+{
+    "id": "dp1-70",
+    "name": "Bidoof",
+    "number": "70",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763106",
+        "reverse-holo": "763228"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$30.00",
+                "grade9": "$17.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.69",
+                "psa10": "$81.53",
+                "grade9": "$29.77"
+            }
+        }
+    }
+}

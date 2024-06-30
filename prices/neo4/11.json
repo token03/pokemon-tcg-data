@@ -1,0 +1,25 @@
+{
+    "id": "neo4-11",
+    "name": "Dark Tyranitar",
+    "number": "11",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762580",
+        "1st-edition": "2183320"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$60.00",
+                "psa10": "$773.54",
+                "grade9": "$226.25"
+            },
+            "1st-edition": {
+                "ungraded": "$159.51",
+                "psa10": "$1,800.00",
+                "grade9": "$384.82"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sv3pt5-25",
+    "name": "Pikachu",
+    "number": "25",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809405",
+        "pokemon-together": "6076342",
+        "reverse-holo": "5809612"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$27.98",
+                "grade9": "$15.75"
+            },
+            "pokemon-together": {
+                "ungraded": "$50.29",
+                "psa10": "",
+                "grade9": "$82.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$26.00",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

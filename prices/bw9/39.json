@@ -1,0 +1,25 @@
+{
+    "id": "bw9-39",
+    "name": "Zekrom",
+    "number": "39",
+    "setId": "bw9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957094",
+        "reverse-holo": "957213"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.42",
+                "psa10": "$48.45",
+                "grade9": "$20.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.97",
+                "psa10": "",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

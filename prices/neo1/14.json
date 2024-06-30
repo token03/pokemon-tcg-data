@@ -1,0 +1,25 @@
+{
+    "id": "neo1-14",
+    "name": "Slowking",
+    "number": "14",
+    "setId": "neo1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762334",
+        "1st-edition": "2324918"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$26.99",
+                "psa10": "$4,429.43",
+                "grade9": "$117.68"
+            },
+            "1st-edition": {
+                "ungraded": "$83.50",
+                "psa10": "$13,500.00",
+                "grade9": "$310.45"
+            }
+        }
+    }
+}

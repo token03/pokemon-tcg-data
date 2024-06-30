@@ -1,0 +1,19 @@
+{
+    "id": "sv4-262",
+    "name": "Roaring Moon ex",
+    "number": "262",
+    "setId": "sv4",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5953101"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.12",
+                "psa10": "$45.00",
+                "grade9": "$19.84"
+            }
+        }
+    }
+}

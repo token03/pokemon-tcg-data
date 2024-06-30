@@ -1,0 +1,25 @@
+{
+    "id": "sm9-28",
+    "name": "Staryu",
+    "number": "28",
+    "setId": "sm9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962826",
+        "reverse-holo": "963020"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.51",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

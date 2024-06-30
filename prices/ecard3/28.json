@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-28",
+    "name": "Raikou",
+    "number": "28",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842690",
+        "reverse-holo": "2252628"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.69",
+                "psa10": "$69.98",
+                "grade9": "$49.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$60.00",
+                "psa10": "$168.13",
+                "grade9": "$82.97"
+            }
+        }
+    }
+}

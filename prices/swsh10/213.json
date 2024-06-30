@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-213",
+    "name": "Path to the Peak",
+    "number": "213",
+    "setId": "swsh10",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "3489713"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.00",
+                "psa10": "$38.00",
+                "grade9": "$16.62"
+            }
+        }
+    }
+}

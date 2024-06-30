@@ -1,0 +1,25 @@
+{
+    "id": "xy7-51",
+    "name": "Registeel",
+    "number": "51",
+    "setId": "xy7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959069",
+        "reverse-holo": "959159"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$108.88",
+                "grade9": "$22.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.34",
+                "psa10": "$38.04",
+                "grade9": "$14.66"
+            }
+        }
+    }
+}

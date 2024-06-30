@@ -1,0 +1,25 @@
+{
+    "id": "sm9-138",
+    "name": "Dangerous Drill",
+    "number": "138",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962936",
+        "reverse-holo": "963118"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

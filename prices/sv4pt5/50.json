@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-50",
+    "name": "Barboach",
+    "number": "50",
+    "setId": "sv4pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6276969",
+        "reverse-holo": "6277212"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

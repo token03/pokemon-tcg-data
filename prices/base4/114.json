@@ -1,0 +1,19 @@
+{
+    "id": "base4-114",
+    "name": "Pok\u00e9mon Center",
+    "number": "114",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641916"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "$334.00",
+                "grade9": "$278.00"
+            }
+        }
+    }
+}

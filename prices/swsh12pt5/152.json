@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-152",
+    "name": "Grass Energy",
+    "number": "152",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "holo": "4637048"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.89",
+                "psa10": "$16.70",
+                "grade9": "$14.31"
+            }
+        }
+    }
+}

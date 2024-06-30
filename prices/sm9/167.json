@@ -1,0 +1,19 @@
+{
+    "id": "sm9-167",
+    "name": "Incineroar-GX",
+    "number": "167",
+    "setId": "sm9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962965"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.59",
+                "psa10": "$33.97",
+                "grade9": "$12.56"
+            }
+        }
+    }
+}

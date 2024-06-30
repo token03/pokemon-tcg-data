@@ -1,0 +1,25 @@
+{
+    "id": "base5-1",
+    "name": "Dark Alakazam",
+    "number": "1",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643447",
+        "1st-edition": "1341343"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.58",
+                "psa10": "$440.69",
+                "grade9": "$77.14"
+            },
+            "1st-edition": {
+                "ungraded": "$50.64",
+                "psa10": "$707.29",
+                "grade9": "$162.43"
+            }
+        }
+    }
+}

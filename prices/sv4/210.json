@@ -1,0 +1,19 @@
+{
+    "id": "sv4-210",
+    "name": "Aegislash",
+    "number": "210",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953048"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$45.73",
+                "grade9": "$16.99"
+            }
+        }
+    }
+}

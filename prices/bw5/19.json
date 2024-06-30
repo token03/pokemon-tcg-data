@@ -1,0 +1,25 @@
+{
+    "id": "bw5-19",
+    "name": "Heatmor",
+    "number": "19",
+    "setId": "bw5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956065",
+        "reverse-holo": "956176"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.16",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

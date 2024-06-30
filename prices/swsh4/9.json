@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-9",
+    "name": "Celebi",
+    "number": "9",
+    "setId": "swsh4",
+    "rarity": "Amazing Rare",
+    "priceChartingIds": {
+        "normal": "842004",
+        "holo": "2290676"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.02",
+                "psa10": "$21.88",
+                "grade9": "$10.90"
+            },
+            "holo": {
+                "ungraded": "$2.53",
+                "psa10": "$22.91",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

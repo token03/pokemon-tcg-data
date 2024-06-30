@@ -1,0 +1,19 @@
+{
+    "id": "bw11-54",
+    "name": "Mewtwo-EX",
+    "number": "54",
+    "setId": "bw11",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "957548"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.13",
+                "psa10": "$278.02",
+                "grade9": "$65.00"
+            }
+        }
+    }
+}

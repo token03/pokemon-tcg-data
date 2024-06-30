@@ -1,0 +1,25 @@
+{
+    "id": "ex15-20",
+    "name": "Mantine \u03b4",
+    "number": "20",
+    "setId": "ex15",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889494",
+        "reverse-holo": "889595"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$30.00",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.03",
+                "psa10": "$95.51",
+                "grade9": "$28.00"
+            }
+        }
+    }
+}

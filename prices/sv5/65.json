@@ -1,0 +1,25 @@
+{
+    "id": "sv5-65",
+    "name": "Azumarill",
+    "number": "65",
+    "setId": "sv5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6495525",
+        "reverse-holo": "6495737"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.14",
+                "psa10": "$36.06",
+                "grade9": "$11.65"
+            }
+        }
+    }
+}

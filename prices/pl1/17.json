@@ -1,0 +1,25 @@
+{
+    "id": "pl1-17",
+    "name": "Weavile G",
+    "number": "17",
+    "setId": "pl1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806106",
+        "reverse-holo": "806107"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.64",
+                "psa10": "$599.99",
+                "grade9": "$22.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.47",
+                "psa10": "$76.42",
+                "grade9": "$28.36"
+            }
+        }
+    }
+}

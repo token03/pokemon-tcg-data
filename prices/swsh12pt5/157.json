@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-157",
+    "name": "Fighting Energy",
+    "number": "157",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "holo": "4637053"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.20",
+                "psa10": "$40.22",
+                "grade9": "$9.23"
+            }
+        }
+    }
+}

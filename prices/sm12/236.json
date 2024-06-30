@@ -1,0 +1,19 @@
+{
+    "id": "sm12-236",
+    "name": "Rosa",
+    "number": "236",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964474"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$161.21",
+                "psa10": "$327.50",
+                "grade9": "$201.38"
+            }
+        }
+    }
+}

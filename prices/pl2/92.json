@@ -1,0 +1,25 @@
+{
+    "id": "pl2-92",
+    "name": "Lucian's Assignment",
+    "number": "92",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925488",
+        "reverse-holo": "925607"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.57",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm12-256",
+    "name": "Flygon-GX",
+    "number": "256",
+    "setId": "sm12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "964494"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.42",
+                "psa10": "$71.50",
+                "grade9": "$19.00"
+            }
+        }
+    }
+}

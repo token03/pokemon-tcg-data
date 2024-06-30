@@ -1,0 +1,25 @@
+{
+    "id": "ex11-104",
+    "name": "Holon Energy FF",
+    "number": "104",
+    "setId": "ex11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888766",
+        "reverse-holo": "888880"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.64",
+                "psa10": "$48.00",
+                "grade9": "$40.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.06",
+                "psa10": "",
+                "grade9": "$24.26"
+            }
+        }
+    }
+}

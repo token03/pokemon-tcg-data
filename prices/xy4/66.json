@@ -1,0 +1,31 @@
+{
+    "id": "xy4-66",
+    "name": "Klefki",
+    "number": "66",
+    "setId": "xy4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958259",
+        "3rd-place-league": "4928494",
+        "reverse-holo": "958374"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.77",
+                "psa10": "$53.35",
+                "grade9": "$23.11"
+            },
+            "3rd-place-league": {
+                "ungraded": "$5.39",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

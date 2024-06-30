@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-232",
+    "name": "Psychic Energy",
+    "number": "232",
+    "setId": "swsh6",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2254036"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.69",
+                "psa10": "$26.72",
+                "grade9": "$18.99"
+            }
+        }
+    }
+}

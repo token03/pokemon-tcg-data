@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-28",
+    "name": "Cramorant",
+    "number": "28",
+    "setId": "swsh45",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1341505",
+        "reverse-holo": "1341695"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.21",
+                "psa10": "$30.80",
+                "grade9": "$6.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$28.50",
+                "grade9": "$12.28"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-14",
+    "name": "Ampharos",
+    "number": "14",
+    "setId": "hgss1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806127",
+        "reverse-holo": "806232"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.38",
+                "psa10": "$91.00",
+                "grade9": "$76.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.80",
+                "psa10": "$87.01",
+                "grade9": "$34.99"
+            }
+        }
+    }
+}

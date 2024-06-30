@@ -1,0 +1,19 @@
+{
+    "id": "bw8-137",
+    "name": "Blastoise",
+    "number": "137",
+    "setId": "bw8",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "956934"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$132.50",
+                "psa10": "$1,607.98",
+                "grade9": "$323.70"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-63",
+    "name": "Mabosstiff",
+    "number": "63",
+    "setId": "sv4pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6276982",
+        "reverse-holo": "6277222"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.84",
+                "psa10": "$33.95",
+                "grade9": "$11.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$22.95",
+                "grade9": "$11.99"
+            }
+        }
+    }
+}

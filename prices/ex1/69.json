@@ -1,0 +1,25 @@
+{
+    "id": "ex1-69",
+    "name": "Shroomish",
+    "number": "69",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762926",
+        "reverse-holo": "763008"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$43.57",
+                "grade9": "$11.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.73",
+                "psa10": "$58.01",
+                "grade9": "$17.88"
+            }
+        }
+    }
+}

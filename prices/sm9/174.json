@@ -1,0 +1,19 @@
+{
+    "id": "sm9-174",
+    "name": "Erika's Hospitality",
+    "number": "174",
+    "setId": "sm9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962972"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$105.25",
+                "psa10": "$270.75",
+                "grade9": "$116.79"
+            }
+        }
+    }
+}

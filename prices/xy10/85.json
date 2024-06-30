@@ -1,0 +1,19 @@
+{
+    "id": "xy10-85",
+    "name": "M Audino-EX",
+    "number": "85",
+    "setId": "xy10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959942"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$33.18",
+                "grade9": "$15.59"
+            }
+        }
+    }
+}

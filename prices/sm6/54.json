@@ -1,0 +1,25 @@
+{
+    "id": "sm6-54",
+    "name": "Hoopa",
+    "number": "54",
+    "setId": "sm6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961717",
+        "reverse-holo": "961860"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$20.44",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.20",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

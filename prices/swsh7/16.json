@@ -1,0 +1,31 @@
+{
+    "id": "swsh7-16",
+    "name": "Eldegoss",
+    "number": "16",
+    "setId": "swsh7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2512827",
+        "reverse-holo": "2513058",
+        "holo": "4134583"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$36.40",
+                "grade9": "$12.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "$36.21",
+                "grade9": "$12.76"
+            },
+            "holo": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-1",
+    "name": "Bellsprout",
+    "number": "1",
+    "setId": "swsh5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1673182",
+        "reverse-holo": "1724990"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$34.22",
+                "grade9": "$12.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.33",
+                "psa10": "$35.11",
+                "grade9": "$12.43"
+            }
+        }
+    }
+}

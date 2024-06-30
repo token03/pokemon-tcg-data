@@ -1,0 +1,25 @@
+{
+    "id": "sm7-65",
+    "name": "Banette",
+    "number": "65",
+    "setId": "sm7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961979",
+        "reverse-holo": "962155"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.41",
+                "psa10": "$49.00",
+                "grade9": ""
+            }
+        }
+    }
+}

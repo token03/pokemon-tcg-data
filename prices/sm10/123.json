@@ -1,0 +1,25 @@
+{
+    "id": "sm10-123",
+    "name": "Aron",
+    "number": "123",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963279",
+        "reverse-holo": "963503"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": "$3.50"
+            }
+        }
+    }
+}

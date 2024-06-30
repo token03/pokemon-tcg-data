@@ -1,0 +1,19 @@
+{
+    "id": "sm3-161",
+    "name": "Bodybuilding Dumbbells",
+    "number": "161",
+    "setId": "sm3",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960945"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.06",
+                "psa10": "$30.94",
+                "grade9": "$11.51"
+            }
+        }
+    }
+}

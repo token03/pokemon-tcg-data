@@ -1,0 +1,19 @@
+{
+    "id": "swsh45-8",
+    "name": "Decidueye",
+    "number": "8",
+    "setId": "swsh45",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "reverse-holo": "1341679"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "$15.25",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

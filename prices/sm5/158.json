@@ -1,0 +1,19 @@
+{
+    "id": "sm5-158",
+    "name": "Pheromosa-GX",
+    "number": "158",
+    "setId": "sm5",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961521"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$54.99",
+                "grade9": "$19.89"
+            }
+        }
+    }
+}

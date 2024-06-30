@@ -1,0 +1,25 @@
+{
+    "id": "sm10-147",
+    "name": "Meowth",
+    "number": "147",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963303",
+        "reverse-holo": "963525"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.71",
+                "psa10": "$36.77",
+                "grade9": "$13.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.46",
+                "psa10": "$47.47",
+                "grade9": "$20.05"
+            }
+        }
+    }
+}

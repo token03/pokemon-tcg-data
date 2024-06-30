@@ -1,0 +1,25 @@
+{
+    "id": "dp3-106",
+    "name": "Shellos East Sea",
+    "number": "106",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920996",
+        "reverse-holo": "921128"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.06",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

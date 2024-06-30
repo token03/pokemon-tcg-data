@@ -1,0 +1,19 @@
+{
+    "id": "sv1-219",
+    "name": "Bombirdier",
+    "number": "219",
+    "setId": "sv1",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "4933993"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$50.68",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

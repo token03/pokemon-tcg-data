@@ -1,0 +1,19 @@
+{
+    "id": "base4-123",
+    "name": "Switch",
+    "number": "123",
+    "setId": "base4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "641925"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$55.61",
+                "grade9": "$22.99"
+            }
+        }
+    }
+}

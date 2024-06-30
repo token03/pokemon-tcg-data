@@ -1,0 +1,25 @@
+{
+    "id": "sm1-16",
+    "name": "Morelull",
+    "number": "16",
+    "setId": "sm1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806765",
+        "reverse-holo": "806898"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.97",
+                "psa10": "$39.33",
+                "grade9": "$15.61"
+            }
+        }
+    }
+}

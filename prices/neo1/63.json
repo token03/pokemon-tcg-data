@@ -1,0 +1,25 @@
+{
+    "id": "neo1-63",
+    "name": "Ledyba",
+    "number": "63",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762377",
+        "1st-edition": "2324882"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$36.95",
+                "grade9": "$9.95"
+            },
+            "1st-edition": {
+                "ungraded": "$2.46",
+                "psa10": "$31.99",
+                "grade9": "$15.01"
+            }
+        }
+    }
+}

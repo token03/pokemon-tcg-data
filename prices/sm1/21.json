@@ -1,0 +1,25 @@
+{
+    "id": "sm1-21",
+    "name": "Growlithe",
+    "number": "21",
+    "setId": "sm1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806770",
+        "reverse-holo": "806903"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "$34.76",
+                "grade9": "$12.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$48.16",
+                "grade9": "$15.08"
+            }
+        }
+    }
+}

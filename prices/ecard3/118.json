@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-118",
+    "name": "Zubat",
+    "number": "118",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887982",
+        "reverse-holo": "2252717"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$30.78",
+                "grade9": "$26.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$15.45",
+                "psa10": "$94.86",
+                "grade9": "$26.82"
+            }
+        }
+    }
+}

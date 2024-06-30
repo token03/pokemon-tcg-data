@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-16",
+    "name": "Hypno",
+    "number": "16",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842544",
+        "reverse-holo": "2293907"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$55.00",
+                "grade9": "$25.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.55",
+                "psa10": "$114.22",
+                "grade9": "$51.35"
+            }
+        }
+    }
+}

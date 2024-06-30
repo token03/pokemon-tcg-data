@@ -1,0 +1,19 @@
+{
+    "id": "xy6-103",
+    "name": "Hydreigon-EX",
+    "number": "103",
+    "setId": "xy6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958926"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.03",
+                "psa10": "$159.50",
+                "grade9": "$40.92"
+            }
+        }
+    }
+}

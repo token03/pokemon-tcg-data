@@ -1,0 +1,25 @@
+{
+    "id": "bw1-81",
+    "name": "Lillipup",
+    "number": "81",
+    "setId": "bw1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886696",
+        "reverse-holo": "886717"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.04",
+                "psa10": "$80.97",
+                "grade9": "$8.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "$40.11",
+                "grade9": "$14.72"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm11-39",
+    "name": "Finneon",
+    "number": "39",
+    "setId": "sm11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963605",
+        "reverse-holo": "963860"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.88",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

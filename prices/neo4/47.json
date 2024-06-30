@@ -1,0 +1,25 @@
+{
+    "id": "neo4-47",
+    "name": "Light Golduck",
+    "number": "47",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762607",
+        "1st-edition": "2183347"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.95",
+                "psa10": "$59.61",
+                "grade9": "$28.99"
+            },
+            "1st-edition": {
+                "ungraded": "$6.00",
+                "psa10": "$67.92",
+                "grade9": "$22.76"
+            }
+        }
+    }
+}

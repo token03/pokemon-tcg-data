@@ -1,0 +1,31 @@
+{
+    "id": "swsh10-92",
+    "name": "Hisuian Sneasel",
+    "number": "92",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489590",
+        "cosmos-holo": "4918755",
+        "reverse-holo": "3489793"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.96",
+                "psa10": "$33.91",
+                "grade9": "$11.54"
+            },
+            "cosmos-holo": {
+                "ungraded": "$1.42",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.86",
+                "psa10": "$33.42",
+                "grade9": "$11.35"
+            }
+        }
+    }
+}

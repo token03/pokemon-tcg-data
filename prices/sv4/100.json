@@ -1,0 +1,19 @@
+{
+    "id": "sv4-100",
+    "name": "Toxtricity ex",
+    "number": "100",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952938"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.43",
+                "psa10": "$37.16",
+                "grade9": "$12.11"
+            }
+        }
+    }
+}

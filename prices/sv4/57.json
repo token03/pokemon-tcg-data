@@ -1,0 +1,25 @@
+{
+    "id": "sv4-57",
+    "name": "Chien-Pao",
+    "number": "57",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5986010",
+        "reverse-holo": "5953157"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$0.99",
+                "psa10": "$40.03",
+                "grade9": "$7.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$35.34",
+                "grade9": "$11.58"
+            }
+        }
+    }
+}

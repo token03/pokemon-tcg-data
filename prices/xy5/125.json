@@ -1,0 +1,25 @@
+{
+    "id": "xy5-125",
+    "name": "Dive Ball",
+    "number": "125",
+    "setId": "xy5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958582",
+        "reverse-holo": "958733"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.66",
+                "psa10": "$45.91",
+                "grade9": "$19.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$47.93",
+                "grade9": "$20.18"
+            }
+        }
+    }
+}

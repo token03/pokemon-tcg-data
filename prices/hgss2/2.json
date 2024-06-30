@@ -1,0 +1,31 @@
+{
+    "id": "hgss2-2",
+    "name": "Magmortar",
+    "number": "2",
+    "setId": "hgss2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1287344",
+        "cracked-ice": "6736425",
+        "reverse-holo": "1287440"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.85",
+                "psa10": "$144.37",
+                "grade9": "$31.15"
+            },
+            "cracked-ice": {
+                "ungraded": "$3.00",
+                "psa10": "",
+                "grade9": "$199.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$76.00",
+                "grade9": ""
+            }
+        }
+    }
+}

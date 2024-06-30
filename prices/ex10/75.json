@@ -1,0 +1,25 @@
+{
+    "id": "ex10-75",
+    "name": "Spinarak",
+    "number": "75",
+    "setId": "ex10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888495",
+        "reverse-holo": "888637"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$58.06",
+                "grade9": "$19.98"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.95",
+                "psa10": "$108.49",
+                "grade9": "$18.72"
+            }
+        }
+    }
+}

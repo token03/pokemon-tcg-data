@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-19",
+    "name": "Flapple VMAX",
+    "number": "19",
+    "setId": "swsh5",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "1673200"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$21.29",
+                "grade9": "$10.75"
+            }
+        }
+    }
+}

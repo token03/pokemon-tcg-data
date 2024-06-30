@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-60",
+    "name": "Riolu",
+    "number": "60",
+    "setId": "hgss2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287401",
+        "reverse-holo": "1287498"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.68",
+                "psa10": "$49.31",
+                "grade9": "$18.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.75",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "swsh3-98",
+    "name": "Galarian Sirfetch'd",
+    "number": "98",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887183",
+        "cracked-ice": "3399950",
+        "reverse-holo": "887365"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$35.13",
+                "grade9": "$12.63"
+            },
+            "cracked-ice": {
+                "ungraded": "$4.99",
+                "psa10": "$65.99",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.90",
+                "psa10": "$17.22",
+                "grade9": "$13.66"
+            }
+        }
+    }
+}

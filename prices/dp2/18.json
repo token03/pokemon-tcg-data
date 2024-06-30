@@ -1,0 +1,25 @@
+{
+    "id": "dp2-18",
+    "name": "Uxie",
+    "number": "18",
+    "setId": "dp2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920641",
+        "reverse-holo": "920766"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.87",
+                "psa10": "$350.00",
+                "grade9": "$44.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.53",
+                "psa10": "$70.93",
+                "grade9": "$27.76"
+            }
+        }
+    }
+}

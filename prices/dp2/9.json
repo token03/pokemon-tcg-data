@@ -1,0 +1,25 @@
+{
+    "id": "dp2-9",
+    "name": "Garchomp",
+    "number": "9",
+    "setId": "dp2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920632",
+        "reverse-holo": "920757"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$440.00",
+                "grade9": "$44.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.24",
+                "psa10": "$82.48",
+                "grade9": "$41.82"
+            }
+        }
+    }
+}

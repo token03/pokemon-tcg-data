@@ -1,0 +1,25 @@
+{
+    "id": "gym1-123",
+    "name": "Misty's Duel",
+    "number": "123",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762123",
+        "1st-edition": "2156434"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.35",
+                "psa10": "$39.24",
+                "grade9": "$14.14"
+            },
+            "1st-edition": {
+                "ungraded": "$3.93",
+                "psa10": "$121.45",
+                "grade9": "$23.43"
+            }
+        }
+    }
+}

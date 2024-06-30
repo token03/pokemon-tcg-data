@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-150",
+    "name": "Mewtwo",
+    "number": "150",
+    "setId": "sv3pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5809531",
+        "reverse-holo": "5809730"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.08",
+                "psa10": "$30.56",
+                "grade9": "$11.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.14",
+                "psa10": "$32.00",
+                "grade9": "$12.25"
+            }
+        }
+    }
+}

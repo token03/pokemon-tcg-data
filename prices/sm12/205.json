@@ -1,0 +1,25 @@
+{
+    "id": "sm12-205",
+    "name": "Roxie",
+    "number": "205",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964443",
+        "reverse-holo": "964697"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.81",
+                "grade9": "$12.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "$36.44",
+                "grade9": "$13.61"
+            }
+        }
+    }
+}

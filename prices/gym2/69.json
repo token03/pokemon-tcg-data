@@ -1,0 +1,25 @@
+{
+    "id": "gym2-69",
+    "name": "Erika's Jigglypuff",
+    "number": "69",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762275",
+        "1st-edition": "1450263"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$36.56",
+                "grade9": "$23.15"
+            },
+            "1st-edition": {
+                "ungraded": "$3.87",
+                "psa10": "$58.00",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

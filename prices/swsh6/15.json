@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-15",
+    "name": "Tsareena",
+    "number": "15",
+    "setId": "swsh6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2253821",
+        "reverse-holo": "2254049"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.84",
+                "grade9": "$12.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.00",
+                "grade9": "$12.29"
+            }
+        }
+    }
+}

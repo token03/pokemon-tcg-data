@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-43",
+    "name": "Bruxish",
+    "number": "43",
+    "setId": "swsh5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1673224",
+        "reverse-holo": "1725026"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.14",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

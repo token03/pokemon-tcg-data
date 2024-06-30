@@ -1,0 +1,37 @@
+{
+    "id": "sm5-34",
+    "name": "Empoleon",
+    "number": "34",
+    "setId": "sm5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961397",
+        "cracked-ice": "6779884",
+        "pokemon-league": "6837186",
+        "reverse-holo": "961569"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.16",
+                "psa10": "$56.88",
+                "grade9": "$22.00"
+            },
+            "cracked-ice": {
+                "ungraded": "$3.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "pokemon-league": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.44",
+                "psa10": "$40.30",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

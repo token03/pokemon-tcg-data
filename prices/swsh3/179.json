@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-179",
+    "name": "Centiskorch V",
+    "number": "179",
+    "setId": "swsh3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887257"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.53",
+                "psa10": "$18.47",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

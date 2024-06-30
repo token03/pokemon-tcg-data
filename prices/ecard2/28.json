@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-28",
+    "name": "Porygon2",
+    "number": "28",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842555",
+        "reverse-holo": "2293919"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.95",
+                "psa10": "$50.03",
+                "grade9": "$23.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.59",
+                "psa10": "$377.22",
+                "grade9": "$79.96"
+            }
+        }
+    }
+}

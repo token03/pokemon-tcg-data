@@ -1,0 +1,37 @@
+{
+    "id": "xy12-59",
+    "name": "Machamp",
+    "number": "59",
+    "setId": "xy12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "960347",
+        "prerelease-staff": "2038368",
+        "prerelease": "2038369",
+        "reverse-holo": "960439"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.29",
+                "psa10": "$128.75",
+                "grade9": "$11.50"
+            },
+            "prerelease-staff": {
+                "ungraded": "$103.06",
+                "psa10": "$2,850.50",
+                "grade9": "$303.00"
+            },
+            "prerelease": {
+                "ungraded": "$53.24",
+                "psa10": "$580.00",
+                "grade9": "$182.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.88",
+                "psa10": "$36.08",
+                "grade9": "$12.54"
+            }
+        }
+    }
+}

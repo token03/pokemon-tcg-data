@@ -1,0 +1,25 @@
+{
+    "id": "bw9-6",
+    "name": "Treecko",
+    "number": "6",
+    "setId": "bw9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957061",
+        "reverse-holo": "957182"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.08",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.02",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

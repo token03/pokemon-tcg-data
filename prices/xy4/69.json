@@ -1,0 +1,25 @@
+{
+    "id": "xy4-69",
+    "name": "Slurpuff",
+    "number": "69",
+    "setId": "xy4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958262",
+        "reverse-holo": "958376"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.51",
+                "psa10": "$45.39",
+                "grade9": "$18.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "$40.81",
+                "grade9": "$16.07"
+            }
+        }
+    }
+}

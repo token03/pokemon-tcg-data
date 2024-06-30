@@ -1,0 +1,31 @@
+{
+    "id": "base3-51",
+    "name": "Krabby",
+    "number": "51",
+    "setId": "base3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643420",
+        "1st-edition": "1099545",
+        "error": "2583537"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$53.15",
+                "grade9": "$14.99"
+            },
+            "1st-edition": {
+                "ungraded": "$2.54",
+                "psa10": "$45.00",
+                "grade9": "$16.75"
+            },
+            "error": {
+                "ungraded": "$121.00",
+                "psa10": "",
+                "grade9": "$300.00"
+            }
+        }
+    }
+}

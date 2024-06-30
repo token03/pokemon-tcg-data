@@ -1,0 +1,25 @@
+{
+    "id": "gym2-89",
+    "name": "Misty's Poliwag",
+    "number": "89",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762291",
+        "1st-edition": "1450283"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$44.25",
+                "grade9": "$17.40"
+            },
+            "1st-edition": {
+                "ungraded": "$3.51",
+                "psa10": "$44.50",
+                "grade9": "$22.99"
+            }
+        }
+    }
+}

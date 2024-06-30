@@ -1,0 +1,19 @@
+{
+    "id": "pl2-107",
+    "name": "Hippowdon LV.X",
+    "number": "107",
+    "setId": "pl2",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925503"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.50",
+                "psa10": "$664.50",
+                "grade9": "$97.75"
+            }
+        }
+    }
+}

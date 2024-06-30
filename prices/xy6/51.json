@@ -1,0 +1,25 @@
+{
+    "id": "xy6-51",
+    "name": "Dragonite",
+    "number": "51",
+    "setId": "xy6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958874",
+        "reverse-holo": "958981"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.96",
+                "psa10": "$87.94",
+                "grade9": "$21.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.97",
+                "psa10": "$125.00",
+                "grade9": "$27.43"
+            }
+        }
+    }
+}

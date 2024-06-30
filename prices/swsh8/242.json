@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-242",
+    "name": "Skaters' Park",
+    "number": "242",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771268",
+        "reverse-holo": "2771524"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$35.52",
+                "grade9": "$8.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$36.59",
+                "grade9": "$12.84"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy5-53",
+    "name": "Kyogre",
+    "number": "53",
+    "setId": "xy5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958510",
+        "reverse-holo": "958670"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.82",
+                "psa10": "$80.88",
+                "grade9": "$13.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$94.50",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex13-23",
+    "name": "Mawile",
+    "number": "23",
+    "setId": "ex13",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889103",
+        "reverse-holo": "889214"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.11",
+                "psa10": "$49.00",
+                "grade9": "$40.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.99",
+                "psa10": "$79.20",
+                "grade9": "$28.70"
+            }
+        }
+    }
+}

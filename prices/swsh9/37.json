@@ -1,0 +1,31 @@
+{
+    "id": "swsh9-37",
+    "name": "Empoleon",
+    "number": "37",
+    "setId": "swsh9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "cosmos-holo": "4286536",
+        "holo": "3188262",
+        "reverse-holo": "3219399"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "cosmos-holo": {
+                "ungraded": "$1.74",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.53",
+                "psa10": "$13.00",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.35",
+                "psa10": "$35.41",
+                "grade9": "$12.22"
+            }
+        }
+    }
+}

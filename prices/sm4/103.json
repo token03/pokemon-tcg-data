@@ -1,0 +1,19 @@
+{
+    "id": "sm4-103",
+    "name": "Nihilego-GX",
+    "number": "103",
+    "setId": "sm4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961249"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.04",
+                "psa10": "$23.81",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

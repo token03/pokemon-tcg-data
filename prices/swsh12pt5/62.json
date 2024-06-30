@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-62",
+    "name": "Lunatone",
+    "number": "62",
+    "setId": "swsh12pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4636958",
+        "reverse-holo": "4637175"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$35.97",
+                "grade9": "$12.07"
+            }
+        }
+    }
+}

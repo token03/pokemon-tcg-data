@@ -1,0 +1,19 @@
+{
+    "id": "base4-8",
+    "name": "Hitmonchan",
+    "number": "8",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641811"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.84",
+                "psa10": "$1,399.95",
+                "grade9": "$64.86"
+            }
+        }
+    }
+}

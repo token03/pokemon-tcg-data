@@ -1,0 +1,31 @@
+{
+    "id": "swsh10-82",
+    "name": "Hisuian Decidueye",
+    "number": "82",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "3489580",
+        "holo": "5610845",
+        "reverse-holo": "3489785"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$35.05",
+                "grade9": "$11.99"
+            },
+            "holo": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "$37.83",
+                "grade9": "$13.08"
+            }
+        }
+    }
+}

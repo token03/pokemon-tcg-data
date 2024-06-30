@@ -1,0 +1,25 @@
+{
+    "id": "bw8-115",
+    "name": "Rufflet",
+    "number": "115",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956912",
+        "reverse-holo": "957042"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": "$7.50"
+            }
+        }
+    }
+}

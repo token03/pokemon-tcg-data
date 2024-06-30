@@ -1,0 +1,25 @@
+{
+    "id": "neo3-17",
+    "name": "Entei",
+    "number": "17",
+    "setId": "neo3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762501",
+        "1st-edition": "2427403"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.48",
+                "psa10": "$52.00",
+                "grade9": "$25.76"
+            },
+            "1st-edition": {
+                "ungraded": "$18.50",
+                "psa10": "$122.50",
+                "grade9": "$43.38"
+            }
+        }
+    }
+}

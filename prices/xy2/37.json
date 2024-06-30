@@ -1,0 +1,31 @@
+{
+    "id": "xy2-37",
+    "name": "Heliolisk",
+    "number": "37",
+    "setId": "xy2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957784",
+        "cracked-ice": "6857878",
+        "reverse-holo": "957889"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$41.32",
+                "grade9": "$11.00"
+            },
+            "cracked-ice": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

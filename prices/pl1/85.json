@@ -1,0 +1,25 @@
+{
+    "id": "pl1-85",
+    "name": "Piplup",
+    "number": "85",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806028",
+        "reverse-holo": "806029"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$47.44",
+                "grade9": "$17.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.22",
+                "psa10": "$114.37",
+                "grade9": "$45.15"
+            }
+        }
+    }
+}

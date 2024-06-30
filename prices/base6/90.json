@@ -1,0 +1,25 @@
+{
+    "id": "base6-90",
+    "name": "Rhyhorn",
+    "number": "90",
+    "setId": "base6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842395",
+        "reverse-holo": "2253771"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.72",
+                "psa10": "$83.84",
+                "grade9": "$75.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$33.39",
+                "psa10": "$570.25",
+                "grade9": "$107.03"
+            }
+        }
+    }
+}

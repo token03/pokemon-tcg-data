@@ -1,0 +1,25 @@
+{
+    "id": "neo4-78",
+    "name": "Porygon",
+    "number": "78",
+    "setId": "neo4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762631",
+        "1st-edition": "2183371"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$48.00",
+                "grade9": "$40.00"
+            },
+            "1st-edition": {
+                "ungraded": "$4.01",
+                "psa10": "$45.00",
+                "grade9": "$40.00"
+            }
+        }
+    }
+}

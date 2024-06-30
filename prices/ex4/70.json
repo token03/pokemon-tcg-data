@@ -1,0 +1,25 @@
+{
+    "id": "ex4-70",
+    "name": "Team Magma Schemer",
+    "number": "70",
+    "setId": "ex4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849639",
+        "reverse-holo": "849736"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "",
+                "grade9": "$24.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.78",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

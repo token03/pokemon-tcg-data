@@ -1,0 +1,19 @@
+{
+    "id": "swsh35-22",
+    "name": "Alcremie V",
+    "number": "22",
+    "setId": "swsh35",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "836897"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.10",
+                "psa10": "$20.50",
+                "grade9": "$11.41"
+            }
+        }
+    }
+}

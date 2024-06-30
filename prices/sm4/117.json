@@ -1,0 +1,19 @@
+{
+    "id": "sm4-117",
+    "name": "Kartana-GX",
+    "number": "117",
+    "setId": "sm4",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961263"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.43",
+                "psa10": "$36.89",
+                "grade9": "$18.27"
+            }
+        }
+    }
+}

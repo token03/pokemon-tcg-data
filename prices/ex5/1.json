@@ -1,0 +1,25 @@
+{
+    "id": "ex5-1",
+    "name": "Banette",
+    "number": "1",
+    "setId": "ex5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849774",
+        "reverse-holo": "849876"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.89",
+                "psa10": "$166.35",
+                "grade9": "$30.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.95",
+                "psa10": "$236.73",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

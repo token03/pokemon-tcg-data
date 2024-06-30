@@ -1,0 +1,31 @@
+{
+    "id": "g1-43",
+    "name": "Geodude",
+    "number": "43",
+    "setId": "g1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959755",
+        "reverse-holo": "2978684",
+        "toys-r-us": "3010354"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.36",
+                "psa10": "$55.80",
+                "grade9": "$14.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.85",
+                "psa10": "$39.66",
+                "grade9": "$15.00"
+            },
+            "toys-r-us": {
+                "ungraded": "$13.66",
+                "psa10": "",
+                "grade9": "$33.29"
+            }
+        }
+    }
+}

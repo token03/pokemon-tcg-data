@@ -1,0 +1,31 @@
+{
+    "id": "sm2-56",
+    "name": "Oricorio",
+    "number": "56",
+    "setId": "sm2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960553",
+        "pokemon-league": "2358237",
+        "reverse-holo": "960717"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$36.31",
+                "grade9": "$13.80"
+            },
+            "pokemon-league": {
+                "ungraded": "$2.05",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "$34.54",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

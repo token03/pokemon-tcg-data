@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-117",
+    "name": "Yungoos",
+    "number": "117",
+    "setId": "swsh12pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4637013",
+        "reverse-holo": "4637214"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$36.66",
+                "grade9": "$12.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$35.28",
+                "grade9": "$11.84"
+            }
+        }
+    }
+}

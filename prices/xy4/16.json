@@ -1,0 +1,25 @@
+{
+    "id": "xy4-16",
+    "name": "Croconaw",
+    "number": "16",
+    "setId": "xy4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958209",
+        "reverse-holo": "958331"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$36.74",
+                "grade9": "$13.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.14",
+                "psa10": "$49.49",
+                "grade9": "$20.94"
+            }
+        }
+    }
+}

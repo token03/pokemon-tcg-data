@@ -1,0 +1,25 @@
+{
+    "id": "ex7-34",
+    "name": "Dark Golbat",
+    "number": "34",
+    "setId": "ex7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886368",
+        "reverse-holo": "886479"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.25",
+                "psa10": "$46.16",
+                "grade9": "$32.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$18.01",
+                "psa10": "$122.50",
+                "grade9": "$38.34"
+            }
+        }
+    }
+}

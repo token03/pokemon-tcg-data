@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-37",
+    "name": "Kabuto",
+    "number": "37",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842699",
+        "reverse-holo": "2252636"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.93",
+                "psa10": "$39.99",
+                "grade9": "$15.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$25.99",
+                "psa10": "$177.50",
+                "grade9": "$50.00"
+            }
+        }
+    }
+}

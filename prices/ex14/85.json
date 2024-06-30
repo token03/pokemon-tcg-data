@@ -1,0 +1,25 @@
+{
+    "id": "ex14-85",
+    "name": "Windstorm",
+    "number": "85",
+    "setId": "ex14",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889372",
+        "reverse-holo": "889471"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.41",
+                "psa10": "$97.32",
+                "grade9": "$5.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.75",
+                "psa10": "$37.18",
+                "grade9": "$33.72"
+            }
+        }
+    }
+}

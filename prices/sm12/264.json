@@ -1,0 +1,19 @@
+{
+    "id": "sm12-264",
+    "name": "Great Catcher",
+    "number": "264",
+    "setId": "sm12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "964502"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.43",
+                "psa10": "$20.96",
+                "grade9": "$12.18"
+            }
+        }
+    }
+}

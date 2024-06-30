@@ -1,0 +1,25 @@
+{
+    "id": "xy1-50",
+    "name": "Grumpig",
+    "number": "50",
+    "setId": "xy1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806548",
+        "reverse-holo": "806672"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.97",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

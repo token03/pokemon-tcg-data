@@ -1,0 +1,25 @@
+{
+    "id": "bw10-82",
+    "name": "Plume Fossil",
+    "number": "82",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957384",
+        "reverse-holo": "957483"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

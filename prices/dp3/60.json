@@ -1,0 +1,25 @@
+{
+    "id": "dp3-60",
+    "name": "Quagsire",
+    "number": "60",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920950",
+        "reverse-holo": "921081"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$53.52",
+                "grade9": "$19.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$100.00",
+                "grade9": "$28.55"
+            }
+        }
+    }
+}

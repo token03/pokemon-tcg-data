@@ -1,0 +1,25 @@
+{
+    "id": "xy10-52",
+    "name": "Zygarde",
+    "number": "52",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959909",
+        "reverse-holo": "960027"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$37.59",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$115.00",
+                "grade9": "$15.10"
+            }
+        }
+    }
+}

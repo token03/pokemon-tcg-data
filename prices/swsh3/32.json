@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-32",
+    "name": "Talonflame",
+    "number": "32",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887118",
+        "reverse-holo": "887304"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "$34.68",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$22.00",
+                "grade9": "$18.73"
+            }
+        }
+    }
+}

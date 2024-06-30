@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-40",
+    "name": "Noctowl",
+    "number": "40",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842702",
+        "reverse-holo": "2252640"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.14",
+                "psa10": "$62.00",
+                "grade9": "$52.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$26.75",
+                "psa10": "$260.00",
+                "grade9": "$60.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-107",
+    "name": "Silicobra",
+    "number": "107",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807265",
+        "reverse-holo": "807266"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.77",
+                "grade9": "$12.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$33.81",
+                "grade9": "$12.06"
+            }
+        }
+    }
+}

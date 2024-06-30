@@ -1,0 +1,25 @@
+{
+    "id": "xy9-65",
+    "name": "Trevenant",
+    "number": "65",
+    "setId": "xy9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959556",
+        "reverse-holo": "959671"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "$39.88",
+                "grade9": "$15.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "$37.23",
+                "grade9": "$14.26"
+            }
+        }
+    }
+}

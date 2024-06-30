@@ -1,0 +1,19 @@
+{
+    "id": "sv5-34",
+    "name": "Incineroar ex",
+    "number": "34",
+    "setId": "sv5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "6495494"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.78",
+                "psa10": "$34.45",
+                "grade9": "$9.49"
+            }
+        }
+    }
+}

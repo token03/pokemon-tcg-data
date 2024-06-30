@@ -1,0 +1,25 @@
+{
+    "id": "ex15-6",
+    "name": "Nidoking \u03b4",
+    "number": "6",
+    "setId": "ex15",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889480",
+        "reverse-holo": "889581"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.77",
+                "psa10": "$225.15",
+                "grade9": "$35.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.86",
+                "psa10": "$318.49",
+                "grade9": "$50.77"
+            }
+        }
+    }
+}

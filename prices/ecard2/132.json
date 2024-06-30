@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-132",
+    "name": "Psychic Cube 01",
+    "number": "132",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842648",
+        "reverse-holo": "2294023"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$40.92",
+                "grade9": "$12.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.06",
+                "psa10": "$137.69",
+                "grade9": "$16.54"
+            }
+        }
+    }
+}

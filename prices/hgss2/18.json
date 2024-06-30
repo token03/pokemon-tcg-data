@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-18",
+    "name": "Lanturn",
+    "number": "18",
+    "setId": "hgss2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287360",
+        "reverse-holo": "1287456"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.56",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

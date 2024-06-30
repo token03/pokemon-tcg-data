@@ -1,0 +1,25 @@
+{
+    "id": "sm3-18",
+    "name": "Charmander",
+    "number": "18",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960802",
+        "reverse-holo": "960970"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "$25.75",
+                "grade9": "$14.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.13",
+                "psa10": "$34.60",
+                "grade9": "$12.32"
+            }
+        }
+    }
+}

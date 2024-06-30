@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-12",
+    "name": "Crustle",
+    "number": "12",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512823",
+        "reverse-holo": "2513056"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$34.88",
+                "grade9": "$12.17"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ex9-99",
+    "name": "Regirock ex",
+    "number": "99",
+    "setId": "ex9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888324"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$45.00",
+                "psa10": "$668.95",
+                "grade9": "$136.19"
+            }
+        }
+    }
+}

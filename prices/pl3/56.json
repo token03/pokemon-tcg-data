@@ -1,0 +1,31 @@
+{
+    "id": "pl3-56",
+    "name": "Dragonite FB",
+    "number": "56",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287103",
+        "crosshatch-pokemon-league": "5964684",
+        "reverse-holo": "1287257"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.54",
+                "psa10": "$137.77",
+                "grade9": "$29.19"
+            },
+            "crosshatch-pokemon-league": {
+                "ungraded": "$9.16",
+                "psa10": "",
+                "grade9": "$30.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.24",
+                "psa10": "$1,000.00",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

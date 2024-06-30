@@ -1,0 +1,25 @@
+{
+    "id": "base2-50",
+    "name": "Cubone",
+    "number": "50",
+    "setId": "base2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643301",
+        "1st-edition": "643349"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.36",
+                "psa10": "$59.99",
+                "grade9": "$21.75"
+            },
+            "1st-edition": {
+                "ungraded": "$2.25",
+                "psa10": "$124.50",
+                "grade9": "$27.30"
+            }
+        }
+    }
+}

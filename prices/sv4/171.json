@@ -1,0 +1,37 @@
+{
+    "id": "sv4-171",
+    "name": "Professor Turo's Scenario",
+    "number": "171",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5953009",
+        "regional-championships-staff": "6240295",
+        "regional-championships": "6249754",
+        "reverse-holo": "5953256"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.35",
+                "psa10": "$36.27",
+                "grade9": "$11.85"
+            },
+            "regional-championships-staff": {
+                "ungraded": "$83.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "regional-championships": {
+                "ungraded": "$16.97",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "$37.20",
+                "grade9": "$12.12"
+            }
+        }
+    }
+}

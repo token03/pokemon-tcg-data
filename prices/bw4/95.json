@@ -1,0 +1,19 @@
+{
+    "id": "bw4-95",
+    "name": "Reshiram-EX",
+    "number": "95",
+    "setId": "bw4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "955947"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$40.50",
+                "psa10": "$2,737.50",
+                "grade9": "$98.75"
+            }
+        }
+    }
+}

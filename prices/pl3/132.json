@@ -1,0 +1,25 @@
+{
+    "id": "pl3-132",
+    "name": "Whismur",
+    "number": "132",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287180",
+        "reverse-holo": "1287333"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$22.50",
+                "grade9": "$18.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

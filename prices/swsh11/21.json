@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-21",
+    "name": "Slugma",
+    "number": "21",
+    "setId": "swsh11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4049938",
+        "reverse-holo": "4050155"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.34",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$36.46",
+                "grade9": "$12.41"
+            }
+        }
+    }
+}

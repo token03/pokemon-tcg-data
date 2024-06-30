@@ -1,0 +1,37 @@
+{
+    "id": "sv5-121",
+    "name": "Miraidon",
+    "number": "121",
+    "setId": "sv5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6635828",
+        "holo": "6495581",
+        "reverse-holo": "6495787",
+        "stamped": "6582717"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.61",
+                "psa10": "$34.99",
+                "grade9": "$12.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$37.27",
+                "grade9": "$11.97"
+            },
+            "stamped": {
+                "ungraded": "$16.45",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

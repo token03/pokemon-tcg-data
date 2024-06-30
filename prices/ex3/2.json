@@ -1,0 +1,25 @@
+{
+    "id": "ex3-2",
+    "name": "Altaria",
+    "number": "2",
+    "setId": "ex3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2492552",
+        "reverse-holo": "849481"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.15",
+                "psa10": "$289.13",
+                "grade9": "$48.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.51",
+                "psa10": "$173.19",
+                "grade9": "$28.49"
+            }
+        }
+    }
+}

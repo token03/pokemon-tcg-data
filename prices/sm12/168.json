@@ -1,0 +1,25 @@
+{
+    "id": "sm12-168",
+    "name": "Igglybuff",
+    "number": "168",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964406",
+        "reverse-holo": "964661"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$34.97",
+                "grade9": "$12.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.89",
+                "psa10": "$34.95",
+                "grade9": "$20.56"
+            }
+        }
+    }
+}

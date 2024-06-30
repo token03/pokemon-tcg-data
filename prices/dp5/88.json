@@ -1,0 +1,31 @@
+{
+    "id": "dp5-88",
+    "name": "Warp Point",
+    "number": "88",
+    "setId": "dp5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921450",
+        "crosshatch-holo": "6401529",
+        "reverse-holo": "921550"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$52.76",
+                "grade9": "$19.15"
+            },
+            "crosshatch-holo": {
+                "ungraded": "$3.63",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

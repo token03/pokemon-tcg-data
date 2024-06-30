@@ -1,0 +1,19 @@
+{
+    "id": "bw1-115",
+    "name": "Pikachu",
+    "number": "115",
+    "setId": "bw1",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "806411"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.50",
+                "psa10": "$335.00",
+                "grade9": "$85.00"
+            }
+        }
+    }
+}

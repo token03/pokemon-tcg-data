@@ -1,0 +1,19 @@
+{
+    "id": "ex4-94",
+    "name": "Suicune ex",
+    "number": "94",
+    "setId": "ex4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849663"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$57.97",
+                "psa10": "$2,436.93",
+                "grade9": "$322.74"
+            }
+        }
+    }
+}

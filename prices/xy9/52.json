@@ -1,0 +1,19 @@
+{
+    "id": "xy9-52",
+    "name": "Espeon-EX",
+    "number": "52",
+    "setId": "xy9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959543"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.61",
+                "psa10": "$89.41",
+                "grade9": "$25.40"
+            }
+        }
+    }
+}

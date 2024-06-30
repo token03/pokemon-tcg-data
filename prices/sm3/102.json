@@ -1,0 +1,25 @@
+{
+    "id": "sm3-102",
+    "name": "Persian",
+    "number": "102",
+    "setId": "sm3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960886",
+        "reverse-holo": "961043"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "$36.34",
+                "grade9": "$13.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.54",
+                "psa10": "$36.96",
+                "grade9": "$14.19"
+            }
+        }
+    }
+}

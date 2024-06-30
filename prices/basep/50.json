@@ -1,0 +1,37 @@
+{
+    "id": "basep-50",
+    "name": "Celebi",
+    "number": "50",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "643514",
+        "gencon": "3233015",
+        "inquest": "3233018",
+        "scyre": "3233017"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$29.67",
+                "psa10": "$53.00",
+                "grade9": "$35.00"
+            },
+            "gencon": {
+                "ungraded": "$53.81",
+                "psa10": "",
+                "grade9": "$160.00"
+            },
+            "inquest": {
+                "ungraded": "$12.90",
+                "psa10": "",
+                "grade9": ""
+            },
+            "scyre": {
+                "ungraded": "$15.49",
+                "psa10": "",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

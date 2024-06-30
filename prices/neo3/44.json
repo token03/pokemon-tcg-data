@@ -1,0 +1,25 @@
+{
+    "id": "neo3-44",
+    "name": "Geodude",
+    "number": "44",
+    "setId": "neo3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762504",
+        "1st-edition": "2427407"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$17.05",
+                "grade9": "$16.16"
+            },
+            "1st-edition": {
+                "ungraded": "$2.90",
+                "psa10": "$35.00",
+                "grade9": "$15.99"
+            }
+        }
+    }
+}

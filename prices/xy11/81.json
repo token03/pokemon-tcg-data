@@ -1,0 +1,31 @@
+{
+    "id": "xy11-81",
+    "name": "Xerneas",
+    "number": "81",
+    "setId": "xy11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "960160",
+        "pokemon-league": "6179897",
+        "reverse-holo": "960265"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$68.77",
+                "grade9": "$14.65"
+            },
+            "pokemon-league": {
+                "ungraded": "$2.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.17",
+                "psa10": "$49.20",
+                "grade9": "$16.02"
+            }
+        }
+    }
+}

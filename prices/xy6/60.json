@@ -1,0 +1,19 @@
+{
+    "id": "xy6-60",
+    "name": "Rayquaza-EX",
+    "number": "60",
+    "setId": "xy6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958883"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.64",
+                "psa10": "$195.00",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-128",
+    "name": "Lure Ball",
+    "number": "128",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842778",
+        "reverse-holo": "2252727"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.43",
+                "psa10": "$18.53",
+                "grade9": "$8.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.29",
+                "psa10": "$499.99",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

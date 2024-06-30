@@ -1,0 +1,25 @@
+{
+    "id": "ex3-14",
+    "name": "Dragonair",
+    "number": "14",
+    "setId": "ex3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849394",
+        "reverse-holo": "849493"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.58",
+                "psa10": "$90.13",
+                "grade9": "$14.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.13",
+                "psa10": "$449.16",
+                "grade9": "$163.06"
+            }
+        }
+    }
+}

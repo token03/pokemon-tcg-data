@@ -1,0 +1,25 @@
+{
+    "id": "ex8-6",
+    "name": "Crawdaunt",
+    "number": "6",
+    "setId": "ex8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888027",
+        "reverse-holo": "888134"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.99",
+                "psa10": "$215.89",
+                "grade9": "$23.98"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.27",
+                "psa10": "$177.50",
+                "grade9": "$41.00"
+            }
+        }
+    }
+}

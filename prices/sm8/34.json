@@ -1,0 +1,19 @@
+{
+    "id": "sm8-34",
+    "name": "Virizion-GX",
+    "number": "34",
+    "setId": "sm8",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "962422"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.86",
+                "psa10": "$20.00",
+                "grade9": "$19.35"
+            }
+        }
+    }
+}

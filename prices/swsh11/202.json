@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-202",
+    "name": "Hisuian Goodra VSTAR",
+    "number": "202",
+    "setId": "swsh11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "4050119"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.55",
+                "psa10": "$34.33",
+                "grade9": "$9.63"
+            }
+        }
+    }
+}

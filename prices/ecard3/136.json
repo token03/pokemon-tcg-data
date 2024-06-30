@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-136",
+    "name": "Mystery Plate \u03b4",
+    "number": "136",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887987",
+        "reverse-holo": "2252735"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.77",
+                "psa10": "$40.00",
+                "grade9": "$33.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.22",
+                "psa10": "$79.00",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-40",
+    "name": "Seadra",
+    "number": "40",
+    "setId": "hgss2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287382",
+        "reverse-holo": "1287478"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.76",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.87",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

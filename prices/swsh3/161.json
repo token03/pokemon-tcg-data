@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-161",
+    "name": "Familiar Bell",
+    "number": "161",
+    "setId": "swsh3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887239",
+        "reverse-holo": "887417"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "$34.07",
+                "grade9": "$12.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.42",
+                "psa10": "$39.20",
+                "grade9": "$14.71"
+            }
+        }
+    }
+}

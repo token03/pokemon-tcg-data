@@ -1,0 +1,19 @@
+{
+    "id": "sv4-135",
+    "name": "Aegislash ex",
+    "number": "135",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952973"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.61",
+                "psa10": "$39.25",
+                "grade9": "$12.73"
+            }
+        }
+    }
+}

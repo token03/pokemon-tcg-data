@@ -1,0 +1,31 @@
+{
+    "id": "pl1-7",
+    "name": "Dialga G",
+    "number": "7",
+    "setId": "pl1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "805927",
+        "pokemon-league": "6139286",
+        "reverse-holo": "805928"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.08",
+                "psa10": "$152.77",
+                "grade9": "$20.00"
+            },
+            "pokemon-league": {
+                "ungraded": "$10.47",
+                "psa10": "$43.51",
+                "grade9": "$10.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.71",
+                "psa10": "$97.50",
+                "grade9": "$31.00"
+            }
+        }
+    }
+}

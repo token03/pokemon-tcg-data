@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-34",
+    "name": "Minun",
+    "number": "34",
+    "setId": "hgss2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287376",
+        "reverse-holo": "1287472"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.15",
+                "psa10": "$66.23",
+                "grade9": "$26.08"
+            }
+        }
+    }
+}

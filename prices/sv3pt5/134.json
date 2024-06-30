@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-134",
+    "name": "Vaporeon",
+    "number": "134",
+    "setId": "sv3pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "reverse-holo": "5809715"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "$38.08",
+                "grade9": "$7.00"
+            }
+        }
+    }
+}

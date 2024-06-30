@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-162",
+    "name": "Glimwood Tangle",
+    "number": "162",
+    "setId": "swsh3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887240",
+        "reverse-holo": "887418"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.75",
+                "grade9": "$12.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.96",
+                "psa10": "$37.56",
+                "grade9": "$13.87"
+            }
+        }
+    }
+}

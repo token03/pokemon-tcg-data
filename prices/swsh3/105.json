@@ -1,0 +1,31 @@
+{
+    "id": "swsh3-105",
+    "name": "Darkrai",
+    "number": "105",
+    "setId": "swsh3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "cosmos-holo": "4951609",
+        "holo": "887189",
+        "reverse-holo": "887370"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "cosmos-holo": {
+                "ungraded": "$1.08",
+                "psa10": "$35.09",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.49",
+                "psa10": "$25.02",
+                "grade9": "$13.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$41.25",
+                "grade9": "$12.76"
+            }
+        }
+    }
+}

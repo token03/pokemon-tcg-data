@@ -1,0 +1,25 @@
+{
+    "id": "sm2-98",
+    "name": "Jangmo-o",
+    "number": "98",
+    "setId": "sm2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960595",
+        "reverse-holo": "960754"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$35.04",
+                "grade9": "$13.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "$16.00",
+                "grade9": "$13.17"
+            }
+        }
+    }
+}

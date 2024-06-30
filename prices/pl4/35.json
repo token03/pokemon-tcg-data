@@ -1,0 +1,25 @@
+{
+    "id": "pl4-35",
+    "name": "Charmeleon",
+    "number": "35",
+    "setId": "pl4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925654",
+        "reverse-holo": "925765"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$54.50",
+                "grade9": "$44.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.19",
+                "psa10": "$69.23",
+                "grade9": "$26.96"
+            }
+        }
+    }
+}

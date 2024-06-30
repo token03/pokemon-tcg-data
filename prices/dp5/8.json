@@ -1,0 +1,25 @@
+{
+    "id": "dp5-8",
+    "name": "Manaphy",
+    "number": "8",
+    "setId": "dp5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "921370",
+        "reverse-holo": "921470"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.05",
+                "psa10": "$75.68",
+                "grade9": "$18.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.14",
+                "psa10": "",
+                "grade9": "$25.12"
+            }
+        }
+    }
+}

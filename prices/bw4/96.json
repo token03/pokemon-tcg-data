@@ -1,0 +1,19 @@
+{
+    "id": "bw4-96",
+    "name": "Kyurem-EX",
+    "number": "96",
+    "setId": "bw4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "955948"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$28.03",
+                "psa10": "$719.45",
+                "grade9": "$67.50"
+            }
+        }
+    }
+}

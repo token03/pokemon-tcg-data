@@ -1,0 +1,25 @@
+{
+    "id": "neo4-88",
+    "name": "Unown [T]",
+    "number": "88",
+    "setId": "neo4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762659",
+        "1st-edition": "2183399"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.08",
+                "psa10": "$54.88",
+                "grade9": "$16.30"
+            },
+            "1st-edition": {
+                "ungraded": "$2.80",
+                "psa10": "$56.00",
+                "grade9": "$16.50"
+            }
+        }
+    }
+}

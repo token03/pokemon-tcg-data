@@ -1,0 +1,25 @@
+{
+    "id": "g1-65",
+    "name": "Max Revive",
+    "number": "65",
+    "setId": "g1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959777",
+        "reverse-holo": "2978703"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$40.38",
+                "grade9": "$16.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.05",
+                "psa10": "$40.59",
+                "grade9": "$16.24"
+            }
+        }
+    }
+}

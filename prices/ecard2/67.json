@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-67",
+    "name": "Aipom",
+    "number": "67",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842594",
+        "reverse-holo": "2293958"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.32",
+                "psa10": "$46.03",
+                "grade9": "$21.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.97",
+                "psa10": "$78.00",
+                "grade9": "$18.18"
+            }
+        }
+    }
+}

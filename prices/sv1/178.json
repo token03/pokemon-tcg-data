@@ -1,0 +1,25 @@
+{
+    "id": "sv1-178",
+    "name": "Mesagoza",
+    "number": "178",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933952",
+        "reverse-holo": "4934198"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.28",
+                "grade9": "$11.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "$36.82",
+                "grade9": "$12.28"
+            }
+        }
+    }
+}

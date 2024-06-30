@@ -1,0 +1,25 @@
+{
+    "id": "bw6-36",
+    "name": "Seismitoad",
+    "number": "36",
+    "setId": "bw6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956290",
+        "reverse-holo": "956417"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.94",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

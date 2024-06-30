@@ -1,0 +1,19 @@
+{
+    "id": "xy7-96",
+    "name": "Primal Kyogre-EX",
+    "number": "96",
+    "setId": "xy7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "959114"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$49.99",
+                "psa10": "$555.00",
+                "grade9": "$177.08"
+            }
+        }
+    }
+}

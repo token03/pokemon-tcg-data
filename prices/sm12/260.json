@@ -1,0 +1,19 @@
+{
+    "id": "sm12-260",
+    "name": "Naganadel & Guzzlord-GX",
+    "number": "260",
+    "setId": "sm12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "964498"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.97",
+                "psa10": "$49.22",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

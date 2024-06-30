@@ -1,0 +1,19 @@
+{
+    "id": "sv6-224",
+    "name": "Enhanced Hammer",
+    "number": "224",
+    "setId": "sv6",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "6769703"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.02",
+                "psa10": "$89.17",
+                "grade9": "$25.43"
+            }
+        }
+    }
+}

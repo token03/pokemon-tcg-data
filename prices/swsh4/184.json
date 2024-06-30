@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-184",
+    "name": "Opal",
+    "number": "184",
+    "setId": "swsh4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887722"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.38",
+                "psa10": "$19.54",
+                "grade9": "$8.51"
+            }
+        }
+    }
+}

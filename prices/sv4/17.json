@@ -1,0 +1,25 @@
+{
+    "id": "sv4-17",
+    "name": "Toedscruel",
+    "number": "17",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5952855",
+        "reverse-holo": "5953121"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.08",
+                "psa10": "$35.02",
+                "grade9": "$11.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$35.25",
+                "grade9": "$11.55"
+            }
+        }
+    }
+}

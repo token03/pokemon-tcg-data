@@ -1,0 +1,19 @@
+{
+    "id": "ex14-100",
+    "name": "Celebi \u2605",
+    "number": "100",
+    "setId": "ex14",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "889387"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$240.84",
+                "psa10": "$2,449.99",
+                "grade9": "$835.00"
+            }
+        }
+    }
+}

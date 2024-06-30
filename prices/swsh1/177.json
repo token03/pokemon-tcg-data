@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-177",
+    "name": "Potion",
+    "number": "177",
+    "setId": "swsh1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "807221",
+        "reverse-holo": "807222"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$34.38",
+                "grade9": "$12.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "$34.19",
+                "grade9": "$12.26"
+            }
+        }
+    }
+}

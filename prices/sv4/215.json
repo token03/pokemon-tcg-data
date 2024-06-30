@@ -1,0 +1,19 @@
+{
+    "id": "sv4-215",
+    "name": "Cyclizar",
+    "number": "215",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953054"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.71",
+                "psa10": "$36.66",
+                "grade9": "$9.95"
+            }
+        }
+    }
+}

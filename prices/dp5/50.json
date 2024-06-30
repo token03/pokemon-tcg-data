@@ -1,0 +1,25 @@
+{
+    "id": "dp5-50",
+    "name": "Aipom",
+    "number": "50",
+    "setId": "dp5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921412",
+        "reverse-holo": "921512"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$49.22",
+                "grade9": "$17.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.68",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

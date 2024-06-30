@@ -1,0 +1,43 @@
+{
+    "id": "basep-1",
+    "name": "Pikachu",
+    "number": "1",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "2267255",
+        "holo": "4598007",
+        "no-dot-code": "6736849",
+        "1st-edition-error": "4556508",
+        "lpp-collecting-stamp": "6610754"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.30",
+                "psa10": "$74.99",
+                "grade9": "$30.69"
+            },
+            "holo": {
+                "ungraded": "$2.70",
+                "psa10": "",
+                "grade9": ""
+            },
+            "no-dot-code": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "1st-edition-error": {
+                "ungraded": "$305.00",
+                "psa10": "",
+                "grade9": "$893.50"
+            },
+            "lpp-collecting-stamp": {
+                "ungraded": "$45.24",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

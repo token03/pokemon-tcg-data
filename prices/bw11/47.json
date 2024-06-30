@@ -1,0 +1,25 @@
+{
+    "id": "bw11-47",
+    "name": "Plusle",
+    "number": "47",
+    "setId": "bw11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957541",
+        "reverse-holo": "957677"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$42.95",
+                "grade9": "$16.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.59",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-16",
+    "name": "Machamp",
+    "number": "16",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842680",
+        "reverse-holo": "2252616"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.63",
+                "psa10": "$57.50",
+                "grade9": "$25.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$49.99",
+                "psa10": "$160.50",
+                "grade9": "$74.97"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex14-33",
+    "name": "Gulpin",
+    "number": "33",
+    "setId": "ex14",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889320",
+        "reverse-holo": "889420"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.86",
+                "psa10": "$63.78",
+                "grade9": "$22.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.47",
+                "psa10": "$99.95",
+                "grade9": "$18.52"
+            }
+        }
+    }
+}

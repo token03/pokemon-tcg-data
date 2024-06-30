@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-154",
+    "name": "Tyranitar V",
+    "number": "154",
+    "setId": "swsh5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "1673334"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.82",
+                "psa10": "$38.22",
+                "grade9": "$15.03"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy10-5",
+    "name": "Snivy",
+    "number": "5",
+    "setId": "xy10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959862",
+        "reverse-holo": "959987"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$21.50",
+                "grade9": "$3.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.70",
+                "psa10": "$38.66",
+                "grade9": "$15.13"
+            }
+        }
+    }
+}

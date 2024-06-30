@@ -1,0 +1,25 @@
+{
+    "id": "ex9-16",
+    "name": "Manectric",
+    "number": "16",
+    "setId": "ex9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888241",
+        "reverse-holo": "888348"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.62",
+                "psa10": "$18.75",
+                "grade9": "$17.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.88",
+                "psa10": "$321.60",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

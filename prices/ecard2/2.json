@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-2",
+    "name": "Arcanine",
+    "number": "2",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842531",
+        "reverse-holo": "2293893"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.19",
+                "psa10": "$99.75",
+                "grade9": "$38.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$39.37",
+                "psa10": "$399.99",
+                "grade9": "$56.69"
+            }
+        }
+    }
+}

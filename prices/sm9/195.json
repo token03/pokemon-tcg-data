@@ -1,0 +1,19 @@
+{
+    "id": "sm9-195",
+    "name": "Metal Goggles",
+    "number": "195",
+    "setId": "sm9",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "962993"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.77",
+                "psa10": "$24.78",
+                "grade9": "$15.69"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ex15-100",
+    "name": "Charizard \u2605 \u03b4",
+    "number": "100",
+    "setId": "ex15",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "889574"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$950.00",
+                "psa10": "$17,700.50",
+                "grade9": "$4,600.00"
+            }
+        }
+    }
+}

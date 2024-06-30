@@ -1,0 +1,19 @@
+{
+    "id": "sv6-176",
+    "name": "Cramorant",
+    "number": "176",
+    "setId": "sv6",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6775695"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.25",
+                "psa10": "$47.57",
+                "grade9": "$14.58"
+            }
+        }
+    }
+}

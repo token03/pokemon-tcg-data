@@ -1,0 +1,19 @@
+{
+    "id": "sv1-214",
+    "name": "Greavard",
+    "number": "214",
+    "setId": "sv1",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "4933988"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.04",
+                "psa10": "$57.90",
+                "grade9": "$14.14"
+            }
+        }
+    }
+}

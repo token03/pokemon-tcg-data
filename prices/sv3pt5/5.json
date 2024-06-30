@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-5",
+    "name": "Charmeleon",
+    "number": "5",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809385",
+        "reverse-holo": "5809595"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$37.02",
+                "grade9": "$12.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$21.04",
+                "grade9": "$13.13"
+            }
+        }
+    }
+}

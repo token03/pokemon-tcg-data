@@ -1,0 +1,25 @@
+{
+    "id": "sv1-141",
+    "name": "Varoom",
+    "number": "141",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933915",
+        "reverse-holo": "4934163"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.33",
+                "grade9": "$11.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.08",
+                "psa10": "$34.72",
+                "grade9": "$11.58"
+            }
+        }
+    }
+}

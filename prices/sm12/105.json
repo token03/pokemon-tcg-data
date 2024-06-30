@@ -1,0 +1,25 @@
+{
+    "id": "sm12-105",
+    "name": "Onix",
+    "number": "105",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964343",
+        "reverse-holo": "964605"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.82",
+                "grade9": "$12.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.94",
+                "psa10": "$37.47",
+                "grade9": "$14.19"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-75",
+    "name": "Boltund",
+    "number": "75",
+    "setId": "swsh1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "807030",
+        "reverse-holo": "807031"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$32.15",
+                "grade9": "$6.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$35.53",
+                "grade9": "$12.98"
+            }
+        }
+    }
+}

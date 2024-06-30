@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-54",
+    "name": "Electrike",
+    "number": "54",
+    "setId": "swsh11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4049971",
+        "reverse-holo": "4050185"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "$36.00",
+                "grade9": "$12.24"
+            }
+        }
+    }
+}

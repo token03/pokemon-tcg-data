@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-62",
+    "name": "Hypno",
+    "number": "62",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512873",
+        "reverse-holo": "2513092"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$34.37",
+                "grade9": "$11.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-116",
+    "name": "Castform",
+    "number": "116",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188340",
+        "reverse-holo": "3219463"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.97",
+                "grade9": "$11.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "$36.49",
+                "grade9": "$12.67"
+            }
+        }
+    }
+}

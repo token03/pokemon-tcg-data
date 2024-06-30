@@ -1,0 +1,25 @@
+{
+    "id": "pl2-65",
+    "name": "Houndoom E4",
+    "number": "65",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925461",
+        "reverse-holo": "925580"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$55.89",
+                "grade9": "$13.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": "$38.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy1-47",
+    "name": "Ekans",
+    "number": "47",
+    "setId": "xy1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806545",
+        "reverse-holo": "806669"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.81",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

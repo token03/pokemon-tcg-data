@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-112",
+    "name": "Metagross V",
+    "number": "112",
+    "setId": "swsh6",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2253917"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.68",
+                "psa10": "$26.20",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

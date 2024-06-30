@@ -1,0 +1,19 @@
+{
+    "id": "sv6-178",
+    "name": "Wattrel",
+    "number": "178",
+    "setId": "sv6",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6775626"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

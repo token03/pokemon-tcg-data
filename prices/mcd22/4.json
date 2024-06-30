@@ -1,0 +1,19 @@
+{
+    "id": "mcd22-4",
+    "name": "Growlithe",
+    "number": "4",
+    "setId": "mcd22",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "holo": "3892316"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.85",
+                "psa10": "$36.91",
+                "grade9": "$4.25"
+            }
+        }
+    }
+}

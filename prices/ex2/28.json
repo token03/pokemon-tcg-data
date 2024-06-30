@@ -1,0 +1,25 @@
+{
+    "id": "ex2-28",
+    "name": "Anorith",
+    "number": "28",
+    "setId": "ex2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849216",
+        "reverse-holo": "849316"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$98.61",
+                "grade9": "$32.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.25",
+                "psa10": "$111.01",
+                "grade9": "$18.02"
+            }
+        }
+    }
+}

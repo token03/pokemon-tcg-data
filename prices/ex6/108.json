@@ -1,0 +1,19 @@
+{
+    "id": "ex6-108",
+    "name": "Gengar ex",
+    "number": "108",
+    "setId": "ex6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "850075"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$214.10",
+                "psa10": "$2,897.26",
+                "grade9": "$901.21"
+            }
+        }
+    }
+}

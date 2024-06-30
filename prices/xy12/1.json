@@ -1,0 +1,19 @@
+{
+    "id": "xy12-1",
+    "name": "Venusaur-EX",
+    "number": "1",
+    "setId": "xy12",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "960289"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.49",
+                "psa10": "$32.99",
+                "grade9": "$11.84"
+            }
+        }
+    }
+}

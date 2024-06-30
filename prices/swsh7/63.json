@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-63",
+    "name": "Galarian Articuno",
+    "number": "63",
+    "setId": "swsh7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "2512874",
+        "reverse-holo": "2513093"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.77",
+                "psa10": "$36.91",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "$36.83",
+                "grade9": "$13.04"
+            }
+        }
+    }
+}

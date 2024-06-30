@@ -1,0 +1,25 @@
+{
+    "id": "ex8-50",
+    "name": "Vigoroth",
+    "number": "50",
+    "setId": "ex8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888070",
+        "reverse-holo": "888178"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$93.00",
+                "grade9": "$77.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.50",
+                "psa10": "$98.00",
+                "grade9": "$14.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-22",
+    "name": "Vulpix",
+    "number": "22",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807308",
+        "reverse-holo": "807309"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$33.81",
+                "grade9": "$6.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$36.06",
+                "grade9": "$10.45"
+            }
+        }
+    }
+}

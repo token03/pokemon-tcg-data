@@ -1,0 +1,19 @@
+{
+    "id": "mcd22-5",
+    "name": "Victini",
+    "number": "5",
+    "setId": "mcd22",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "holo": "3892317"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.10",
+                "psa10": "$38.69",
+                "grade9": "$16.14"
+            }
+        }
+    }
+}

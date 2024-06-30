@@ -1,0 +1,25 @@
+{
+    "id": "pl1-41",
+    "name": "Bronzong G",
+    "number": "41",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "805899",
+        "reverse-holo": "805900"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.44",
+                "psa10": "$61.30",
+                "grade9": "$28.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.21",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

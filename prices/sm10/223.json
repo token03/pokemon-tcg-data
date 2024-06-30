@@ -1,0 +1,19 @@
+{
+    "id": "sm10-223",
+    "name": "Honchkrow-GX",
+    "number": "223",
+    "setId": "sm10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963379"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.12",
+                "psa10": "$32.28",
+                "grade9": "$14.22"
+            }
+        }
+    }
+}

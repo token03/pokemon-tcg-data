@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-203",
+    "name": "Blissey",
+    "number": "203",
+    "setId": "swsh8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2771229",
+        "reverse-holo": "2771486"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$34.18",
+                "grade9": "$11.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "$34.81",
+                "grade9": "$12.07"
+            }
+        }
+    }
+}

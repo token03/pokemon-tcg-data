@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-160",
+    "name": "Erika's Invitation",
+    "number": "160",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809542",
+        "reverse-holo": "5809739"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$20.00",
+                "grade9": "$11.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.91",
+                "psa10": "$38.76",
+                "grade9": "$12.65"
+            }
+        }
+    }
+}

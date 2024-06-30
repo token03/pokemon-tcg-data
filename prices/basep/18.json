@@ -1,0 +1,19 @@
+{
+    "id": "basep-18",
+    "name": "Team Rocket's Meowth",
+    "number": "18",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "643549"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.37",
+                "psa10": "$48.78",
+                "grade9": "$18.50"
+            }
+        }
+    }
+}

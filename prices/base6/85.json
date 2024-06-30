@@ -1,0 +1,25 @@
+{
+    "id": "base6-85",
+    "name": "Pidgey",
+    "number": "85",
+    "setId": "base6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842391",
+        "reverse-holo": "2253767"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$21.50",
+                "grade9": "$7.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$39.99",
+                "psa10": "$816.45",
+                "grade9": "$141.19"
+            }
+        }
+    }
+}

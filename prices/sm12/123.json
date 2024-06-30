@@ -1,0 +1,25 @@
+{
+    "id": "sm12-123",
+    "name": "Rockruff",
+    "number": "123",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964361",
+        "reverse-holo": "964622"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "$34.47",
+                "grade9": "$12.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$36.51",
+                "grade9": "$13.65"
+            }
+        }
+    }
+}

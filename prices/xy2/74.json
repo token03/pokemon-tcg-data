@@ -1,0 +1,25 @@
+{
+    "id": "xy2-74",
+    "name": "Goodra",
+    "number": "74",
+    "setId": "xy2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957821",
+        "reverse-holo": "957923"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.46",
+                "psa10": "$41.00",
+                "grade9": "$11.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$38.62",
+                "grade9": "$14.69"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw1-89",
+    "name": "Cinccino",
+    "number": "89",
+    "setId": "bw1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806396",
+        "reverse-holo": "806483"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.29",
+                "psa10": "$84.78",
+                "grade9": "$20.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.77",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

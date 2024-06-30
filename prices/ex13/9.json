@@ -1,0 +1,25 @@
+{
+    "id": "ex13-9",
+    "name": "Kabutops \u03b4",
+    "number": "9",
+    "setId": "ex13",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889089",
+        "reverse-holo": "889200"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.57",
+                "psa10": "$224.59",
+                "grade9": "$45.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.25",
+                "psa10": "$454.68",
+                "grade9": "$94.51"
+            }
+        }
+    }
+}

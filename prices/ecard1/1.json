@@ -1,0 +1,31 @@
+{
+    "id": "ecard1-1",
+    "name": "Alakazam",
+    "number": "1",
+    "setId": "ecard1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842417",
+        "box-topper": "3881287",
+        "reverse-holo": "2266856"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$55.00",
+                "psa10": "$743.62",
+                "grade9": "$191.98"
+            },
+            "box-topper": {
+                "ungraded": "$79.57",
+                "psa10": "$1,099.05",
+                "grade9": "$205.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$25.88",
+                "psa10": "$240.71",
+                "grade9": "$83.64"
+            }
+        }
+    }
+}

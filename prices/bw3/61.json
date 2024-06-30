@@ -1,0 +1,25 @@
+{
+    "id": "bw3-61",
+    "name": "Gigalith",
+    "number": "61",
+    "setId": "bw3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955716",
+        "reverse-holo": "955818"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.09",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

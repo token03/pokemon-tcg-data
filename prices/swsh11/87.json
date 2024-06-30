@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-87",
+    "name": "Machoke",
+    "number": "87",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4050004",
+        "reverse-holo": "4050214"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.80",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "$34.87",
+                "grade9": "$11.82"
+            }
+        }
+    }
+}

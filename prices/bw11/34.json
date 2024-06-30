@@ -1,0 +1,25 @@
+{
+    "id": "bw11-34",
+    "name": "Prinplup",
+    "number": "34",
+    "setId": "bw11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957528",
+        "reverse-holo": "957666"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.22",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

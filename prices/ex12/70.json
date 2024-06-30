@@ -1,0 +1,25 @@
+{
+    "id": "ex12-70",
+    "name": "Wurmple",
+    "number": "70",
+    "setId": "ex12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888952",
+        "reverse-holo": "889045"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$29.00",
+                "grade9": "$26.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.44",
+                "psa10": "$104.17",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

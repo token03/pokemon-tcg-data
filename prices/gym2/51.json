@@ -1,0 +1,25 @@
+{
+    "id": "gym2-51",
+    "name": "Lt. Surge's Eevee",
+    "number": "51",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762257",
+        "1st-edition": "1450245"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.49",
+                "psa10": "$51.73",
+                "grade9": "$29.99"
+            },
+            "1st-edition": {
+                "ungraded": "$7.79",
+                "psa10": "$71.85",
+                "grade9": "$29.22"
+            }
+        }
+    }
+}

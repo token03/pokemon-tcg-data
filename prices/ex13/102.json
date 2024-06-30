@@ -1,0 +1,19 @@
+{
+    "id": "ex13-102",
+    "name": "Gyarados \u2605 \u03b4",
+    "number": "102",
+    "setId": "ex13",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "889182"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$370.00",
+                "psa10": "$12,333.16",
+                "grade9": "$3,125.11"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp3-44",
+    "name": "Xatu",
+    "number": "44",
+    "setId": "dp3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920934",
+        "reverse-holo": "921066"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$49.42",
+                "grade9": "$17.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.52",
+                "psa10": "",
+                "grade9": "$12.23"
+            }
+        }
+    }
+}

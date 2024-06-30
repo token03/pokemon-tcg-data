@@ -1,0 +1,19 @@
+{
+    "id": "sm4-105",
+    "name": "Guzzlord-GX",
+    "number": "105",
+    "setId": "sm4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961251"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.02",
+                "psa10": "$31.54",
+                "grade9": "$20.77"
+            }
+        }
+    }
+}

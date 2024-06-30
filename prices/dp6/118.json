@@ -1,0 +1,25 @@
+{
+    "id": "dp6-118",
+    "name": "Shinx",
+    "number": "118",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925049",
+        "reverse-holo": "925192"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$59.81",
+                "grade9": "$22.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.03",
+                "psa10": "",
+                "grade9": "$21.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-128",
+    "name": "Magearna",
+    "number": "128",
+    "setId": "swsh11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4050045",
+        "reverse-holo": "4050251"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$35.04",
+                "grade9": "$11.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$34.37",
+                "grade9": "$11.63"
+            }
+        }
+    }
+}

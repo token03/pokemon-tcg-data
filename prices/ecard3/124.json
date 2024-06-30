@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-124",
+    "name": "Fast Ball",
+    "number": "124",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842774",
+        "reverse-holo": "2252723"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.39",
+                "psa10": "$24.99",
+                "grade9": "$24.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.43",
+                "psa10": "$53.21",
+                "grade9": "$33.30"
+            }
+        }
+    }
+}

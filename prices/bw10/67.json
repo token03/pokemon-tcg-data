@@ -1,0 +1,25 @@
+{
+    "id": "bw10-67",
+    "name": "Axew",
+    "number": "67",
+    "setId": "bw10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957369",
+        "reverse-holo": "957468"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

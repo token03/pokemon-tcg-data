@@ -1,0 +1,25 @@
+{
+    "id": "xy6-8",
+    "name": "Dustox",
+    "number": "8",
+    "setId": "xy6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958831",
+        "reverse-holo": "958941"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$38.68",
+                "grade9": "$14.98"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.67",
+                "psa10": "$45.44",
+                "grade9": "$18.86"
+            }
+        }
+    }
+}

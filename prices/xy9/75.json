@@ -1,0 +1,25 @@
+{
+    "id": "xy9-75",
+    "name": "Pangoro",
+    "number": "75",
+    "setId": "xy9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959566",
+        "reverse-holo": "959679"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.92",
+                "psa10": "$34.73",
+                "grade9": "$12.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$35.72",
+                "grade9": "$5.10"
+            }
+        }
+    }
+}

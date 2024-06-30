@@ -1,0 +1,25 @@
+{
+    "id": "sm115-34",
+    "name": "Graveler",
+    "number": "34",
+    "setId": "sm115",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964054",
+        "reverse-holo": "964211"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$45.00",
+                "grade9": "$12.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$36.28",
+                "grade9": "$5.00"
+            }
+        }
+    }
+}

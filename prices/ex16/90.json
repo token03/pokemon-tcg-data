@@ -1,0 +1,25 @@
+{
+    "id": "ex16-90",
+    "name": "Cyclone Energy",
+    "number": "90",
+    "setId": "ex16",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889754",
+        "reverse-holo": "889861"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.25",
+                "psa10": "$31.11",
+                "grade9": "$25.32"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "gym2-72",
+    "name": "Giovanni's Machop",
+    "number": "72",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762278",
+        "1st-edition": "1450266"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$29.37",
+                "grade9": "$13.77"
+            },
+            "1st-edition": {
+                "ungraded": "$3.44",
+                "psa10": "$40.50",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

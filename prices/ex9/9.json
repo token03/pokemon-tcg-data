@@ -1,0 +1,25 @@
+{
+    "id": "ex9-9",
+    "name": "Rayquaza",
+    "number": "9",
+    "setId": "ex9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888234",
+        "reverse-holo": "888341"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.27",
+                "psa10": "$574.31",
+                "grade9": "$88.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$49.75",
+                "psa10": "$1,314.58",
+                "grade9": "$552.42"
+            }
+        }
+    }
+}

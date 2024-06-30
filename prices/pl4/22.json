@@ -1,0 +1,25 @@
+{
+    "id": "pl4-22",
+    "name": "Manectric",
+    "number": "22",
+    "setId": "pl4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925641",
+        "reverse-holo": "925752"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

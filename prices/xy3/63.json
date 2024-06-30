@@ -1,0 +1,31 @@
+{
+    "id": "xy3-63",
+    "name": "Hawlucha",
+    "number": "63",
+    "setId": "xy3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "cosmos-holo": "4832657",
+        "holo": "958046",
+        "reverse-holo": "958154"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "cosmos-holo": {
+                "ungraded": "$1.78",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.56",
+                "psa10": "$99.95",
+                "grade9": "$15.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

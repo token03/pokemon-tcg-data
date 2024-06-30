@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-68",
+    "name": "Venusaur",
+    "number": "68",
+    "setId": "ecard1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887913",
+        "reverse-holo": "2266921"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.60",
+                "psa10": "$62.28",
+                "grade9": "$26.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.99",
+                "psa10": "$235.69",
+                "grade9": "$53.28"
+            }
+        }
+    }
+}

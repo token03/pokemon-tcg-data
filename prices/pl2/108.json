@@ -1,0 +1,19 @@
+{
+    "id": "pl2-108",
+    "name": "Infernape E4 LV.X",
+    "number": "108",
+    "setId": "pl2",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925504"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.72",
+                "psa10": "$1,400.00",
+                "grade9": ""
+            }
+        }
+    }
+}

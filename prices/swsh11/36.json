@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-36",
+    "name": "Seadra",
+    "number": "36",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4049953",
+        "reverse-holo": "4050169"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.12",
+                "grade9": "$11.54"
+            }
+        }
+    }
+}

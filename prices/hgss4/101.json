@@ -1,0 +1,19 @@
+{
+    "id": "hgss4-101",
+    "name": "Palkia & Dialga LEGEND",
+    "number": "101",
+    "setId": "hgss4",
+    "rarity": "LEGEND",
+    "priceChartingIds": {
+        "normal": "926158"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$34.50",
+                "psa10": "$292.95",
+                "grade9": "$75.72"
+            }
+        }
+    }
+}

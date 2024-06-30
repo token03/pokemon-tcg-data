@@ -1,0 +1,25 @@
+{
+    "id": "xy7-12",
+    "name": "Virizion",
+    "number": "12",
+    "setId": "xy7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959031",
+        "reverse-holo": "959128"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$49.95",
+                "grade9": "$20.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$37.37",
+                "grade9": "$14.27"
+            }
+        }
+    }
+}

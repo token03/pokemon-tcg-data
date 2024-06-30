@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-18",
+    "name": "Gogoat",
+    "number": "18",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887574",
+        "reverse-holo": "887754"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$15.00",
+                "grade9": "$7.00"
+            }
+        }
+    }
+}

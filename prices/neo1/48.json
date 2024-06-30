@@ -1,0 +1,25 @@
+{
+    "id": "neo1-48",
+    "name": "Seadra",
+    "number": "48",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762364",
+        "1st-edition": "2324913"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$42.00",
+                "grade9": "$22.18"
+            },
+            "1st-edition": {
+                "ungraded": "$3.63",
+                "psa10": "$45.49",
+                "grade9": "$17.13"
+            }
+        }
+    }
+}

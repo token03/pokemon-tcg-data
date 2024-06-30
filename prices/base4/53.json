@@ -1,0 +1,19 @@
+{
+    "id": "base4-53",
+    "name": "Nidorina",
+    "number": "53",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641856"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$47.90",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

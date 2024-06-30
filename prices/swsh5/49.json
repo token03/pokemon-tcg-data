@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-49",
+    "name": "Pachirisu",
+    "number": "49",
+    "setId": "swsh5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1673229",
+        "reverse-holo": "1725032"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.80",
+                "grade9": "$11.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$35.22",
+                "grade9": "$12.48"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "base2-28",
+    "name": "Vaporeon",
+    "number": "28",
+    "setId": "base2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1099568",
+        "1st-edition": "1099584"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.32",
+                "psa10": "$75.88",
+                "grade9": "$24.35"
+            },
+            "1st-edition": {
+                "ungraded": "$10.55",
+                "psa10": "$234.70",
+                "grade9": "$55.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv1-204",
+    "name": "Slowpoke",
+    "number": "204",
+    "setId": "sv1",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "4933978"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.50",
+                "psa10": "$78.00",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

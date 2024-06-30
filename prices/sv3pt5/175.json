@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-175",
+    "name": "Psyduck",
+    "number": "175",
+    "setId": "sv3pt5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5809556"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.78",
+                "psa10": "$57.86",
+                "grade9": "$19.50"
+            }
+        }
+    }
+}

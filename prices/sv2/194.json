@@ -1,0 +1,19 @@
+{
+    "id": "sv2-194",
+    "name": "Heracross",
+    "number": "194",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287483"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.28",
+                "psa10": "$149.99",
+                "grade9": "$20.24"
+            }
+        }
+    }
+}

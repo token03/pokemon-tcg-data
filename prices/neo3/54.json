@@ -1,0 +1,25 @@
+{
+    "id": "neo3-54",
+    "name": "Smoochum",
+    "number": "54",
+    "setId": "neo3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762540",
+        "1st-edition": "2427445"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.28",
+                "psa10": "$46.90",
+                "grade9": "$19.35"
+            },
+            "1st-edition": {
+                "ungraded": "$2.98",
+                "psa10": "$60.25",
+                "grade9": "$14.07"
+            }
+        }
+    }
+}

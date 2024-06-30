@@ -1,0 +1,25 @@
+{
+    "id": "ex12-52",
+    "name": "Gastly",
+    "number": "52",
+    "setId": "ex12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888934",
+        "reverse-holo": "889027"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.71",
+                "psa10": "$44.00",
+                "grade9": "$37.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.99",
+                "psa10": "$104.31",
+                "grade9": "$41.74"
+            }
+        }
+    }
+}

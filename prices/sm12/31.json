@@ -1,0 +1,25 @@
+{
+    "id": "sm12-31",
+    "name": "Tepig",
+    "number": "31",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964269",
+        "reverse-holo": "964537"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "$34.12",
+                "grade9": "$12.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.51",
+                "psa10": "$35.82",
+                "grade9": "$13.26"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "gym2-57",
+    "name": "Sabrina's Jynx",
+    "number": "57",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762263",
+        "1st-edition": "1450251"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.55",
+                "psa10": "$49.31",
+                "grade9": "$16.96"
+            },
+            "1st-edition": {
+                "ungraded": "$3.50",
+                "psa10": "$59.50",
+                "grade9": "$23.84"
+            }
+        }
+    }
+}

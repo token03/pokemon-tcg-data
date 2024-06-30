@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-121",
+    "name": "Meowth",
+    "number": "121",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842495",
+        "reverse-holo": "2266974"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$45.11",
+                "grade9": "$17.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.70",
+                "psa10": "$379.67",
+                "grade9": "$30.72"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl4-40",
+    "name": "Gulpin",
+    "number": "40",
+    "setId": "pl4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925659",
+        "reverse-holo": "925770"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.23",
+                "psa10": "",
+                "grade9": "$20.43"
+            }
+        }
+    }
+}

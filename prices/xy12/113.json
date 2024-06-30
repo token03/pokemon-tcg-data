@@ -1,0 +1,19 @@
+{
+    "id": "xy12-113",
+    "name": "Here Comes Team Rocket!",
+    "number": "113",
+    "setId": "xy12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960392"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$17.95",
+                "grade9": "$12.85"
+            }
+        }
+    }
+}

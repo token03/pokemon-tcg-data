@@ -1,0 +1,25 @@
+{
+    "id": "neo4-15",
+    "name": "Light Togetic",
+    "number": "15",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762617",
+        "1st-edition": "2183357"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$28.80",
+                "psa10": "$1,667.33",
+                "grade9": "$86.28"
+            },
+            "1st-edition": {
+                "ungraded": "$121.52",
+                "psa10": "$1,610.85",
+                "grade9": "$219.50"
+            }
+        }
+    }
+}

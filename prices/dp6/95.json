@@ -1,0 +1,25 @@
+{
+    "id": "dp6-95",
+    "name": "Gligar",
+    "number": "95",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925026",
+        "reverse-holo": "925171"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.02",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

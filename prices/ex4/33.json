@@ -1,0 +1,25 @@
+{
+    "id": "ex4-33",
+    "name": "Team Magma's Claydol",
+    "number": "33",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849602",
+        "reverse-holo": "849699"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$73.39",
+                "grade9": "$45.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.60",
+                "psa10": "$162.77",
+                "grade9": "$34.39"
+            }
+        }
+    }
+}

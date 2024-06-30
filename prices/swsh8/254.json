@@ -1,0 +1,19 @@
+{
+    "id": "swsh8-254",
+    "name": "Genesect V",
+    "number": "254",
+    "setId": "swsh8",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2771280"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.13",
+                "psa10": "$25.00",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm12-114",
+    "name": "Drilbur",
+    "number": "114",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964352",
+        "reverse-holo": "964613"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.86",
+                "psa10": "",
+                "grade9": "$10.05"
+            }
+        }
+    }
+}

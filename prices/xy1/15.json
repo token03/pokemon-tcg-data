@@ -1,0 +1,25 @@
+{
+    "id": "xy1-15",
+    "name": "Scatterbug",
+    "number": "15",
+    "setId": "xy1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806512",
+        "reverse-holo": "806637"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.33",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

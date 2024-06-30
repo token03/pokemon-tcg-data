@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-76",
+    "name": "Electabuzz",
+    "number": "76",
+    "setId": "ecard1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842454",
+        "reverse-holo": "2266929"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.89",
+                "psa10": "$40.10",
+                "grade9": "$29.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.10",
+                "psa10": "$113.50",
+                "grade9": "$41.75"
+            }
+        }
+    }
+}

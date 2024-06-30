@@ -1,0 +1,25 @@
+{
+    "id": "ex2-31",
+    "name": "Azurill",
+    "number": "31",
+    "setId": "ex2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849219",
+        "reverse-holo": "849319"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.15",
+                "psa10": "$39.99",
+                "grade9": "$38.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.87",
+                "psa10": "$251.08",
+                "grade9": "$51.50"
+            }
+        }
+    }
+}

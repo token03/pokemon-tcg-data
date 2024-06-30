@@ -1,0 +1,25 @@
+{
+    "id": "dc1-17",
+    "name": "Team Magma's Poochyena",
+    "number": "17",
+    "setId": "dc1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958770",
+        "reverse-holo": "2978725"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$39.32",
+                "grade9": "$9.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo4-106",
+    "name": "Shining Celebi",
+    "number": "106",
+    "setId": "neo4",
+    "rarity": "Rare Shining",
+    "priceChartingIds": {
+        "normal": "762637",
+        "1st-edition": "2183377"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$211.39",
+                "psa10": "$685.39",
+                "grade9": "$323.52"
+            },
+            "1st-edition": {
+                "ungraded": "$382.66",
+                "psa10": "$1,577.50",
+                "grade9": "$593.09"
+            }
+        }
+    }
+}

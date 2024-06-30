@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-152",
+    "name": "Hero's Medal",
+    "number": "152",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2158266",
+        "reverse-holo": "2674699"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$14.72",
+                "grade9": "$8.80"
+            }
+        }
+    }
+}

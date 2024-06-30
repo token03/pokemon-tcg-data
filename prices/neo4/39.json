@@ -1,0 +1,25 @@
+{
+    "id": "neo4-39",
+    "name": "Dark Quilava",
+    "number": "39",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762576",
+        "1st-edition": "2183316"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.13",
+                "psa10": "$37.48",
+                "grade9": "$18.50"
+            },
+            "1st-edition": {
+                "ungraded": "$9.80",
+                "psa10": "$96.87",
+                "grade9": "$31.67"
+            }
+        }
+    }
+}

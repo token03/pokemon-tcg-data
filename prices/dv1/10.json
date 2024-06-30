@@ -1,0 +1,25 @@
+{
+    "id": "dv1-10",
+    "name": "Latios",
+    "number": "10",
+    "setId": "dv1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956503",
+        "stamped": "4997891"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$71.37",
+                "grade9": "$25.95"
+            },
+            "stamped": {
+                "ungraded": "$4.54",
+                "psa10": "",
+                "grade9": "$39.69"
+            }
+        }
+    }
+}

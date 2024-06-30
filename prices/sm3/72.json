@@ -1,0 +1,25 @@
+{
+    "id": "sm3-72",
+    "name": "Sawk",
+    "number": "72",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960856",
+        "reverse-holo": "961018"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$14.25",
+                "grade9": "$13.98"
+            }
+        }
+    }
+}

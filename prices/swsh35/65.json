@@ -1,0 +1,25 @@
+{
+    "id": "swsh35-65",
+    "name": "Sonia",
+    "number": "65",
+    "setId": "swsh35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887492",
+        "reverse-holo": "836995"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "$31.90",
+                "grade9": "$10.96"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$24.51",
+                "grade9": "$10.32"
+            }
+        }
+    }
+}

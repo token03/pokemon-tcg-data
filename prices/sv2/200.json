@@ -1,0 +1,19 @@
+{
+    "id": "sv2-200",
+    "name": "Pyroar",
+    "number": "200",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287489"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.63",
+                "psa10": "$94.98",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

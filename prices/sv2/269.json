@@ -1,0 +1,19 @@
+{
+    "id": "sv2-269",
+    "name": "Iono",
+    "number": "269",
+    "setId": "sv2",
+    "rarity": "Special Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287558"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$70.14",
+                "psa10": "$175.00",
+                "grade9": "$72.00"
+            }
+        }
+    }
+}

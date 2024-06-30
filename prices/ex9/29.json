@@ -1,0 +1,25 @@
+{
+    "id": "ex9-29",
+    "name": "Grumpig",
+    "number": "29",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888254",
+        "reverse-holo": "888361"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.38",
+                "psa10": "$92.50",
+                "grade9": "$20.18"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.11",
+                "psa10": "$156.25",
+                "grade9": "$21.74"
+            }
+        }
+    }
+}

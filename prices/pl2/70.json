@@ -1,0 +1,25 @@
+{
+    "id": "pl2-70",
+    "name": "Munchlax",
+    "number": "70",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925466",
+        "reverse-holo": "925585"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.52",
+                "psa10": "$63.74",
+                "grade9": "$24.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.66",
+                "psa10": "$90.82",
+                "grade9": "$56.88"
+            }
+        }
+    }
+}

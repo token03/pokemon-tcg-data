@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-7",
+    "name": "Pansage",
+    "number": "7",
+    "setId": "swsh8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2771036",
+        "reverse-holo": "2771316"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.44",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$34.69",
+                "grade9": "$12.02"
+            }
+        }
+    }
+}

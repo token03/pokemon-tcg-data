@@ -1,0 +1,25 @@
+{
+    "id": "base2-39",
+    "name": "Marowak",
+    "number": "39",
+    "setId": "base2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643316",
+        "1st-edition": "643364"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$40.50",
+                "grade9": "$18.50"
+            },
+            "1st-edition": {
+                "ungraded": "$2.00",
+                "psa10": "$87.59",
+                "grade9": "$19.50"
+            }
+        }
+    }
+}

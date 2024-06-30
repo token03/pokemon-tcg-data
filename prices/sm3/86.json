@@ -1,0 +1,25 @@
+{
+    "id": "sm3-86",
+    "name": "Weavile",
+    "number": "86",
+    "setId": "sm3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960870",
+        "reverse-holo": "961030"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$36.20",
+                "grade9": "$13.73"
+            }
+        }
+    }
+}

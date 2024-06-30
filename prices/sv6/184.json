@@ -1,0 +1,19 @@
+{
+    "id": "sv6-184",
+    "name": "Lairon",
+    "number": "184",
+    "setId": "sv6",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6775702"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.45",
+                "psa10": "$48.86",
+                "grade9": "$16.50"
+            }
+        }
+    }
+}

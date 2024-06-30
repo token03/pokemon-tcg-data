@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-169",
+    "name": "Galarian Darmanitan V",
+    "number": "169",
+    "setId": "swsh4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887708"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.52",
+                "psa10": "$13.61",
+                "grade9": "$12.53"
+            }
+        }
+    }
+}

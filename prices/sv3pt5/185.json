@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-185",
+    "name": "Arbok ex",
+    "number": "185",
+    "setId": "sv3pt5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5809568"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.49",
+                "psa10": "$28.73",
+                "grade9": "$14.05"
+            }
+        }
+    }
+}

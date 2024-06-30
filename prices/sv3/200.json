@@ -1,0 +1,19 @@
+{
+    "id": "sv3-200",
+    "name": "Palafin",
+    "number": "200",
+    "setId": "sv3",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5605718"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.80",
+                "psa10": "$45.62",
+                "grade9": "$11.38"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ex12-92",
+    "name": "Registeel \u2605",
+    "number": "92",
+    "setId": "ex12",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "888974"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$191.41",
+                "psa10": "$2,247.92",
+                "grade9": "$700.00"
+            }
+        }
+    }
+}

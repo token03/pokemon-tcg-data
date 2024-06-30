@@ -1,0 +1,31 @@
+{
+    "id": "swsh8-148",
+    "name": "Landorus",
+    "number": "148",
+    "setId": "swsh8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "cosmos-holo": "4566856",
+        "holo": "2771177",
+        "reverse-holo": "2771437"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "cosmos-holo": {
+                "ungraded": "$2.61",
+                "psa10": "$40.29",
+                "grade9": "$14.43"
+            },
+            "holo": {
+                "ungraded": "$1.46",
+                "psa10": "$35.76",
+                "grade9": "$12.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "$36.74",
+                "grade9": "$12.90"
+            }
+        }
+    }
+}

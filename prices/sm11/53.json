@@ -1,0 +1,25 @@
+{
+    "id": "sm11-53",
+    "name": "Tapu Fini",
+    "number": "53",
+    "setId": "sm11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963619",
+        "reverse-holo": "963873"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.32",
+                "grade9": "$12.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.86",
+                "psa10": "$37.18",
+                "grade9": "$6.50"
+            }
+        }
+    }
+}

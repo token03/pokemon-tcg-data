@@ -1,0 +1,19 @@
+{
+    "id": "pop1-14",
+    "name": "Surskit",
+    "number": "14",
+    "setId": "pop1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762679"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.22",
+                "psa10": "$39.99",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy5-111",
+    "name": "Zigzagoon",
+    "number": "111",
+    "setId": "xy5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958568",
+        "reverse-holo": "958719"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$37.35",
+                "grade9": "$14.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.35",
+                "psa10": "$38.07",
+                "grade9": "$14.58"
+            }
+        }
+    }
+}

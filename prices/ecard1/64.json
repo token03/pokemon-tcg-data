@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-64",
+    "name": "Typhlosion",
+    "number": "64",
+    "setId": "ecard1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887909",
+        "reverse-holo": "2266917"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.39",
+                "psa10": "$51.00",
+                "grade9": "$38.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.64",
+                "psa10": "$146.41",
+                "grade9": "$52.92"
+            }
+        }
+    }
+}

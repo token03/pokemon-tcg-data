@@ -1,0 +1,25 @@
+{
+    "id": "sm4-20",
+    "name": "Piloswine",
+    "number": "20",
+    "setId": "sm4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961167",
+        "reverse-holo": "961289"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.31",
+                "grade9": "$12.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

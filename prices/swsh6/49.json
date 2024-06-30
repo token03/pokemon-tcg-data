@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-49",
+    "name": "Ampharos",
+    "number": "49",
+    "setId": "swsh6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2253855",
+        "reverse-holo": "2254078"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$34.42",
+                "grade9": "$12.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.11",
+                "psa10": "$34.22",
+                "grade9": "$11.94"
+            }
+        }
+    }
+}

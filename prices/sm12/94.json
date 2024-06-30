@@ -1,0 +1,25 @@
+{
+    "id": "sm12-94",
+    "name": "Trevenant",
+    "number": "94",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964332",
+        "reverse-holo": "964595"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$34.78",
+                "grade9": "$12.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.41",
+                "psa10": "$35.43",
+                "grade9": "$13.04"
+            }
+        }
+    }
+}

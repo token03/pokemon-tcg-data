@@ -1,0 +1,25 @@
+{
+    "id": "sm8-143",
+    "name": "Carbink",
+    "number": "143",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962531",
+        "reverse-holo": "962754"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.81",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.08",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

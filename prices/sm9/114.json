@@ -1,0 +1,25 @@
+{
+    "id": "sm9-114",
+    "name": "Alolan Exeggutor",
+    "number": "114",
+    "setId": "sm9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962912",
+        "reverse-holo": "963096"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$15.00",
+                "grade9": "$12.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "$37.18",
+                "grade9": "$14.16"
+            }
+        }
+    }
+}

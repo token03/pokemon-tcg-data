@@ -1,0 +1,25 @@
+{
+    "id": "sm11-19",
+    "name": "Tsareena",
+    "number": "19",
+    "setId": "sm11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963585",
+        "reverse-holo": "963842"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "$21.01",
+                "grade9": "$14.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

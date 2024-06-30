@@ -1,0 +1,19 @@
+{
+    "id": "sv4-155",
+    "name": "Maushold ex",
+    "number": "155",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952993"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.99",
+                "psa10": "$39.25",
+                "grade9": "$12.73"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "mcd21-19",
+    "name": "Mudkip",
+    "number": "19",
+    "setId": "mcd21",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1317302",
+        "holo": "1317327"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$30.75",
+                "grade9": "$13.07"
+            },
+            "holo": {
+                "ungraded": "$3.09",
+                "psa10": "$27.19",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

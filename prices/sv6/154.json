@@ -1,0 +1,25 @@
+{
+    "id": "sv6-154",
+    "name": "Kieran",
+    "number": "154",
+    "setId": "sv6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6769634",
+        "reverse-holo": "6769847"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$35.69",
+                "grade9": "$11.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$38.41",
+                "grade9": "$12.20"
+            }
+        }
+    }
+}

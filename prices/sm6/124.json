@@ -1,0 +1,19 @@
+{
+    "id": "sm6-124",
+    "name": "Yveltal-GX",
+    "number": "124",
+    "setId": "sm6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961787"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.99",
+                "psa10": "$68.47",
+                "grade9": "$26.91"
+            }
+        }
+    }
+}

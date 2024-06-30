@@ -1,0 +1,19 @@
+{
+    "id": "xy6-109",
+    "name": "Energy Switch",
+    "number": "109",
+    "setId": "xy6",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "958932"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.53",
+                "psa10": "$85.14",
+                "grade9": "$28.19"
+            }
+        }
+    }
+}

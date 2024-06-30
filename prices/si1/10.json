@@ -1,0 +1,19 @@
+{
+    "id": "si1-10",
+    "name": "Tentacruel",
+    "number": "10",
+    "setId": "si1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762475"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.99",
+                "psa10": "$49.59",
+                "grade9": "$30.56"
+            }
+        }
+    }
+}

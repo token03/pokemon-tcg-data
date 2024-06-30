@@ -1,0 +1,19 @@
+{
+    "id": "sm4-114",
+    "name": "Nihilego-GX",
+    "number": "114",
+    "setId": "sm4",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961258"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.06",
+                "psa10": "$41.00",
+                "grade9": "$16.49"
+            }
+        }
+    }
+}

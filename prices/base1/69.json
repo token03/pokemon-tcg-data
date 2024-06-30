@@ -1,0 +1,31 @@
+{
+    "id": "base1-69",
+    "name": "Weedle",
+    "number": "69",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630482",
+        "1st-edition": "715658",
+        "shadowless": "715760"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$42.95",
+                "grade9": "$19.50"
+            },
+            "1st-edition": {
+                "ungraded": "$29.00",
+                "psa10": "$251.39",
+                "grade9": "$48.50"
+            },
+            "shadowless": {
+                "ungraded": "$1.46",
+                "psa10": "$48.99",
+                "grade9": "$17.75"
+            }
+        }
+    }
+}

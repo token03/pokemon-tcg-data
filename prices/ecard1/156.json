@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-156",
+    "name": "Potion",
+    "number": "156",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842528",
+        "reverse-holo": "2267009"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "$26.00",
+                "grade9": "$21.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$69.00",
+                "grade9": "$24.50"
+            }
+        }
+    }
+}

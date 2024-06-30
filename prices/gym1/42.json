@@ -1,0 +1,25 @@
+{
+    "id": "gym1-42",
+    "name": "Erika's Dratini",
+    "number": "42",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762162",
+        "1st-edition": "2156476"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$69.95",
+                "grade9": "$23.49"
+            },
+            "1st-edition": {
+                "ungraded": "$5.45",
+                "psa10": "$132.34",
+                "grade9": "$27.65"
+            }
+        }
+    }
+}

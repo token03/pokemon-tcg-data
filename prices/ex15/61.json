@@ -1,0 +1,25 @@
+{
+    "id": "ex15-61",
+    "name": "Ralts \u03b4",
+    "number": "61",
+    "setId": "ex15",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889535",
+        "reverse-holo": "889636"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.23",
+                "psa10": "$69.59",
+                "grade9": "$12.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.50",
+                "psa10": "$97.85",
+                "grade9": "$31.43"
+            }
+        }
+    }
+}

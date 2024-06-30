@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-124",
+    "name": "Energy Recycler",
+    "number": "124",
+    "setId": "swsh5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1673304",
+        "reverse-holo": "1725092"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "$35.53",
+                "grade9": "$12.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$38.91",
+                "grade9": "$14.23"
+            }
+        }
+    }
+}

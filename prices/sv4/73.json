@@ -1,0 +1,25 @@
+{
+    "id": "sv4-73",
+    "name": "Latios",
+    "number": "73",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5982147",
+        "reverse-holo": "5953171"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": "$8.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$25.00",
+                "grade9": "$11.70"
+            }
+        }
+    }
+}

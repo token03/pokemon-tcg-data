@@ -1,0 +1,19 @@
+{
+    "id": "sm12-253",
+    "name": "Blastoise & Piplup-GX",
+    "number": "253",
+    "setId": "sm12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "964491"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$43.72",
+                "psa10": "$113.46",
+                "grade9": "$46.75"
+            }
+        }
+    }
+}

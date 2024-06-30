@@ -1,0 +1,25 @@
+{
+    "id": "gym1-74",
+    "name": "Brock's Zubat",
+    "number": "74",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886553",
+        "1st-edition": "2156511"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$51.58",
+                "grade9": "$16.45"
+            },
+            "1st-edition": {
+                "ungraded": "$2.69",
+                "psa10": "$44.60",
+                "grade9": "$14.35"
+            }
+        }
+    }
+}

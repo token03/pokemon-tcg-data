@@ -1,0 +1,19 @@
+{
+    "id": "pop3-11",
+    "name": "Low Pressure System",
+    "number": "11",
+    "setId": "pop3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762723"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.10",
+                "psa10": "$39.99",
+                "grade9": ""
+            }
+        }
+    }
+}

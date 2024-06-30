@@ -1,0 +1,25 @@
+{
+    "id": "xy7-21",
+    "name": "Gyarados",
+    "number": "21",
+    "setId": "xy7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959040",
+        "reverse-holo": "959137"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.90",
+                "psa10": "$280.18",
+                "grade9": "$44.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.74",
+                "psa10": "$222.50",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

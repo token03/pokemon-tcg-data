@@ -1,0 +1,31 @@
+{
+    "id": "sm7-95",
+    "name": "Metagross",
+    "number": "95",
+    "setId": "sm7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962009",
+        "league-promo": "4990416",
+        "reverse-holo": "962181"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$47.47",
+                "grade9": "$9.50"
+            },
+            "league-promo": {
+                "ungraded": "$2.47",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.70",
+                "psa10": "$40.99",
+                "grade9": "$16.51"
+            }
+        }
+    }
+}

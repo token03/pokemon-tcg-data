@@ -1,0 +1,25 @@
+{
+    "id": "sm1-18",
+    "name": "Bounsweet",
+    "number": "18",
+    "setId": "sm1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806767",
+        "reverse-holo": "806900"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$11.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "$15.75",
+                "grade9": "$14.62"
+            }
+        }
+    }
+}

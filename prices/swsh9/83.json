@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-83",
+    "name": "Golurk",
+    "number": "83",
+    "setId": "swsh9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3188307",
+        "reverse-holo": "3219437"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.41",
+                "grade9": "$11.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$34.49",
+                "grade9": "$11.84"
+            }
+        }
+    }
+}

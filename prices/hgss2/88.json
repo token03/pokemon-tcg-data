@@ -1,0 +1,19 @@
+{
+    "id": "hgss2-88",
+    "name": "Tyranitar",
+    "number": "88",
+    "setId": "hgss2",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "1287430"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.46",
+                "psa10": "$1,450.37",
+                "grade9": "$119.98"
+            }
+        }
+    }
+}

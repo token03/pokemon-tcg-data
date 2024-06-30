@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-10",
+    "name": "Entei",
+    "number": "10",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842539",
+        "reverse-holo": "2293901"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.75",
+                "psa10": "$129.99",
+                "grade9": "$32.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$25.32",
+                "psa10": "$246.25",
+                "grade9": "$58.32"
+            }
+        }
+    }
+}

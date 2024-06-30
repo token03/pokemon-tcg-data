@@ -1,0 +1,25 @@
+{
+    "id": "gym2-118",
+    "name": "Misty's Tears",
+    "number": "118",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762314",
+        "1st-edition": "1450312"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.00",
+                "psa10": "$182.50",
+                "grade9": "$37.41"
+            },
+            "1st-edition": {
+                "ungraded": "$17.68",
+                "psa10": "$226.32",
+                "grade9": "$48.30"
+            }
+        }
+    }
+}

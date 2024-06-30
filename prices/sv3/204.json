@@ -1,0 +1,19 @@
+{
+    "id": "sv3-204",
+    "name": "Houndour",
+    "number": "204",
+    "setId": "sv3",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5605722"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.77",
+                "psa10": "$43.49",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

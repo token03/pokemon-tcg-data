@@ -1,0 +1,37 @@
+{
+    "id": "g1-26",
+    "name": "Pikachu",
+    "number": "26",
+    "setId": "g1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959738",
+        "reverse-holo": "2978673",
+        "stamped": "6021834",
+        "toys-r-us": "3102598"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.56",
+                "psa10": "$34.22",
+                "grade9": "$28.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.91",
+                "psa10": "$126.44",
+                "grade9": "$15.38"
+            },
+            "stamped": {
+                "ungraded": "$11.22",
+                "psa10": "",
+                "grade9": "$36.89"
+            },
+            "toys-r-us": {
+                "ungraded": "$19.99",
+                "psa10": "$258.75",
+                "grade9": "$48.50"
+            }
+        }
+    }
+}

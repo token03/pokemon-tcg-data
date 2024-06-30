@@ -1,0 +1,19 @@
+{
+    "id": "sv6-220",
+    "name": "Perrin",
+    "number": "220",
+    "setId": "sv6",
+    "rarity": "Special Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6775737"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$70.00",
+                "psa10": "$401.24",
+                "grade9": "$75.00"
+            }
+        }
+    }
+}

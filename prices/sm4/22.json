@@ -1,0 +1,25 @@
+{
+    "id": "sm4-22",
+    "name": "Remoraid",
+    "number": "22",
+    "setId": "sm4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961169",
+        "reverse-holo": "961291"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$34.58",
+                "grade9": "$12.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sv2-13",
+    "name": "Sprigatito",
+    "number": "13",
+    "setId": "sv2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5287302",
+        "holo": "5571362",
+        "reverse-holo": "5287580"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.13",
+                "psa10": "$35.62",
+                "grade9": "$11.80"
+            },
+            "holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.57",
+                "grade9": "$5.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$36.64",
+                "grade9": "$12.13"
+            }
+        }
+    }
+}

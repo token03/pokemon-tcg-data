@@ -1,0 +1,25 @@
+{
+    "id": "sv5-151",
+    "name": "Heavy Baton",
+    "number": "151",
+    "setId": "sv5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6495611",
+        "reverse-holo": "6495815"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$36.06",
+                "grade9": "$11.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$36.89",
+                "grade9": "$11.87"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm12-242",
+    "name": "Magnemite",
+    "number": "242",
+    "setId": "sm12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "964480"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.39",
+                "psa10": "$36.54",
+                "grade9": "$12.35"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-154",
+    "name": "Rescue Carrier",
+    "number": "154",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512965",
+        "reverse-holo": "2513168"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$35.35",
+                "grade9": "$12.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.64",
+                "psa10": "$36.40",
+                "grade9": "$12.85"
+            }
+        }
+    }
+}

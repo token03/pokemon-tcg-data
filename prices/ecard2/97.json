@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-97",
+    "name": "Oddish",
+    "number": "97",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842617",
+        "reverse-holo": "2293988"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.11",
+                "psa10": "$78.46",
+                "grade9": "$27.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.09",
+                "psa10": "$396.78",
+                "grade9": "$47.44"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-11",
+    "name": "Venomoth",
+    "number": "11",
+    "setId": "hgss4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "926069",
+        "reverse-holo": "926171"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.39",
+                "psa10": "$62.00",
+                "grade9": "$16.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.26",
+                "psa10": "",
+                "grade9": "$15.20"
+            }
+        }
+    }
+}

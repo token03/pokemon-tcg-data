@@ -1,0 +1,25 @@
+{
+    "id": "dp5-76",
+    "name": "Stunky",
+    "number": "76",
+    "setId": "dp5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921438",
+        "reverse-holo": "921538"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

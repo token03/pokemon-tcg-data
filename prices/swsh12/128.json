@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-128",
+    "name": "Magearna V",
+    "number": "128",
+    "setId": "swsh12",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277249"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "$11.30",
+                "grade9": "$11.25"
+            }
+        }
+    }
+}

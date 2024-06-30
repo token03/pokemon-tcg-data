@@ -1,0 +1,25 @@
+{
+    "id": "sv4-103",
+    "name": "Naclstack",
+    "number": "103",
+    "setId": "sv4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5952941",
+        "reverse-holo": "5953196"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$35.58",
+                "grade9": "$11.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$35.53",
+                "grade9": "$7.51"
+            }
+        }
+    }
+}

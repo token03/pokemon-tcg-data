@@ -1,0 +1,19 @@
+{
+    "id": "sm11-256",
+    "name": "Viridian Forest",
+    "number": "256",
+    "setId": "sm11",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "963822"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$27.40",
+                "psa10": "$68.36",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

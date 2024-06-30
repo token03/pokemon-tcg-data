@@ -1,0 +1,19 @@
+{
+    "id": "pop5-7",
+    "name": "Rare Candy",
+    "number": "7",
+    "setId": "pop5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762767"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.09",
+                "psa10": "",
+                "grade9": "$73.20"
+            }
+        }
+    }
+}

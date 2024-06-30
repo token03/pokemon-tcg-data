@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-173",
+    "name": "Delphox V",
+    "number": "173",
+    "setId": "swsh11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4050090"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.10",
+                "psa10": "$34.09",
+                "grade9": "$12.02"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv5-174",
+    "name": "Excadrill",
+    "number": "174",
+    "setId": "sv5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6495634"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.25",
+                "psa10": "$35.27",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

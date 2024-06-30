@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-177",
+    "name": "Ninetales V",
+    "number": "177",
+    "setId": "swsh2",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "886903"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.58",
+                "psa10": "$49.39",
+                "grade9": "$28.69"
+            }
+        }
+    }
+}

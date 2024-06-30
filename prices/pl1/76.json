@@ -1,0 +1,25 @@
+{
+    "id": "pl1-76",
+    "name": "Happiny",
+    "number": "76",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "805963",
+        "reverse-holo": "805964"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.31",
+                "psa10": "$61.19",
+                "grade9": "$22.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.69",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

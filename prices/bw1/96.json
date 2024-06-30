@@ -1,0 +1,25 @@
+{
+    "id": "bw1-96",
+    "name": "PlusPower",
+    "number": "96",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806402",
+        "reverse-holo": "806489"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.73",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw6-48",
+    "name": "Shedinja",
+    "number": "48",
+    "setId": "bw6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956302",
+        "reverse-holo": "956428"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

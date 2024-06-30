@@ -1,0 +1,19 @@
+{
+    "id": "xy9-92",
+    "name": "Ho-Oh-EX",
+    "number": "92",
+    "setId": "xy9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959583"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.98",
+                "psa10": "$70.51",
+                "grade9": "$27.66"
+            }
+        }
+    }
+}

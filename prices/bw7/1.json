@@ -1,0 +1,25 @@
+{
+    "id": "bw7-1",
+    "name": "Oddish",
+    "number": "1",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956516",
+        "reverse-holo": "956669"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "$40.47",
+                "grade9": "$15.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

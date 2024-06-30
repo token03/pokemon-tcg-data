@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-101",
+    "name": "Vikavolt",
+    "number": "101",
+    "setId": "swsh8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2771130",
+        "reverse-holo": "2771395"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.90",
+                "grade9": "$11.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$35.13",
+                "grade9": "$12.21"
+            }
+        }
+    }
+}

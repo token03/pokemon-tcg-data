@@ -1,0 +1,25 @@
+{
+    "id": "xy5-28",
+    "name": "Blaziken",
+    "number": "28",
+    "setId": "xy5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958485",
+        "reverse-holo": "958647"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.79",
+                "psa10": "$46.26",
+                "grade9": "$30.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.30",
+                "psa10": "$55.77",
+                "grade9": "$24.63"
+            }
+        }
+    }
+}

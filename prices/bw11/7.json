@@ -1,0 +1,25 @@
+{
+    "id": "bw11-7",
+    "name": "Servine",
+    "number": "7",
+    "setId": "bw11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957501",
+        "reverse-holo": "957641"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.38",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

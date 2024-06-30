@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-147",
+    "name": "Irida",
+    "number": "147",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "3489646",
+        "reverse-holo": "3489840"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$12.47",
+                "grade9": "$5.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$40.80",
+                "grade9": "$14.25"
+            }
+        }
+    }
+}

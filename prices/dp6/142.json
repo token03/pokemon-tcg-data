@@ -1,0 +1,19 @@
+{
+    "id": "dp6-142",
+    "name": "Magnezone LV.X",
+    "number": "142",
+    "setId": "dp6",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925073"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.00",
+                "psa10": "$600.00",
+                "grade9": "$60.00"
+            }
+        }
+    }
+}

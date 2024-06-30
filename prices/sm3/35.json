@@ -1,0 +1,25 @@
+{
+    "id": "sm3-35",
+    "name": "Azumarill",
+    "number": "35",
+    "setId": "sm3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960819",
+        "reverse-holo": "960984"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "$34.52",
+                "grade9": "$4.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.14",
+                "psa10": "$60.00",
+                "grade9": "$28.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "pop2-16",
+    "name": "Pikachu",
+    "number": "16",
+    "setId": "pop2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762704"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.99",
+                "psa10": "$74.99",
+                "grade9": "$34.82"
+            }
+        }
+    }
+}

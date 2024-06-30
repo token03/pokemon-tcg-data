@@ -1,0 +1,37 @@
+{
+    "id": "base1-34",
+    "name": "Machoke",
+    "number": "34",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630447",
+        "1st-edition": "715623",
+        "shadowless": "715725",
+        "trainer-deck-a": "2386889"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$47.49",
+                "grade9": "$22.99"
+            },
+            "1st-edition": {
+                "ungraded": "$28.79",
+                "psa10": "$466.13",
+                "grade9": "$87.54"
+            },
+            "shadowless": {
+                "ungraded": "$2.06",
+                "psa10": "$63.33",
+                "grade9": "$27.59"
+            },
+            "trainer-deck-a": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": "$677.50"
+            }
+        }
+    }
+}

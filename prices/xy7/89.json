@@ -1,0 +1,19 @@
+{
+    "id": "xy7-89",
+    "name": "Hoopa-EX",
+    "number": "89",
+    "setId": "xy7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959107"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.50",
+                "psa10": "$89.45",
+                "grade9": "$29.70"
+            }
+        }
+    }
+}

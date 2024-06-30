@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-144",
+    "name": "Salamence VMAX",
+    "number": "144",
+    "setId": "swsh3",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "836685"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.72",
+                "psa10": "$24.23",
+                "grade9": "$19.33"
+            }
+        }
+    }
+}

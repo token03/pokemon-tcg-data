@@ -1,0 +1,19 @@
+{
+    "id": "bw8-129",
+    "name": "Scramble Switch",
+    "number": "129",
+    "setId": "bw8",
+    "rarity": "Rare ACE",
+    "priceChartingIds": {
+        "normal": "956926"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.99",
+                "psa10": "$85.19",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

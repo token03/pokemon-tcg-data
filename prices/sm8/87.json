@@ -1,0 +1,25 @@
+{
+    "id": "sm8-87",
+    "name": "Natu",
+    "number": "87",
+    "setId": "sm8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962475",
+        "reverse-holo": "962702"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

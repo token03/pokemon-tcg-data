@@ -1,0 +1,25 @@
+{
+    "id": "sm12-189",
+    "name": "Cynthia & Caitlin",
+    "number": "189",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964427",
+        "reverse-holo": "964681"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "$40.60",
+                "grade9": "$15.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.56",
+                "psa10": "$34.99",
+                "grade9": "$19.89"
+            }
+        }
+    }
+}

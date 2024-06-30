@@ -1,0 +1,31 @@
+{
+    "id": "base1-26",
+    "name": "Dratini",
+    "number": "26",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630439",
+        "1st-edition": "715615",
+        "shadowless": "715717"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$58.78",
+                "grade9": "$26.61"
+            },
+            "1st-edition": {
+                "ungraded": "$27.24",
+                "psa10": "$610.00",
+                "grade9": "$98.99"
+            },
+            "shadowless": {
+                "ungraded": "$2.92",
+                "psa10": "$61.38",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

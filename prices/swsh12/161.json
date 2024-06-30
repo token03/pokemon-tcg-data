@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-161",
+    "name": "Primordial Altar",
+    "number": "161",
+    "setId": "swsh12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4277282",
+        "reverse-holo": "4293881"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$35.24",
+                "grade9": "$11.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$34.60",
+                "grade9": "$11.66"
+            }
+        }
+    }
+}

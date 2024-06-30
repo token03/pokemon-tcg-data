@@ -1,0 +1,25 @@
+{
+    "id": "dp6-20",
+    "name": "Bellossom",
+    "number": "20",
+    "setId": "dp6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "924951",
+        "reverse-holo": "925097"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.09",
+                "psa10": "$86.02",
+                "grade9": "$11.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.09",
+                "psa10": "$90.45",
+                "grade9": "$22.50"
+            }
+        }
+    }
+}

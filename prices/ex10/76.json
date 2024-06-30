@@ -1,0 +1,25 @@
+{
+    "id": "ex10-76",
+    "name": "Sunkern",
+    "number": "76",
+    "setId": "ex10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888496",
+        "reverse-holo": "888638"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$59.93",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.61",
+                "psa10": "$59.00",
+                "grade9": "$18.12"
+            }
+        }
+    }
+}

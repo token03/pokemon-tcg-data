@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-154",
+    "name": "Water Energy",
+    "number": "154",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "holo": "4637050"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$4.99",
+                "psa10": "$21.74",
+                "grade9": "$0.99"
+            }
+        }
+    }
+}

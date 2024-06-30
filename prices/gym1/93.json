@@ -1,0 +1,25 @@
+{
+    "id": "gym1-93",
+    "name": "Sabrina's Gastly",
+    "number": "93",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762201",
+        "1st-edition": "2156531"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.52",
+                "psa10": "$60.00",
+                "grade9": "$20.24"
+            },
+            "1st-edition": {
+                "ungraded": "$3.61",
+                "psa10": "$47.81",
+                "grade9": "$25.06"
+            }
+        }
+    }
+}

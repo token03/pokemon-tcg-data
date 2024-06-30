@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-97",
+    "name": "Pok\u00e9mon Collector",
+    "number": "97",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806208",
+        "reverse-holo": "806315"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.79",
+                "psa10": "$75.03",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.50",
+                "psa10": "",
+                "grade9": "$40.00"
+            }
+        }
+    }
+}

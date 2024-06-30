@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-60",
+    "name": "Skiploom",
+    "number": "60",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842587",
+        "reverse-holo": "2293951"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.07",
+                "psa10": "$218.63",
+                "grade9": "$21.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.60",
+                "psa10": "$62.07",
+                "grade9": "$37.00"
+            }
+        }
+    }
+}

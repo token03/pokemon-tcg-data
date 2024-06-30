@@ -1,0 +1,25 @@
+{
+    "id": "pl3-85",
+    "name": "Staravia",
+    "number": "85",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287132",
+        "reverse-holo": "1287286"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": "$5.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

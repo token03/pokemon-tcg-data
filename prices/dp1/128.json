@@ -1,0 +1,19 @@
+{
+    "id": "dp1-128",
+    "name": "Fighting Energy",
+    "number": "128",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2677919"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.61",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

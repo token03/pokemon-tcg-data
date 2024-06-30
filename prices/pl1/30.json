@@ -1,0 +1,25 @@
+{
+    "id": "pl1-30",
+    "name": "Gyarados G",
+    "number": "30",
+    "setId": "pl1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "805961",
+        "reverse-holo": "805962"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.43",
+                "psa10": "$74.32",
+                "grade9": "$54.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.39",
+                "psa10": "$143.88",
+                "grade9": "$102.61"
+            }
+        }
+    }
+}

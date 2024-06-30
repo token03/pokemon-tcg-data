@@ -1,0 +1,25 @@
+{
+    "id": "bw8-98",
+    "name": "Clefable",
+    "number": "98",
+    "setId": "bw8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956895",
+        "reverse-holo": "957026"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.22",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

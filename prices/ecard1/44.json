@@ -1,0 +1,31 @@
+{
+    "id": "ecard1-44",
+    "name": "Dugtrio",
+    "number": "44",
+    "setId": "ecard1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887889",
+        "for-position-only": "4081656",
+        "reverse-holo": "2266897"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$22.27",
+                "grade9": "$19.32"
+            },
+            "for-position-only": {
+                "ungraded": "$1,000.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$10.24",
+                "psa10": "$172.38",
+                "grade9": "$30.27"
+            }
+        }
+    }
+}

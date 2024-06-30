@@ -1,0 +1,25 @@
+{
+    "id": "dp2-55",
+    "name": "Masquerain",
+    "number": "55",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920678",
+        "reverse-holo": "920802"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

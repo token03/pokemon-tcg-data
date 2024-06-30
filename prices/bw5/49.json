@@ -1,0 +1,25 @@
+{
+    "id": "bw5-49",
+    "name": "Slowking",
+    "number": "49",
+    "setId": "bw5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956095",
+        "reverse-holo": "956204"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$47.53",
+                "grade9": "$9.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.68",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

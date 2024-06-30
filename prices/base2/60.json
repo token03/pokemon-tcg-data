@@ -1,0 +1,31 @@
+{
+    "id": "base2-60",
+    "name": "Pikachu",
+    "number": "60",
+    "setId": "base2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643327",
+        "1st-edition": "643375",
+        "w-stamp": "2336239"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$52.00",
+                "grade9": "$28.66"
+            },
+            "1st-edition": {
+                "ungraded": "$4.94",
+                "psa10": "$154.68",
+                "grade9": "$38.00"
+            },
+            "w-stamp": {
+                "ungraded": "$37.28",
+                "psa10": "$519.13",
+                "grade9": "$106.55"
+            }
+        }
+    }
+}

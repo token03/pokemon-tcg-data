@@ -1,0 +1,31 @@
+{
+    "id": "pl3-26",
+    "name": "Dusknoir FB",
+    "number": "26",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287073",
+        "crosshatch-holo": "6341889",
+        "reverse-holo": "1287227"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.70",
+                "psa10": "$60.00",
+                "grade9": "$5.49"
+            },
+            "crosshatch-holo": {
+                "ungraded": "$2.75",
+                "psa10": "$24.50",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.27",
+                "psa10": "$69.23",
+                "grade9": "$46.49"
+            }
+        }
+    }
+}

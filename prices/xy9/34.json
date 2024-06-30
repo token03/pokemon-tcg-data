@@ -1,0 +1,25 @@
+{
+    "id": "xy9-34",
+    "name": "Palpitoad",
+    "number": "34",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959525",
+        "reverse-holo": "959643"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "$36.03",
+                "grade9": "$13.56"
+            }
+        }
+    }
+}

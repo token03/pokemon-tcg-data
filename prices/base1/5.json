@@ -1,0 +1,31 @@
+{
+    "id": "base1-5",
+    "name": "Clefairy",
+    "number": "5",
+    "setId": "base1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "630418",
+        "1st-edition": "715594",
+        "shadowless": "715696"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.46",
+                "psa10": "$925.75",
+                "grade9": "$90.52"
+            },
+            "1st-edition": {
+                "ungraded": "$194.72",
+                "psa10": "$8,499.99",
+                "grade9": "$913.89"
+            },
+            "shadowless": {
+                "ungraded": "$33.14",
+                "psa10": "$2,237.50",
+                "grade9": "$339.22"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ex4-92",
+    "name": "Raikou ex",
+    "number": "92",
+    "setId": "ex4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849661"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$55.04",
+                "psa10": "$794.50",
+                "grade9": "$177.50"
+            }
+        }
+    }
+}

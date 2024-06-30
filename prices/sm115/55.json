@@ -1,0 +1,25 @@
+{
+    "id": "sm115-55",
+    "name": "Brock's Training",
+    "number": "55",
+    "setId": "sm115",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "964075",
+        "reverse-holo": "964229"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$25.86",
+                "grade9": "$7.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.70",
+                "psa10": "$18.25",
+                "grade9": "$15.82"
+            }
+        }
+    }
+}

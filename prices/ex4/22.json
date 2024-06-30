@@ -1,0 +1,25 @@
+{
+    "id": "ex4-22",
+    "name": "Team Magma's Rhydon",
+    "number": "22",
+    "setId": "ex4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849591",
+        "reverse-holo": "849688"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.79",
+                "psa10": "$143.49",
+                "grade9": "$18.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.26",
+                "psa10": "$112.19",
+                "grade9": "$24.21"
+            }
+        }
+    }
+}

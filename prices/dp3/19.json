@@ -1,0 +1,31 @@
+{
+    "id": "dp3-19",
+    "name": "Suicune",
+    "number": "19",
+    "setId": "dp3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920910",
+        "cracked-ice": "6423154",
+        "reverse-holo": "921041"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.29",
+                "psa10": "$352.50",
+                "grade9": "$66.72"
+            },
+            "cracked-ice": {
+                "ungraded": "$7.22",
+                "psa10": "",
+                "grade9": "$35.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.93",
+                "psa10": "$139.34",
+                "grade9": "$41.44"
+            }
+        }
+    }
+}

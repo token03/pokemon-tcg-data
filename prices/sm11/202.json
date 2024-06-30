@@ -1,0 +1,25 @@
+{
+    "id": "sm11-202",
+    "name": "Misty's Favor",
+    "number": "202",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2411281",
+        "reverse-holo": "3177581"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$130.06",
+                "grade9": "$32.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.36",
+                "psa10": "$249.99",
+                "grade9": ""
+            }
+        }
+    }
+}

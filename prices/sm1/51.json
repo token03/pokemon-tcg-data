@@ -1,0 +1,25 @@
+{
+    "id": "sm1-51",
+    "name": "Charjabug",
+    "number": "51",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806800",
+        "reverse-holo": "806930"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "$34.94",
+                "grade9": "$12.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$37.47",
+                "grade9": "$14.49"
+            }
+        }
+    }
+}

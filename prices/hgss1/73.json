@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-73",
+    "name": "Mareep",
+    "number": "73",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806185",
+        "reverse-holo": "806291"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.46",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.53",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": "bw9-23",
+    "name": "Glaceon",
+    "number": "23",
+    "setId": "bw9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957078",
+        "city-holo-staff": "4766242",
+        "city-holo": "4956410",
+        "cracked-ice-holo": "4956408",
+        "reverse-holo": "957198"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$160.24",
+                "grade9": "$52.85"
+            },
+            "city-holo-staff": {
+                "ungraded": "$71.81",
+                "psa10": "$894.39",
+                "grade9": "$228.82"
+            },
+            "city-holo": {
+                "ungraded": "$13.81",
+                "psa10": "$105.40",
+                "grade9": "$40.00"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$5.99",
+                "psa10": "",
+                "grade9": "$46.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.49",
+                "psa10": "$355.00",
+                "grade9": "$42.85"
+            }
+        }
+    }
+}

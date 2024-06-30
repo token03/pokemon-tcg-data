@@ -1,0 +1,19 @@
+{
+    "id": "sm12-143",
+    "name": "Togepi & Cleffa & Igglybuff-GX",
+    "number": "143",
+    "setId": "sm12",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964381"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.58",
+                "psa10": "$60.91",
+                "grade9": "$20.76"
+            }
+        }
+    }
+}

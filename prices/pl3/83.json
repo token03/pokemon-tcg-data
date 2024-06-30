@@ -1,0 +1,37 @@
+{
+    "id": "pl3-83",
+    "name": "Skarmory FB",
+    "number": "83",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287130",
+        "league-promo": "2669417",
+        "reverse-holo-league-promo": "2656402",
+        "reverse-holo": "1287284"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$47.08",
+                "grade9": "$8.44"
+            },
+            "league-promo": {
+                "ungraded": "$3.33",
+                "psa10": "$85.00",
+                "grade9": ""
+            },
+            "reverse-holo-league-promo": {
+                "ungraded": "$2.55",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.25",
+                "psa10": "$58.43",
+                "grade9": "$5.00"
+            }
+        }
+    }
+}

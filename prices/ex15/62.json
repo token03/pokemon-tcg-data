@@ -1,0 +1,31 @@
+{
+    "id": "ex15-62",
+    "name": "Seel \u03b4",
+    "number": "62",
+    "setId": "ex15",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889536",
+        "reverse-holo": "889637",
+        "stamped": "5962590"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$45.00",
+                "grade9": "$9.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.84",
+                "psa10": "$97.47",
+                "grade9": "$20.00"
+            },
+            "stamped": {
+                "ungraded": "$3.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

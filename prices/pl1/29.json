@@ -1,0 +1,25 @@
+{
+    "id": "pl1-29",
+    "name": "Golduck",
+    "number": "29",
+    "setId": "pl1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "805955",
+        "reverse-holo": "805956"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.91",
+                "psa10": "$57.10",
+                "grade9": "$25.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.82",
+                "psa10": "$68.90",
+                "grade9": "$26.20"
+            }
+        }
+    }
+}

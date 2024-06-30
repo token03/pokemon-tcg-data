@@ -1,0 +1,25 @@
+{
+    "id": "xy3-10",
+    "name": "Magmar",
+    "number": "10",
+    "setId": "xy3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957993",
+        "reverse-holo": "958104"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.98",
+                "grade9": "$12.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$38.44",
+                "grade9": "$14.69"
+            }
+        }
+    }
+}

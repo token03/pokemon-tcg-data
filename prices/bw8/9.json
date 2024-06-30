@@ -1,0 +1,25 @@
+{
+    "id": "bw8-9",
+    "name": "Swadloon",
+    "number": "9",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956807",
+        "reverse-holo": "956944"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-9",
+    "name": "Togekiss",
+    "number": "9",
+    "setId": "hgss3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925896",
+        "reverse-holo": "925987"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.73",
+                "psa10": "$82.52",
+                "grade9": "$29.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.51",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

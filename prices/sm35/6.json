@@ -1,0 +1,25 @@
+{
+    "id": "sm35-6",
+    "name": "Carnivine",
+    "number": "6",
+    "setId": "sm35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961075",
+        "reverse-holo": "2978749"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$36.31",
+                "grade9": "$13.80"
+            }
+        }
+    }
+}

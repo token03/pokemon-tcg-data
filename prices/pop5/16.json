@@ -1,0 +1,19 @@
+{
+    "id": "pop5-16",
+    "name": "Espeon \u2605",
+    "number": "16",
+    "setId": "pop5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "gold-star": "762775"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$1,377.33",
+                "psa10": "$8,600.00",
+                "grade9": "$3,757.99"
+            }
+        }
+    }
+}

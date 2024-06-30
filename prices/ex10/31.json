@@ -1,0 +1,25 @@
+{
+    "id": "ex10-31",
+    "name": "Smoochum",
+    "number": "31",
+    "setId": "ex10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888451",
+        "reverse-holo": "888593"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.91",
+                "psa10": "$26.20",
+                "grade9": "$11.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.00",
+                "psa10": "$128.89",
+                "grade9": "$20.52"
+            }
+        }
+    }
+}

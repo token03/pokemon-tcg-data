@@ -1,0 +1,19 @@
+{
+    "id": "sm11-237",
+    "name": "Rowlet & Alolan Exeggutor-GX",
+    "number": "237",
+    "setId": "sm11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963803"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.00",
+                "psa10": "$46.42",
+                "grade9": "$22.98"
+            }
+        }
+    }
+}

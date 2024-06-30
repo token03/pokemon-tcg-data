@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-7",
+    "name": "Scizor",
+    "number": "7",
+    "setId": "hgss3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925894",
+        "reverse-holo": "925985"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.03",
+                "psa10": "$356.26",
+                "grade9": "$67.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.60",
+                "psa10": "$139.60",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-66",
+    "name": "Iron Treads ex",
+    "number": "66",
+    "setId": "sv4pt5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "6276985"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.48",
+                "psa10": "$30.95",
+                "grade9": "$11.98"
+            }
+        }
+    }
+}

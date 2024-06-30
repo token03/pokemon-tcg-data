@@ -1,0 +1,25 @@
+{
+    "id": "xy4-81",
+    "name": "Blissey",
+    "number": "81",
+    "setId": "xy4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958274",
+        "reverse-holo": "958388"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.44",
+                "psa10": "$89.99",
+                "grade9": "$15.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

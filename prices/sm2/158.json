@@ -1,0 +1,19 @@
+{
+    "id": "sm2-158",
+    "name": "Sylveon-GX",
+    "number": "158",
+    "setId": "sm2",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "960655"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$37.58",
+                "psa10": "$255.11",
+                "grade9": "$96.29"
+            }
+        }
+    }
+}

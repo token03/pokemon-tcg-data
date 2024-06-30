@@ -1,0 +1,25 @@
+{
+    "id": "ex5-26",
+    "name": "Sunny Castform",
+    "number": "26",
+    "setId": "ex5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849799",
+        "reverse-holo": "849901"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.63",
+                "psa10": "$25.01",
+                "grade9": "$24.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.66",
+                "psa10": "$230.40",
+                "grade9": "$24.99"
+            }
+        }
+    }
+}

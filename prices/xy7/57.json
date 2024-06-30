@@ -1,0 +1,19 @@
+{
+    "id": "xy7-57",
+    "name": "Giratina-EX",
+    "number": "57",
+    "setId": "xy7",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959075"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.00",
+                "psa10": "$97.50",
+                "grade9": "$27.99"
+            }
+        }
+    }
+}

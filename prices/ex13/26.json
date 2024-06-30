@@ -1,0 +1,31 @@
+{
+    "id": "ex13-26",
+    "name": "Rayquaza \u03b4",
+    "number": "26",
+    "setId": "ex13",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889106",
+        "reverse-holo": "889217",
+        "stamped": "5049667"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.00",
+                "psa10": "$226.23",
+                "grade9": "$46.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$63.96",
+                "psa10": "$1,025.00",
+                "grade9": "$151.99"
+            },
+            "stamped": {
+                "ungraded": "$65.82",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

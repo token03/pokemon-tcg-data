@@ -1,0 +1,25 @@
+{
+    "id": "sm10-18",
+    "name": "Grubbin",
+    "number": "18",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963174",
+        "reverse-holo": "963406"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$33.92",
+                "grade9": "$12.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

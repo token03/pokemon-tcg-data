@@ -1,0 +1,25 @@
+{
+    "id": "ex2-54",
+    "name": "Wynaut",
+    "number": "54",
+    "setId": "ex2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849242",
+        "reverse-holo": "849342"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$218.62",
+                "grade9": "$26.47"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$56.55",
+                "grade9": "$32.50"
+            }
+        }
+    }
+}

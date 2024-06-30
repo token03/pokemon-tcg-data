@@ -1,0 +1,25 @@
+{
+    "id": "xy7-41",
+    "name": "Golurk",
+    "number": "41",
+    "setId": "xy7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959060",
+        "reverse-holo": "959152"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.97",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

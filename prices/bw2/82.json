@@ -1,0 +1,25 @@
+{
+    "id": "bw2-82",
+    "name": "Unfezant",
+    "number": "82",
+    "setId": "bw2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955508",
+        "reverse-holo": "955605"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.79",
+                "psa10": "$56.91",
+                "grade9": "$22.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.91",
+                "psa10": "$58.07",
+                "grade9": "$23.36"
+            }
+        }
+    }
+}

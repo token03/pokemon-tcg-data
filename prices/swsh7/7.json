@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-7",
+    "name": "Leafeon V",
+    "number": "7",
+    "setId": "swsh7",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2512818",
+        "prize-pack": "6875333"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$31.13",
+                "grade9": "$9.99"
+            },
+            "prize-pack": {
+                "ungraded": "$19.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

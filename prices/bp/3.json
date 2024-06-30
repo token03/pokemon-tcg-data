@@ -1,0 +1,19 @@
+{
+    "id": "bp-3",
+    "name": "Professor Elm",
+    "number": "3",
+    "setId": "bp",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "2978636"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.50",
+                "psa10": "$299.85",
+                "grade9": "$29.65"
+            }
+        }
+    }
+}

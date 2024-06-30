@@ -1,0 +1,19 @@
+{
+    "id": "si1-11",
+    "name": "Marill",
+    "number": "11",
+    "setId": "si1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762476"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.02",
+                "psa10": "$2,001.37",
+                "grade9": "$108.49"
+            }
+        }
+    }
+}

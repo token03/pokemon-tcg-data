@@ -1,0 +1,19 @@
+{
+    "id": "bw7-147",
+    "name": "Bianca",
+    "number": "147",
+    "setId": "bw7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956662"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$112.98",
+                "psa10": "$1,482.80",
+                "grade9": "$301.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-64",
+    "name": "Rattata",
+    "number": "64",
+    "setId": "hgss3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925951",
+        "reverse-holo": "926042"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$47.08",
+                "grade9": "$17.69"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.10",
+                "psa10": "",
+                "grade9": "$12.02"
+            }
+        }
+    }
+}

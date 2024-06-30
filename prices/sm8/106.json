@@ -1,0 +1,25 @@
+{
+    "id": "sm8-106",
+    "name": "Nihilego",
+    "number": "106",
+    "setId": "sm8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962494",
+        "reverse-holo": "962720"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.41",
+                "psa10": "$49.82",
+                "grade9": "$21.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.88",
+                "psa10": "$47.49",
+                "grade9": "$20.25"
+            }
+        }
+    }
+}

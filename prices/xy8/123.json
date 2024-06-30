@@ -1,0 +1,25 @@
+{
+    "id": "xy8-123",
+    "name": "Smeargle",
+    "number": "123",
+    "setId": "xy8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959312",
+        "reverse-holo": "959462"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$17.50",
+                "grade9": "$13.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$40.83",
+                "grade9": "$16.33"
+            }
+        }
+    }
+}

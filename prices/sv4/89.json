@@ -1,0 +1,19 @@
+{
+    "id": "sv4-89",
+    "name": "Iron Valiant ex",
+    "number": "89",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952927"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.00",
+                "psa10": "$13.50",
+                "grade9": "$7.46"
+            }
+        }
+    }
+}

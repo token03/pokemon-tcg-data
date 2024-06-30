@@ -1,0 +1,25 @@
+{
+    "id": "gym1-20",
+    "name": "Brock's Golem",
+    "number": "20",
+    "setId": "gym1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762138",
+        "1st-edition": "2156452"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.68",
+                "psa10": "$26.55",
+                "grade9": "$17.96"
+            },
+            "1st-edition": {
+                "ungraded": "$13.28",
+                "psa10": "$85.37",
+                "grade9": "$31.90"
+            }
+        }
+    }
+}

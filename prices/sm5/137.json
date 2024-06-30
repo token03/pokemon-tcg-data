@@ -1,0 +1,25 @@
+{
+    "id": "sm5-137",
+    "name": "Unit Energy GrassFireWater",
+    "number": "137",
+    "setId": "sm5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961500",
+        "reverse-holo": "961661"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.32",
+                "psa10": "",
+                "grade9": "$15.02"
+            }
+        }
+    }
+}

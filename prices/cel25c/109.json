@@ -1,0 +1,19 @@
+{
+    "id": "cel25c-109_A",
+    "name": "Luxray GL LV.X",
+    "number": "109",
+    "setId": "cel25c",
+    "rarity": "Classic Collection",
+    "priceChartingIds": {
+        "normal": "2618180"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$21.50",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

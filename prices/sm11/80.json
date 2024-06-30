@@ -1,0 +1,25 @@
+{
+    "id": "sm11-80",
+    "name": "Drifloon",
+    "number": "80",
+    "setId": "sm11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963646",
+        "reverse-holo": "963895"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": "$15.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

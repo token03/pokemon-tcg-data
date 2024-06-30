@@ -1,0 +1,19 @@
+{
+    "id": "cel25-9",
+    "name": "Surfing Pikachu VMAX",
+    "number": "9",
+    "setId": "cel25",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "2618187"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$22.77",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

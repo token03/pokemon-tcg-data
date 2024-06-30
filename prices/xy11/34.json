@@ -1,0 +1,25 @@
+{
+    "id": "xy11-34",
+    "name": "Clawitzer",
+    "number": "34",
+    "setId": "xy11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960113",
+        "reverse-holo": "960225"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$37.61",
+                "grade9": "$14.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$39.39",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

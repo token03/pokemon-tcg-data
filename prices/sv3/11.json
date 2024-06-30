@@ -1,0 +1,25 @@
+{
+    "id": "sv3-11",
+    "name": "Phantump",
+    "number": "11",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605529",
+        "reverse-holo": "5605768"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$35.03",
+                "grade9": "$11.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.07",
+                "psa10": "$33.13",
+                "grade9": "$10.97"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy10-47",
+    "name": "Lucario",
+    "number": "47",
+    "setId": "xy10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959904",
+        "reverse-holo": "960023"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.03",
+                "psa10": "$40.34",
+                "grade9": "$15.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.66",
+                "psa10": "$43.54",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-17",
+    "name": "Magcargo",
+    "number": "17",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842681",
+        "reverse-holo": "2252617"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.64",
+                "psa10": "$34.86",
+                "grade9": "$29.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$22.17",
+                "psa10": "$92.92",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

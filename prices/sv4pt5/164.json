@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-164",
+    "name": "Flittle",
+    "number": "164",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277083"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$23.50",
+                "grade9": "$6.00"
+            }
+        }
+    }
+}

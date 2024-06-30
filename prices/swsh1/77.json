@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-77",
+    "name": "Pincurchin",
+    "number": "77",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807209",
+        "reverse-holo": "807210"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.81",
+                "psa10": "$32.93",
+                "grade9": "$11.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.63",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

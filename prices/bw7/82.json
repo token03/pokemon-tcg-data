@@ -1,0 +1,25 @@
+{
+    "id": "bw7-82",
+    "name": "Makuhita",
+    "number": "82",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956597",
+        "reverse-holo": "956744"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.97",
+                "psa10": "",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

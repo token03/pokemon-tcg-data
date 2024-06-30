@@ -1,0 +1,19 @@
+{
+    "id": "sv1-208",
+    "name": "Pachirisu",
+    "number": "208",
+    "setId": "sv1",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "4933982"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.49",
+                "psa10": "$39.81",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm10-130",
+    "name": "Gardevoir & Sylveon-GX",
+    "number": "130",
+    "setId": "sm10",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963286"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.00",
+                "psa10": "$54.97",
+                "grade9": "$20.38"
+            }
+        }
+    }
+}

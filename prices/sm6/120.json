@@ -1,0 +1,19 @@
+{
+    "id": "sm6-120",
+    "name": "Greninja-GX",
+    "number": "120",
+    "setId": "sm6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961783"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.87",
+                "psa10": "$85.00",
+                "grade9": "$38.00"
+            }
+        }
+    }
+}

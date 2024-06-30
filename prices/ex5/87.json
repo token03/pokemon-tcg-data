@@ -1,0 +1,31 @@
+{
+    "id": "ex5-87",
+    "name": "Ancient Tomb",
+    "number": "87",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849860",
+        "holo": "2996133",
+        "reverse-holo": "849962"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.22",
+                "psa10": "$79.22",
+                "grade9": "$26.71"
+            },
+            "holo": {
+                "ungraded": "$2.82",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.36",
+                "psa10": "$85.00",
+                "grade9": "$15.02"
+            }
+        }
+    }
+}

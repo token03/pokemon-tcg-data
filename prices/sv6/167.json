@@ -1,0 +1,25 @@
+{
+    "id": "sv6-167",
+    "name": "Legacy Energy",
+    "number": "167",
+    "setId": "sv6",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "6769647",
+        "reverse-holo": "6769860"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.03",
+                "psa10": "$47.87",
+                "grade9": "$14.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

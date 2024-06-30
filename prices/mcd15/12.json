@@ -1,0 +1,19 @@
+{
+    "id": "mcd15-12",
+    "name": "Skitty",
+    "number": "12",
+    "setId": "mcd15",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180015"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.16",
+                "psa10": "$46.99",
+                "grade9": "$18.99"
+            }
+        }
+    }
+}

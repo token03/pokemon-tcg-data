@@ -1,0 +1,25 @@
+{
+    "id": "sm9-141",
+    "name": "Evelyn",
+    "number": "141",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962939",
+        "reverse-holo": "963121"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.93",
+                "grade9": "$12.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

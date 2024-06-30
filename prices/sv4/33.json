@@ -1,0 +1,25 @@
+{
+    "id": "sv4-33",
+    "name": "Remoraid",
+    "number": "33",
+    "setId": "sv4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5952871",
+        "reverse-holo": "5953136"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.67",
+                "psa10": "$33.11",
+                "grade9": "$10.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

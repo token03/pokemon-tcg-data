@@ -1,0 +1,25 @@
+{
+    "id": "ex7-43",
+    "name": "Heracross",
+    "number": "43",
+    "setId": "ex7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886377",
+        "reverse-holo": "886488"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.06",
+                "psa10": "$206.37",
+                "grade9": "$35.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.00",
+                "psa10": "$552.50",
+                "grade9": "$51.99"
+            }
+        }
+    }
+}

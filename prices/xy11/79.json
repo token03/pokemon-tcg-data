@@ -1,0 +1,19 @@
+{
+    "id": "xy11-79",
+    "name": "M Gardevoir-EX",
+    "number": "79",
+    "setId": "xy11",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "960158"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.50",
+                "psa10": "$39.93",
+                "grade9": "$15.55"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp6-41",
+    "name": "Torkoal",
+    "number": "41",
+    "setId": "dp6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "924972",
+        "reverse-holo": "925118"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.66",
+                "psa10": "$96.86",
+                "grade9": "$19.74"
+            }
+        }
+    }
+}

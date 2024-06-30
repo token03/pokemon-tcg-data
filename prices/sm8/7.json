@@ -1,0 +1,25 @@
+{
+    "id": "sm8-7",
+    "name": "Bayleef",
+    "number": "7",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962395",
+        "reverse-holo": "962631"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$35.80",
+                "grade9": "$2.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$15.50",
+                "grade9": "$14.58"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw11-113",
+    "name": "Double Colorless Energy",
+    "number": "113",
+    "setId": "bw11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957607",
+        "reverse-holo": "957736"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "$43.50",
+                "grade9": "$17.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

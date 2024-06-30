@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-125",
+    "name": "Healing Berry",
+    "number": "125",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842641",
+        "reverse-holo": "2294016"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.72",
+                "psa10": "$39.99",
+                "grade9": "$29.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.40",
+                "psa10": "$69.00",
+                "grade9": "$21.49"
+            }
+        }
+    }
+}

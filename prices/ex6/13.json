@@ -1,0 +1,25 @@
+{
+    "id": "ex6-13",
+    "name": "Rapidash",
+    "number": "13",
+    "setId": "ex6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849980",
+        "reverse-holo": "850096"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.16",
+                "psa10": "$197.97",
+                "grade9": "$41.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.80",
+                "psa10": "$140.95",
+                "grade9": "$34.32"
+            }
+        }
+    }
+}

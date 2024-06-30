@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-20",
+    "name": "Mewtwo",
+    "number": "20",
+    "setId": "ecard1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842436",
+        "reverse-holo": "2266875"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$145.88",
+                "psa10": "$2,209.23",
+                "grade9": "$400.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$44.06",
+                "psa10": "$357.48",
+                "grade9": "$100.09"
+            }
+        }
+    }
+}

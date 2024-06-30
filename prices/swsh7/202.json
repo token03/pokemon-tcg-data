@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-202",
+    "name": "Raihan",
+    "number": "202",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2513011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.77",
+                "psa10": "$22.07",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

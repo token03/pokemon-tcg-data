@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-13",
+    "name": "Leafeon",
+    "number": "13",
+    "setId": "swsh10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3489511",
+        "reverse-holo": "3489727"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.74",
+                "psa10": "$37.95",
+                "grade9": "$6.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$62.66",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

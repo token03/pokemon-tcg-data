@@ -1,0 +1,37 @@
+{
+    "id": "ex14-14",
+    "name": "Blastoise",
+    "number": "14",
+    "setId": "ex14",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889301",
+        "national-championships": "4956334",
+        "reverse-holo": "889401",
+        "staff": "3969982"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.73",
+                "psa10": "$123.04",
+                "grade9": "$45.00"
+            },
+            "national-championships": {
+                "ungraded": "$45.00",
+                "psa10": "$107.25",
+                "grade9": "$99.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$34.51",
+                "psa10": "$348.71",
+                "grade9": "$96.92"
+            },
+            "staff": {
+                "ungraded": "$228.03",
+                "psa10": "$1,350.00",
+                "grade9": "$1,125.00"
+            }
+        }
+    }
+}

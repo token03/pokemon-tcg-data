@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-142",
+    "name": "Hunting Gloves",
+    "number": "142",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188366",
+        "reverse-holo": "3219487"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.07",
+                "psa10": "$34.29",
+                "grade9": "$11.76"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-126",
+    "name": "Juggler",
+    "number": "126",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842642",
+        "reverse-holo": "2294017"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$36.00",
+                "grade9": "$14.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.80",
+                "psa10": "$77.02",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

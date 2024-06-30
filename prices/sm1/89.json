@@ -1,0 +1,25 @@
+{
+    "id": "sm1-89",
+    "name": "Solgaleo-GX",
+    "number": "89",
+    "setId": "sm1",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "806833",
+        "jumbo": "6116155"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.15",
+                "psa10": "$37.50",
+                "grade9": "$11.83"
+            },
+            "jumbo": {
+                "ungraded": "$2.11",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

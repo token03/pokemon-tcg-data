@@ -1,0 +1,25 @@
+{
+    "id": "ex13-87",
+    "name": "Holon Lake",
+    "number": "87",
+    "setId": "ex13",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889167",
+        "reverse-holo": "889276"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$61.31",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.20",
+                "psa10": "$111.62",
+                "grade9": "$39.67"
+            }
+        }
+    }
+}

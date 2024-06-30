@@ -1,0 +1,19 @@
+{
+    "id": "sm11-218",
+    "name": "Slowpoke & Psyduck-GX",
+    "number": "218",
+    "setId": "sm11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963784"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$79.00",
+                "psa10": "$205.20",
+                "grade9": "$97.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm9-3",
+    "name": "Weedle",
+    "number": "3",
+    "setId": "sm9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962801",
+        "reverse-holo": "962996"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

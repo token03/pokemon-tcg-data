@@ -1,0 +1,19 @@
+{
+    "id": "basep-28",
+    "name": "Surfing Pikachu",
+    "number": "28",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "643548"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.36",
+                "psa10": "$112.50",
+                "grade9": "$29.84"
+            }
+        }
+    }
+}

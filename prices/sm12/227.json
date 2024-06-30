@@ -1,0 +1,19 @@
+{
+    "id": "sm12-227",
+    "name": "Silvally-GX",
+    "number": "227",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964465"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.52",
+                "psa10": "$87.65",
+                "grade9": "$39.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-86",
+    "name": "Roggenrola",
+    "number": "86",
+    "setId": "swsh7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2512897",
+        "reverse-holo": "2513111"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.60",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.07",
+                "psa10": "$34.17",
+                "grade9": "$11.86"
+            }
+        }
+    }
+}

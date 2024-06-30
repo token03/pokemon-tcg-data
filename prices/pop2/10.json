@@ -1,0 +1,19 @@
+{
+    "id": "pop2-10",
+    "name": "Pok\u00e9mon Park",
+    "number": "10",
+    "setId": "pop2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762698"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.54",
+                "psa10": "$62.35",
+                "grade9": "$11.94"
+            }
+        }
+    }
+}

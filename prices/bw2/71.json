@@ -1,0 +1,25 @@
+{
+    "id": "bw2-71",
+    "name": "Ferroseed",
+    "number": "71",
+    "setId": "bw2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955497",
+        "reverse-holo": "955594"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

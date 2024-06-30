@@ -1,0 +1,37 @@
+{
+    "id": "swsh6-52",
+    "name": "Thundurus",
+    "number": "52",
+    "setId": "swsh6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2253858",
+        "cosmos-holo": "4566846",
+        "holo": "4928125",
+        "reverse-holo": "2254081"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$37.47",
+                "grade9": "$13.43"
+            },
+            "cosmos-holo": {
+                "ungraded": "$1.42",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.97",
+                "psa10": "$10.72",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$35.77",
+                "grade9": "$12.64"
+            }
+        }
+    }
+}

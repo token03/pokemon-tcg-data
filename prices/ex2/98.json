@@ -1,0 +1,19 @@
+{
+    "id": "ex2-98",
+    "name": "Raichu ex",
+    "number": "98",
+    "setId": "ex2",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849286"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$35.66",
+                "psa10": "$749.50",
+                "grade9": "$118.09"
+            }
+        }
+    }
+}

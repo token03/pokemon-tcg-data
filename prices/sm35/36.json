@@ -1,0 +1,25 @@
+{
+    "id": "sm35-36",
+    "name": "Ekans",
+    "number": "36",
+    "setId": "sm35",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961105",
+        "reverse-holo": "2978769"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

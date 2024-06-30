@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-134",
+    "name": "Leon",
+    "number": "134",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637030",
+        "reverse-holo": "4637230"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$25.75",
+                "grade9": "$6.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "$18.71",
+                "grade9": "$7.55"
+            }
+        }
+    }
+}

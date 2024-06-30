@@ -1,0 +1,25 @@
+{
+    "id": "sv6-51",
+    "name": "Snorunt",
+    "number": "51",
+    "setId": "sv6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6769531",
+        "reverse-holo": "6769753"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$35.84",
+                "grade9": "$11.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$35.44",
+                "grade9": "$11.42"
+            }
+        }
+    }
+}

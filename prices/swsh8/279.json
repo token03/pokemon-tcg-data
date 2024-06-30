@@ -1,0 +1,19 @@
+{
+    "id": "swsh8-279",
+    "name": "Sidney",
+    "number": "279",
+    "setId": "swsh8",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2771305"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.47",
+                "psa10": "$22.23",
+                "grade9": "$9.23"
+            }
+        }
+    }
+}

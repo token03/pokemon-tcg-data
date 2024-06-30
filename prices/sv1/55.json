@@ -1,0 +1,25 @@
+{
+    "id": "sv1-55",
+    "name": "Wiglett",
+    "number": "55",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933831",
+        "reverse-holo": "4934084"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$35.20",
+                "grade9": "$11.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "$35.03",
+                "grade9": "$11.68"
+            }
+        }
+    }
+}

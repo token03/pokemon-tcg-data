@@ -1,0 +1,19 @@
+{
+    "id": "mcd16-9",
+    "name": "Togepi",
+    "number": "9",
+    "setId": "mcd16",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180024"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.91",
+                "psa10": "$157.38",
+                "grade9": "$86.01"
+            }
+        }
+    }
+}

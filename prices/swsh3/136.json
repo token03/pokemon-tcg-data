@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-136",
+    "name": "Furret",
+    "number": "136",
+    "setId": "swsh3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887216",
+        "reverse-holo": "887394"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.22",
+                "grade9": "$12.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$34.71",
+                "grade9": "$12.41"
+            }
+        }
+    }
+}

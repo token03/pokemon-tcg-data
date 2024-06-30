@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-64",
+    "name": "Espeon V",
+    "number": "64",
+    "setId": "swsh7",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2512875"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.41",
+                "psa10": "$26.89",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

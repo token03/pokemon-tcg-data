@@ -1,0 +1,25 @@
+{
+    "id": "sm6-11",
+    "name": "Pheromosa",
+    "number": "11",
+    "setId": "sm6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961674",
+        "reverse-holo": "961820"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.68",
+                "psa10": "$42.97",
+                "grade9": "$17.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.53",
+                "psa10": "$44.64",
+                "grade9": "$18.73"
+            }
+        }
+    }
+}

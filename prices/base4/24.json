@@ -1,0 +1,19 @@
+{
+    "id": "base4-24",
+    "name": "Electabuzz",
+    "number": "24",
+    "setId": "base4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "641827"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.79",
+                "psa10": "$46.28",
+                "grade9": "$20.12"
+            }
+        }
+    }
+}

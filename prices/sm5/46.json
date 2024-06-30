@@ -1,0 +1,25 @@
+{
+    "id": "sm5-46",
+    "name": "Shinx",
+    "number": "46",
+    "setId": "sm5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961409",
+        "reverse-holo": "961581"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$35.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

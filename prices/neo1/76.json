@@ -1,0 +1,25 @@
+{
+    "id": "neo1-76",
+    "name": "Stantler",
+    "number": "76",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762390",
+        "1st-edition": "2324925"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$72.79",
+                "grade9": "$12.01"
+            },
+            "1st-edition": {
+                "ungraded": "$2.19",
+                "psa10": "$40.82",
+                "grade9": "$14.02"
+            }
+        }
+    }
+}

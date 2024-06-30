@@ -1,0 +1,25 @@
+{
+    "id": "neo4-92",
+    "name": "Broken Ground Gym",
+    "number": "92",
+    "setId": "neo4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762553",
+        "1st-edition": "2183293"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.66",
+                "psa10": "$37.00",
+                "grade9": "$11.31"
+            },
+            "1st-edition": {
+                "ungraded": "$10.09",
+                "psa10": "$47.38",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

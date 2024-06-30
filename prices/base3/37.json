@@ -1,0 +1,25 @@
+{
+    "id": "base3-37",
+    "name": "Graveler",
+    "number": "37",
+    "setId": "base3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643411",
+        "1st-edition": "1099531"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$41.08",
+                "grade9": "$12.60"
+            },
+            "1st-edition": {
+                "ungraded": "$2.00",
+                "psa10": "$56.13",
+                "grade9": "$21.45"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv1-246",
+    "name": "Great Tusk ex",
+    "number": "246",
+    "setId": "sv1",
+    "rarity": "Special Illustration Rare",
+    "priceChartingIds": {
+        "normal": "4934020"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.02",
+                "psa10": "$57.54",
+                "grade9": "$15.89"
+            }
+        }
+    }
+}

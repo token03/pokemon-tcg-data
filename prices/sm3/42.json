@@ -1,0 +1,25 @@
+{
+    "id": "sm3-42",
+    "name": "Electabuzz",
+    "number": "42",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960826",
+        "reverse-holo": "960990"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$100.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "$22.56",
+                "grade9": "$14.87"
+            }
+        }
+    }
+}

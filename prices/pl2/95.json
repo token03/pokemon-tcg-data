@@ -1,0 +1,25 @@
+{
+    "id": "pl2-95",
+    "name": "Team Galactic's Invention G-107 Technical Machine G",
+    "number": "95",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925491",
+        "reverse-holo": "925610"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.89",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

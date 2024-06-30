@@ -1,0 +1,25 @@
+{
+    "id": "base6-6",
+    "name": "Dark Persian",
+    "number": "6",
+    "setId": "base6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842313",
+        "reverse-holo": "2253690"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.53",
+                "psa10": "$373.01",
+                "grade9": "$76.18"
+            },
+            "reverse-holo": {
+                "ungraded": "$41.99",
+                "psa10": "$564.88",
+                "grade9": "$149.50"
+            }
+        }
+    }
+}

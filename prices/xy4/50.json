@@ -1,0 +1,25 @@
+{
+    "id": "xy4-50",
+    "name": "Gigalith",
+    "number": "50",
+    "setId": "xy4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958243",
+        "reverse-holo": "958361"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$39.90",
+                "grade9": "$9.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

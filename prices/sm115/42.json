@@ -1,0 +1,19 @@
+{
+    "id": "sm115-42",
+    "name": "Wigglytuff-GX",
+    "number": "42",
+    "setId": "sm115",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964062"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$23.45",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

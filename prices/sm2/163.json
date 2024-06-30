@@ -1,0 +1,19 @@
+{
+    "id": "sm2-163",
+    "name": "Field Blower",
+    "number": "163",
+    "setId": "sm2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960660"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.89",
+                "psa10": "$49.99",
+                "grade9": "$7.15"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-155",
+    "name": "Lightning Energy",
+    "number": "155",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "holo": "4637051"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$3.54",
+                "psa10": "$23.00",
+                "grade9": "$8.65"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm9-140",
+    "name": "Erika's Hospitality",
+    "number": "140",
+    "setId": "sm9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962938",
+        "reverse-holo": "963120"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.77",
+                "psa10": "$36.99",
+                "grade9": "$14.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.57",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

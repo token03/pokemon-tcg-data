@@ -1,0 +1,25 @@
+{
+    "id": "col1-29",
+    "name": "Mr. Mime",
+    "number": "29",
+    "setId": "col1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926280",
+        "reverse-holo": "926386"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$40.31",
+                "grade9": "$14.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.16",
+                "psa10": "$62.85",
+                "grade9": "$13.74"
+            }
+        }
+    }
+}

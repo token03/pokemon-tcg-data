@@ -1,0 +1,19 @@
+{
+    "id": "sm10-82",
+    "name": "Marshadow & Machamp-GX",
+    "number": "82",
+    "setId": "sm10",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963238"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.87",
+                "psa10": "$37.52",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

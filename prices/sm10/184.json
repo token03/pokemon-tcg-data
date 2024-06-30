@@ -1,0 +1,25 @@
+{
+    "id": "sm10-184",
+    "name": "Red's Challenge",
+    "number": "184",
+    "setId": "sm10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963340",
+        "reverse-holo": "963560"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.42",
+                "psa10": "$23.22",
+                "grade9": "$10.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.44",
+                "psa10": "$30.00",
+                "grade9": "$25.16"
+            }
+        }
+    }
+}

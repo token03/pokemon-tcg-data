@@ -1,0 +1,25 @@
+{
+    "id": "bw8-106",
+    "name": "Loudred",
+    "number": "106",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956903",
+        "reverse-holo": "957034"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.75",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

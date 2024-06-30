@@ -1,0 +1,25 @@
+{
+    "id": "gym1-10",
+    "name": "Misty's Tentacruel",
+    "number": "10",
+    "setId": "gym1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762097",
+        "1st-edition": "2156408"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$198.82",
+                "grade9": "$49.99"
+            },
+            "1st-edition": {
+                "ungraded": "$33.75",
+                "psa10": "$462.50",
+                "grade9": "$90.64"
+            }
+        }
+    }
+}

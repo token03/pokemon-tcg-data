@@ -1,0 +1,19 @@
+{
+    "id": "pl2-111",
+    "name": "Snorlax LV.X",
+    "number": "111",
+    "setId": "pl2",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925507"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$90.05",
+                "psa10": "$1,700.01",
+                "grade9": "$292.50"
+            }
+        }
+    }
+}

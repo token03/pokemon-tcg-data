@@ -1,0 +1,19 @@
+{
+    "id": "sv6-191",
+    "name": "Magcargo ex",
+    "number": "191",
+    "setId": "sv6",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6775709"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.85",
+                "psa10": "$47.97",
+                "grade9": "$14.69"
+            }
+        }
+    }
+}

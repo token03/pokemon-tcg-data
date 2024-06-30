@@ -1,0 +1,19 @@
+{
+    "id": "xy12-100",
+    "name": "M Venusaur-EX",
+    "number": "100",
+    "setId": "xy12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960379"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.80",
+                "psa10": "$74.20",
+                "grade9": "$25.08"
+            }
+        }
+    }
+}

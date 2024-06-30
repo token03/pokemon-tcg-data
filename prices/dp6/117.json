@@ -1,0 +1,25 @@
+{
+    "id": "dp6-117",
+    "name": "Riolu",
+    "number": "117",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925048",
+        "reverse-holo": "925191"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "$61.59",
+                "grade9": "$22.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": "$37.32"
+            }
+        }
+    }
+}

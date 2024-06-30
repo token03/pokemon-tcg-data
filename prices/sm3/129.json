@@ -1,0 +1,19 @@
+{
+    "id": "sm3-129",
+    "name": "Golisopod-GX",
+    "number": "129",
+    "setId": "sm3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960913"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.93",
+                "psa10": "$33.06",
+                "grade9": "$15.86"
+            }
+        }
+    }
+}

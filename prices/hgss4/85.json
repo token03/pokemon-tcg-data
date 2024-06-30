@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-85",
+    "name": "Black Belt",
+    "number": "85",
+    "setId": "hgss4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926142",
+        "reverse-holo": "926245"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$44.03",
+                "grade9": "$39.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.17",
+                "psa10": "",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

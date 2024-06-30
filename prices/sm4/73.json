@@ -1,0 +1,25 @@
+{
+    "id": "sm4-73",
+    "name": "Xerneas",
+    "number": "73",
+    "setId": "sm4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961219",
+        "reverse-holo": "961337"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$53.62",
+                "grade9": "$10.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$38.67",
+                "grade9": "$15.22"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-53",
+    "name": "Mankey",
+    "number": "53",
+    "setId": "hgss2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287395",
+        "reverse-holo": "1287491"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$47.37",
+                "grade9": "$17.71"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.32",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

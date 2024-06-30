@@ -1,0 +1,25 @@
+{
+    "id": "gym2-76",
+    "name": "Giovanni's Nidoran \u2642",
+    "number": "76",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886562",
+        "1st-edition": "1450271"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$46.00",
+                "grade9": "$17.95"
+            },
+            "1st-edition": {
+                "ungraded": "$3.00",
+                "psa10": "$41.01",
+                "grade9": "$17.35"
+            }
+        }
+    }
+}

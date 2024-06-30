@@ -1,0 +1,19 @@
+{
+    "id": "g1-46",
+    "name": "Golem-EX",
+    "number": "46",
+    "setId": "g1",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959758"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$174.37",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

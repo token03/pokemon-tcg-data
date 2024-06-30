@@ -1,0 +1,25 @@
+{
+    "id": "ex5-45",
+    "name": "Nuzleaf",
+    "number": "45",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849818",
+        "reverse-holo": "849920"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$75.97",
+                "grade9": "$25.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.38",
+                "psa10": "$133.89",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

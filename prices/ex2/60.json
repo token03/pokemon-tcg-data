@@ -1,0 +1,25 @@
+{
+    "id": "ex2-60",
+    "name": "Dunsparce",
+    "number": "60",
+    "setId": "ex2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849248",
+        "reverse-holo": "849348"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.76",
+                "psa10": "$28.00",
+                "grade9": "$14.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$129.51",
+                "grade9": "$27.98"
+            }
+        }
+    }
+}

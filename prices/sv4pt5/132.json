@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-132",
+    "name": "Raichu",
+    "number": "132",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277051"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.78",
+                "psa10": "$49.99",
+                "grade9": "$21.53"
+            }
+        }
+    }
+}

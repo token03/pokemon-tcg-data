@@ -1,0 +1,31 @@
+{
+    "id": "swsh11-84",
+    "name": "Hisuian Arcanine",
+    "number": "84",
+    "setId": "swsh11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4050001",
+        "holo": "6077092",
+        "reverse-holo": "4050211"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$44.99",
+                "grade9": "$20.69"
+            },
+            "holo": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$36.04",
+                "grade9": "$12.25"
+            }
+        }
+    }
+}

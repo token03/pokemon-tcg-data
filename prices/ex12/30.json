@@ -1,0 +1,25 @@
+{
+    "id": "ex12-30",
+    "name": "Cascoon",
+    "number": "30",
+    "setId": "ex12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888912",
+        "reverse-holo": "889005"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.77",
+                "psa10": "$64.15",
+                "grade9": "$6.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.85",
+                "psa10": "$110.00",
+                "grade9": "$28.09"
+            }
+        }
+    }
+}

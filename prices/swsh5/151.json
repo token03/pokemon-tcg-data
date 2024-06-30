@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-151",
+    "name": "Single Strike Urshifu V",
+    "number": "151",
+    "setId": "swsh5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "1673331"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.15",
+                "psa10": "$62.50",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

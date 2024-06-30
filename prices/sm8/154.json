@@ -1,0 +1,19 @@
+{
+    "id": "sm8-154",
+    "name": "Ditto \u25c7",
+    "number": "154",
+    "setId": "sm8",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "962542"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.95",
+                "psa10": "$36.85",
+                "grade9": "$18.71"
+            }
+        }
+    }
+}

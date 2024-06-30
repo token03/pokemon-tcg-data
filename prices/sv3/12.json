@@ -1,0 +1,25 @@
+{
+    "id": "sv3-12",
+    "name": "Trevenant",
+    "number": "12",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605530",
+        "reverse-holo": "5605769"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "$36.75",
+                "grade9": "$12.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "$37.34",
+                "grade9": "$12.28"
+            }
+        }
+    }
+}

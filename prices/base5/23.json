@@ -1,0 +1,25 @@
+{
+    "id": "base5-23",
+    "name": "Dark Dugtrio",
+    "number": "23",
+    "setId": "base5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341828",
+        "1st-edition": "1341365"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.90",
+                "psa10": "$42.00",
+                "grade9": "$30.00"
+            },
+            "1st-edition": {
+                "ungraded": "$8.63",
+                "psa10": "$60.00",
+                "grade9": "$23.85"
+            }
+        }
+    }
+}

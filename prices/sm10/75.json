@@ -1,0 +1,37 @@
+{
+    "id": "sm10-75",
+    "name": "Mewtwo",
+    "number": "75",
+    "setId": "sm10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963231",
+        "cosmos-holo": "5013675",
+        "cracked-ice": "5013676",
+        "reverse-holo": "963459"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.12",
+                "psa10": "$46.00",
+                "grade9": "$38.00"
+            },
+            "cosmos-holo": {
+                "ungraded": "$3.98",
+                "psa10": "$39.02",
+                "grade9": "$15.51"
+            },
+            "cracked-ice": {
+                "ungraded": "$5.20",
+                "psa10": "$107.02",
+                "grade9": "$25.33"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.65",
+                "psa10": "$25.00",
+                "grade9": "$20.86"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4-240",
+    "name": "Professor Turo's Scenario",
+    "number": "240",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953079"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.37",
+                "psa10": "$24.62",
+                "grade9": "$12.95"
+            }
+        }
+    }
+}

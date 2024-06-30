@@ -1,0 +1,25 @@
+{
+    "id": "sm9-130",
+    "name": "Aerodactyl",
+    "number": "130",
+    "setId": "sm9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962928",
+        "reverse-holo": "963111"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$35.45",
+                "grade9": "$13.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.48",
+                "psa10": "$97.00",
+                "grade9": "$81.00"
+            }
+        }
+    }
+}

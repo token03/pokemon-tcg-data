@@ -1,0 +1,25 @@
+{
+    "id": "dp1-40",
+    "name": "Weavile",
+    "number": "40",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763076",
+        "reverse-holo": "763198"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.80",
+                "psa10": "$59.99",
+                "grade9": "$21.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.84",
+                "psa10": "$94.06",
+                "grade9": "$36.82"
+            }
+        }
+    }
+}

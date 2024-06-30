@@ -1,0 +1,25 @@
+{
+    "id": "ex6-16",
+    "name": "Tauros",
+    "number": "16",
+    "setId": "ex6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849983",
+        "reverse-holo": "850099"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.62",
+                "psa10": "$291.46",
+                "grade9": "$34.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.22",
+                "psa10": "$101.77",
+                "grade9": "$31.19"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm12-198",
+    "name": "Mallow & Lana",
+    "number": "198",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964436",
+        "reverse-holo": "964690"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "$39.99",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.26",
+                "psa10": "$38.71",
+                "grade9": "$14.88"
+            }
+        }
+    }
+}

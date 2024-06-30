@@ -1,0 +1,31 @@
+{
+    "id": "gym1-9",
+    "name": "Misty's Seadra",
+    "number": "9",
+    "setId": "gym1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762197",
+        "1st-edition": "2156527",
+        "pre-release": "2511631"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.92",
+                "psa10": "$168.39",
+                "grade9": "$39.50"
+            },
+            "1st-edition": {
+                "ungraded": "$45.00",
+                "psa10": "$515.90",
+                "grade9": "$68.48"
+            },
+            "pre-release": {
+                "ungraded": "$7.99",
+                "psa10": "$392.89",
+                "grade9": "$33.50"
+            }
+        }
+    }
+}

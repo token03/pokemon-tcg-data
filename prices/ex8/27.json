@@ -1,0 +1,25 @@
+{
+    "id": "ex8-27",
+    "name": "Tropius",
+    "number": "27",
+    "setId": "ex8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888048",
+        "reverse-holo": "888155"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.75",
+                "psa10": "$79.00",
+                "grade9": "$65.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.05",
+                "psa10": "$182.00",
+                "grade9": "$55.00"
+            }
+        }
+    }
+}

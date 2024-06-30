@@ -1,0 +1,25 @@
+{
+    "id": "dp4-46",
+    "name": "Marshtomp",
+    "number": "46",
+    "setId": "dp4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921200",
+        "reverse-holo": "921306"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.57",
+                "psa10": "$149.00",
+                "grade9": "$39.11"
+            }
+        }
+    }
+}

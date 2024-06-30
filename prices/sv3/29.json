@@ -1,0 +1,25 @@
+{
+    "id": "sv3-29",
+    "name": "Ninetales",
+    "number": "29",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605547",
+        "reverse-holo": "5605784"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$34.76",
+                "grade9": "$11.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.41",
+                "psa10": "$36.39",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

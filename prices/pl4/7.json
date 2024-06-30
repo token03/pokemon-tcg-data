@@ -1,0 +1,25 @@
+{
+    "id": "pl4-7",
+    "name": "Probopass",
+    "number": "7",
+    "setId": "pl4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925626",
+        "reverse-holo": "925737"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$90.00",
+                "grade9": "$75.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

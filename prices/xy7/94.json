@@ -1,0 +1,19 @@
+{
+    "id": "xy7-94",
+    "name": "Lugia-EX",
+    "number": "94",
+    "setId": "xy7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959112"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$39.85",
+                "psa10": "$457.55",
+                "grade9": "$126.25"
+            }
+        }
+    }
+}

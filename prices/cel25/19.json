@@ -1,0 +1,19 @@
+{
+    "id": "cel25-19",
+    "name": "Yveltal",
+    "number": "19",
+    "setId": "cel25",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2618164"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$40.42",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

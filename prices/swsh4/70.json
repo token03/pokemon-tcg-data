@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-70",
+    "name": "Dusclops",
+    "number": "70",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887621",
+        "reverse-holo": "887794"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.77",
+                "grade9": "$11.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.02",
+                "psa10": "$33.89",
+                "grade9": "$11.93"
+            }
+        }
+    }
+}

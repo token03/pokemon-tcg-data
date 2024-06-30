@@ -1,0 +1,19 @@
+{
+    "id": "swsh35-17",
+    "name": "Gardevoir VMAX",
+    "number": "17",
+    "setId": "swsh35",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "887448"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.10",
+                "psa10": "$20.25",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-86",
+    "name": "Kleavor",
+    "number": "86",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "3489584",
+        "reverse-holo": "3489788"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.45",
+                "psa10": "$35.91",
+                "grade9": "$12.33"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.90",
+                "psa10": "$37.74",
+                "grade9": "$13.05"
+            }
+        }
+    }
+}

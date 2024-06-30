@@ -1,0 +1,19 @@
+{
+    "id": "base4-96",
+    "name": "Tangela",
+    "number": "96",
+    "setId": "base4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "641898"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$29.05",
+                "grade9": "$24.99"
+            }
+        }
+    }
+}

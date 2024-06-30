@@ -1,0 +1,19 @@
+{
+    "id": "ex12-93",
+    "name": "Pikachu \u03b4",
+    "number": "93",
+    "setId": "ex12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "888975"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$70.00",
+                "psa10": "$499.00",
+                "grade9": "$147.00"
+            }
+        }
+    }
+}

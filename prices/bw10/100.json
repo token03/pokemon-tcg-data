@@ -1,0 +1,19 @@
+{
+    "id": "bw10-100",
+    "name": "Palkia-EX",
+    "number": "100",
+    "setId": "bw10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "957402"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$53.19",
+                "psa10": "$630.68",
+                "grade9": "$159.51"
+            }
+        }
+    }
+}

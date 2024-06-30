@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-117",
+    "name": "Eternatus VMAX",
+    "number": "117",
+    "setId": "swsh3",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "887200",
+        "prize-pack": "5811183"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$22.04",
+                "grade9": "$9.99"
+            },
+            "prize-pack": {
+                "ungraded": "$30.63",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pop8-2",
+    "name": "Lucario",
+    "number": "2",
+    "setId": "pop8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762831",
+        "holo": "762848"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.09",
+                "psa10": "$257.64",
+                "grade9": "$28.00"
+            },
+            "holo": {
+                "ungraded": "$2.90",
+                "psa10": "$93.00",
+                "grade9": "$77.49"
+            }
+        }
+    }
+}

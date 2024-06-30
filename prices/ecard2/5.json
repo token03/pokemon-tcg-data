@@ -1,0 +1,31 @@
+{
+    "id": "ecard2-5",
+    "name": "Bellossom",
+    "number": "5",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842534",
+        "reverse-holo": "2293896",
+        "box-topper": "5878915"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.82",
+                "psa10": "$53.67",
+                "grade9": "$17.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.06",
+                "psa10": "$155.50",
+                "grade9": "$28.19"
+            },
+            "box-topper": {
+                "ungraded": "$71.00",
+                "psa10": "",
+                "grade9": "$245.85"
+            }
+        }
+    }
+}

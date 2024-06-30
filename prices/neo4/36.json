@@ -1,0 +1,25 @@
+{
+    "id": "neo4-36",
+    "name": "Dark Haunter",
+    "number": "36",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762568",
+        "1st-edition": "2183308"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.49",
+                "psa10": "$114.51",
+                "grade9": "$29.98"
+            },
+            "1st-edition": {
+                "ungraded": "$13.05",
+                "psa10": "$130.01",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

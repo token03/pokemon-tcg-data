@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-154",
+    "name": "Full Heal",
+    "number": "154",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842526",
+        "reverse-holo": "2267007"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$18.79",
+                "grade9": "$4.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.74",
+                "psa10": "$59.00",
+                "grade9": "$37.93"
+            }
+        }
+    }
+}

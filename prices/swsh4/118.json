@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-118",
+    "name": "Metagross",
+    "number": "118",
+    "setId": "swsh4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887665",
+        "reverse-holo": "887836"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "$34.04",
+                "grade9": "$9.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "$33.69",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

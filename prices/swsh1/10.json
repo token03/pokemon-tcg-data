@@ -1,0 +1,31 @@
+{
+    "id": "swsh1-10",
+    "name": "Grookey",
+    "number": "10",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807132",
+        "cosmos-holo": "4286275",
+        "reverse-holo": "807133"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$23.37",
+                "grade9": "$14.99"
+            },
+            "cosmos-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$40.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "$14.00",
+                "grade9": "$12.06"
+            }
+        }
+    }
+}

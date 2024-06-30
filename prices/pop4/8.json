@@ -1,0 +1,19 @@
+{
+    "id": "pop4-8",
+    "name": "Heal Energy",
+    "number": "8",
+    "setId": "pop4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762744"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": "$37.37"
+            }
+        }
+    }
+}

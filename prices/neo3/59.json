@@ -1,0 +1,25 @@
+{
+    "id": "neo3-59",
+    "name": "Zubat",
+    "number": "59",
+    "setId": "neo3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762552",
+        "1st-edition": "2427458"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.33",
+                "psa10": "$31.48",
+                "grade9": "$14.52"
+            },
+            "1st-edition": {
+                "ungraded": "$2.98",
+                "psa10": "$37.75",
+                "grade9": "$17.52"
+            }
+        }
+    }
+}

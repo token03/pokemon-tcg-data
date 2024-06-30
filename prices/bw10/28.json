@@ -1,0 +1,25 @@
+{
+    "id": "bw10-28",
+    "name": "Carracosta",
+    "number": "28",
+    "setId": "bw10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957330",
+        "reverse-holo": "957434"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.14",
+                "psa10": "$45.69",
+                "grade9": "$18.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

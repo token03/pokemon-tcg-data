@@ -1,0 +1,25 @@
+{
+    "id": "ex3-13",
+    "name": "Crawdaunt",
+    "number": "13",
+    "setId": "ex3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849393",
+        "reverse-holo": "849492"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.69",
+                "psa10": "$29.24",
+                "grade9": "$29.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$151.97",
+                "grade9": "$28.22"
+            }
+        }
+    }
+}

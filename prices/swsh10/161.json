@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-161",
+    "name": "Beedrill V",
+    "number": "161",
+    "setId": "swsh10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3489660"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$32.00",
+                "psa10": "$117.50",
+                "grade9": "$36.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm11-242",
+    "name": "Mewtwo & Mew-GX",
+    "number": "242",
+    "setId": "sm11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963808"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$107.75",
+                "psa10": "$271.50",
+                "grade9": "$138.00"
+            }
+        }
+    }
+}

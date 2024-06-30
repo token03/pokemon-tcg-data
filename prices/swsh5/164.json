@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-164",
+    "name": "Flapple VMAX",
+    "number": "164",
+    "setId": "swsh5",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "1673344"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.55",
+                "psa10": "$27.50",
+                "grade9": "$24.51"
+            }
+        }
+    }
+}

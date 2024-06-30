@@ -1,0 +1,31 @@
+{
+    "id": "base1-70",
+    "name": "Clefairy Doll",
+    "number": "70",
+    "setId": "base1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "630483",
+        "1st-edition": "715659",
+        "shadowless": "3839426"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$109.99",
+                "grade9": "$22.21"
+            },
+            "1st-edition": {
+                "ungraded": "$35.97",
+                "psa10": "$455.00",
+                "grade9": "$82.35"
+            },
+            "shadowless": {
+                "ungraded": "$6.71",
+                "psa10": "$173.45",
+                "grade9": "$37.33"
+            }
+        }
+    }
+}

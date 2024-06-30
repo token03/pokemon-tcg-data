@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-139",
+    "name": "Thundurus",
+    "number": "139",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277058"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$34.97",
+                "grade9": "$7.69"
+            }
+        }
+    }
+}

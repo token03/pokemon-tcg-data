@@ -1,0 +1,25 @@
+{
+    "id": "ex6-104",
+    "name": "Blastoise ex",
+    "number": "104",
+    "setId": "ex6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "850071",
+        "world-championship": "6865016"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$93.29",
+                "psa10": "$1,250.97",
+                "grade9": "$407.53"
+            },
+            "world-championship": {
+                "ungraded": "",
+                "psa10": "$172.50",
+                "grade9": ""
+            }
+        }
+    }
+}

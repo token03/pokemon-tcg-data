@@ -1,0 +1,19 @@
+{
+    "id": "sm12-213",
+    "name": "Volcarona-GX",
+    "number": "213",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964451"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.75",
+                "psa10": "$37.40",
+                "grade9": "$14.99"
+            }
+        }
+    }
+}

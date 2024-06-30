@@ -1,0 +1,25 @@
+{
+    "id": "ex7-79",
+    "name": "Swinub",
+    "number": "79",
+    "setId": "ex7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886413",
+        "reverse-holo": "886524"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$51.50",
+                "grade9": "$35.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.63",
+                "psa10": "$74.69",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

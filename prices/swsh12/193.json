@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-193",
+    "name": "Serena",
+    "number": "193",
+    "setId": "swsh12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277314"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.75",
+                "psa10": "$49.39",
+                "grade9": "$22.48"
+            }
+        }
+    }
+}

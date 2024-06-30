@@ -1,0 +1,25 @@
+{
+    "id": "gym1-48",
+    "name": "Erika's Weepinbell",
+    "number": "48",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762167",
+        "1st-edition": "2156482"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.66",
+                "psa10": "$49.00",
+                "grade9": "$9.86"
+            },
+            "1st-edition": {
+                "ungraded": "$4.52",
+                "psa10": "$56.00",
+                "grade9": "$21.31"
+            }
+        }
+    }
+}

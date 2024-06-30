@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-13",
+    "name": "Heat Rotom",
+    "number": "13",
+    "setId": "sv4pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "6276932",
+        "reverse-holo": "6277176"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$0.82",
+                "psa10": "$33.91",
+                "grade9": "$11.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$36.57",
+                "grade9": "$13.95"
+            }
+        }
+    }
+}

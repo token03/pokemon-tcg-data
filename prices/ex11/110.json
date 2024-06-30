@@ -1,0 +1,19 @@
+{
+    "id": "ex11-110",
+    "name": "Vaporeon ex",
+    "number": "110",
+    "setId": "ex11",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888772"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$36.07",
+                "psa10": "$950.00",
+                "grade9": "$230.69"
+            }
+        }
+    }
+}

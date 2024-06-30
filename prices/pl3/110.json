@@ -1,0 +1,25 @@
+{
+    "id": "pl3-110",
+    "name": "Magikarp",
+    "number": "110",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287157",
+        "reverse-holo": "1287311"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.43",
+                "psa10": "$160.00",
+                "grade9": "$39.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.00",
+                "psa10": "",
+                "grade9": "$23.38"
+            }
+        }
+    }
+}

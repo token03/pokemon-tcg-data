@@ -1,0 +1,25 @@
+{
+    "id": "ex13-67",
+    "name": "Kabuto \u03b4",
+    "number": "67",
+    "setId": "ex13",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889147",
+        "reverse-holo": "889257"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$64.75",
+                "grade9": "$22.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.02",
+                "psa10": "$191.50",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

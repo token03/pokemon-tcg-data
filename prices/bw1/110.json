@@ -1,0 +1,19 @@
+{
+    "id": "bw1-110",
+    "name": "Fighting Energy",
+    "number": "110",
+    "setId": "bw1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2677920"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.63",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

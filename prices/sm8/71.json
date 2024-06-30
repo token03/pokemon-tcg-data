@@ -1,0 +1,25 @@
+{
+    "id": "sm8-71",
+    "name": "Electabuzz",
+    "number": "71",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962459",
+        "reverse-holo": "962687"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.22",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

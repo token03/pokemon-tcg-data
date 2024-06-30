@@ -1,0 +1,25 @@
+{
+    "id": "gym2-17",
+    "name": "Blaine",
+    "number": "17",
+    "setId": "gym2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762223",
+        "1st-edition": "1450211"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.59",
+                "psa10": "$143.58",
+                "grade9": "$46.54"
+            },
+            "1st-edition": {
+                "ungraded": "$33.49",
+                "psa10": "$264.50",
+                "grade9": "$66.53"
+            }
+        }
+    }
+}

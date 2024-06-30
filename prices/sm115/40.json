@@ -1,0 +1,25 @@
+{
+    "id": "sm115-40",
+    "name": "Clefable",
+    "number": "40",
+    "setId": "sm115",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964060",
+        "reverse-holo": "964216"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$28.80",
+                "grade9": "$10.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$24.99",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

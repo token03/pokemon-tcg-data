@@ -1,0 +1,19 @@
+{
+    "id": "bw6-126",
+    "name": "Reuniclus",
+    "number": "126",
+    "setId": "bw6",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "956380"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$42.02",
+                "psa10": "$304.60",
+                "grade9": "$106.50"
+            }
+        }
+    }
+}

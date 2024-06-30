@@ -1,0 +1,25 @@
+{
+    "id": "ex15-74",
+    "name": "Holon Legacy",
+    "number": "74",
+    "setId": "ex15",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889548",
+        "reverse-holo": "889649"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": "$8.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.13",
+                "psa10": "$121.18",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

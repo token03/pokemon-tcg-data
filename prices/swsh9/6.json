@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-6",
+    "name": "Turtwig",
+    "number": "6",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188231",
+        "reverse-holo": "3219377"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.56",
+                "psa10": "$32.25",
+                "grade9": "$10.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.02",
+                "psa10": "$34.09",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

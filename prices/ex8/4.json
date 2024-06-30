@@ -1,0 +1,25 @@
+{
+    "id": "ex8-4",
+    "name": "Camerupt",
+    "number": "4",
+    "setId": "ex8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888025",
+        "reverse-holo": "888132"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.81",
+                "psa10": "$176.11",
+                "grade9": "$24.20"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.36",
+                "psa10": "$150.00",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

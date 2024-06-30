@@ -1,0 +1,49 @@
+{
+    "id": "sv2-105",
+    "name": "Tinkaton",
+    "number": "105",
+    "setId": "sv2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5401630",
+        "gamestop": "5427069",
+        "holo": "5287394",
+        "reverse-holo": "5287662",
+        "stamped-gamestop": "6222914",
+        "stamped": "6392495"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "",
+                "grade9": ""
+            },
+            "gamestop": {
+                "ungraded": "$9.75",
+                "psa10": "$42.77",
+                "grade9": "$7.50"
+            },
+            "holo": {
+                "ungraded": "$1.40",
+                "psa10": "$36.23",
+                "grade9": "$12.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.57",
+                "grade9": "$11.79"
+            },
+            "stamped-gamestop": {
+                "ungraded": "$7.29",
+                "psa10": "$69.32",
+                "grade9": "$22.65"
+            },
+            "stamped": {
+                "ungraded": "$42.47",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex15-19",
+    "name": "Lickitung \u03b4",
+    "number": "19",
+    "setId": "ex15",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889493",
+        "reverse-holo": "889594"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.40",
+                "psa10": "$42.64",
+                "grade9": "$17.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.99",
+                "psa10": "$242.50",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

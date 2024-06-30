@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-82",
+    "name": "Zacian",
+    "number": "82",
+    "setId": "swsh4",
+    "rarity": "Amazing Rare",
+    "priceChartingIds": {
+        "normal": "842078"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$21.00",
+                "grade9": "$11.94"
+            }
+        }
+    }
+}

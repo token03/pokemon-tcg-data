@@ -1,0 +1,25 @@
+{
+    "id": "sm8-30",
+    "name": "Ninjask",
+    "number": "30",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962418",
+        "reverse-holo": "962651"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.02",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

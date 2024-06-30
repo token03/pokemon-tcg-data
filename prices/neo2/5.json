@@ -1,0 +1,25 @@
+{
+    "id": "neo2-5",
+    "name": "Houndour",
+    "number": "5",
+    "setId": "neo2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762430",
+        "1st-edition": "2158445"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.46",
+                "psa10": "$1,275.00",
+                "grade9": "$95.52"
+            },
+            "1st-edition": {
+                "ungraded": "$70.05",
+                "psa10": "$3,800.00",
+                "grade9": "$224.13"
+            }
+        }
+    }
+}

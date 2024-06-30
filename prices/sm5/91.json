@@ -1,0 +1,25 @@
+{
+    "id": "sm5-91",
+    "name": "Magearna",
+    "number": "91",
+    "setId": "sm5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961454",
+        "reverse-holo": "961620"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.73",
+                "grade9": "$12.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.66",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

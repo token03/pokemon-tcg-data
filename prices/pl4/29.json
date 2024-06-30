@@ -1,0 +1,25 @@
+{
+    "id": "pl4-29",
+    "name": "Raticate",
+    "number": "29",
+    "setId": "pl4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925648",
+        "reverse-holo": "925759"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.69",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

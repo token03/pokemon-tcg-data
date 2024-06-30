@@ -1,0 +1,31 @@
+{
+    "id": "ex16-55",
+    "name": "Meditite",
+    "number": "55",
+    "setId": "ex16",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889719",
+        "reverse-holo": "889826",
+        "stamped": "4916989"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$0.99",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.33",
+                "psa10": "$55.02",
+                "grade9": "$20.81"
+            },
+            "stamped": {
+                "ungraded": "$3.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

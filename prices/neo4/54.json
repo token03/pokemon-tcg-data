@@ -1,0 +1,25 @@
+{
+    "id": "neo4-54",
+    "name": "Light Wigglytuff",
+    "number": "54",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762620",
+        "1st-edition": "2183360"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.60",
+                "psa10": "$60.00",
+                "grade9": "$19.36"
+            },
+            "1st-edition": {
+                "ungraded": "$8.11",
+                "psa10": "$69.23",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

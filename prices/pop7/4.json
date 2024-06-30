@@ -1,0 +1,25 @@
+{
+    "id": "pop7-4",
+    "name": "Latios",
+    "number": "4",
+    "setId": "pop7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762810",
+        "holo": "762827"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.40",
+                "psa10": "$146.22",
+                "grade9": "$36.74"
+            },
+            "holo": {
+                "ungraded": "$2.76",
+                "psa10": "$71.97",
+                "grade9": "$50.00"
+            }
+        }
+    }
+}

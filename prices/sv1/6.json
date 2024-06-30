@@ -1,0 +1,31 @@
+{
+    "id": "sv1-6",
+    "name": "Cacturne",
+    "number": "6",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933784",
+        "holo": "5826824",
+        "reverse-holo": "4934038"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.87",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$0.76",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "$35.25",
+                "grade9": "$11.75"
+            }
+        }
+    }
+}

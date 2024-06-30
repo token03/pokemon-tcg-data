@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-95",
+    "name": "Mr. Mime",
+    "number": "95",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842615",
+        "reverse-holo": "2293986"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": "$27.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.99",
+                "psa10": "",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

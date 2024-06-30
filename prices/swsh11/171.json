@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-171",
+    "name": "Gift Energy",
+    "number": "171",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4050088",
+        "reverse-holo": "4050289"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$35.25",
+                "grade9": "$11.96"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.87",
+                "psa10": "$37.79",
+                "grade9": "$12.90"
+            }
+        }
+    }
+}

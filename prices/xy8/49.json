@@ -1,0 +1,25 @@
+{
+    "id": "xy8-49",
+    "name": "Raichu",
+    "number": "49",
+    "setId": "xy8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959237",
+        "reverse-holo": "959397"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.89",
+                "psa10": "$240.55",
+                "grade9": "$36.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.50",
+                "psa10": "$99.00",
+                "grade9": "$31.00"
+            }
+        }
+    }
+}

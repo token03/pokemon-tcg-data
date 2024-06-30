@@ -1,0 +1,19 @@
+{
+    "id": "sm3-131",
+    "name": "Ho-Oh-GX",
+    "number": "131",
+    "setId": "sm3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960915"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.54",
+                "psa10": "$68.06",
+                "grade9": "$26.46"
+            }
+        }
+    }
+}

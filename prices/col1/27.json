@@ -1,0 +1,25 @@
+{
+    "id": "col1-27",
+    "name": "Meganium",
+    "number": "27",
+    "setId": "col1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926278",
+        "reverse-holo": "926384"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.16",
+                "psa10": "$66.00",
+                "grade9": "$58.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.59",
+                "psa10": "$88.14",
+                "grade9": "$21.50"
+            }
+        }
+    }
+}

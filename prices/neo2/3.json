@@ -1,0 +1,25 @@
+{
+    "id": "neo2-3",
+    "name": "Hitmontop",
+    "number": "3",
+    "setId": "neo2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762427",
+        "1st-edition": "2158440"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.38",
+                "psa10": "$417.60",
+                "grade9": "$40.49"
+            },
+            "1st-edition": {
+                "ungraded": "$29.62",
+                "psa10": "$810.00",
+                "grade9": "$79.01"
+            }
+        }
+    }
+}

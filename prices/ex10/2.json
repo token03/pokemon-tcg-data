@@ -1,0 +1,25 @@
+{
+    "id": "ex10-2",
+    "name": "Ariados",
+    "number": "2",
+    "setId": "ex10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888422",
+        "reverse-holo": "888564"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$404.44",
+                "grade9": "$31.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.22",
+                "psa10": "$179.14",
+                "grade9": "$37.30"
+            }
+        }
+    }
+}

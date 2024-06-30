@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-178",
+    "name": "Garganacl",
+    "number": "178",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277097"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.41",
+                "psa10": "$20.50",
+                "grade9": "$5.56"
+            }
+        }
+    }
+}

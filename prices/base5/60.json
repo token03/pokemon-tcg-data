@@ -1,0 +1,25 @@
+{
+    "id": "base5-60",
+    "name": "Magnemite",
+    "number": "60",
+    "setId": "base5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643492",
+        "1st-edition": "1341401"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$30.78",
+                "grade9": "$19.99"
+            },
+            "1st-edition": {
+                "ungraded": "$2.49",
+                "psa10": "$48.49",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

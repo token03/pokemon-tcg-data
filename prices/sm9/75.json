@@ -1,0 +1,25 @@
+{
+    "id": "sm9-75",
+    "name": "Omanyte",
+    "number": "75",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962873",
+        "reverse-holo": "963062"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

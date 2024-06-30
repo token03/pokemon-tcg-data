@@ -1,0 +1,19 @@
+{
+    "id": "cel25-3",
+    "name": "Kyogre",
+    "number": "3",
+    "setId": "cel25",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2618148"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$34.30",
+                "grade9": "$12.47"
+            }
+        }
+    }
+}

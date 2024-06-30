@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-58",
+    "name": "Dracozolt V",
+    "number": "58",
+    "setId": "swsh7",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2512869"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.78",
+                "psa10": "$22.84",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

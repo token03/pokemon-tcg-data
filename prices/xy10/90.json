@@ -1,0 +1,25 @@
+{
+    "id": "xy10-90",
+    "name": "Alakazam Spirit Link",
+    "number": "90",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959947",
+        "reverse-holo": "960054"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$35.05",
+                "grade9": "$12.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.01",
+                "psa10": "$40.24",
+                "grade9": "$16.07"
+            }
+        }
+    }
+}

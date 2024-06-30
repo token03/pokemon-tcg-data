@@ -1,0 +1,31 @@
+{
+    "id": "bw1-53",
+    "name": "Whirlipede",
+    "number": "53",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806363",
+        "league-promo": "5809316",
+        "reverse-holo": "806450"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$29.99",
+                "grade9": "$16.00"
+            },
+            "league-promo": {
+                "ungraded": "$1.92",
+                "psa10": "",
+                "grade9": "$4.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

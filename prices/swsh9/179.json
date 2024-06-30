@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-179",
+    "name": "Kindler",
+    "number": "179",
+    "setId": "swsh9",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3216304"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.13",
+                "psa10": "$26.00",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

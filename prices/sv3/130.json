@@ -1,0 +1,43 @@
+{
+    "id": "sv3-130",
+    "name": "Umbreon",
+    "number": "130",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605648",
+        "eb-games": "5924033",
+        "gamestop": "5639936",
+        "reverse-holo": "5605873",
+        "stamped": "5964327"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "$37.69",
+                "grade9": "$14.00"
+            },
+            "eb-games": {
+                "ungraded": "$19.70",
+                "psa10": "$114.20",
+                "grade9": "$62.00"
+            },
+            "gamestop": {
+                "ungraded": "$13.94",
+                "psa10": "$70.00",
+                "grade9": "$20.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$54.67",
+                "grade9": "$18.12"
+            },
+            "stamped": {
+                "ungraded": "$35.00",
+                "psa10": "$188.44",
+                "grade9": "$19.49"
+            }
+        }
+    }
+}

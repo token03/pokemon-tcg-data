@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-168",
+    "name": "Houndstone",
+    "number": "168",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277087"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.67",
+                "psa10": "$48.91",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

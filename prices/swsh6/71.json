@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-71",
+    "name": "Hatenna",
+    "number": "71",
+    "setId": "swsh6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2253876",
+        "reverse-holo": "2254098"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

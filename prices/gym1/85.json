@@ -1,0 +1,25 @@
+{
+    "id": "gym1-85",
+    "name": "Misty's Goldeen",
+    "number": "85",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886559",
+        "1st-edition": "2156523"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$24.00",
+                "grade9": "$20.35"
+            },
+            "1st-edition": {
+                "ungraded": "$2.49",
+                "psa10": "$51.86",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

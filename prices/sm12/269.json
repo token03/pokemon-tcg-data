@@ -1,0 +1,19 @@
+{
+    "id": "sm12-269",
+    "name": "Power Plant",
+    "number": "269",
+    "setId": "sm12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "964507"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.99",
+                "psa10": "$32.26",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

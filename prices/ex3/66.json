@@ -1,0 +1,25 @@
+{
+    "id": "ex3-66",
+    "name": "Nincada",
+    "number": "66",
+    "setId": "ex3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849446",
+        "reverse-holo": "849545"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.86",
+                "psa10": "$26.00",
+                "grade9": "$17.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$51.00",
+                "grade9": "$16.94"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex4-25",
+    "name": "Team Aqua's Carvanha",
+    "number": "25",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849594",
+        "reverse-holo": "849691"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": "$31.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$101.09",
+                "grade9": "$23.49"
+            }
+        }
+    }
+}

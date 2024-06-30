@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-103",
+    "name": "Exeggutor",
+    "number": "103",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809484",
+        "reverse-holo": "5809686"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$39.13",
+                "grade9": "$12.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$39.13",
+                "grade9": "$12.76"
+            }
+        }
+    }
+}

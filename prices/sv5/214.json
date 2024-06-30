@@ -1,0 +1,19 @@
+{
+    "id": "sv5-214",
+    "name": "Gouging Fire ex",
+    "number": "214",
+    "setId": "sv5",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "6495674"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.67",
+                "psa10": "$46.44",
+                "grade9": "$14.01"
+            }
+        }
+    }
+}

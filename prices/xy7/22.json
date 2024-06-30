@@ -1,0 +1,25 @@
+{
+    "id": "xy7-22",
+    "name": "Vaporeon",
+    "number": "22",
+    "setId": "xy7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959041",
+        "reverse-holo": "959138"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$22.22",
+                "grade9": "$10.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.45",
+                "psa10": "$33.58",
+                "grade9": "$20.34"
+            }
+        }
+    }
+}

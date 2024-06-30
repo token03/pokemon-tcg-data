@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-21",
+    "name": "Lanturn",
+    "number": "21",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887923",
+        "reverse-holo": "2293912"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.71",
+                "psa10": "$235.60",
+                "grade9": "$19.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.10",
+                "psa10": "$454.43",
+                "grade9": "$37.00"
+            }
+        }
+    }
+}

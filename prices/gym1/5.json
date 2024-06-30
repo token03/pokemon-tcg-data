@@ -1,0 +1,25 @@
+{
+    "id": "gym1-5",
+    "name": "Erika's Vileplume",
+    "number": "5",
+    "setId": "gym1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762168",
+        "1st-edition": "2156484"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.09",
+                "psa10": "$186.42",
+                "grade9": "$44.48"
+            },
+            "1st-edition": {
+                "ungraded": "$39.00",
+                "psa10": "$359.95",
+                "grade9": "$87.50"
+            }
+        }
+    }
+}

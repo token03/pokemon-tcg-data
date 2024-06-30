@@ -1,0 +1,25 @@
+{
+    "id": "ex11-97",
+    "name": "Holon Scientist",
+    "number": "97",
+    "setId": "ex11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888759",
+        "reverse-holo": "888873"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$66.02",
+                "grade9": "$27.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.47",
+                "psa10": "$159.51",
+                "grade9": "$16.28"
+            }
+        }
+    }
+}

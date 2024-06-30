@@ -1,0 +1,19 @@
+{
+    "id": "mcd17-12",
+    "name": "Yungoos",
+    "number": "12",
+    "setId": "mcd17",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180039"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

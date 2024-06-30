@@ -1,0 +1,25 @@
+{
+    "id": "pl2-77",
+    "name": "Sealeo",
+    "number": "77",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925473",
+        "reverse-holo": "925592"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy5-59",
+    "name": "Electrike",
+    "number": "59",
+    "setId": "xy5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958516",
+        "reverse-holo": "958674"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.55",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.46",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

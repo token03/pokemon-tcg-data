@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-96",
+    "name": "Pok\u00e9gear 3.0",
+    "number": "96",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806207",
+        "reverse-holo": "806314"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.24",
+                "psa10": "$126.14",
+                "grade9": "$52.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

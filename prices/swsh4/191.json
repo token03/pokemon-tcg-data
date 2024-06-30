@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-191",
+    "name": "Togekiss VMAX",
+    "number": "191",
+    "setId": "swsh4",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "887728"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.44",
+                "psa10": "$28.82",
+                "grade9": "$16.79"
+            }
+        }
+    }
+}

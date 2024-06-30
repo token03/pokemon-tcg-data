@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-149",
+    "name": "Kamado",
+    "number": "149",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489648",
+        "reverse-holo": "3489842"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.80",
+                "psa10": "$33.26",
+                "grade9": "$11.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.11",
+                "psa10": "$34.52",
+                "grade9": "$11.78"
+            }
+        }
+    }
+}

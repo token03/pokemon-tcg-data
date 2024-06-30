@@ -1,0 +1,25 @@
+{
+    "id": "neo1-72",
+    "name": "Shuckle",
+    "number": "72",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762386",
+        "1st-edition": "2324915"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.89",
+                "psa10": "$49.00",
+                "grade9": "$30.62"
+            },
+            "1st-edition": {
+                "ungraded": "$2.10",
+                "psa10": "$52.90",
+                "grade9": "$18.93"
+            }
+        }
+    }
+}

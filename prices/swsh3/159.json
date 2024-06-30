@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-159",
+    "name": "Bird Keeper",
+    "number": "159",
+    "setId": "swsh3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887237",
+        "reverse-holo": "887415"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$34.33",
+                "grade9": "$12.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$34.68",
+                "grade9": "$12.39"
+            }
+        }
+    }
+}

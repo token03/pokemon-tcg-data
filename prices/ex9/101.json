@@ -1,0 +1,19 @@
+{
+    "id": "ex9-101",
+    "name": "Grass Energy",
+    "number": "101",
+    "setId": "ex9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "888326"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$9.19",
+                "psa10": "$94.14",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

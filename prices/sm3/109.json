@@ -1,0 +1,25 @@
+{
+    "id": "sm3-109",
+    "name": "Noibat",
+    "number": "109",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960893",
+        "reverse-holo": "961050"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.38",
+                "grade9": "$12.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "$37.40",
+                "grade9": "$14.46"
+            }
+        }
+    }
+}

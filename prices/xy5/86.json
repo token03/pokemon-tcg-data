@@ -1,0 +1,19 @@
+{
+    "id": "xy5-86",
+    "name": "Primal Groudon-EX",
+    "number": "86",
+    "setId": "xy5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958543"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.53",
+                "psa10": "$93.98",
+                "grade9": "$33.20"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy5-158",
+    "name": "Maxie's Hidden Ball Trick",
+    "number": "158",
+    "setId": "xy5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958615"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.18",
+                "psa10": "$36.00",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

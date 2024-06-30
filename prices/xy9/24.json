@@ -1,0 +1,25 @@
+{
+    "id": "xy9-24",
+    "name": "Cloyster",
+    "number": "24",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959515",
+        "reverse-holo": "959636"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$37.75",
+                "grade9": "$14.57"
+            }
+        }
+    }
+}

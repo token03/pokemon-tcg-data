@@ -1,0 +1,19 @@
+{
+    "id": "dp7-98",
+    "name": "Machamp LV.X",
+    "number": "98",
+    "setId": "dp7",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925299"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.24",
+                "psa10": "$484.65",
+                "grade9": "$85.69"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sm4-95",
+    "name": "Gladion",
+    "number": "95",
+    "setId": "sm4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961241",
+        "regional-championships": "5790883",
+        "reverse-holo": "961357"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "$34.53",
+                "grade9": "$6.02"
+            },
+            "regional-championships": {
+                "ungraded": "$9.72",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.68",
+                "psa10": "$37.32",
+                "grade9": "$14.41"
+            }
+        }
+    }
+}

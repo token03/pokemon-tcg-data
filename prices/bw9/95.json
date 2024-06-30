@@ -1,0 +1,25 @@
+{
+    "id": "bw9-95",
+    "name": "Starly",
+    "number": "95",
+    "setId": "bw9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957149",
+        "reverse-holo": "957265"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy10-8",
+    "name": "Deerling",
+    "number": "8",
+    "setId": "xy10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959865",
+        "reverse-holo": "959990"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$36.57",
+                "grade9": "$13.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.81",
+                "psa10": "$39.21",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

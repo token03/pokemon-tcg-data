@@ -1,0 +1,25 @@
+{
+    "id": "pop1-1",
+    "name": "Blaziken",
+    "number": "1",
+    "setId": "pop1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762666",
+        "holo": "762683"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.99",
+                "psa10": "$499.99",
+                "grade9": "$42.08"
+            },
+            "holo": {
+                "ungraded": "$6.96",
+                "psa10": "$150.73",
+                "grade9": "$34.21"
+            }
+        }
+    }
+}

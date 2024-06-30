@@ -1,0 +1,25 @@
+{
+    "id": "base6-36",
+    "name": "Arcanine",
+    "number": "36",
+    "setId": "base6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842343",
+        "reverse-holo": "2253719"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.96",
+                "psa10": "$123.44",
+                "grade9": "$33.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$72.05",
+                "psa10": "$1,288.27",
+                "grade9": "$264.98"
+            }
+        }
+    }
+}

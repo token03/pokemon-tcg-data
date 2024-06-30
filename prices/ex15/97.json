@@ -1,0 +1,25 @@
+{
+    "id": "ex15-97",
+    "name": "Rayquaza ex \u03b4",
+    "number": "97",
+    "setId": "ex15",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889571",
+        "reverse-holo": "5830381"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$74.66",
+                "psa10": "$1,000.00",
+                "grade9": "$217.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$500.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-47",
+    "name": "Cherubi",
+    "number": "47",
+    "setId": "hgss2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287389",
+        "reverse-holo": "1287485"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

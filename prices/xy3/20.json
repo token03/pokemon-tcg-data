@@ -1,0 +1,19 @@
+{
+    "id": "xy3-20",
+    "name": "Seismitoad-EX",
+    "number": "20",
+    "setId": "xy3",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958002"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.47",
+                "psa10": "$68.37",
+                "grade9": "$23.44"
+            }
+        }
+    }
+}

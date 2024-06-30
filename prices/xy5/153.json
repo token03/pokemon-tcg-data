@@ -1,0 +1,19 @@
+{
+    "id": "xy5-153",
+    "name": "Aggron-EX",
+    "number": "153",
+    "setId": "xy5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958610"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.98",
+                "psa10": "$81.69",
+                "grade9": "$39.78"
+            }
+        }
+    }
+}

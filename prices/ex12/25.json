@@ -1,0 +1,25 @@
+{
+    "id": "ex12-25",
+    "name": "Solrock",
+    "number": "25",
+    "setId": "ex12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888907",
+        "reverse-holo": "889000"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.42",
+                "psa10": "$20.50",
+                "grade9": "$19.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.44",
+                "psa10": "$137.99",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

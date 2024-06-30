@@ -1,0 +1,25 @@
+{
+    "id": "sm11-113",
+    "name": "Gabite",
+    "number": "113",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963679",
+        "reverse-holo": "963927"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$33.86",
+                "grade9": "$12.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$8.52",
+                "grade9": ""
+            }
+        }
+    }
+}

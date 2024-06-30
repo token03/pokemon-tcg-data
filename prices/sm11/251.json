@@ -1,0 +1,19 @@
+{
+    "id": "sm11-251",
+    "name": "Giant Bomb",
+    "number": "251",
+    "setId": "sm11",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "963817"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.15",
+                "psa10": "$25.33",
+                "grade9": "$18.02"
+            }
+        }
+    }
+}

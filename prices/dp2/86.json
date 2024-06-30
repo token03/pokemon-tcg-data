@@ -1,0 +1,25 @@
+{
+    "id": "dp2-86",
+    "name": "Kricketot",
+    "number": "86",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920709",
+        "reverse-holo": "920833"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

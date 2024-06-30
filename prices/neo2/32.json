@@ -1,0 +1,25 @@
+{
+    "id": "neo2-32",
+    "name": "Umbreon",
+    "number": "32",
+    "setId": "neo2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886584",
+        "1st-edition": "2158483"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.19",
+                "psa10": "$258.73",
+                "grade9": "$80.00"
+            },
+            "1st-edition": {
+                "ungraded": "$62.24",
+                "psa10": "$555.00",
+                "grade9": "$124.41"
+            }
+        }
+    }
+}

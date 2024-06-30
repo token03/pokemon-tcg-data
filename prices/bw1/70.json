@@ -1,0 +1,25 @@
+{
+    "id": "bw1-70",
+    "name": "Zorua",
+    "number": "70",
+    "setId": "bw1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806379",
+        "reverse-holo": "806466"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.80",
+                "psa10": "$58.33",
+                "grade9": "$23.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.59",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

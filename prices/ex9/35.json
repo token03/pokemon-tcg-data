@@ -1,0 +1,31 @@
+{
+    "id": "ex9-35",
+    "name": "Loudred",
+    "number": "35",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888260",
+        "reverse-holo": "888367",
+        "state-championships": "6245985"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.97",
+                "psa10": "$35.15",
+                "grade9": "$27.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.95",
+                "psa10": "$238.93",
+                "grade9": "$11.75"
+            },
+            "state-championships": {
+                "ungraded": "$50.78",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw5-36",
+    "name": "Swanna",
+    "number": "36",
+    "setId": "bw5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956082",
+        "reverse-holo": "956192"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "base5-28",
+    "name": "Dark Magneton",
+    "number": "28",
+    "setId": "base5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341832",
+        "1st-edition": "1341370"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$33.83",
+                "grade9": "$20.00"
+            },
+            "1st-edition": {
+                "ungraded": "$7.99",
+                "psa10": "$67.73",
+                "grade9": "$25.49"
+            }
+        }
+    }
+}

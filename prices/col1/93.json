@@ -1,0 +1,25 @@
+{
+    "id": "col1-93",
+    "name": "Fighting Energy",
+    "number": "93",
+    "setId": "col1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "926344",
+        "play!-promo": "6377622"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.63",
+                "psa10": "$96.86",
+                "grade9": "$21.50"
+            },
+            "play!-promo": {
+                "ungraded": "$18.11",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

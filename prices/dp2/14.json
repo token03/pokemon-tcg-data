@@ -1,0 +1,25 @@
+{
+    "id": "dp2-14",
+    "name": "Mesprit",
+    "number": "14",
+    "setId": "dp2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920637",
+        "reverse-holo": "920762"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.59",
+                "psa10": "$108.06",
+                "grade9": "$31.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.40",
+                "psa10": "$182.10",
+                "grade9": "$26.48"
+            }
+        }
+    }
+}

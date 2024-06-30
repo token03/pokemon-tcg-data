@@ -1,0 +1,25 @@
+{
+    "id": "sv5-128",
+    "name": "Dunsparce",
+    "number": "128",
+    "setId": "sv5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6495588",
+        "reverse-holo": "6495792"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$35.82",
+                "grade9": "$11.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$35.29",
+                "grade9": "$11.43"
+            }
+        }
+    }
+}

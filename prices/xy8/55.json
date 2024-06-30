@@ -1,0 +1,25 @@
+{
+    "id": "xy8-55",
+    "name": "Raikou",
+    "number": "55",
+    "setId": "xy8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959243",
+        "reverse-holo": "959402"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$111.80",
+                "grade9": "$17.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.40",
+                "psa10": "$81.77",
+                "grade9": "$25.03"
+            }
+        }
+    }
+}

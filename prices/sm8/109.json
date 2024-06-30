@@ -1,0 +1,25 @@
+{
+    "id": "sm8-109",
+    "name": "Onix",
+    "number": "109",
+    "setId": "sm8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962497",
+        "reverse-holo": "962723"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.96",
+                "grade9": "$12.33"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$35.77",
+                "grade9": "$13.38"
+            }
+        }
+    }
+}

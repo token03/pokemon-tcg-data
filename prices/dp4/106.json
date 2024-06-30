@@ -1,0 +1,19 @@
+{
+    "id": "dp4-106",
+    "name": "Palkia LV.X",
+    "number": "106",
+    "setId": "dp4",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "921260"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$27.00",
+                "psa10": "$2,063.00",
+                "grade9": "$100.00"
+            }
+        }
+    }
+}

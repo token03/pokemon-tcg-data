@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-168",
+    "name": "Rose",
+    "number": "168",
+    "setId": "swsh3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887246",
+        "reverse-holo": "887424"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.89",
+                "psa10": "$33.38",
+                "grade9": "$11.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$54.00",
+                "grade9": "$45.00"
+            }
+        }
+    }
+}

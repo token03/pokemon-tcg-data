@@ -1,0 +1,25 @@
+{
+    "id": "ex3-73",
+    "name": "Spoink",
+    "number": "73",
+    "setId": "ex3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849452",
+        "reverse-holo": "849552"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.34",
+                "psa10": "$22.50",
+                "grade9": "$20.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.85",
+                "psa10": "$99.73",
+                "grade9": "$29.98"
+            }
+        }
+    }
+}

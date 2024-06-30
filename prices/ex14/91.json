@@ -1,0 +1,19 @@
+{
+    "id": "ex14-91",
+    "name": "Delcatty ex",
+    "number": "91",
+    "setId": "ex14",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889378"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.13",
+                "psa10": "$289.00",
+                "grade9": "$66.00"
+            }
+        }
+    }
+}

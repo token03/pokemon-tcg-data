@@ -1,0 +1,25 @@
+{
+    "id": "neo4-23",
+    "name": "Light Lanturn",
+    "number": "23",
+    "setId": "neo4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762609",
+        "1st-edition": "2183349"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.04",
+                "psa10": "$36.22",
+                "grade9": "$18.00"
+            },
+            "1st-edition": {
+                "ungraded": "$8.00",
+                "psa10": "$37.00",
+                "grade9": "$21.52"
+            }
+        }
+    }
+}

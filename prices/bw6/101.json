@@ -1,0 +1,25 @@
+{
+    "id": "bw6-101",
+    "name": "Slakoth",
+    "number": "101",
+    "setId": "bw6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956354",
+        "reverse-holo": "956476"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

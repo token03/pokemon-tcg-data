@@ -1,0 +1,19 @@
+{
+    "id": "bw9-110",
+    "name": "Thundurus-EX",
+    "number": "110",
+    "setId": "bw9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "957164"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.92",
+                "psa10": "$485.22",
+                "grade9": "$92.20"
+            }
+        }
+    }
+}

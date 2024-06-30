@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-96",
+    "name": "Diggersby",
+    "number": "96",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887181",
+        "reverse-holo": "887363"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.75",
+                "grade9": "$12.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$34.98",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

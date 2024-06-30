@@ -1,0 +1,25 @@
+{
+    "id": "sm12-21",
+    "name": "Buzzwole",
+    "number": "21",
+    "setId": "sm12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "964259",
+        "reverse-holo": "964528"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.65",
+                "psa10": "$36.86",
+                "grade9": "$24.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.40",
+                "psa10": "$39.75",
+                "grade9": "$6.50"
+            }
+        }
+    }
+}

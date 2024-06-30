@@ -1,0 +1,25 @@
+{
+    "id": "ex9-40",
+    "name": "Swalot",
+    "number": "40",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888265",
+        "reverse-holo": "888372"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$61.49",
+                "grade9": "$21.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.41",
+                "psa10": "$143.33",
+                "grade9": "$25.58"
+            }
+        }
+    }
+}

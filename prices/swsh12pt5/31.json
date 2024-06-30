@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-31",
+    "name": "Wailmer",
+    "number": "31",
+    "setId": "swsh12pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4636927",
+        "reverse-holo": "4637151"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.25",
+                "grade9": "$11.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.54",
+                "grade9": "$11.93"
+            }
+        }
+    }
+}

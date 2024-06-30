@@ -1,0 +1,19 @@
+{
+    "id": "sm7-176",
+    "name": "Stakataka-GX",
+    "number": "176",
+    "setId": "sm7",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "962089"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.24",
+                "psa10": "$51.44",
+                "grade9": "$16.99"
+            }
+        }
+    }
+}

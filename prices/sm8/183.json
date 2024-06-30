@@ -1,0 +1,25 @@
+{
+    "id": "sm8-183",
+    "name": "Mina",
+    "number": "183",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962571",
+        "reverse-holo": "962787"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "$34.16",
+                "grade9": "$12.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

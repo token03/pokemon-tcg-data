@@ -1,0 +1,19 @@
+{
+    "id": "det1-12",
+    "name": "Mewtwo",
+    "number": "12",
+    "setId": "det1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963149"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.68",
+                "psa10": "$53.28",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

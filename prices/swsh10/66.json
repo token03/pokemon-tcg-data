@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-66",
+    "name": "Mesprit",
+    "number": "66",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "3489564",
+        "reverse-holo": "3489772"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$36.11",
+                "grade9": "$8.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "$36.44",
+                "grade9": "$12.53"
+            }
+        }
+    }
+}

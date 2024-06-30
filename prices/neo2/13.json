@@ -1,0 +1,25 @@
+{
+    "id": "neo2-13",
+    "name": "Umbreon",
+    "number": "13",
+    "setId": "neo2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762458",
+        "1st-edition": "2158482"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$145.48",
+                "psa10": "$1,607.16",
+                "grade9": "$400.00"
+            },
+            "1st-edition": {
+                "ungraded": "$395.00",
+                "psa10": "$6,194.37",
+                "grade9": "$1,384.05"
+            }
+        }
+    }
+}

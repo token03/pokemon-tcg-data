@@ -1,0 +1,25 @@
+{
+    "id": "neo4-102",
+    "name": "Pok\u00e9mon Personality Test",
+    "number": "102",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762630",
+        "1st-edition": "2183370"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.28",
+                "psa10": "$30.26",
+                "grade9": "$19.99"
+            },
+            "1st-edition": {
+                "ungraded": "$8.54",
+                "psa10": "$88.25",
+                "grade9": "$15.85"
+            }
+        }
+    }
+}

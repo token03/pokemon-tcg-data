@@ -1,0 +1,25 @@
+{
+    "id": "ex5-74",
+    "name": "Spheal",
+    "number": "74",
+    "setId": "ex5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849847",
+        "reverse-holo": "849949"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.37",
+                "psa10": "$35.00",
+                "grade9": "$28.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.28",
+                "psa10": "$128.81",
+                "grade9": "$37.50"
+            }
+        }
+    }
+}

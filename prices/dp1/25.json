@@ -1,0 +1,25 @@
+{
+    "id": "dp1-25",
+    "name": "Dustox",
+    "number": "25",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763061",
+        "reverse-holo": "763183"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.52",
+                "psa10": "$67.17",
+                "grade9": "$24.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.94",
+                "psa10": "$45.50",
+                "grade9": "$15.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-117",
+    "name": "Machop",
+    "number": "117",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842491",
+        "reverse-holo": "2266970"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "$39.27",
+                "grade9": "$17.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.02",
+                "psa10": "$66.00",
+                "grade9": "$31.85"
+            }
+        }
+    }
+}

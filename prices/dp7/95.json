@@ -1,0 +1,25 @@
+{
+    "id": "dp7-95",
+    "name": "Warp Energy",
+    "number": "95",
+    "setId": "dp7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925877",
+        "reverse-holo": "925394"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

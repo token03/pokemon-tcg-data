@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-100",
+    "name": "Whiscash",
+    "number": "100",
+    "setId": "swsh2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886828",
+        "reverse-holo": "887018"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$34.18",
+                "grade9": "$12.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.22",
+                "psa10": "$34.64",
+                "grade9": "$12.45"
+            }
+        }
+    }
+}

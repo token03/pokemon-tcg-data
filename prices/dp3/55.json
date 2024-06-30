@@ -1,0 +1,25 @@
+{
+    "id": "dp3-55",
+    "name": "Miltank",
+    "number": "55",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920945",
+        "reverse-holo": "921077"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$61.42",
+                "grade9": "$22.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.40",
+                "psa10": "",
+                "grade9": "$41.25"
+            }
+        }
+    }
+}

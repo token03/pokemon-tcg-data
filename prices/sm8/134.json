@@ -1,0 +1,25 @@
+{
+    "id": "sm8-134",
+    "name": "Wigglytuff",
+    "number": "134",
+    "setId": "sm8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962522",
+        "reverse-holo": "962745"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$34.85",
+                "grade9": "$12.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": "$14.99"
+            }
+        }
+    }
+}

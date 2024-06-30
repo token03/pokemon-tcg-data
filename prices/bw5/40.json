@@ -1,0 +1,25 @@
+{
+    "id": "bw5-40",
+    "name": "Minun",
+    "number": "40",
+    "setId": "bw5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956086",
+        "reverse-holo": "956195"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.17",
+                "psa10": "$49.00",
+                "grade9": "$19.40"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.71",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

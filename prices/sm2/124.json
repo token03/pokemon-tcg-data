@@ -1,0 +1,25 @@
+{
+    "id": "sm2-124",
+    "name": "Enhanced Hammer",
+    "number": "124",
+    "setId": "sm2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960621",
+        "reverse-holo": "960778"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$35.86",
+                "grade9": "$13.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$36.50",
+                "grade9": "$13.91"
+            }
+        }
+    }
+}

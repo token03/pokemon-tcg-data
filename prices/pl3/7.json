@@ -1,0 +1,25 @@
+{
+    "id": "pl3-7",
+    "name": "Metagross",
+    "number": "7",
+    "setId": "pl3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1287054",
+        "reverse-holo": "1287208"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$250.00",
+                "grade9": "$36.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.95",
+                "psa10": "$220.82",
+                "grade9": "$23.66"
+            }
+        }
+    }
+}

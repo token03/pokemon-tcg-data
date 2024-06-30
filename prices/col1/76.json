@@ -1,0 +1,25 @@
+{
+    "id": "col1-76",
+    "name": "Cheerleader's Cheer",
+    "number": "76",
+    "setId": "col1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926327",
+        "reverse-holo": "926433"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": "$39.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.41",
+                "psa10": "",
+                "grade9": "$19.58"
+            }
+        }
+    }
+}

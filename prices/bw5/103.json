@@ -1,0 +1,19 @@
+{
+    "id": "bw5-103",
+    "name": "Entei-EX",
+    "number": "103",
+    "setId": "bw5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956150"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$52.67",
+                "psa10": "$1,600.00",
+                "grade9": "$125.50"
+            }
+        }
+    }
+}

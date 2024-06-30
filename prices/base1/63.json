@@ -1,0 +1,37 @@
+{
+    "id": "base1-63",
+    "name": "Squirtle",
+    "number": "63",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630476",
+        "1st-edition": "715652",
+        "shadowless": "715754",
+        "trainer-deck-b": "2365261"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.13",
+                "psa10": "$61.00",
+                "grade9": "$31.88"
+            },
+            "1st-edition": {
+                "ungraded": "$50.50",
+                "psa10": "$810.00",
+                "grade9": "$184.00"
+            },
+            "shadowless": {
+                "ungraded": "$4.08",
+                "psa10": "$172.19",
+                "grade9": "$43.50"
+            },
+            "trainer-deck-b": {
+                "ungraded": "$120.00",
+                "psa10": "$475.00",
+                "grade9": "$418.99"
+            }
+        }
+    }
+}

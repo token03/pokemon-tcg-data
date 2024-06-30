@@ -1,0 +1,19 @@
+{
+    "id": "sv4-58",
+    "name": "Mewtwo ex",
+    "number": "58",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952895"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.92",
+                "psa10": "$24.74",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-29",
+    "name": "Sandslash",
+    "number": "29",
+    "setId": "hgss1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806142",
+        "reverse-holo": "806248"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$41.75",
+                "grade9": "$15.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.70",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

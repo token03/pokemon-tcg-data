@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-208",
+    "name": "Wallace",
+    "number": "208",
+    "setId": "swsh12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "4277329"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.15",
+                "psa10": "$28.00",
+                "grade9": "$11.38"
+            }
+        }
+    }
+}

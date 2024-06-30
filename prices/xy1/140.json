@@ -1,0 +1,19 @@
+{
+    "id": "xy1-140",
+    "name": "Fairy Energy",
+    "number": "140",
+    "setId": "xy1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2775130"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

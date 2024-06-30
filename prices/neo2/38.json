@@ -1,0 +1,25 @@
+{
+    "id": "neo2-38",
+    "name": "Eevee",
+    "number": "38",
+    "setId": "neo2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762421",
+        "1st-edition": "2158433"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.52",
+                "psa10": "$53.26",
+                "grade9": "$18.78"
+            },
+            "1st-edition": {
+                "ungraded": "$8.97",
+                "psa10": "$93.11",
+                "grade9": "$24.84"
+            }
+        }
+    }
+}

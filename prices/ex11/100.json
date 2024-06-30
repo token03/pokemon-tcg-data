@@ -1,0 +1,25 @@
+{
+    "id": "ex11-100",
+    "name": "Super Scoop Up",
+    "number": "100",
+    "setId": "ex11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888762",
+        "reverse-holo": "888876"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.67",
+                "psa10": "$24.42",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.68",
+                "psa10": "$175.00",
+                "grade9": "$12.78"
+            }
+        }
+    }
+}

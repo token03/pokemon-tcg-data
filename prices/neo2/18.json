@@ -1,0 +1,25 @@
+{
+    "id": "neo2-18",
+    "name": "Beedrill",
+    "number": "18",
+    "setId": "neo2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762417",
+        "1st-edition": "2158428"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.49",
+                "psa10": "$68.00",
+                "grade9": "$16.88"
+            },
+            "1st-edition": {
+                "ungraded": "$9.12",
+                "psa10": "$74.99",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

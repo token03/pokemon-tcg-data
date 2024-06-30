@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-30",
+    "name": "Smoochum",
+    "number": "30",
+    "setId": "hgss1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806143",
+        "reverse-holo": "806249"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.57",
+                "psa10": "$60.55",
+                "grade9": "$23.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

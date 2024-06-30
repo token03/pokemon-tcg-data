@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-26",
+    "name": "Tentacool",
+    "number": "26",
+    "setId": "swsh7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2512837",
+        "reverse-holo": "2513067"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.25",
+                "psa10": "$31.83",
+                "grade9": "$10.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$34.29",
+                "grade9": "$11.91"
+            }
+        }
+    }
+}

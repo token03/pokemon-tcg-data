@@ -1,0 +1,19 @@
+{
+    "id": "hgss3-82",
+    "name": "Houndoom",
+    "number": "82",
+    "setId": "hgss3",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "925969"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.47",
+                "psa10": "$984.81",
+                "grade9": "$83.59"
+            }
+        }
+    }
+}

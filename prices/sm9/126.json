@@ -1,0 +1,25 @@
+{
+    "id": "sm9-126",
+    "name": "Persian",
+    "number": "126",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962924",
+        "reverse-holo": "963107"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "$35.17",
+                "grade9": "$13.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.54",
+                "psa10": "$20.00",
+                "grade9": ""
+            }
+        }
+    }
+}

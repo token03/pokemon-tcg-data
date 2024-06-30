@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-54",
+    "name": "Psyduck",
+    "number": "54",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809435",
+        "reverse-holo": "5809639"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$34.59",
+                "grade9": "$11.39"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$35.46",
+                "grade9": "$11.65"
+            }
+        }
+    }
+}

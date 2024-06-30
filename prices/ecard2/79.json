@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-79",
+    "name": "Grimer",
+    "number": "79",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842603",
+        "reverse-holo": "2293970"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$45.67",
+                "grade9": "$28.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.25",
+                "psa10": "$130.00",
+                "grade9": "$54.00"
+            }
+        }
+    }
+}

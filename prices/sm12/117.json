@@ -1,0 +1,25 @@
+{
+    "id": "sm12-117",
+    "name": "Seismitoad",
+    "number": "117",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964355",
+        "reverse-holo": "964616"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$35.89",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.06",
+                "psa10": "$34.08",
+                "grade9": "$12.29"
+            }
+        }
+    }
+}

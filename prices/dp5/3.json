@@ -1,0 +1,25 @@
+{
+    "id": "dp5-3",
+    "name": "Darkrai",
+    "number": "3",
+    "setId": "dp5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "921365",
+        "reverse-holo": "921465"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.55",
+                "psa10": "$523.29",
+                "grade9": "$44.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.84",
+                "psa10": "$501.94",
+                "grade9": "$21.40"
+            }
+        }
+    }
+}

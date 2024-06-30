@@ -1,0 +1,25 @@
+{
+    "id": "dp5-72",
+    "name": "Piplup",
+    "number": "72",
+    "setId": "dp5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921434",
+        "reverse-holo": "921534"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$59.42",
+                "grade9": "$21.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.86",
+                "psa10": "",
+                "grade9": "$15.58"
+            }
+        }
+    }
+}

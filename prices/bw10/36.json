@@ -1,0 +1,25 @@
+{
+    "id": "bw10-36",
+    "name": "Uxie",
+    "number": "36",
+    "setId": "bw10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957338",
+        "reverse-holo": "957441"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.68",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

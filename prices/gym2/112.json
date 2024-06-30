@@ -1,0 +1,25 @@
+{
+    "id": "gym2-112",
+    "name": "Blaine's Quiz #3",
+    "number": "112",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762308",
+        "1st-edition": "1450306"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.37",
+                "psa10": "$141.31",
+                "grade9": "$12.50"
+            },
+            "1st-edition": {
+                "ungraded": "$5.40",
+                "psa10": "$45.00",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

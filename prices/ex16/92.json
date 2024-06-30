@@ -1,0 +1,19 @@
+{
+    "id": "ex16-92",
+    "name": "Absol ex",
+    "number": "92",
+    "setId": "ex16",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889756"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.76",
+                "psa10": "$291.77",
+                "grade9": "$94.73"
+            }
+        }
+    }
+}

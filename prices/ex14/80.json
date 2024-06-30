@@ -1,0 +1,25 @@
+{
+    "id": "ex14-80",
+    "name": "Memory Berry",
+    "number": "80",
+    "setId": "ex14",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889367",
+        "reverse-holo": "889466"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$41.56",
+                "grade9": "$7.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.96",
+                "psa10": "$102.01",
+                "grade9": "$14.39"
+            }
+        }
+    }
+}

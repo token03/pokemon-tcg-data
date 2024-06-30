@@ -1,0 +1,25 @@
+{
+    "id": "col1-69",
+    "name": "Relicanth",
+    "number": "69",
+    "setId": "col1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "926320",
+        "reverse-holo": "926425"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.66",
+                "psa10": "",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw9-99",
+    "name": "Float Stone",
+    "number": "99",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957153",
+        "reverse-holo": "957268"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.50",
+                "psa10": "$64.31",
+                "grade9": "$27.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.99",
+                "psa10": "$94.34",
+                "grade9": "$43.55"
+            }
+        }
+    }
+}

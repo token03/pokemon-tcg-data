@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-109",
+    "name": "Gastly",
+    "number": "109",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842483",
+        "reverse-holo": "2266962"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$49.95",
+                "grade9": "$34.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.83",
+                "psa10": "$325.32",
+                "grade9": "$48.79"
+            }
+        }
+    }
+}

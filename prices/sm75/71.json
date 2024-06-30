@@ -1,0 +1,19 @@
+{
+    "id": "sm75-71",
+    "name": "Reshiram-GX",
+    "number": "71",
+    "setId": "sm75",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "962305"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.91",
+                "psa10": "$96.00",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

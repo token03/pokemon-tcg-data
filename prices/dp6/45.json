@@ -1,0 +1,25 @@
+{
+    "id": "dp6-45",
+    "name": "Vileplume",
+    "number": "45",
+    "setId": "dp6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "924976",
+        "reverse-holo": "925122"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$22.84",
+                "grade9": "$18.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$65.70",
+                "grade9": "$21.17"
+            }
+        }
+    }
+}

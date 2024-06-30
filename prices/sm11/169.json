@@ -1,0 +1,25 @@
+{
+    "id": "sm11-169",
+    "name": "Vigoroth",
+    "number": "169",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963735",
+        "reverse-holo": "963976"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

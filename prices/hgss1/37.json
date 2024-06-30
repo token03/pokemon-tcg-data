@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-37",
+    "name": "Corsola",
+    "number": "37",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806150",
+        "reverse-holo": "806256"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.38",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm10-209",
+    "name": "Green's Exploration",
+    "number": "209",
+    "setId": "sm10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963365"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$65.00",
+                "psa10": "$160.00",
+                "grade9": "$85.57"
+            }
+        }
+    }
+}

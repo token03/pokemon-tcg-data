@@ -1,0 +1,31 @@
+{
+    "id": "basep-36",
+    "name": "Igglybuff",
+    "number": "36",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5704609",
+        "top-thirty-two": "6339455",
+        "worlds-staff": "6021697"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.32",
+                "psa10": "",
+                "grade9": ""
+            },
+            "top-thirty-two": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": "$821.44"
+            },
+            "worlds-staff": {
+                "ungraded": "$999.95",
+                "psa10": "",
+                "grade9": "$850.00"
+            }
+        }
+    }
+}

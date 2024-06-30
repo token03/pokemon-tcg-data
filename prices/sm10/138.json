@@ -1,0 +1,25 @@
+{
+    "id": "sm10-138",
+    "name": "Togekiss",
+    "number": "138",
+    "setId": "sm10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963294",
+        "reverse-holo": "963517"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.69",
+                "psa10": "$40.61",
+                "grade9": "$16.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.93",
+                "psa10": "$37.56",
+                "grade9": "$14.35"
+            }
+        }
+    }
+}

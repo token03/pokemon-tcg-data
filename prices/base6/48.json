@@ -1,0 +1,25 @@
+{
+    "id": "base6-48",
+    "name": "Kabuto",
+    "number": "48",
+    "setId": "base6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842355",
+        "reverse-holo": "2253732"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.51",
+                "psa10": "$61.74",
+                "grade9": "$10.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$41.83",
+                "psa10": "$363.94",
+                "grade9": "$93.32"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-208",
+    "name": "Oinkologne",
+    "number": "208",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277127"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.27",
+                "psa10": "$56.20",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw7-45",
+    "name": "Jellicent",
+    "number": "45",
+    "setId": "bw7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956560",
+        "reverse-holo": "956711"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.47",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

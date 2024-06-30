@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-25",
+    "name": "Weavile",
+    "number": "25",
+    "setId": "hgss3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925912",
+        "reverse-holo": "926003"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.74",
+                "psa10": "$71.48",
+                "grade9": "$17.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.09",
+                "psa10": "",
+                "grade9": "$11.78"
+            }
+        }
+    }
+}

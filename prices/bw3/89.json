@@ -1,0 +1,25 @@
+{
+    "id": "bw3-89",
+    "name": "Druddigon",
+    "number": "89",
+    "setId": "bw3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955744",
+        "reverse-holo": "955846"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

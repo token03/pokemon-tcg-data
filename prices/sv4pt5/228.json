@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-228",
+    "name": "Judge",
+    "number": "228",
+    "setId": "sv4pt5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6277147"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$13.67",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

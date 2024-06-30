@@ -1,0 +1,19 @@
+{
+    "id": "pop3-12",
+    "name": "Ditto",
+    "number": "12",
+    "setId": "pop3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762724"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.95",
+                "psa10": "$151.08",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

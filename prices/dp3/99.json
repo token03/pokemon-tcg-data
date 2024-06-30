@@ -1,0 +1,25 @@
+{
+    "id": "dp3-99",
+    "name": "Pidgey",
+    "number": "99",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920989",
+        "reverse-holo": "921120"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.86",
+                "psa10": "$19.00",
+                "grade9": "$11.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.87",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

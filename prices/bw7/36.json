@@ -1,0 +1,25 @@
+{
+    "id": "bw7-36",
+    "name": "Marill",
+    "number": "36",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956551",
+        "reverse-holo": "956702"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.36",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.18",
+                "psa10": "",
+                "grade9": "$14.06"
+            }
+        }
+    }
+}

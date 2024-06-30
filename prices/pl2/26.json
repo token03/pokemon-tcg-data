@@ -1,0 +1,25 @@
+{
+    "id": "pl2-26",
+    "name": "Jolteon",
+    "number": "26",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925422",
+        "reverse-holo": "925541"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.51",
+                "psa10": "$115.55",
+                "grade9": "$38.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.49",
+                "psa10": "$101.84",
+                "grade9": "$44.52"
+            }
+        }
+    }
+}

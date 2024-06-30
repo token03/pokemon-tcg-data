@@ -1,0 +1,25 @@
+{
+    "id": "pl1-50",
+    "name": "Houndoom G",
+    "number": "50",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "805968",
+        "reverse-holo": "805969"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$56.58",
+                "grade9": "$30.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$97.44",
+                "grade9": "$42.00"
+            }
+        }
+    }
+}

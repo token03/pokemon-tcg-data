@@ -1,0 +1,37 @@
+{
+    "id": "sm9-14",
+    "name": "Charizard",
+    "number": "14",
+    "setId": "sm9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962812",
+        "cosmos-holo": "5013677",
+        "cracked-ice": "4955992",
+        "reverse-holo": "963006"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.94",
+                "psa10": "$48.50",
+                "grade9": "$26.91"
+            },
+            "cosmos-holo": {
+                "ungraded": "$14.19",
+                "psa10": "$143.85",
+                "grade9": "$29.00"
+            },
+            "cracked-ice": {
+                "ungraded": "$17.08",
+                "psa10": "$165.84",
+                "grade9": "$31.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.48",
+                "psa10": "$82.82",
+                "grade9": "$19.04"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp7-15",
+    "name": "Drapion",
+    "number": "15",
+    "setId": "dp7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925228",
+        "reverse-holo": "925318"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.76",
+                "psa10": "",
+                "grade9": "$12.24"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw5-86",
+    "name": "Lillipup",
+    "number": "86",
+    "setId": "bw5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956132",
+        "reverse-holo": "956239"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

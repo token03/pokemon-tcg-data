@@ -1,0 +1,25 @@
+{
+    "id": "sv4-66",
+    "name": "Zekrom",
+    "number": "66",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5983315",
+        "reverse-holo": "5953165"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.26",
+                "psa10": "",
+                "grade9": "$7.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$37.38",
+                "grade9": "$12.18"
+            }
+        }
+    }
+}

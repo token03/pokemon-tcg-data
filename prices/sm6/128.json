@@ -1,0 +1,19 @@
+{
+    "id": "sm6-128",
+    "name": "Bonnie",
+    "number": "128",
+    "setId": "sm6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961791"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.68",
+                "psa10": "$70.00",
+                "grade9": "$28.94"
+            }
+        }
+    }
+}

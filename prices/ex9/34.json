@@ -1,0 +1,25 @@
+{
+    "id": "ex9-34",
+    "name": "Linoone",
+    "number": "34",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888259",
+        "reverse-holo": "888366"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.95",
+                "psa10": "$72.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$8.28",
+                "psa10": "$141.68",
+                "grade9": "$59.99"
+            }
+        }
+    }
+}

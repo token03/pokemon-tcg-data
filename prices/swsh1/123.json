@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-123",
+    "name": "Croagunk",
+    "number": "123",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807061",
+        "reverse-holo": "807060"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$22.50",
+                "grade9": "$12.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.96",
+                "psa10": "$12.50",
+                "grade9": "$11.98"
+            }
+        }
+    }
+}

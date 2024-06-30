@@ -1,0 +1,31 @@
+{
+    "id": "swsh10-43",
+    "name": "Hisuian Basculin",
+    "number": "43",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489541",
+        "prize-pack-series-3": "6777265",
+        "reverse-holo": "3489752"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.05",
+                "psa10": "",
+                "grade9": ""
+            },
+            "prize-pack-series-3": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$34.65",
+                "grade9": "$11.83"
+            }
+        }
+    }
+}

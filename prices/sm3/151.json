@@ -1,0 +1,19 @@
+{
+    "id": "sm3-151",
+    "name": "Salazzle-GX",
+    "number": "151",
+    "setId": "sm3",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "960935"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.36",
+                "psa10": "$104.44",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

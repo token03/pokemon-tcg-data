@@ -1,0 +1,25 @@
+{
+    "id": "sm10-139",
+    "name": "Cottonee",
+    "number": "139",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963295",
+        "reverse-holo": "963518"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "",
+                "grade9": "$4.25"
+            }
+        }
+    }
+}

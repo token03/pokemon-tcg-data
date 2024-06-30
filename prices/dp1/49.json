@@ -1,0 +1,31 @@
+{
+    "id": "dp1-49",
+    "name": "Grotle",
+    "number": "49",
+    "setId": "dp1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "763085",
+        "reverse-holo": "763207",
+        "stamped": "5428227"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "$56.01",
+                "grade9": "$26.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.24",
+                "psa10": "$67.39",
+                "grade9": "$24.34"
+            },
+            "stamped": {
+                "ungraded": "$4.98",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

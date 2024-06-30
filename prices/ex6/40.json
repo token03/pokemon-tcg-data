@@ -1,0 +1,25 @@
+{
+    "id": "ex6-40",
+    "name": "Nidorina",
+    "number": "40",
+    "setId": "ex6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "850007",
+        "reverse-holo": "850122"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.96",
+                "psa10": "",
+                "grade9": "$12.91"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.50",
+                "psa10": "$89.00",
+                "grade9": "$27.28"
+            }
+        }
+    }
+}

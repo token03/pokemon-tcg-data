@@ -1,0 +1,25 @@
+{
+    "id": "dp2-79",
+    "name": "Cyndaquil",
+    "number": "79",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920702",
+        "reverse-holo": "920826"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.29",
+                "psa10": "$39.97",
+                "grade9": "$14.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$78.56",
+                "grade9": "$28.84"
+            }
+        }
+    }
+}

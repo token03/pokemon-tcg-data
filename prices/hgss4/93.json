@@ -1,0 +1,19 @@
+{
+    "id": "hgss4-93",
+    "name": "Electrode",
+    "number": "93",
+    "setId": "hgss4",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "926150"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.18",
+                "psa10": "$176.55",
+                "grade9": "$35.15"
+            }
+        }
+    }
+}

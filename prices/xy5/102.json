@@ -1,0 +1,25 @@
+{
+    "id": "xy5-102",
+    "name": "Marill",
+    "number": "102",
+    "setId": "xy5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958559",
+        "reverse-holo": "958712"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$35.92",
+                "grade9": "$13.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "$39.46",
+                "grade9": "$15.37"
+            }
+        }
+    }
+}

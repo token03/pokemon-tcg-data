@@ -1,0 +1,19 @@
+{
+    "id": "dp1-126",
+    "name": "Lightning Energy",
+    "number": "126",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2573133"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.22",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy12-88",
+    "name": "Switch",
+    "number": "88",
+    "setId": "xy12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960376",
+        "reverse-holo": "960464"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$80.48",
+                "grade9": "$10.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.73",
+                "psa10": "$34.33",
+                "grade9": "$9.23"
+            }
+        }
+    }
+}

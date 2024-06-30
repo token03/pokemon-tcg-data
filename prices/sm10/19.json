@@ -1,0 +1,25 @@
+{
+    "id": "sm10-19",
+    "name": "Kartana",
+    "number": "19",
+    "setId": "sm10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963175",
+        "reverse-holo": "963407"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.27",
+                "psa10": "$20.50",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$35.88",
+                "grade9": "$13.38"
+            }
+        }
+    }
+}

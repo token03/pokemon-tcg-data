@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-76",
+    "name": "Cranidos",
+    "number": "76",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489574",
+        "reverse-holo": "3489780"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.65",
+                "psa10": "$32.65",
+                "grade9": "$11.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.02",
+                "psa10": "$34.16",
+                "grade9": "$11.64"
+            }
+        }
+    }
+}

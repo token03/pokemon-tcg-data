@@ -1,0 +1,19 @@
+{
+    "id": "xy9-114",
+    "name": "Gyarados-EX",
+    "number": "114",
+    "setId": "xy9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959605"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.83",
+                "psa10": "$155.00",
+                "grade9": "$41.25"
+            }
+        }
+    }
+}

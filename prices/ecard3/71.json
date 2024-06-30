@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-71",
+    "name": "Lapras",
+    "number": "71",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842730",
+        "reverse-holo": "2252669"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.87",
+                "psa10": "$51.00",
+                "grade9": "$35.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$46.60",
+                "psa10": "$364.44",
+                "grade9": "$119.19"
+            }
+        }
+    }
+}

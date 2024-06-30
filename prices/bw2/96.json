@@ -1,0 +1,25 @@
+{
+    "id": "bw2-96",
+    "name": "Recycle",
+    "number": "96",
+    "setId": "bw2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955522",
+        "reverse-holo": "955619"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": "$12.46"
+            }
+        }
+    }
+}

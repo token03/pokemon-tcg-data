@@ -1,0 +1,19 @@
+{
+    "id": "swsh45-10",
+    "name": "Dhelmise VMAX",
+    "number": "10",
+    "setId": "swsh45",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "1341486"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.46",
+                "psa10": "$16.50",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

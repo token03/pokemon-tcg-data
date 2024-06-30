@@ -1,0 +1,25 @@
+{
+    "id": "xy4-44",
+    "name": "Pumpkaboo",
+    "number": "44",
+    "setId": "xy4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958237",
+        "reverse-holo": "958355"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$40.09",
+                "grade9": "$14.96"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.02",
+                "psa10": "$42.50",
+                "grade9": "$17.02"
+            }
+        }
+    }
+}

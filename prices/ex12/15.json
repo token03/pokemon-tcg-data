@@ -1,0 +1,25 @@
+{
+    "id": "ex12-15",
+    "name": "Absol",
+    "number": "15",
+    "setId": "ex12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888898",
+        "reverse-holo": "888990"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.42",
+                "psa10": "$77.17",
+                "grade9": "$35.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.96",
+                "psa10": "$251.71",
+                "grade9": "$54.76"
+            }
+        }
+    }
+}

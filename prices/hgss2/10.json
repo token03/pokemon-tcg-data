@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-10",
+    "name": "Torterra",
+    "number": "10",
+    "setId": "hgss2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1287352",
+        "reverse-holo": "1287448"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.59",
+                "psa10": "$510.00",
+                "grade9": "$18.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.80",
+                "psa10": "$85.24",
+                "grade9": "$34.51"
+            }
+        }
+    }
+}

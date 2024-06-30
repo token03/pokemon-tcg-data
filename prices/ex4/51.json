@@ -1,0 +1,25 @@
+{
+    "id": "ex4-51",
+    "name": "Team Aqua's Corphish",
+    "number": "51",
+    "setId": "ex4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849620",
+        "reverse-holo": "849717"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "$25.49",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

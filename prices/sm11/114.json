@@ -1,0 +1,31 @@
+{
+    "id": "sm11-114",
+    "name": "Garchomp",
+    "number": "114",
+    "setId": "sm11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963680",
+        "reverse-holo": "963928",
+        "stamped": "6376806"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.63",
+                "psa10": "$40.69",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.42",
+                "psa10": "$43.28",
+                "grade9": "$12.99"
+            },
+            "stamped": {
+                "ungraded": "$34.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

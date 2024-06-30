@@ -1,0 +1,19 @@
+{
+    "id": "sv6-185",
+    "name": "Applin",
+    "number": "185",
+    "setId": "sv6",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6775703"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.80",
+                "psa10": "$50.64",
+                "grade9": "$15.39"
+            }
+        }
+    }
+}

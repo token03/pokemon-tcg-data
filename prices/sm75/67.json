@@ -1,0 +1,19 @@
+{
+    "id": "sm75-67",
+    "name": "Dragonite-GX",
+    "number": "67",
+    "setId": "sm75",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962301"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.99",
+                "psa10": "$66.19",
+                "grade9": "$18.75"
+            }
+        }
+    }
+}

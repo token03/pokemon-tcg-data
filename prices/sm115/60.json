@@ -1,0 +1,25 @@
+{
+    "id": "sm115-60",
+    "name": "Lt. Surge's Strategy",
+    "number": "60",
+    "setId": "sm115",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964080",
+        "reverse-holo": "964234"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$34.04",
+                "grade9": "$12.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "$36.21",
+                "grade9": "$6.70"
+            }
+        }
+    }
+}

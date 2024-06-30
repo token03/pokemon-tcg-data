@@ -1,0 +1,19 @@
+{
+    "id": "det1-2",
+    "name": "Ludicolo",
+    "number": "2",
+    "setId": "det1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963139"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.21",
+                "psa10": "$42.50",
+                "grade9": "$11.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-82",
+    "name": "Rare Candy",
+    "number": "82",
+    "setId": "hgss2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287424",
+        "reverse-holo": "1287520"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.02",
+                "psa10": "$36.00",
+                "grade9": "$30.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.67",
+                "psa10": "$129.64",
+                "grade9": "$54.25"
+            }
+        }
+    }
+}

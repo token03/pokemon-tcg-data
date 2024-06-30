@@ -1,0 +1,19 @@
+{
+    "id": "sv2-203",
+    "name": "Magikarp",
+    "number": "203",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287492"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$137.00",
+                "psa10": "$652.50",
+                "grade9": "$149.74"
+            }
+        }
+    }
+}

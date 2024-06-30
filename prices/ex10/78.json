@@ -1,0 +1,25 @@
+{
+    "id": "ex10-78",
+    "name": "Totodile",
+    "number": "78",
+    "setId": "ex10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888498",
+        "reverse-holo": "888640"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$95.83",
+                "grade9": "$28.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.50",
+                "psa10": "$133.39",
+                "grade9": "$36.25"
+            }
+        }
+    }
+}

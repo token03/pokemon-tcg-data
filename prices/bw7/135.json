@@ -1,0 +1,25 @@
+{
+    "id": "bw7-135",
+    "name": "Switch",
+    "number": "135",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956650",
+        "reverse-holo": "956794"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

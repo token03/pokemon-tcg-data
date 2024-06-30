@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-53",
+    "name": "Marill",
+    "number": "53",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842580",
+        "reverse-holo": "2293944"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.71",
+                "psa10": "$47.00",
+                "grade9": "$34.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.68",
+                "psa10": "$368.02",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

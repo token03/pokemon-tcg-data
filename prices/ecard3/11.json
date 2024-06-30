@@ -1,0 +1,31 @@
+{
+    "id": "ecard3-11",
+    "name": "Gyarados",
+    "number": "11",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842675",
+        "reverse-holo": "2252611",
+        "box-topper": "5135164"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$58.48",
+                "psa10": "$169.12",
+                "grade9": "$90.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$89.99",
+                "psa10": "$376.60",
+                "grade9": "$186.86"
+            },
+            "box-topper": {
+                "ungraded": "$181.04",
+                "psa10": "$561.00",
+                "grade9": "$282.69"
+            }
+        }
+    }
+}

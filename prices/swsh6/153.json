@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-153",
+    "name": "Siebold",
+    "number": "153",
+    "setId": "swsh6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2253957",
+        "reverse-holo": "2254165"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$35.27",
+                "grade9": "$12.41"
+            }
+        }
+    }
+}

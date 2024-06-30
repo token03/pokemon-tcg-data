@@ -1,0 +1,25 @@
+{
+    "id": "neo2-44",
+    "name": "Poliwhirl",
+    "number": "44",
+    "setId": "neo2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762446",
+        "1st-edition": "2158466"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$43.04",
+                "grade9": "$18.52"
+            },
+            "1st-edition": {
+                "ungraded": "$2.63",
+                "psa10": "$71.42",
+                "grade9": "$21.99"
+            }
+        }
+    }
+}

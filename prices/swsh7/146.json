@@ -1,0 +1,31 @@
+{
+    "id": "swsh7-146",
+    "name": "Dream Ball",
+    "number": "146",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512958",
+        "prize-pack-1": "5334240",
+        "reverse-holo": "2513160"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.37",
+                "grade9": "$11.95"
+            },
+            "prize-pack-1": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$34.06",
+                "grade9": "$11.81"
+            }
+        }
+    }
+}

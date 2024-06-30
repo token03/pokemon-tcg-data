@@ -1,0 +1,25 @@
+{
+    "id": "basep-7",
+    "name": "Jigglypuff",
+    "number": "7",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "643527",
+        "staff": "4034101"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.50",
+                "psa10": "$70.00",
+                "grade9": "$21.16"
+            },
+            "staff": {
+                "ungraded": "$137.36",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

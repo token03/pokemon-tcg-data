@@ -1,0 +1,25 @@
+{
+    "id": "ex3-71",
+    "name": "Pineco",
+    "number": "71",
+    "setId": "ex3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849450",
+        "reverse-holo": "849550"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "$27.00",
+                "grade9": "$23.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$58.77",
+                "grade9": "$32.99"
+            }
+        }
+    }
+}

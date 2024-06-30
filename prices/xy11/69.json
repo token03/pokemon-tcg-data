@@ -1,0 +1,25 @@
+{
+    "id": "xy11-69",
+    "name": "Shieldon",
+    "number": "69",
+    "setId": "xy11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960148",
+        "reverse-holo": "960256"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$15.19",
+                "grade9": "$13.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$35.19",
+                "grade9": "$13.09"
+            }
+        }
+    }
+}

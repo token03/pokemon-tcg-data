@@ -1,0 +1,19 @@
+{
+    "id": "ex1-98",
+    "name": "Hitmonchan ex",
+    "number": "98",
+    "setId": "ex1",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "762951"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.45",
+                "psa10": "$601.89",
+                "grade9": "$90.40"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-124",
+    "name": "Bede",
+    "number": "124",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637020",
+        "reverse-holo": "4637220"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$20.00",
+                "grade9": "$10.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$36.87",
+                "grade9": "$12.39"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm5-48",
+    "name": "Luxray",
+    "number": "48",
+    "setId": "sm5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961411",
+        "reverse-holo": "961583"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.42",
+                "psa10": "$41.00",
+                "grade9": "$38.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.28",
+                "psa10": "$53.00",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

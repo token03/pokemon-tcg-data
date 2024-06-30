@@ -1,0 +1,25 @@
+{
+    "id": "ex1-56",
+    "name": "Makuhita",
+    "number": "56",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762920",
+        "reverse-holo": "763002"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$71.00",
+                "grade9": "$59.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.98",
+                "psa10": "$82.59",
+                "grade9": "$31.97"
+            }
+        }
+    }
+}

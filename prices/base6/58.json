@@ -1,0 +1,25 @@
+{
+    "id": "base6-58",
+    "name": "Omastar",
+    "number": "58",
+    "setId": "base6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842364",
+        "reverse-holo": "2253741"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.29",
+                "psa10": "$104.00",
+                "grade9": "$87.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$32.82",
+                "psa10": "$800.00",
+                "grade9": "$123.10"
+            }
+        }
+    }
+}

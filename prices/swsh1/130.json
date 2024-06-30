@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-130",
+    "name": "Ferroseed",
+    "number": "130",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807096",
+        "reverse-holo": "807097"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.86",
+                "psa10": "$33.28",
+                "grade9": "$11.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$15.50",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

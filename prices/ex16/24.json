@@ -1,0 +1,25 @@
+{
+    "id": "ex16-24",
+    "name": "Wobbuffet",
+    "number": "24",
+    "setId": "ex16",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889688",
+        "reverse-holo": "889796"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.52",
+                "psa10": "$73.39",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.73",
+                "psa10": "$111.46",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

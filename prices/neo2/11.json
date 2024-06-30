@@ -1,0 +1,25 @@
+{
+    "id": "neo2-11",
+    "name": "Smeargle",
+    "number": "11",
+    "setId": "neo2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762453",
+        "1st-edition": "2158475"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.55",
+                "psa10": "$2,270.00",
+                "grade9": "$52.48"
+            },
+            "1st-edition": {
+                "ungraded": "$47.17",
+                "psa10": "$1,551.75",
+                "grade9": "$177.50"
+            }
+        }
+    }
+}

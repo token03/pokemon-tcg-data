@@ -1,0 +1,25 @@
+{
+    "id": "ex11-91",
+    "name": "Holon Farmer",
+    "number": "91",
+    "setId": "ex11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888753",
+        "reverse-holo": "888867"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.88",
+                "psa10": "$87.38",
+                "grade9": "$30.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.40",
+                "psa10": "$61.82",
+                "grade9": "$38.79"
+            }
+        }
+    }
+}

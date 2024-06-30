@@ -1,0 +1,25 @@
+{
+    "id": "ex16-81",
+    "name": "Scott",
+    "number": "81",
+    "setId": "ex16",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889745",
+        "reverse-holo": "889852"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$68.76",
+                "grade9": "$24.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.28",
+                "psa10": "$164.65",
+                "grade9": "$20.74"
+            }
+        }
+    }
+}

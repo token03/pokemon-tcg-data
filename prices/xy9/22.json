@@ -1,0 +1,25 @@
+{
+    "id": "xy9-22",
+    "name": "Shellder",
+    "number": "22",
+    "setId": "xy9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959513",
+        "reverse-holo": "959634"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": "$9.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.79",
+                "psa10": "$65.00",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

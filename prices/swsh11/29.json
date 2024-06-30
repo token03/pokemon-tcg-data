@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-29",
+    "name": "Pyroar",
+    "number": "29",
+    "setId": "swsh11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4049946",
+        "reverse-holo": "4050162"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.73",
+                "psa10": "$36.58",
+                "grade9": "$9.67"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$36.42",
+                "grade9": "$22.99"
+            }
+        }
+    }
+}

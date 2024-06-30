@@ -1,0 +1,37 @@
+{
+    "id": "base1-77",
+    "name": "Pok\u00e9mon Trader",
+    "number": "77",
+    "setId": "base1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "630490",
+        "1st-edition": "715666",
+        "shadowless": "3951781",
+        "trainer-deck-b": "2365266"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.82",
+                "psa10": "$54.53",
+                "grade9": "$18.45"
+            },
+            "1st-edition": {
+                "ungraded": "$36.00",
+                "psa10": "$385.50",
+                "grade9": "$95.89"
+            },
+            "shadowless": {
+                "ungraded": "$4.20",
+                "psa10": "$125.87",
+                "grade9": "$32.27"
+            },
+            "trainer-deck-b": {
+                "ungraded": "$4.36",
+                "psa10": "$321.88",
+                "grade9": ""
+            }
+        }
+    }
+}

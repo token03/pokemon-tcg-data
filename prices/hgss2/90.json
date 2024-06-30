@@ -1,0 +1,19 @@
+{
+    "id": "hgss2-90",
+    "name": "Entei & Raikou LEGEND",
+    "number": "90",
+    "setId": "hgss2",
+    "rarity": "LEGEND",
+    "priceChartingIds": {
+        "legend": "1287432"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "legend": {
+                "ungraded": "$33.10",
+                "psa10": "$615.17",
+                "grade9": "$135.50"
+            }
+        }
+    }
+}

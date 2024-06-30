@@ -1,0 +1,25 @@
+{
+    "id": "base3-56",
+    "name": "Tentacool",
+    "number": "56",
+    "setId": "base3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643438",
+        "1st-edition": "1099550"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$35.00",
+                "grade9": "$12.16"
+            },
+            "1st-edition": {
+                "ungraded": "$2.90",
+                "psa10": "$35.88",
+                "grade9": "$15.37"
+            }
+        }
+    }
+}

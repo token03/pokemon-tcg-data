@@ -1,0 +1,25 @@
+{
+    "id": "bw6-51",
+    "name": "Drifblim",
+    "number": "51",
+    "setId": "bw6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956305",
+        "reverse-holo": "956431"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.14",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

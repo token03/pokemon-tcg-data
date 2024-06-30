@@ -1,0 +1,25 @@
+{
+    "id": "sv5-67",
+    "name": "Latias",
+    "number": "67",
+    "setId": "sv5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6495527",
+        "reverse-holo": "6495739"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$15.00",
+                "grade9": "$11.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "$35.67",
+                "grade9": "$11.54"
+            }
+        }
+    }
+}

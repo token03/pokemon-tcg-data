@@ -1,0 +1,19 @@
+{
+    "id": "sm10-20",
+    "name": "Reshiram & Charizard-GX",
+    "number": "20",
+    "setId": "sm10",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963176"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.77",
+                "psa10": "$54.58",
+                "grade9": "$22.24"
+            }
+        }
+    }
+}

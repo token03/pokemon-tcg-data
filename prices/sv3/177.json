@@ -1,0 +1,25 @@
+{
+    "id": "sv3-177",
+    "name": "Gumshoos",
+    "number": "177",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605695",
+        "reverse-holo": "5605913"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$35.21",
+                "grade9": "$11.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.41",
+                "psa10": "$36.43",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

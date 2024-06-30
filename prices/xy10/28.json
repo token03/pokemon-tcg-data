@@ -1,0 +1,25 @@
+{
+    "id": "xy10-28",
+    "name": "Weezing",
+    "number": "28",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959885",
+        "reverse-holo": "960005"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$36.16",
+                "grade9": "$13.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.78",
+                "psa10": "$39.17",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

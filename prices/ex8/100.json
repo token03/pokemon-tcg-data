@@ -1,0 +1,19 @@
+{
+    "id": "ex8-100",
+    "name": "Hariyama ex",
+    "number": "100",
+    "setId": "ex8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888120"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.09",
+                "psa10": "$343.62",
+                "grade9": "$80.72"
+            }
+        }
+    }
+}

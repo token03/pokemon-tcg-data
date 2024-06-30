@@ -1,0 +1,25 @@
+{
+    "id": "xy6-64",
+    "name": "Zekrom",
+    "number": "64",
+    "setId": "xy6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958887",
+        "reverse-holo": "958989"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$42.49",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.24",
+                "psa10": "$42.95",
+                "grade9": "$10.32"
+            }
+        }
+    }
+}

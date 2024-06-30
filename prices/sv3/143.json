@@ -1,0 +1,25 @@
+{
+    "id": "sv3-143",
+    "name": "Mawile",
+    "number": "143",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605661",
+        "reverse-holo": "5605884"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.67",
+                "grade9": "$11.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$35.62",
+                "grade9": "$11.74"
+            }
+        }
+    }
+}

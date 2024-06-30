@@ -1,0 +1,19 @@
+{
+    "id": "mcd11-10",
+    "name": "Klink",
+    "number": "10",
+    "setId": "mcd11",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179964"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$52.30",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm9-139",
+    "name": "Electrocharger",
+    "number": "139",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962937",
+        "reverse-holo": "963119"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.51",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

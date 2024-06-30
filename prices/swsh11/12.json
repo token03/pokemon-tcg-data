@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-12",
+    "name": "Nuzleaf",
+    "number": "12",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4049929",
+        "reverse-holo": "4050146"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.63",
+                "psa10": "$9.38",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$36.67",
+                "grade9": "$12.48"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh35-49",
+    "name": "Altaria",
+    "number": "49",
+    "setId": "swsh35",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "887476",
+        "reverse-holo": "887539"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.24",
+                "psa10": "$12.73",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$19.50",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

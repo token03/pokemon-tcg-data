@@ -1,0 +1,19 @@
+{
+    "id": "bw7-142",
+    "name": "Keldeo-EX",
+    "number": "142",
+    "setId": "bw7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956657"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$27.16",
+                "psa10": "$567.11",
+                "grade9": "$69.46"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp4-101",
+    "name": "Premier Ball",
+    "number": "101",
+    "setId": "dp4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921255",
+        "reverse-holo": "921361"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.10",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

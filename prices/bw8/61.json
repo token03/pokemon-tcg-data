@@ -1,0 +1,25 @@
+{
+    "id": "bw8-61",
+    "name": "Gallade",
+    "number": "61",
+    "setId": "bw8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956859",
+        "reverse-holo": "956992"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$142.50",
+                "grade9": "$15.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.93",
+                "psa10": "",
+                "grade9": "$7.25"
+            }
+        }
+    }
+}

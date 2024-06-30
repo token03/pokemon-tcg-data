@@ -1,0 +1,25 @@
+{
+    "id": "ex11-17",
+    "name": "Umbreon \u03b4",
+    "number": "17",
+    "setId": "ex11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888679",
+        "reverse-holo": "888793"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$50.50",
+                "psa10": "$1,128.27",
+                "grade9": "$179.96"
+            },
+            "reverse-holo": {
+                "ungraded": "$68.52",
+                "psa10": "$992.53",
+                "grade9": "$234.19"
+            }
+        }
+    }
+}

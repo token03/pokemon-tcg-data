@@ -1,0 +1,25 @@
+{
+    "id": "ex16-6",
+    "name": "Charizard",
+    "number": "6",
+    "setId": "ex16",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889670",
+        "reverse-holo": "889778"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$53.24",
+                "psa10": "$1,350.00",
+                "grade9": "$245.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$63.50",
+                "psa10": "$2,030.00",
+                "grade9": "$280.35"
+            }
+        }
+    }
+}

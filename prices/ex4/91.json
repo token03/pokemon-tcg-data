@@ -1,0 +1,19 @@
+{
+    "id": "ex4-91",
+    "name": "Entei ex",
+    "number": "91",
+    "setId": "ex4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849660"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$60.51",
+                "psa10": "$1,225.00",
+                "grade9": "$221.50"
+            }
+        }
+    }
+}

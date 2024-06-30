@@ -1,0 +1,37 @@
+{
+    "id": "sm1-26",
+    "name": "Incineroar",
+    "number": "26",
+    "setId": "sm1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806775",
+        "cracked-ice": "3399949",
+        "pokemon-league": "5672074",
+        "reverse-holo": "806908"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.12",
+                "psa10": "$39.89",
+                "grade9": "$15.94"
+            },
+            "cracked-ice": {
+                "ungraded": "$2.03",
+                "psa10": "$40.00",
+                "grade9": ""
+            },
+            "pokemon-league": {
+                "ungraded": "$5.32",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.71",
+                "psa10": "$41.75",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

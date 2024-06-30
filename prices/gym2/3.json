@@ -1,0 +1,25 @@
+{
+    "id": "gym2-3",
+    "name": "Brock's Ninetales",
+    "number": "3",
+    "setId": "gym2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762209",
+        "1st-edition": "1450198"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.47",
+                "psa10": "$158.16",
+                "grade9": "$62.81"
+            },
+            "1st-edition": {
+                "ungraded": "$52.13",
+                "psa10": "$385.44",
+                "grade9": "$117.90"
+            }
+        }
+    }
+}

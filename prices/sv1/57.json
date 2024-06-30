@@ -1,0 +1,25 @@
+{
+    "id": "sv1-57",
+    "name": "Wugtrio",
+    "number": "57",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933833",
+        "reverse-holo": "4934086"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.33",
+                "grade9": "$11.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$35.46",
+                "grade9": "$11.83"
+            }
+        }
+    }
+}

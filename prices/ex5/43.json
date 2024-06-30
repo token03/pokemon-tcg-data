@@ -1,0 +1,25 @@
+{
+    "id": "ex5-43",
+    "name": "Metang",
+    "number": "43",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849816",
+        "reverse-holo": "849918"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.98",
+                "psa10": "$63.52",
+                "grade9": "$9.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "$122.39",
+                "grade9": "$21.91"
+            }
+        }
+    }
+}

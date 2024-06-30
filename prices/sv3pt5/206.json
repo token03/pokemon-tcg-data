@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-206",
+    "name": "Switch",
+    "number": "206",
+    "setId": "sv3pt5",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5809590"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.53",
+                "psa10": "$28.37",
+                "grade9": "$10.51"
+            }
+        }
+    }
+}

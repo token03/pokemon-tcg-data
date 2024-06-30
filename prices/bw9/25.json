@@ -1,0 +1,25 @@
+{
+    "id": "bw9-25",
+    "name": "Palpitoad",
+    "number": "25",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957080",
+        "reverse-holo": "957200"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

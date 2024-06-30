@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-32",
+    "name": "Lotad",
+    "number": "32",
+    "setId": "swsh7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2512843",
+        "reverse-holo": "2513068"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.62",
+                "psa10": "$32.42",
+                "grade9": "$11.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "$35.74",
+                "grade9": "$12.56"
+            }
+        }
+    }
+}

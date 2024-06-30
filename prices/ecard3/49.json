@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-49",
+    "name": "Delibird",
+    "number": "49",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842709",
+        "reverse-holo": "2252647"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.29",
+                "psa10": "$43.62",
+                "grade9": "$22.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$28.00",
+                "psa10": "$175.25",
+                "grade9": "$41.00"
+            }
+        }
+    }
+}

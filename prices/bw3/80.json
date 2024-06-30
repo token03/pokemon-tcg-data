@@ -1,0 +1,31 @@
+{
+    "id": "bw3-80",
+    "name": "Escavalier",
+    "number": "80",
+    "setId": "bw3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955735",
+        "national-championships-staff": "5810720",
+        "reverse-holo": "955837"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.40",
+                "psa10": "$52.58",
+                "grade9": "$8.78"
+            },
+            "national-championships-staff": {
+                "ungraded": "$59.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

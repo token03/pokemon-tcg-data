@@ -1,0 +1,19 @@
+{
+    "id": "sm12-254",
+    "name": "Solgaleo & Lunala-GX",
+    "number": "254",
+    "setId": "sm12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "964492"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$37.46",
+                "psa10": "$113.75",
+                "grade9": "$41.78"
+            }
+        }
+    }
+}

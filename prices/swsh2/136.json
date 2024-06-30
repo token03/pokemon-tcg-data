@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-136",
+    "name": "Copperajah V",
+    "number": "136",
+    "setId": "swsh2",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "886863"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$19.81",
+                "grade9": "$12.65"
+            }
+        }
+    }
+}

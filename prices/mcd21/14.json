@@ -1,0 +1,25 @@
+{
+    "id": "mcd21-14",
+    "name": "Fennekin",
+    "number": "14",
+    "setId": "mcd21",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1317312",
+        "holo": "1317337"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$17.84",
+                "grade9": "$9.00"
+            },
+            "holo": {
+                "ungraded": "$1.99",
+                "psa10": "$22.19",
+                "grade9": "$12.93"
+            }
+        }
+    }
+}

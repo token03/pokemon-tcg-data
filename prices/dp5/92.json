@@ -1,0 +1,25 @@
+{
+    "id": "dp5-92",
+    "name": "Call Energy",
+    "number": "92",
+    "setId": "dp5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921454",
+        "reverse-holo": "921554"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.99",
+                "psa10": "$167.86",
+                "grade9": "$65.40"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.39",
+                "psa10": "$183.29",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw1-20",
+    "name": "Emboar",
+    "number": "20",
+    "setId": "bw1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886685",
+        "reverse-holo": "886706"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.55",
+                "psa10": "$63.10",
+                "grade9": "$15.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.95",
+                "psa10": "$60.14",
+                "grade9": ""
+            }
+        }
+    }
+}

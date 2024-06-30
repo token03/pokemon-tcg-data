@@ -1,0 +1,25 @@
+{
+    "id": "pl4-43",
+    "name": "Luxio",
+    "number": "43",
+    "setId": "pl4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925662",
+        "reverse-holo": "925773"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.98",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

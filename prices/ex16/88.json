@@ -1,0 +1,25 @@
+{
+    "id": "ex16-88",
+    "name": "Metal Energy",
+    "number": "88",
+    "setId": "ex16",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889752",
+        "reverse-holo": "889859"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$40.45",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$115.95",
+                "grade9": "$17.97"
+            }
+        }
+    }
+}

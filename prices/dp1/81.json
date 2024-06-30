@@ -1,0 +1,25 @@
+{
+    "id": "dp1-81",
+    "name": "Electabuzz",
+    "number": "81",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763117",
+        "reverse-holo": "763239"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$159.99",
+                "grade9": "$44.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.28",
+                "psa10": "$68.18",
+                "grade9": "$42.00"
+            }
+        }
+    }
+}

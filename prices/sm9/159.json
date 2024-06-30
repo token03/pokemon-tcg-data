@@ -1,0 +1,19 @@
+{
+    "id": "sm9-159",
+    "name": "Celebi & Venusaur-GX",
+    "number": "159",
+    "setId": "sm9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962957"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.67",
+                "psa10": "$46.50",
+                "grade9": "$29.55"
+            }
+        }
+    }
+}

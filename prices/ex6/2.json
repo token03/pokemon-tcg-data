@@ -1,0 +1,25 @@
+{
+    "id": "ex6-2",
+    "name": "Butterfree",
+    "number": "2",
+    "setId": "ex6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849970",
+        "reverse-holo": "850085"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.01",
+                "psa10": "$250.00",
+                "grade9": "$40.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.10",
+                "psa10": "$229.13",
+                "grade9": "$48.67"
+            }
+        }
+    }
+}

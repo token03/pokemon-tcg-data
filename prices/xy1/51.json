@@ -1,0 +1,25 @@
+{
+    "id": "xy1-51",
+    "name": "Venipede",
+    "number": "51",
+    "setId": "xy1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806549",
+        "reverse-holo": "806673"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

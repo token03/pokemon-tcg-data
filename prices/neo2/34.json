@@ -1,0 +1,25 @@
+{
+    "id": "neo2-34",
+    "name": "Ursaring",
+    "number": "34",
+    "setId": "neo2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886586",
+        "1st-edition": "2158495"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$51.19",
+                "grade9": "$12.17"
+            },
+            "1st-edition": {
+                "ungraded": "$8.27",
+                "psa10": "$53.47",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex5-30",
+    "name": "Castform",
+    "number": "30",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849803",
+        "reverse-holo": "849905"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.79",
+                "psa10": "$117.31",
+                "grade9": "$33.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.27",
+                "psa10": "$104.99",
+                "grade9": "$26.00"
+            }
+        }
+    }
+}

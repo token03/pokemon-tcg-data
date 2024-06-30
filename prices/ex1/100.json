@@ -1,0 +1,19 @@
+{
+    "id": "ex1-100",
+    "name": "Magmar ex",
+    "number": "100",
+    "setId": "ex1",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "762953"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.45",
+                "psa10": "$306.78",
+                "grade9": "$64.27"
+            }
+        }
+    }
+}

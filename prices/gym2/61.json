@@ -1,0 +1,25 @@
+{
+    "id": "gym2-61",
+    "name": "Blaine's Doduo",
+    "number": "61",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762267",
+        "1st-edition": "1450255"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$27.89",
+                "grade9": "$12.57"
+            },
+            "1st-edition": {
+                "ungraded": "$2.99",
+                "psa10": "$45.46",
+                "grade9": "$17.20"
+            }
+        }
+    }
+}

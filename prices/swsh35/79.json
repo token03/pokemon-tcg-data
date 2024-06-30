@@ -1,0 +1,19 @@
+{
+    "id": "swsh35-79",
+    "name": "Charizard V",
+    "number": "79",
+    "setId": "swsh35",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "836945"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$135.38",
+                "psa10": "$252.22",
+                "grade9": "$146.48"
+            }
+        }
+    }
+}

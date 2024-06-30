@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-15",
+    "name": "Bronzong",
+    "number": "15",
+    "setId": "hgss4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926075",
+        "reverse-holo": "926175"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.34",
+                "psa10": "$22.50",
+                "grade9": "$21.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.75",
+                "psa10": "",
+                "grade9": "$10.55"
+            }
+        }
+    }
+}

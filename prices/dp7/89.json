@@ -1,0 +1,25 @@
+{
+    "id": "dp7-89",
+    "name": "Pok\u00e9 Drawer +",
+    "number": "89",
+    "setId": "dp7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925293",
+        "reverse-holo": "925388"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.24",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.27",
+                "psa10": "$85.75",
+                "grade9": "$37.77"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-102",
+    "name": "Zeraora",
+    "number": "102",
+    "setId": "swsh8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2771131",
+        "reverse-holo": "2771396"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$36.07",
+                "grade9": "$12.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "$35.40",
+                "grade9": "$12.33"
+            }
+        }
+    }
+}

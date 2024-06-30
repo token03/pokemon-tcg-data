@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-138",
+    "name": "Omanyte",
+    "number": "138",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809519",
+        "reverse-holo": "5809719"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$37.07",
+                "grade9": "$12.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.01",
+                "psa10": "$39.22",
+                "grade9": "$12.79"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-177",
+    "name": "Single Strike Style Mustard",
+    "number": "177",
+    "setId": "swsh5",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "1673357"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.90",
+                "psa10": "$30.00",
+                "grade9": "$15.43"
+            }
+        }
+    }
+}

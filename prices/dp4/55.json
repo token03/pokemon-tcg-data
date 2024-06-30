@@ -1,0 +1,25 @@
+{
+    "id": "dp4-55",
+    "name": "Togetic",
+    "number": "55",
+    "setId": "dp4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921209",
+        "reverse-holo": "921315"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$33.08",
+                "grade9": "$19.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "$153.25",
+                "grade9": "$40.87"
+            }
+        }
+    }
+}

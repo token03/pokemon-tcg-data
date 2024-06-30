@@ -1,0 +1,19 @@
+{
+    "id": "sv3-153",
+    "name": "Melmetal ex",
+    "number": "153",
+    "setId": "sv3",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5605671"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$9.98",
+                "grade9": "$6.00"
+            }
+        }
+    }
+}

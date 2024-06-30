@@ -1,0 +1,25 @@
+{
+    "id": "sv5-107",
+    "name": "Sableye",
+    "number": "107",
+    "setId": "sv5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6495567",
+        "reverse-holo": "6495776"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$36.06",
+                "grade9": "$11.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.04",
+                "psa10": "$35.14",
+                "grade9": "$11.39"
+            }
+        }
+    }
+}

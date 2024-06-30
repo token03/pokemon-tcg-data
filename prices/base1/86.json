@@ -1,0 +1,31 @@
+{
+    "id": "base1-86",
+    "name": "Pok\u00e9mon Flute",
+    "number": "86",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630499",
+        "1st-edition": "715675",
+        "shadowless": "3839429"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.40",
+                "psa10": "$55.31",
+                "grade9": "$37.77"
+            },
+            "1st-edition": {
+                "ungraded": "$14.99",
+                "psa10": "$373.00",
+                "grade9": "$41.74"
+            },
+            "shadowless": {
+                "ungraded": "$2.77",
+                "psa10": "$92.50",
+                "grade9": "$45.11"
+            }
+        }
+    }
+}

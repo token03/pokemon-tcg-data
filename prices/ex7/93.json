@@ -1,0 +1,25 @@
+{
+    "id": "ex7-93",
+    "name": "Venture Bomb",
+    "number": "93",
+    "setId": "ex7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886427",
+        "reverse-holo": "886538"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$37.49",
+                "grade9": "$26.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.99",
+                "psa10": "$104.50",
+                "grade9": "$41.49"
+            }
+        }
+    }
+}

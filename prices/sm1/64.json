@@ -1,0 +1,25 @@
+{
+    "id": "sm1-64",
+    "name": "Cosmog",
+    "number": "64",
+    "setId": "sm1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806811",
+        "reverse-holo": "806942"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.72",
+                "psa10": "$57.62",
+                "grade9": "$21.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$26.00",
+                "grade9": "$14.35"
+            }
+        }
+    }
+}

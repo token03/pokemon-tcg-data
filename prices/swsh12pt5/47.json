@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-47",
+    "name": "Emolga",
+    "number": "47",
+    "setId": "swsh12pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4636942",
+        "reverse-holo": "4637163"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "$35.15",
+                "grade9": "$11.79"
+            }
+        }
+    }
+}

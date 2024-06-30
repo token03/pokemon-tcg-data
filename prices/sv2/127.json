@@ -1,0 +1,19 @@
+{
+    "id": "sv2-127",
+    "name": "Ting-Lu ex",
+    "number": "127",
+    "setId": "sv2",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5287416"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$36.15",
+                "grade9": "$11.98"
+            }
+        }
+    }
+}

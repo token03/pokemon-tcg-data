@@ -1,0 +1,25 @@
+{
+    "id": "neo4-9",
+    "name": "Dark Scizor",
+    "number": "9",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762577",
+        "1st-edition": "2183317"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$32.78",
+                "psa10": "$505.00",
+                "grade9": "$129.20"
+            },
+            "1st-edition": {
+                "ungraded": "$99.08",
+                "psa10": "$990.00",
+                "grade9": "$239.79"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo2-17",
+    "name": "Yanma",
+    "number": "17",
+    "setId": "neo2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762473",
+        "1st-edition": "2158501"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.49",
+                "psa10": "$1,007.11",
+                "grade9": "$51.86"
+            },
+            "1st-edition": {
+                "ungraded": "$44.92",
+                "psa10": "$1,410.96",
+                "grade9": "$139.88"
+            }
+        }
+    }
+}

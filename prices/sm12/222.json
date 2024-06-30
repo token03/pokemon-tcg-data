@@ -1,0 +1,19 @@
+{
+    "id": "sm12-222",
+    "name": "Reshiram & Zekrom-GX",
+    "number": "222",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964460"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$82.00",
+                "psa10": "$227.93",
+                "grade9": "$77.55"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex13-10",
+    "name": "Kingdra \u03b4",
+    "number": "10",
+    "setId": "ex13",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889090",
+        "reverse-holo": "889201"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.32",
+                "psa10": "$186.19",
+                "grade9": "$44.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.99",
+                "psa10": "$170.53",
+                "grade9": "$100.49"
+            }
+        }
+    }
+}

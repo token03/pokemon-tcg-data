@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-6",
+    "name": "Crobat",
+    "number": "6",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842670",
+        "reverse-holo": "2252607"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.74",
+                "psa10": "$41.00",
+                "grade9": "$16.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$29.73",
+                "psa10": "$150.50",
+                "grade9": "$60.00"
+            }
+        }
+    }
+}

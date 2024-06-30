@@ -1,0 +1,25 @@
+{
+    "id": "xy3-25",
+    "name": "Amaura",
+    "number": "25",
+    "setId": "xy3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958008",
+        "reverse-holo": "958118"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.32",
+                "psa10": "$49.99",
+                "grade9": "$18.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.46",
+                "psa10": "$44.69",
+                "grade9": "$18.16"
+            }
+        }
+    }
+}

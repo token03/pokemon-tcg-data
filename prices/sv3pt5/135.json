@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-135",
+    "name": "Jolteon",
+    "number": "135",
+    "setId": "sv3pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5809516",
+        "reverse-holo": "5809716"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.16",
+                "psa10": "$30.95",
+                "grade9": "$3.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$39.13",
+                "grade9": "$15.95"
+            }
+        }
+    }
+}

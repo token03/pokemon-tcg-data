@@ -1,0 +1,19 @@
+{
+    "id": "ex10-104",
+    "name": "Ho-Oh ex",
+    "number": "104",
+    "setId": "ex10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888524"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$80.81",
+                "psa10": "$1,012.43",
+                "grade9": "$248.25"
+            }
+        }
+    }
+}

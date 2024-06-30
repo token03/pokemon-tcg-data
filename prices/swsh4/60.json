@@ -1,0 +1,31 @@
+{
+    "id": "swsh4-60",
+    "name": "Zekrom",
+    "number": "60",
+    "setId": "swsh4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "887612",
+        "cosmos-holo": "6397917",
+        "reverse-holo": "887784"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$21.68",
+                "grade9": "$9.00"
+            },
+            "cosmos-holo": {
+                "ungraded": "$2.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "$20.25",
+                "grade9": "$6.46"
+            }
+        }
+    }
+}

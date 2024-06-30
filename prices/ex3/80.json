@@ -1,0 +1,25 @@
+{
+    "id": "ex3-80",
+    "name": "Treecko",
+    "number": "80",
+    "setId": "ex3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849459",
+        "reverse-holo": "849559"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$24.00",
+                "grade9": "$19.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.40",
+                "psa10": "$133.50",
+                "grade9": "$59.48"
+            }
+        }
+    }
+}

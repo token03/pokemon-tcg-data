@@ -1,0 +1,25 @@
+{
+    "id": "bw7-105",
+    "name": "Raticate",
+    "number": "105",
+    "setId": "bw7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956620",
+        "reverse-holo": "956764"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.50",
+                "psa10": "$74.99",
+                "grade9": "$32.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.74",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

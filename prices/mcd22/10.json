@@ -1,0 +1,19 @@
+{
+    "id": "mcd22-10",
+    "name": "Tynamo",
+    "number": "10",
+    "setId": "mcd22",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "3892307"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$35.34",
+                "grade9": "$12.02"
+            }
+        }
+    }
+}

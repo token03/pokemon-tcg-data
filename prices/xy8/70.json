@@ -1,0 +1,25 @@
+{
+    "id": "xy8-70",
+    "name": "Cresselia",
+    "number": "70",
+    "setId": "xy8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959259",
+        "reverse-holo": "959413"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$108.00",
+                "grade9": "$90.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.88",
+                "psa10": "$40.19",
+                "grade9": "$15.95"
+            }
+        }
+    }
+}

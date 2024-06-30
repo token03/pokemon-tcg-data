@@ -1,0 +1,25 @@
+{
+    "id": "ex6-18",
+    "name": "Arcanine",
+    "number": "18",
+    "setId": "ex6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849985",
+        "reverse-holo": "850101"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.72",
+                "psa10": "$46.50",
+                "grade9": "$36.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.00",
+                "psa10": "$322.51",
+                "grade9": "$80.15"
+            }
+        }
+    }
+}

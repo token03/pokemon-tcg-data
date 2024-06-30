@@ -1,0 +1,25 @@
+{
+    "id": "base2-51",
+    "name": "Eevee",
+    "number": "51",
+    "setId": "base2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643303",
+        "1st-edition": "643351"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$63.20",
+                "grade9": "$15.99"
+            },
+            "1st-edition": {
+                "ungraded": "$3.37",
+                "psa10": "$126.59",
+                "grade9": "$22.10"
+            }
+        }
+    }
+}

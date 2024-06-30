@@ -1,0 +1,25 @@
+{
+    "id": "ex9-12",
+    "name": "Chimecho",
+    "number": "12",
+    "setId": "ex9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888237",
+        "reverse-holo": "888344"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$77.23",
+                "grade9": "$43.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.78",
+                "psa10": "$279.15",
+                "grade9": "$41.75"
+            }
+        }
+    }
+}

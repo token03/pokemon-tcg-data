@@ -1,0 +1,25 @@
+{
+    "id": "bw8-33",
+    "name": "Sharpedo",
+    "number": "33",
+    "setId": "bw8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956831",
+        "reverse-holo": "956965"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$45.72",
+                "grade9": "$18.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.95",
+                "psa10": "$53.28",
+                "grade9": "$24.75"
+            }
+        }
+    }
+}

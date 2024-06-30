@@ -1,0 +1,25 @@
+{
+    "id": "sm11-211",
+    "name": "U-Turn Board",
+    "number": "211",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963777",
+        "reverse-holo": "964018"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "$37.45",
+                "grade9": "$14.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.88",
+                "psa10": "$16.00",
+                "grade9": "$14.10"
+            }
+        }
+    }
+}

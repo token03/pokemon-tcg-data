@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-9",
+    "name": "Kricketot",
+    "number": "9",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489507",
+        "reverse-holo": "3489723"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.39",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.76",
+                "psa10": "$33.10",
+                "grade9": "$11.22"
+            }
+        }
+    }
+}

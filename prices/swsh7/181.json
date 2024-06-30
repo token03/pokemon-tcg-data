@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-181",
+    "name": "Golurk V",
+    "number": "181",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2512992"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.94",
+                "psa10": "$29.99",
+                "grade9": "$5.59"
+            }
+        }
+    }
+}

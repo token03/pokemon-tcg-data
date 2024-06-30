@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-79",
+    "name": "Morpeko V",
+    "number": "79",
+    "setId": "swsh1",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "807181"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.21",
+                "psa10": "$17.37",
+                "grade9": "$10.25"
+            }
+        }
+    }
+}

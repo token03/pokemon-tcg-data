@@ -1,0 +1,19 @@
+{
+    "id": "sm12-35",
+    "name": "Volcarona-GX",
+    "number": "35",
+    "setId": "sm12",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964273"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.29",
+                "psa10": "$36.75",
+                "grade9": "$14.23"
+            }
+        }
+    }
+}

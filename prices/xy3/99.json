@@ -1,0 +1,25 @@
+{
+    "id": "xy3-99",
+    "name": "Sparkling Robe",
+    "number": "99",
+    "setId": "xy3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958082",
+        "reverse-holo": "958188"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

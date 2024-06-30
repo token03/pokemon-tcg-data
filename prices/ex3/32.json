@@ -1,0 +1,31 @@
+{
+    "id": "ex3-32",
+    "name": "Gyarados",
+    "number": "32",
+    "setId": "ex3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849412",
+        "prerelease": "3312764",
+        "reverse-holo": "849511"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.03",
+                "psa10": "$70.01",
+                "grade9": "$30.00"
+            },
+            "prerelease": {
+                "ungraded": "$49.90",
+                "psa10": "$232.50",
+                "grade9": "$74.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$23.60",
+                "psa10": "$604.95",
+                "grade9": "$75.00"
+            }
+        }
+    }
+}

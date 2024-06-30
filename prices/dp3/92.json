@@ -1,0 +1,25 @@
+{
+    "id": "dp3-92",
+    "name": "Lotad",
+    "number": "92",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920982",
+        "reverse-holo": "921113"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$116.58",
+                "grade9": ""
+            }
+        }
+    }
+}

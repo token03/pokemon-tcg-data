@@ -1,0 +1,25 @@
+{
+    "id": "sm10-111",
+    "name": "Sharpedo",
+    "number": "111",
+    "setId": "sm10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963267",
+        "reverse-holo": "963492"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.88",
+                "grade9": "$12.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.94",
+                "psa10": "$51.00",
+                "grade9": "$14.37"
+            }
+        }
+    }
+}

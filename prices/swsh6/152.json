@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-152",
+    "name": "Rugged Helmet",
+    "number": "152",
+    "setId": "swsh6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2253956",
+        "reverse-holo": "2254164"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$34.68",
+                "grade9": "$12.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "$34.53",
+                "grade9": "$12.08"
+            }
+        }
+    }
+}

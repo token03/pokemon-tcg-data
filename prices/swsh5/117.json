@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-117",
+    "name": "Stoutland V",
+    "number": "117",
+    "setId": "swsh5",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "1673297"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.71",
+                "psa10": "$15.01",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

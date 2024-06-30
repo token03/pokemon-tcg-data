@@ -1,0 +1,25 @@
+{
+    "id": "ex13-22",
+    "name": "Latios \u03b4",
+    "number": "22",
+    "setId": "ex13",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889102",
+        "reverse-holo": "889213"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.26",
+                "psa10": "$88.42",
+                "grade9": "$43.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$21.48",
+                "psa10": "$369.99",
+                "grade9": "$53.25"
+            }
+        }
+    }
+}

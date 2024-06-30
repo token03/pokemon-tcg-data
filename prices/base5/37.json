@@ -1,0 +1,25 @@
+{
+    "id": "base5-37",
+    "name": "Dark Golduck",
+    "number": "37",
+    "setId": "base5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643459",
+        "1st-edition": "1341379"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.43",
+                "psa10": "$33.08",
+                "grade9": "$12.20"
+            },
+            "1st-edition": {
+                "ungraded": "$3.69",
+                "psa10": "$100.22",
+                "grade9": "$28.00"
+            }
+        }
+    }
+}

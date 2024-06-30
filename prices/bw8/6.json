@@ -1,0 +1,25 @@
+{
+    "id": "bw8-6",
+    "name": "Cherubi",
+    "number": "6",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956804",
+        "reverse-holo": "956941"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

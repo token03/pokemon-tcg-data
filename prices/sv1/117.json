@@ -1,0 +1,25 @@
+{
+    "id": "sv1-117",
+    "name": "Krookodile",
+    "number": "117",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933892",
+        "reverse-holo": "4934142"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$35.38",
+                "grade9": "$11.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.18",
+                "psa10": "$35.16",
+                "grade9": "$11.72"
+            }
+        }
+    }
+}

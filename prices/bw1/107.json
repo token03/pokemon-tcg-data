@@ -1,0 +1,19 @@
+{
+    "id": "bw1-107",
+    "name": "Water Energy",
+    "number": "107",
+    "setId": "bw1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2677928"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

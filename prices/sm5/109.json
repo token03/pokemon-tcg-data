@@ -1,0 +1,25 @@
+{
+    "id": "sm5-109",
+    "name": "Purugly",
+    "number": "109",
+    "setId": "sm5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961472",
+        "reverse-holo": "961636"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.09",
+                "psa10": "$7.00",
+                "grade9": ""
+            }
+        }
+    }
+}

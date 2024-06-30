@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-86",
+    "name": "Single Strike Urshifu VMAX",
+    "number": "86",
+    "setId": "swsh5",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "1673266",
+        "jumbo": "6714960"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.33",
+                "psa10": "$20.50",
+                "grade9": "$14.00"
+            },
+            "jumbo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-131",
+    "name": "Miracle Sphere \u03b3",
+    "number": "131",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887984",
+        "reverse-holo": "2252730"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.48",
+                "psa10": "$27.00",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$22.29",
+                "psa10": "$63.80",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-110",
+    "name": "Falinks V",
+    "number": "110",
+    "setId": "swsh2",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "886837"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$15.00",
+                "grade9": "$14.95"
+            }
+        }
+    }
+}

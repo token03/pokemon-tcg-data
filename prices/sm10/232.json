@@ -1,0 +1,19 @@
+{
+    "id": "sm10-232",
+    "name": "Metal Core Barrier",
+    "number": "232",
+    "setId": "sm10",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "963388"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.79",
+                "psa10": "$18.00",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

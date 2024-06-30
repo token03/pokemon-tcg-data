@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-21",
+    "name": "Eldegoss",
+    "number": "21",
+    "setId": "swsh1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "807086",
+        "reverse-holo": "807087"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$36.50",
+                "grade9": "$17.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.01",
+                "psa10": "$33.85",
+                "grade9": "$12.07"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex10-6",
+    "name": "Forretress",
+    "number": "6",
+    "setId": "ex10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888426",
+        "reverse-holo": "888568"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.41",
+                "psa10": "$207.43",
+                "grade9": "$26.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.09",
+                "psa10": "$173.44",
+                "grade9": "$32.55"
+            }
+        }
+    }
+}

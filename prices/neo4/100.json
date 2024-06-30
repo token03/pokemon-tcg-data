@@ -1,0 +1,25 @@
+{
+    "id": "neo4-100",
+    "name": "Lucky Stadium",
+    "number": "100",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762621",
+        "1st-edition": "2183361"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$49.49",
+                "grade9": "$26.58"
+            },
+            "1st-edition": {
+                "ungraded": "$8.01",
+                "psa10": "$102.86",
+                "grade9": "$17.01"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-170",
+    "name": "Kindler",
+    "number": "170",
+    "setId": "swsh9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3188394"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$19.49",
+                "grade9": "$7.00"
+            }
+        }
+    }
+}

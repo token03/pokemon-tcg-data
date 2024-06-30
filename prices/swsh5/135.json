@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-135",
+    "name": "Sordward & Shielbert",
+    "number": "135",
+    "setId": "swsh5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1673315",
+        "reverse-holo": "1725104"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.80",
+                "grade9": "$11.80"
+            }
+        }
+    }
+}

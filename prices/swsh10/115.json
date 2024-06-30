@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-115",
+    "name": "Pawniard",
+    "number": "115",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489614",
+        "reverse-holo": "3489811"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.98",
+                "psa10": "$34.03",
+                "grade9": "$11.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.03",
+                "grade9": "$11.59"
+            }
+        }
+    }
+}

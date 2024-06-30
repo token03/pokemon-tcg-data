@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-150",
+    "name": "Fletchling",
+    "number": "150",
+    "setId": "swsh12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4277271",
+        "reverse-holo": "4293870"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.84",
+                "psa10": "$33.59",
+                "grade9": "$11.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.51",
+                "psa10": "$36.34",
+                "grade9": "$12.29"
+            }
+        }
+    }
+}

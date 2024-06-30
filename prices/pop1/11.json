@@ -1,0 +1,19 @@
+{
+    "id": "pop1-11",
+    "name": "Larvitar",
+    "number": "11",
+    "setId": "pop1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762676"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$68.04",
+                "grade9": "$21.50"
+            }
+        }
+    }
+}

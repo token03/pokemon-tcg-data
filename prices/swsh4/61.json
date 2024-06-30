@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-61",
+    "name": "Zeraora",
+    "number": "61",
+    "setId": "swsh4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842056",
+        "reverse-holo": "887785"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$22.04",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.97",
+                "psa10": "$16.50",
+                "grade9": "$9.40"
+            }
+        }
+    }
+}

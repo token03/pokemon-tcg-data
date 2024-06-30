@@ -1,0 +1,25 @@
+{
+    "id": "dp1-18",
+    "name": "Azumarill",
+    "number": "18",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763054",
+        "reverse-holo": "763176"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.09",
+                "psa10": "$63.86",
+                "grade9": "$22.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.51",
+                "psa10": "$71.87",
+                "grade9": "$38.00"
+            }
+        }
+    }
+}

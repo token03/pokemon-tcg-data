@@ -1,0 +1,25 @@
+{
+    "id": "pl3-45",
+    "name": "Solrock",
+    "number": "45",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287092",
+        "reverse-holo": "1287246"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.11",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

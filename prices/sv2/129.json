@@ -1,0 +1,25 @@
+{
+    "id": "sv2-129",
+    "name": "Paldean Wooper",
+    "number": "129",
+    "setId": "sv2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5287418",
+        "reverse-holo": "5287684"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$35.48",
+                "grade9": "$11.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$37.12",
+                "grade9": "$12.29"
+            }
+        }
+    }
+}

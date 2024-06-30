@@ -1,0 +1,25 @@
+{
+    "id": "pl3-99",
+    "name": "Combee",
+    "number": "99",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287146",
+        "reverse-holo": "1287300"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$10.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.86",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

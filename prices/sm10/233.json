@@ -1,0 +1,19 @@
+{
+    "id": "sm10-233",
+    "name": "Pok\u00e9gear 3.0",
+    "number": "233",
+    "setId": "sm10",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "963389"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$44.33",
+                "psa10": "$42.00",
+                "grade9": "$31.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm12-261",
+    "name": "Mega Lopunny & Jigglypuff-GX",
+    "number": "261",
+    "setId": "sm12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "964499"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.84",
+                "psa10": "$56.10",
+                "grade9": "$29.26"
+            }
+        }
+    }
+}

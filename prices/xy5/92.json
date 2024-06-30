@@ -1,0 +1,25 @@
+{
+    "id": "xy5-92",
+    "name": "Crawdaunt",
+    "number": "92",
+    "setId": "xy5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "958549",
+        "reverse-holo": "958704"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.49",
+                "psa10": "$44.88",
+                "grade9": "$8.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-168",
+    "name": "Charmander",
+    "number": "168",
+    "setId": "sv3pt5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5809549"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$27.88",
+                "psa10": "$157.50",
+                "grade9": "$24.56"
+            }
+        }
+    }
+}

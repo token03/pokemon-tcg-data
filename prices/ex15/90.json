@@ -1,0 +1,19 @@
+{
+    "id": "ex15-90",
+    "name": "Altaria ex \u03b4",
+    "number": "90",
+    "setId": "ex15",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889564"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.98",
+                "psa10": "$338.22",
+                "grade9": "$126.40"
+            }
+        }
+    }
+}

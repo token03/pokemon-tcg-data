@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-175",
+    "name": "Hiding Darkness Energy",
+    "number": "175",
+    "setId": "swsh3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887253",
+        "reverse-holo": "887431"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$34.45",
+                "grade9": "$12.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.85",
+                "psa10": "$16.00",
+                "grade9": "$13.60"
+            }
+        }
+    }
+}

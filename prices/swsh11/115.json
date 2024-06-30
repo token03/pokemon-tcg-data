@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-115",
+    "name": "Honchkrow",
+    "number": "115",
+    "setId": "swsh11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4050032",
+        "reverse-holo": "4050240"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$35.25",
+                "grade9": "$11.96"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.37",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

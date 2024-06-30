@@ -1,0 +1,25 @@
+{
+    "id": "xy1-28",
+    "name": "Talonflame",
+    "number": "28",
+    "setId": "xy1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806525",
+        "reverse-holo": "806650"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.84",
+                "psa10": "$43.86",
+                "grade9": "$18.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.97",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

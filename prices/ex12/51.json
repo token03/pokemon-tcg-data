@@ -1,0 +1,25 @@
+{
+    "id": "ex12-51",
+    "name": "Clamperl",
+    "number": "51",
+    "setId": "ex12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888933",
+        "reverse-holo": "889026"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.42",
+                "psa10": "$31.00",
+                "grade9": "$25.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.75",
+                "psa10": "$68.56",
+                "grade9": "$20.75"
+            }
+        }
+    }
+}

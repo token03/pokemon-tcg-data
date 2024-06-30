@@ -1,0 +1,25 @@
+{
+    "id": "dp2-116",
+    "name": "Armor Fossil",
+    "number": "116",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920740",
+        "reverse-holo": "920863"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$30.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

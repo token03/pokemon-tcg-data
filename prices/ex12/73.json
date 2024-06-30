@@ -1,0 +1,25 @@
+{
+    "id": "ex12-73",
+    "name": "Fieldworker",
+    "number": "73",
+    "setId": "ex12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888955",
+        "reverse-holo": "889048"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.32",
+                "psa10": "$288.72",
+                "grade9": "$92.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$36.99",
+                "psa10": "$1,006.90",
+                "grade9": "$145.85"
+            }
+        }
+    }
+}

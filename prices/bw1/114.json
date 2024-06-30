@@ -1,0 +1,19 @@
+{
+    "id": "bw1-114",
+    "name": "Zekrom",
+    "number": "114",
+    "setId": "bw1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "886699"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.37",
+                "psa10": "$450.94",
+                "grade9": "$74.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw5-88",
+    "name": "Stoutland",
+    "number": "88",
+    "setId": "bw5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956134",
+        "reverse-holo": "956241"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.09",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.85",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

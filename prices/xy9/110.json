@@ -1,0 +1,25 @@
+{
+    "id": "xy9-110",
+    "name": "Reverse Valley",
+    "number": "110",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959601",
+        "reverse-holo": "959709"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$36.60",
+                "grade9": "$4.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "$42.99",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

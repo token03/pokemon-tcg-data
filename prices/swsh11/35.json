@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-35",
+    "name": "Horsea",
+    "number": "35",
+    "setId": "swsh11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4049952",
+        "reverse-holo": "4050168"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "$37.25",
+                "grade9": "$12.70"
+            }
+        }
+    }
+}

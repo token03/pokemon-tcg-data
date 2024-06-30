@@ -1,0 +1,25 @@
+{
+    "id": "sm10-96",
+    "name": "Wooper",
+    "number": "96",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963252",
+        "reverse-holo": "963479"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.39",
+                "grade9": "$12.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$70.69",
+                "grade9": "$12.68"
+            }
+        }
+    }
+}

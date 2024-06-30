@@ -1,0 +1,19 @@
+{
+    "id": "sm10-207",
+    "name": "Persian-GX",
+    "number": "207",
+    "setId": "sm10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963363"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.91",
+                "psa10": "$29.95",
+                "grade9": "$16.74"
+            }
+        }
+    }
+}

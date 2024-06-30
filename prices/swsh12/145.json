@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-145",
+    "name": "Lopunny",
+    "number": "145",
+    "setId": "swsh12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4277266",
+        "reverse-holo": "4293865"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$34.22",
+                "grade9": "$11.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.57",
+                "psa10": "$36.63",
+                "grade9": "$12.39"
+            }
+        }
+    }
+}

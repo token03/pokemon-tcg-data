@@ -1,0 +1,25 @@
+{
+    "id": "dp7-84",
+    "name": "Energy Switch",
+    "number": "84",
+    "setId": "dp7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925287",
+        "reverse-holo": "925383"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.22",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

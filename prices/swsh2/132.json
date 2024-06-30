@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-132",
+    "name": "Durant",
+    "number": "132",
+    "setId": "swsh2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886859",
+        "reverse-holo": "887047"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$34.94",
+                "grade9": "$12.61"
+            }
+        }
+    }
+}

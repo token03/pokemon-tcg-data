@@ -1,0 +1,19 @@
+{
+    "id": "sm10-217",
+    "name": "Reshiram & Charizard-GX",
+    "number": "217",
+    "setId": "sm10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963373"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$84.39",
+                "psa10": "$265.00",
+                "grade9": "$115.00"
+            }
+        }
+    }
+}

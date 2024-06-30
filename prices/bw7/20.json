@@ -1,0 +1,25 @@
+{
+    "id": "bw7-20",
+    "name": "Charizard",
+    "number": "20",
+    "setId": "bw7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956535",
+        "reverse-holo": "956687"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.00",
+                "psa10": "$809.01",
+                "grade9": "$119.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$29.99",
+                "psa10": "$1,234.57",
+                "grade9": "$153.84"
+            }
+        }
+    }
+}

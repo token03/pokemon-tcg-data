@@ -1,0 +1,31 @@
+{
+    "id": "bw8-120",
+    "name": "Escape Rope",
+    "number": "120",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956917",
+        "league-promo": "6249705",
+        "reverse-holo": "957047"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$41.77",
+                "grade9": "$16.06"
+            },
+            "league-promo": {
+                "ungraded": "$9.97",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.28",
+                "psa10": "$55.87",
+                "grade9": "$23.32"
+            }
+        }
+    }
+}

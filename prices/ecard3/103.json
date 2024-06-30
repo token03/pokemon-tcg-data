@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-103",
+    "name": "Staryu",
+    "number": "103",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842756",
+        "reverse-holo": "2252702"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.87",
+                "psa10": "$54.67",
+                "grade9": "$16.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$18.70",
+                "psa10": "$131.38",
+                "grade9": "$42.70"
+            }
+        }
+    }
+}

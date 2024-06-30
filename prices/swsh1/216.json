@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-216",
+    "name": "Quick Ball",
+    "number": "216",
+    "setId": "swsh1",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2336177"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.99",
+                "psa10": "$32.83",
+                "grade9": "$14.55"
+            }
+        }
+    }
+}

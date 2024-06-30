@@ -1,0 +1,31 @@
+{
+    "id": "base2-15",
+    "name": "Vileplume",
+    "number": "15",
+    "setId": "base2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643343",
+        "1st-edition": "643391",
+        "no-symbol": "3179694"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.17",
+                "psa10": "$355.00",
+                "grade9": "$58.76"
+            },
+            "1st-edition": {
+                "ungraded": "$22.24",
+                "psa10": "$917.41",
+                "grade9": "$129.95"
+            },
+            "no-symbol": {
+                "ungraded": "$20.52",
+                "psa10": "$1,025.00",
+                "grade9": "$58.39"
+            }
+        }
+    }
+}

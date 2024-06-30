@@ -1,0 +1,19 @@
+{
+    "id": "sv1-257",
+    "name": "Basic Lightning Energy",
+    "number": "257",
+    "setId": "sv1",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "4934031"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.50",
+                "psa10": "$24.13",
+                "grade9": "$12.01"
+            }
+        }
+    }
+}

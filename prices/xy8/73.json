@@ -1,0 +1,25 @@
+{
+    "id": "xy8-73",
+    "name": "Elgyem",
+    "number": "73",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959262",
+        "reverse-holo": "959416"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "$38.02",
+                "grade9": "$14.68"
+            }
+        }
+    }
+}

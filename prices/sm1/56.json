@@ -1,0 +1,25 @@
+{
+    "id": "sm1-56",
+    "name": "Crobat",
+    "number": "56",
+    "setId": "sm1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "806804",
+        "reverse-holo": "806935"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.49",
+                "psa10": "$36.95",
+                "grade9": "$15.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "$38.35",
+                "grade9": "$15.02"
+            }
+        }
+    }
+}

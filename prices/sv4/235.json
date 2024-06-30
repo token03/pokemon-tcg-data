@@ -1,0 +1,19 @@
+{
+    "id": "sv4-235",
+    "name": "Larry",
+    "number": "235",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953074"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.32",
+                "psa10": "$40.00",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv1-165",
+    "name": "Flamigo",
+    "number": "165",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933939",
+        "reverse-holo": "4934185"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.90",
+                "grade9": "$11.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$36.34",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

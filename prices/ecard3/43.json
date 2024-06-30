@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-43",
+    "name": "Piloswine",
+    "number": "43",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887971",
+        "reverse-holo": "2252641"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.49",
+                "psa10": "$30.00",
+                "grade9": "$14.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.84",
+                "psa10": "$160.50",
+                "grade9": "$33.63"
+            }
+        }
+    }
+}

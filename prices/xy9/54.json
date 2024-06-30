@@ -1,0 +1,25 @@
+{
+    "id": "xy9-54",
+    "name": "Drapion",
+    "number": "54",
+    "setId": "xy9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959545",
+        "reverse-holo": "959660"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$36.24",
+                "grade9": "$5.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "$38.37",
+                "grade9": "$14.94"
+            }
+        }
+    }
+}

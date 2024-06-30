@@ -1,0 +1,31 @@
+{
+    "id": "base1-66",
+    "name": "Tangela",
+    "number": "66",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630479",
+        "1st-edition": "715655",
+        "shadowless": "715757"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$39.99",
+                "grade9": "$26.00"
+            },
+            "1st-edition": {
+                "ungraded": "$11.50",
+                "psa10": "$150.89",
+                "grade9": "$39.25"
+            },
+            "shadowless": {
+                "ungraded": "$2.70",
+                "psa10": "$56.00",
+                "grade9": "$17.46"
+            }
+        }
+    }
+}

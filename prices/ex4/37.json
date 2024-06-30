@@ -1,0 +1,25 @@
+{
+    "id": "ex4-37",
+    "name": "Team Magma's Mightyena",
+    "number": "37",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849606",
+        "reverse-holo": "849703"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$40.00",
+                "grade9": "$30.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.95",
+                "psa10": "$217.67",
+                "grade9": "$73.12"
+            }
+        }
+    }
+}

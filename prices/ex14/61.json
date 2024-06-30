@@ -1,0 +1,31 @@
+{
+    "id": "ex14-61",
+    "name": "Spearow",
+    "number": "61",
+    "setId": "ex14",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889348",
+        "stamped-holo": "5134671",
+        "stamped-reverse-holo": "889448"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$33.00",
+                "grade9": "$18.26"
+            },
+            "stamped-holo": {
+                "ungraded": "$1.85",
+                "psa10": "",
+                "grade9": ""
+            },
+            "stamped-reverse-holo": {
+                "ungraded": "$4.24",
+                "psa10": "$70.50",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

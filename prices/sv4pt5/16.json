@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-16",
+    "name": "Lapras",
+    "number": "16",
+    "setId": "sv4pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6276935",
+        "reverse-holo": "6277179"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.71",
+                "grade9": "$11.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.04",
+                "psa10": "$34.93",
+                "grade9": "$6.19"
+            }
+        }
+    }
+}

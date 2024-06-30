@@ -1,0 +1,25 @@
+{
+    "id": "sv1-29",
+    "name": "Scovillain",
+    "number": "29",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933806",
+        "reverse-holo": "4934060"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$36.90",
+                "grade9": "$12.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.26",
+                "psa10": "$35.51",
+                "grade9": "$11.84"
+            }
+        }
+    }
+}

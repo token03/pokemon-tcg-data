@@ -1,0 +1,19 @@
+{
+    "id": "hgss1-117",
+    "name": "Water Energy",
+    "number": "117",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2677927"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.03",
+                "psa10": "$48.36",
+                "grade9": "$28.00"
+            }
+        }
+    }
+}

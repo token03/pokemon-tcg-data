@@ -1,0 +1,25 @@
+{
+    "id": "dp1-106",
+    "name": "Energy Restore",
+    "number": "106",
+    "setId": "dp1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "763142",
+        "reverse-holo": "763264"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.75",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

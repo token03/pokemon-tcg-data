@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-44",
+    "name": "Combee",
+    "number": "44",
+    "setId": "hgss3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925931",
+        "reverse-holo": "926022"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.91",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

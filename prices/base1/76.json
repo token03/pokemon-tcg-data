@@ -1,0 +1,31 @@
+{
+    "id": "base1-76",
+    "name": "Pok\u00e9mon Breeder",
+    "number": "76",
+    "setId": "base1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "630489",
+        "1st-edition": "715665",
+        "shadowless": "6663726"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.25",
+                "psa10": "$83.55",
+                "grade9": "$24.14"
+            },
+            "1st-edition": {
+                "ungraded": "$31.62",
+                "psa10": "$342.72",
+                "grade9": "$87.50"
+            },
+            "shadowless": {
+                "ungraded": "$8.59",
+                "psa10": "$119.71",
+                "grade9": "$28.50"
+            }
+        }
+    }
+}

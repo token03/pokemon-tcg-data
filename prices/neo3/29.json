@@ -1,0 +1,25 @@
+{
+    "id": "neo3-29",
+    "name": "Golbat",
+    "number": "29",
+    "setId": "neo3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762505",
+        "1st-edition": "2427408"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$18.34",
+                "grade9": "$16.69"
+            },
+            "1st-edition": {
+                "ungraded": "$2.98",
+                "psa10": "$49.88",
+                "grade9": "$22.49"
+            }
+        }
+    }
+}

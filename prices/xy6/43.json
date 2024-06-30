@@ -1,0 +1,25 @@
+{
+    "id": "xy6-43",
+    "name": "Togepi",
+    "number": "43",
+    "setId": "xy6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958866",
+        "reverse-holo": "958973"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$35.78",
+                "grade9": "$13.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.18",
+                "psa10": "$42.61",
+                "grade9": "$17.23"
+            }
+        }
+    }
+}

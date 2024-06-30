@@ -1,0 +1,25 @@
+{
+    "id": "sv5-150",
+    "name": "Hand Trimmer",
+    "number": "150",
+    "setId": "sv5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6495610",
+        "reverse-holo": "6495814"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$35.96",
+                "grade9": "$11.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.35",
+                "psa10": "$36.69",
+                "grade9": "$11.82"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-162",
+    "name": "Honchkrow V",
+    "number": "162",
+    "setId": "swsh9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3188386"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.69",
+                "psa10": "$44.44",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

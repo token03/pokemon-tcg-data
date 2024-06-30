@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-227",
+    "name": "Clive",
+    "number": "227",
+    "setId": "sv4pt5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6277146"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$18.77",
+                "grade9": "$12.47"
+            }
+        }
+    }
+}

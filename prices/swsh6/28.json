@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-28",
+    "name": "Cinderace",
+    "number": "28",
+    "setId": "swsh6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2253834",
+        "reverse-holo": "2254058"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$94.99",
+                "grade9": "$12.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.51",
+                "psa10": "$35.69",
+                "grade9": "$12.61"
+            }
+        }
+    }
+}

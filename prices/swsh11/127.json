@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-127",
+    "name": "Galarian Stunfisk",
+    "number": "127",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4050044",
+        "reverse-holo": "4050250"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.37",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

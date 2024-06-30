@@ -1,0 +1,25 @@
+{
+    "id": "pl4-38",
+    "name": "Grovyle",
+    "number": "38",
+    "setId": "pl4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925657",
+        "reverse-holo": "925768"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.55",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

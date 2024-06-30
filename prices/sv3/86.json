@@ -1,0 +1,31 @@
+{
+    "id": "sv3-86",
+    "name": "Espeon",
+    "number": "86",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605604",
+        "reverse-holo": "5605835",
+        "stamped": "5698917"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$33.49",
+                "grade9": "$15.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.72",
+                "psa10": "$27.00",
+                "grade9": "$13.99"
+            },
+            "stamped": {
+                "ungraded": "$9.12",
+                "psa10": "$36.99",
+                "grade9": "$26.00"
+            }
+        }
+    }
+}

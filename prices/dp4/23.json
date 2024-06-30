@@ -1,0 +1,25 @@
+{
+    "id": "dp4-23",
+    "name": "Latios",
+    "number": "23",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921177",
+        "reverse-holo": "921283"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.39",
+                "psa10": "$66.53",
+                "grade9": "$33.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.04",
+                "psa10": "$246.13",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

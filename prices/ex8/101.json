@@ -1,0 +1,19 @@
+{
+    "id": "ex8-101",
+    "name": "Manectric ex",
+    "number": "101",
+    "setId": "ex8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888121"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.30",
+                "psa10": "$382.86",
+                "grade9": "$90.29"
+            }
+        }
+    }
+}

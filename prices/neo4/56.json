@@ -1,0 +1,25 @@
+{
+    "id": "neo4-56",
+    "name": "Togepi",
+    "number": "56",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762650",
+        "1st-edition": "2183390"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.40",
+                "psa10": "$54.00",
+                "grade9": "$31.94"
+            },
+            "1st-edition": {
+                "ungraded": "$9.10",
+                "psa10": "$71.40",
+                "grade9": "$22.26"
+            }
+        }
+    }
+}

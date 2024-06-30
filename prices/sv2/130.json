@@ -1,0 +1,19 @@
+{
+    "id": "sv2-130",
+    "name": "Paldean Clodsire ex",
+    "number": "130",
+    "setId": "sv2",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5287419"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$36.24",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

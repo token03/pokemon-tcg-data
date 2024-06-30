@@ -1,0 +1,25 @@
+{
+    "id": "ex1-10",
+    "name": "Mightyena",
+    "number": "10",
+    "setId": "ex1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762890",
+        "reverse-holo": "762972"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.34",
+                "psa10": "$181.47",
+                "grade9": "$36.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.35",
+                "psa10": "$76.89",
+                "grade9": "$36.95"
+            }
+        }
+    }
+}

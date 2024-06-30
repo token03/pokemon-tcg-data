@@ -1,0 +1,25 @@
+{
+    "id": "dp2-107",
+    "name": "Vulpix",
+    "number": "107",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920731",
+        "reverse-holo": "920854"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$28.00",
+                "grade9": "$19.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.56",
+                "psa10": "$87.67",
+                "grade9": "$32.37"
+            }
+        }
+    }
+}

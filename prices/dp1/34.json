@@ -1,0 +1,25 @@
+{
+    "id": "dp1-34",
+    "name": "Noctowl",
+    "number": "34",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763070",
+        "reverse-holo": "763192"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$63.38",
+                "grade9": "$22.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.17",
+                "psa10": "$79.85",
+                "grade9": "$15.27"
+            }
+        }
+    }
+}

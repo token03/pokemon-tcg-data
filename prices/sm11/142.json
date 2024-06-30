@@ -1,0 +1,25 @@
+{
+    "id": "sm11-142",
+    "name": "Escavalier",
+    "number": "142",
+    "setId": "sm11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963708",
+        "reverse-holo": "963952"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

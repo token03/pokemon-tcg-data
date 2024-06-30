@@ -1,0 +1,19 @@
+{
+    "id": "sv1-238",
+    "name": "Miriam",
+    "number": "238",
+    "setId": "sv1",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "4934012"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.30",
+                "psa10": "$46.48",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

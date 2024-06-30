@@ -1,0 +1,19 @@
+{
+    "id": "pop2-11",
+    "name": "TV Reporter",
+    "number": "11",
+    "setId": "pop2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762699"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.34",
+                "psa10": "$80.00",
+                "grade9": "$11.25"
+            }
+        }
+    }
+}

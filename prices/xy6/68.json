@@ -1,0 +1,25 @@
+{
+    "id": "xy6-68",
+    "name": "Dunsparce",
+    "number": "68",
+    "setId": "xy6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958891",
+        "reverse-holo": "958993"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$35.72",
+                "grade9": "$9.38"
+            }
+        }
+    }
+}

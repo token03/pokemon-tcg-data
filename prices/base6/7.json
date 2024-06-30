@@ -1,0 +1,25 @@
+{
+    "id": "base6-7",
+    "name": "Dark Raichu",
+    "number": "7",
+    "setId": "base6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842314",
+        "reverse-holo": "2253691"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.99",
+                "psa10": "$131.42",
+                "grade9": "$93.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$89.99",
+                "psa10": "$1,400.00",
+                "grade9": "$375.00"
+            }
+        }
+    }
+}

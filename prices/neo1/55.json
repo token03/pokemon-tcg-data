@@ -1,0 +1,25 @@
+{
+    "id": "neo1-55",
+    "name": "Chinchou",
+    "number": "55",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762370",
+        "1st-edition": "2324849"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$71.86",
+                "grade9": "$15.50"
+            },
+            "1st-edition": {
+                "ungraded": "$2.45",
+                "psa10": "$42.17",
+                "grade9": "$14.19"
+            }
+        }
+    }
+}

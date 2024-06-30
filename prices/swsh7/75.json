@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-75",
+    "name": "Sylveon VMAX",
+    "number": "75",
+    "setId": "swsh7",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "2512886",
+        "prize-pack": "6206441"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.50",
+                "psa10": "$38.00",
+                "grade9": "$22.04"
+            },
+            "prize-pack": {
+                "ungraded": "$10.24",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

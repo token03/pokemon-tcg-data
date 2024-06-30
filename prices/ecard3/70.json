@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-70",
+    "name": "Kakuna",
+    "number": "70",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842729",
+        "reverse-holo": "2252668"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.89",
+                "psa10": "$34.95",
+                "grade9": "$15.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$16.76",
+                "psa10": "$75.59",
+                "grade9": "$36.23"
+            }
+        }
+    }
+}

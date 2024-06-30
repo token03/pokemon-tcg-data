@@ -1,0 +1,19 @@
+{
+    "id": "swsh35-16",
+    "name": "Gardevoir V",
+    "number": "16",
+    "setId": "swsh35",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "836891"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$15.25",
+                "grade9": "$10.15"
+            }
+        }
+    }
+}

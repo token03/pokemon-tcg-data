@@ -1,0 +1,25 @@
+{
+    "id": "bw9-79",
+    "name": "Steelix",
+    "number": "79",
+    "setId": "bw9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957133",
+        "reverse-holo": "957251"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.15",
+                "psa10": "$46.40",
+                "grade9": "$18.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.20",
+                "psa10": "$67.72",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

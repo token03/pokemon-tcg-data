@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-204",
+    "name": "Pelipper",
+    "number": "204",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277123"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.43",
+                "psa10": "$23.23",
+                "grade9": "$7.00"
+            }
+        }
+    }
+}

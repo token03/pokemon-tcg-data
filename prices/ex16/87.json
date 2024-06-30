@@ -1,0 +1,25 @@
+{
+    "id": "ex16-87",
+    "name": "Darkness Energy",
+    "number": "87",
+    "setId": "ex16",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889751",
+        "reverse-holo": "889858"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$56.36",
+                "grade9": "$19.98"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$98.71",
+                "grade9": "$19.58"
+            }
+        }
+    }
+}

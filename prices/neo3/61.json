@@ -1,0 +1,25 @@
+{
+    "id": "neo3-61",
+    "name": "Healing Field",
+    "number": "61",
+    "setId": "neo3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762508",
+        "1st-edition": "2427411"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "$22.87",
+                "grade9": "$19.99"
+            },
+            "1st-edition": {
+                "ungraded": "$2.45",
+                "psa10": "$39.00",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

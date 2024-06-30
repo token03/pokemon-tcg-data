@@ -1,0 +1,25 @@
+{
+    "id": "dp5-49",
+    "name": "Unown [Q]",
+    "number": "49",
+    "setId": "dp5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921410",
+        "reverse-holo": "921511"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.53",
+                "psa10": "$65.04",
+                "grade9": "$24.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.14",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

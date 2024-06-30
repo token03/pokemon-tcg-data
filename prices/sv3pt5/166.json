@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-166",
+    "name": "Bulbasaur",
+    "number": "166",
+    "setId": "sv3pt5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5809547"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.99",
+                "psa10": "$98.89",
+                "grade9": "$28.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "base2-35",
+    "name": "Exeggutor",
+    "number": "35",
+    "setId": "base2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643306",
+        "1st-edition": "643354"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.46",
+                "psa10": "$75.47",
+                "grade9": "$14.75"
+            },
+            "1st-edition": {
+                "ungraded": "$3.17",
+                "psa10": "$102.32",
+                "grade9": "$25.31"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl4-89",
+    "name": "Old Amber",
+    "number": "89",
+    "setId": "pl4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925708",
+        "reverse-holo": "925819"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.79",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

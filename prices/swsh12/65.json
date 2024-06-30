@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-65",
+    "name": "Unown V",
+    "number": "65",
+    "setId": "swsh12",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277185"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$35.17",
+                "grade9": "$5.88"
+            }
+        }
+    }
+}

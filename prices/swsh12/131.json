@@ -1,0 +1,49 @@
+{
+    "id": "swsh12-131",
+    "name": "Dragonite",
+    "number": "131",
+    "setId": "swsh12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "eb-games-stamped": "4442257",
+        "gamestop-stamped": "4357957",
+        "holo": "4277339",
+        "prize-pack": "6599968",
+        "reverse-holo": "4286526",
+        "stamped": "4360386"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "eb-games-stamped": {
+                "ungraded": "$24.00",
+                "psa10": "",
+                "grade9": "$17.37"
+            },
+            "gamestop-stamped": {
+                "ungraded": "$8.95",
+                "psa10": "$55.00",
+                "grade9": "$22.49"
+            },
+            "holo": {
+                "ungraded": "$1.81",
+                "psa10": "$42.59",
+                "grade9": "$13.55"
+            },
+            "prize-pack": {
+                "ungraded": "$3.80",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.93",
+                "psa10": "$81.00",
+                "grade9": "$10.50"
+            },
+            "stamped": {
+                "ungraded": "$11.17",
+                "psa10": "$30.97",
+                "grade9": "$16.13"
+            }
+        }
+    }
+}

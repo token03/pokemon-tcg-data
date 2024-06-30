@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-30",
+    "name": "Sharpedo",
+    "number": "30",
+    "setId": "hgss4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926088",
+        "reverse-holo": "926190"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.72",
+                "psa10": "$48.53",
+                "grade9": "$18.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.87",
+                "psa10": "$85.53",
+                "grade9": "$26.93"
+            }
+        }
+    }
+}

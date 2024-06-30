@@ -1,0 +1,31 @@
+{
+    "id": "swsh1-65",
+    "name": "Pikachu",
+    "number": "65",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807207",
+        "league-stamp": "6604526",
+        "reverse-holo": "807208"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$25.30",
+                "grade9": "$13.84"
+            },
+            "league-stamp": {
+                "ungraded": "$24.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.41",
+                "psa10": "$39.89",
+                "grade9": "$13.10"
+            }
+        }
+    }
+}

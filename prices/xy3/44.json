@@ -1,0 +1,25 @@
+{
+    "id": "xy3-44",
+    "name": "Machop",
+    "number": "44",
+    "setId": "xy3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958027",
+        "reverse-holo": "958137"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.13",
+                "psa10": "$37.21",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

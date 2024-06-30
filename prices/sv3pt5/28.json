@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-28",
+    "name": "Sandslash",
+    "number": "28",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809408",
+        "reverse-holo": "5809615"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.73",
+                "grade9": "$11.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$35.14",
+                "grade9": "$11.56"
+            }
+        }
+    }
+}

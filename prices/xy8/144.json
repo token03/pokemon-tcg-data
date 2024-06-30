@@ -1,0 +1,25 @@
+{
+    "id": "xy8-144",
+    "name": "Mewtwo Spirit Link",
+    "number": "144",
+    "setId": "xy8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959333",
+        "reverse-holo": "959483"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$38.95",
+                "grade9": "$23.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.97",
+                "psa10": "$46.19",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

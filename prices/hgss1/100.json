@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-100",
+    "name": "Professor Elm's Training Method",
+    "number": "100",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806211",
+        "reverse-holo": "806318"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.51",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

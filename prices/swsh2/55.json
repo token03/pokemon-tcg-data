@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-55",
+    "name": "Eiscue V",
+    "number": "55",
+    "setId": "swsh2",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "886786",
+        "snowflake-stamp": "4405315"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$18.50",
+                "grade9": "$8.50"
+            },
+            "snowflake-stamp": {
+                "ungraded": "$1.28",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

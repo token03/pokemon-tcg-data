@@ -1,0 +1,25 @@
+{
+    "id": "sm2-17",
+    "name": "Turtonator",
+    "number": "17",
+    "setId": "sm2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960514",
+        "reverse-holo": "960683"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.91",
+                "psa10": "$44.95",
+                "grade9": "$12.49"
+            }
+        }
+    }
+}

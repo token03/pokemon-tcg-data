@@ -1,0 +1,25 @@
+{
+    "id": "gym2-47",
+    "name": "Koga's Kakuna",
+    "number": "47",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762253",
+        "1st-edition": "1450241"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "$33.25",
+                "grade9": "$12.27"
+            },
+            "1st-edition": {
+                "ungraded": "$4.92",
+                "psa10": "$44.48",
+                "grade9": "$18.67"
+            }
+        }
+    }
+}

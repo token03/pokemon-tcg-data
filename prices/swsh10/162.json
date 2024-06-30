@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-162",
+    "name": "Hisuian Lilligant V",
+    "number": "162",
+    "setId": "swsh10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3489661"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.70",
+                "psa10": "$17.42",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

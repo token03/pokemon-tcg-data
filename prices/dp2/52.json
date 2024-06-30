@@ -1,0 +1,31 @@
+{
+    "id": "dp2-52",
+    "name": "Happiny",
+    "number": "52",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920675",
+        "reverse-holo": "920799",
+        "stamped": "5428223"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "$57.06",
+                "grade9": "$20.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.97",
+                "psa10": "$70.17",
+                "grade9": "$25.58"
+            },
+            "stamped": {
+                "ungraded": "$3.74",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

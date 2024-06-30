@@ -1,0 +1,25 @@
+{
+    "id": "pl3-68",
+    "name": "Masquerain",
+    "number": "68",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287115",
+        "reverse-holo": "1287269"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.74",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

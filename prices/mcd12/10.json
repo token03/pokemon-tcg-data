@@ -1,0 +1,19 @@
+{
+    "id": "mcd12-10",
+    "name": "Scraggy",
+    "number": "10",
+    "setId": "mcd12",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179977"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.86",
+                "psa10": "$58.36",
+                "grade9": "$23.35"
+            }
+        }
+    }
+}

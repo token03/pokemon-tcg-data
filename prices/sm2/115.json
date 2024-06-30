@@ -1,0 +1,19 @@
+{
+    "id": "sm2-115",
+    "name": "Drampa-GX",
+    "number": "115",
+    "setId": "sm2",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "960612"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.09",
+                "psa10": "$22.20",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

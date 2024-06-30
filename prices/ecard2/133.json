@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-133",
+    "name": "Seer",
+    "number": "133",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842649",
+        "reverse-holo": "2294024"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$36.00",
+                "grade9": "$9.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.83",
+                "psa10": "$41.00",
+                "grade9": "$27.01"
+            }
+        }
+    }
+}

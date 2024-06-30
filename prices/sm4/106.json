@@ -1,0 +1,19 @@
+{
+    "id": "sm4-106",
+    "name": "Kartana-GX",
+    "number": "106",
+    "setId": "sm4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961252"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.06",
+                "psa10": "$42.91",
+                "grade9": "$14.40"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "dv1-15",
+    "name": "Fraxure",
+    "number": "15",
+    "setId": "dv1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956508"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.16",
+                "psa10": "$92.30",
+                "grade9": "$34.49"
+            }
+        }
+    }
+}

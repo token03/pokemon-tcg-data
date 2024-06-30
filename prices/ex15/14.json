@@ -1,0 +1,25 @@
+{
+    "id": "ex15-14",
+    "name": "Cloyster \u03b4",
+    "number": "14",
+    "setId": "ex15",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889488",
+        "reverse-holo": "889589"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$53.79",
+                "grade9": "$24.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.96",
+                "psa10": "$70.00",
+                "grade9": "$35.99"
+            }
+        }
+    }
+}

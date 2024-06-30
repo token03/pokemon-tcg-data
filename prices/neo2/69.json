@@ -1,0 +1,25 @@
+{
+    "id": "neo2-69",
+    "name": "Unown [O]",
+    "number": "69",
+    "setId": "neo2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762466",
+        "1st-edition": "2158492"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$43.03",
+                "grade9": "$15.77"
+            },
+            "1st-edition": {
+                "ungraded": "$2.26",
+                "psa10": "$43.51",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

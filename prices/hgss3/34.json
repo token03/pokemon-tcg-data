@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-34",
+    "name": "Raticate",
+    "number": "34",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925921",
+        "reverse-holo": "926012"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "$62.99",
+                "grade9": "$17.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

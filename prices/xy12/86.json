@@ -1,0 +1,25 @@
+{
+    "id": "xy12-86",
+    "name": "Slowbro Spirit Link",
+    "number": "86",
+    "setId": "xy12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960374",
+        "reverse-holo": "960462"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$29.98",
+                "grade9": "$7.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$50.28",
+                "grade9": "$9.51"
+            }
+        }
+    }
+}

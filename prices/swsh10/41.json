@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-41",
+    "name": "Oshawott",
+    "number": "41",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489539",
+        "reverse-holo": "3489750"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$35.91",
+                "grade9": "$12.32"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw7-122",
+    "name": "Stoutland",
+    "number": "122",
+    "setId": "bw7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956637",
+        "reverse-holo": "956781"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.27",
+                "psa10": "$131.08",
+                "grade9": "$43.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

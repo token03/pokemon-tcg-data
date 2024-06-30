@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-35",
+    "name": "Omastar V",
+    "number": "35",
+    "setId": "swsh12",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277154"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$18.64",
+                "grade9": "$7.42"
+            }
+        }
+    }
+}

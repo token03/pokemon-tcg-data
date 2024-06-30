@@ -1,0 +1,19 @@
+{
+    "id": "det1-9",
+    "name": "Greninja",
+    "number": "9",
+    "setId": "det1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963146"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.48",
+                "psa10": "$12.30",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

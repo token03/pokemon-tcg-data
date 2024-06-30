@@ -1,0 +1,25 @@
+{
+    "id": "xy2-33",
+    "name": "Luxio",
+    "number": "33",
+    "setId": "xy2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957780",
+        "reverse-holo": "957886"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.83",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

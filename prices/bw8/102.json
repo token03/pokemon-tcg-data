@@ -1,0 +1,25 @@
+{
+    "id": "bw8-102",
+    "name": "Togepi",
+    "number": "102",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956899",
+        "reverse-holo": "957030"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$41.77",
+                "grade9": "$16.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.68",
+                "psa10": "$74.83",
+                "grade9": "$33.07"
+            }
+        }
+    }
+}

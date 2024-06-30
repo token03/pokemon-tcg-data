@@ -1,0 +1,25 @@
+{
+    "id": "ex15-27",
+    "name": "Croconaw \u03b4",
+    "number": "27",
+    "setId": "ex15",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889501",
+        "reverse-holo": "889602"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.54",
+                "psa10": "$75.10",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.94",
+                "psa10": "$180.33",
+                "grade9": "$36.68"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "ecard1-34",
+    "name": "Ampharos",
+    "number": "34",
+    "setId": "ecard1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887879",
+        "for-position-only": "4081652",
+        "reverse-holo": "2266888"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.71",
+                "psa10": "$52.16",
+                "grade9": "$29.99"
+            },
+            "for-position-only": {
+                "ungraded": "$1,025.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$10.63",
+                "psa10": "$176.94",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

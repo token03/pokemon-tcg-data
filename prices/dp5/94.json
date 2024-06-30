@@ -1,0 +1,25 @@
+{
+    "id": "dp5-94",
+    "name": "Health Energy",
+    "number": "94",
+    "setId": "dp5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921456",
+        "reverse-holo": "921556"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "bw4-5",
+    "name": "Shaymin-EX",
+    "number": "5",
+    "setId": "bw4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956045"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.86",
+                "psa10": "$62.00",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

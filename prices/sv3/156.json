@@ -1,0 +1,19 @@
+{
+    "id": "sv3-156",
+    "name": "Revavroom ex",
+    "number": "156",
+    "setId": "sv3",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5605674"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$11.26",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-173",
+    "name": "Speed Lightning Energy",
+    "number": "173",
+    "setId": "swsh2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886899",
+        "reverse-holo": "836541"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$38.67",
+                "grade9": "$14.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.18",
+                "psa10": "$40.23",
+                "grade9": "$15.40"
+            }
+        }
+    }
+}

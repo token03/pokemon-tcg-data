@@ -1,0 +1,25 @@
+{
+    "id": "bw5-9",
+    "name": "Karrablast",
+    "number": "9",
+    "setId": "bw5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956055",
+        "reverse-holo": "956167"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.96",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

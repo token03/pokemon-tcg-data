@@ -1,0 +1,25 @@
+{
+    "id": "sm3-24",
+    "name": "Heatmor",
+    "number": "24",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960808",
+        "reverse-holo": "960974"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "$16.00",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

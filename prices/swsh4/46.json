@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-46",
+    "name": "Electrode",
+    "number": "46",
+    "setId": "swsh4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "887599",
+        "reverse-holo": "887773"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$15.07",
+                "grade9": "$11.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$15.51",
+                "grade9": "$11.87"
+            }
+        }
+    }
+}

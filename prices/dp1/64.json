@@ -1,0 +1,25 @@
+{
+    "id": "dp1-64",
+    "name": "Staravia",
+    "number": "64",
+    "setId": "dp1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "763100",
+        "reverse-holo": "763222"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.86",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$79.89",
+                "grade9": "$29.13"
+            }
+        }
+    }
+}

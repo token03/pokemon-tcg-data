@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-60",
+    "name": "Shinx",
+    "number": "60",
+    "setId": "swsh2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886791",
+        "reverse-holo": "886984"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.89",
+                "psa10": "$30.92",
+                "grade9": ""
+            }
+        }
+    }
+}

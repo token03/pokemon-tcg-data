@@ -1,0 +1,25 @@
+{
+    "id": "base5-21",
+    "name": "Dark Charizard",
+    "number": "21",
+    "setId": "base5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341826",
+        "1st-edition": "1341363"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.74",
+                "psa10": "$375.00",
+                "grade9": "$89.99"
+            },
+            "1st-edition": {
+                "ungraded": "$61.74",
+                "psa10": "$760.00",
+                "grade9": "$201.04"
+            }
+        }
+    }
+}

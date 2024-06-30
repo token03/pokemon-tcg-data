@@ -1,0 +1,25 @@
+{
+    "id": "dp5-29",
+    "name": "Scizor",
+    "number": "29",
+    "setId": "dp5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921391",
+        "reverse-holo": "921491"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.58",
+                "psa10": "$97.75",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.75",
+                "psa10": "$264.73",
+                "grade9": "$33.36"
+            }
+        }
+    }
+}

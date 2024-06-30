@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-83",
+    "name": "Galarian Runerigus",
+    "number": "83",
+    "setId": "swsh6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "2253888",
+        "reverse-holo": "2254106"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.42",
+                "psa10": "$34.65",
+                "grade9": "$12.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$34.22",
+                "grade9": "$11.93"
+            }
+        }
+    }
+}

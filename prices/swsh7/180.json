@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-180",
+    "name": "Espeon V",
+    "number": "180",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2512991"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$90.00",
+                "psa10": "$213.00",
+                "grade9": "$110.09"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "gym2-92",
+    "name": "Misty's Staryu",
+    "number": "92",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762294",
+        "1st-edition": "1450285"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.78",
+                "psa10": "$34.35",
+                "grade9": "$21.50"
+            },
+            "1st-edition": {
+                "ungraded": "$3.50",
+                "psa10": "$45.62",
+                "grade9": "$15.85"
+            }
+        }
+    }
+}

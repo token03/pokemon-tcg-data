@@ -1,0 +1,31 @@
+{
+    "id": "bw1-13",
+    "name": "Deerling",
+    "number": "13",
+    "setId": "bw1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806334",
+        "reverse-holo": "806421",
+        "holo]-[japanese]-[beginning-set": "5921870"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$45.19",
+                "grade9": "$17.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.22",
+                "psa10": "$44.58",
+                "grade9": ""
+            },
+            "holo]-[japanese]-[beginning-set": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

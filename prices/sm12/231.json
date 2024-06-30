@@ -1,0 +1,19 @@
+{
+    "id": "sm12-231",
+    "name": "Mallow & Lana",
+    "number": "231",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964469"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$55.00",
+                "psa10": "$140.02",
+                "grade9": "$68.35"
+            }
+        }
+    }
+}

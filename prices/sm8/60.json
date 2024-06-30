@@ -1,0 +1,19 @@
+{
+    "id": "sm8-60",
+    "name": "Suicune-GX",
+    "number": "60",
+    "setId": "sm8",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "962448"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.54",
+                "psa10": "$41.73",
+                "grade9": "$12.75"
+            }
+        }
+    }
+}

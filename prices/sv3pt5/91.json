@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-91",
+    "name": "Cloyster",
+    "number": "91",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809472",
+        "reverse-holo": "5809674"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.54",
+                "grade9": "$11.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.74",
+                "grade9": "$11.73"
+            }
+        }
+    }
+}

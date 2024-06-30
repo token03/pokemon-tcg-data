@@ -1,0 +1,25 @@
+{
+    "id": "col1-84",
+    "name": "Research Record",
+    "number": "84",
+    "setId": "col1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926335",
+        "reverse-holo": "926441"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.83",
+                "psa10": "$99.99",
+                "grade9": "$11.59"
+            }
+        }
+    }
+}

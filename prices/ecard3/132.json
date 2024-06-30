@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-132",
+    "name": "Mirage Stadium",
+    "number": "132",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842780",
+        "reverse-holo": "2252731"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$21.02",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.83",
+                "psa10": "",
+                "grade9": "$25.75"
+            }
+        }
+    }
+}

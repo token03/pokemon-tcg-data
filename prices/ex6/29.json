@@ -1,0 +1,25 @@
+{
+    "id": "ex6-29",
+    "name": "Scyther",
+    "number": "29",
+    "setId": "ex6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849996",
+        "reverse-holo": "850111"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.37",
+                "psa10": "$41.39",
+                "grade9": "$34.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$21.22",
+                "psa10": "$400.00",
+                "grade9": "$55.00"
+            }
+        }
+    }
+}

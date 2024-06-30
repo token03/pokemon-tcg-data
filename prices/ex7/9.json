@@ -1,0 +1,25 @@
+{
+    "id": "ex7-9",
+    "name": "Dark Slowking",
+    "number": "9",
+    "setId": "ex7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886343",
+        "reverse-holo": "886454"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.51",
+                "psa10": "$171.85",
+                "grade9": "$51.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$23.06",
+                "psa10": "$424.01",
+                "grade9": "$71.09"
+            }
+        }
+    }
+}

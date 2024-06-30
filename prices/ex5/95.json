@@ -1,0 +1,19 @@
+{
+    "id": "ex5-95",
+    "name": "Metagross ex",
+    "number": "95",
+    "setId": "ex5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849868"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.30",
+                "psa10": "$289.39",
+                "grade9": "$97.85"
+            }
+        }
+    }
+}

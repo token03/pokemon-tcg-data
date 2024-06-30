@@ -1,0 +1,43 @@
+{
+    "id": "bw5-4",
+    "name": "Scyther",
+    "number": "4",
+    "setId": "bw5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956050",
+        "1st-place-league": "5790304",
+        "3rd-place-league-challenge": "6244328",
+        "4th-place-league": "6073272",
+        "reverse-holo": "956162"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.42",
+                "psa10": "$154.00",
+                "grade9": "$128.74"
+            },
+            "1st-place-league": {
+                "ungraded": "$55.14",
+                "psa10": "",
+                "grade9": ""
+            },
+            "3rd-place-league-challenge": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "4th-place-league": {
+                "ungraded": "$14.49",
+                "psa10": "",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.25",
+                "psa10": "$121.38",
+                "grade9": "$31.33"
+            }
+        }
+    }
+}

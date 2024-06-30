@@ -1,0 +1,19 @@
+{
+    "id": "bw10-94",
+    "name": "Master Ball",
+    "number": "94",
+    "setId": "bw10",
+    "rarity": "Rare ACE",
+    "priceChartingIds": {
+        "normal": "957396"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.90",
+                "psa10": "$131.88",
+                "grade9": "$30.69"
+            }
+        }
+    }
+}

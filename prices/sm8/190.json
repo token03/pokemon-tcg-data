@@ -1,0 +1,25 @@
+{
+    "id": "sm8-190",
+    "name": "Spell Tag",
+    "number": "190",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962578",
+        "reverse-holo": "962794"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$35.77",
+                "grade9": "$13.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.38",
+                "psa10": "$39.53",
+                "grade9": "$15.59"
+            }
+        }
+    }
+}

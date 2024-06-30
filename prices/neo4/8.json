@@ -1,0 +1,25 @@
+{
+    "id": "neo4-8",
+    "name": "Dark Porygon2",
+    "number": "8",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762574",
+        "1st-edition": "2183314"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.41",
+                "psa10": "$268.38",
+                "grade9": "$64.27"
+            },
+            "1st-edition": {
+                "ungraded": "$42.19",
+                "psa10": "$541.34",
+                "grade9": "$126.25"
+            }
+        }
+    }
+}

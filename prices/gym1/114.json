@@ -1,0 +1,25 @@
+{
+    "id": "gym1-114",
+    "name": "Misty's Wrath",
+    "number": "114",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762113",
+        "1st-edition": "2156424"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.44",
+                "psa10": "$132.50",
+                "grade9": "$29.94"
+            },
+            "1st-edition": {
+                "ungraded": "$5.74",
+                "psa10": "$138.97",
+                "grade9": "$27.89"
+            }
+        }
+    }
+}

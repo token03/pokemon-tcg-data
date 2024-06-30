@@ -1,0 +1,19 @@
+{
+    "id": "sm12-229",
+    "name": "Guzma & Hala",
+    "number": "229",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964467"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.92",
+                "psa10": "$46.04",
+                "grade9": "$24.30"
+            }
+        }
+    }
+}

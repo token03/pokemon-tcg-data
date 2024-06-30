@@ -1,0 +1,25 @@
+{
+    "id": "sv5-80",
+    "name": "Iron Valiant",
+    "number": "80",
+    "setId": "sv5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6495540",
+        "reverse-holo": "6495752"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$35.24",
+                "grade9": "$11.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.22",
+                "psa10": "$35.91",
+                "grade9": "$11.61"
+            }
+        }
+    }
+}

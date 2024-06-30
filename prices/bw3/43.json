@@ -1,0 +1,37 @@
+{
+    "id": "bw3-43",
+    "name": "Victini",
+    "number": "43",
+    "setId": "bw3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955698",
+        "prerelease-staff": "4083541",
+        "prerelease": "4083540",
+        "reverse-holo": "955800"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.23",
+                "psa10": "$50.91",
+                "grade9": "$20.06"
+            },
+            "prerelease-staff": {
+                "ungraded": "$58.79",
+                "psa10": "",
+                "grade9": "$115.32"
+            },
+            "prerelease": {
+                "ungraded": "$10.02",
+                "psa10": "$216.25",
+                "grade9": "$44.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.20",
+                "psa10": "$78.75",
+                "grade9": "$33.47"
+            }
+        }
+    }
+}

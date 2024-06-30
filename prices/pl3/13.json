@@ -1,0 +1,25 @@
+{
+    "id": "pl3-13",
+    "name": "Venusaur",
+    "number": "13",
+    "setId": "pl3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1287060",
+        "reverse-holo": "1287214"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.13",
+                "psa10": "$300.00",
+                "grade9": "$64.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.07",
+                "psa10": "$132.01",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

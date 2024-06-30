@@ -1,0 +1,19 @@
+{
+    "id": "sv4-199",
+    "name": "Groudon",
+    "number": "199",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953037"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$60.50",
+                "psa10": "$235.50",
+                "grade9": "$67.50"
+            }
+        }
+    }
+}

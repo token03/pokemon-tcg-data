@@ -1,0 +1,19 @@
+{
+    "id": "xy5-150",
+    "name": "Groudon-EX",
+    "number": "150",
+    "setId": "xy5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958607"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.49",
+                "psa10": "$1,500.00",
+                "grade9": "$60.78"
+            }
+        }
+    }
+}

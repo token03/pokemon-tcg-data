@@ -1,0 +1,25 @@
+{
+    "id": "xy12-40",
+    "name": "Electrode",
+    "number": "40",
+    "setId": "xy12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960328",
+        "reverse-holo": "960422"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$17.37",
+                "grade9": "$7.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.98",
+                "psa10": "$55.21",
+                "grade9": "$11.06"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-10",
+    "name": "Dustox",
+    "number": "10",
+    "setId": "swsh11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4049927",
+        "reverse-holo": "4050144"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "$34.46",
+                "grade9": "$11.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$36.46",
+                "grade9": "$12.41"
+            }
+        }
+    }
+}

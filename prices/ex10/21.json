@@ -1,0 +1,25 @@
+{
+    "id": "ex10-21",
+    "name": "Cleffa",
+    "number": "21",
+    "setId": "ex10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888441",
+        "reverse-holo": "888583"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.69",
+                "psa10": "$35.59",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.51",
+                "psa10": "$350.00",
+                "grade9": "$36.31"
+            }
+        }
+    }
+}

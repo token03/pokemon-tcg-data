@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-68",
+    "name": "Sneasel",
+    "number": "68",
+    "setId": "hgss3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925955",
+        "reverse-holo": "926046"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.10",
+                "psa10": "",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.16",
+                "psa10": "$66.91",
+                "grade9": "$22.40"
+            }
+        }
+    }
+}

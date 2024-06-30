@@ -1,0 +1,25 @@
+{
+    "id": "sm10-187",
+    "name": "Surprise Box",
+    "number": "187",
+    "setId": "sm10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963343",
+        "reverse-holo": "963563"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$40.00",
+                "grade9": "$17.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.68",
+                "psa10": "$40.49",
+                "grade9": "$16.03"
+            }
+        }
+    }
+}

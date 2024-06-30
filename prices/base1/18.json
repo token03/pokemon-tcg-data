@@ -1,0 +1,31 @@
+{
+    "id": "base1-18",
+    "name": "Dragonair",
+    "number": "18",
+    "setId": "base1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "630431",
+        "1st-edition": "715607",
+        "shadowless": "715709"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.75",
+                "psa10": "$137.21",
+                "grade9": "$33.61"
+            },
+            "1st-edition": {
+                "ungraded": "$88.54",
+                "psa10": "$1,884.50",
+                "grade9": "$264.86"
+            },
+            "shadowless": {
+                "ungraded": "$12.62",
+                "psa10": "$356.00",
+                "grade9": "$56.33"
+            }
+        }
+    }
+}

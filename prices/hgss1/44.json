@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-44",
+    "name": "Igglybuff",
+    "number": "44",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806157",
+        "reverse-holo": "806263"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.82",
+                "psa10": "$63.53",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "$59.72",
+                "grade9": "$23.02"
+            }
+        }
+    }
+}

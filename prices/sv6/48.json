@@ -1,0 +1,25 @@
+{
+    "id": "sv6-48",
+    "name": "Crawdaunt",
+    "number": "48",
+    "setId": "sv6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6769528",
+        "reverse-holo": "6769750"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

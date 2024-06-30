@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-65",
+    "name": "Haunter",
+    "number": "65",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4049982",
+        "reverse-holo": "4050193"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.12",
+                "grade9": "$11.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$34.87",
+                "grade9": "$11.82"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "gym2-78",
+    "name": "Koga's Grimer",
+    "number": "78",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762282",
+        "1st-edition": "1450272"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$18.50",
+                "grade9": "$13.74"
+            },
+            "1st-edition": {
+                "ungraded": "$2.48",
+                "psa10": "$36.98",
+                "grade9": "$14.99"
+            }
+        }
+    }
+}

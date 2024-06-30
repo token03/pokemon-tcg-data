@@ -1,0 +1,19 @@
+{
+    "id": "sv2-197",
+    "name": "Floragato",
+    "number": "197",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287486"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.63",
+                "psa10": "$62.90",
+                "grade9": "$12.47"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw9-58",
+    "name": "Nidoking",
+    "number": "58",
+    "setId": "bw9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957112",
+        "reverse-holo": "957231"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$52.78",
+                "grade9": "$21.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.63",
+                "psa10": "$57.53",
+                "grade9": "$24.35"
+            }
+        }
+    }
+}

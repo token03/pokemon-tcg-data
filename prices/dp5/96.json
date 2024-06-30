@@ -1,0 +1,25 @@
+{
+    "id": "dp5-96",
+    "name": "Recover Energy",
+    "number": "96",
+    "setId": "dp5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921458",
+        "reverse-holo": "921558"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.93",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

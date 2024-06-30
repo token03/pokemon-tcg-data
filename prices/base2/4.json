@@ -1,0 +1,31 @@
+{
+    "id": "base2-4",
+    "name": "Jolteon",
+    "number": "4",
+    "setId": "base2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643312",
+        "1st-edition": "643360",
+        "no-symbol": "3179653"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.80",
+                "psa10": "$675.55",
+                "grade9": "$105.02"
+            },
+            "1st-edition": {
+                "ungraded": "$57.79",
+                "psa10": "$2,496.40",
+                "grade9": "$325.00"
+            },
+            "no-symbol": {
+                "ungraded": "$30.25",
+                "psa10": "$2,830.06",
+                "grade9": "$202.78"
+            }
+        }
+    }
+}

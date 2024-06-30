@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-148",
+    "name": "Friends in Hisui",
+    "number": "148",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4637044"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.81",
+                "psa10": "$25.00",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

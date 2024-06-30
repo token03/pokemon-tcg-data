@@ -1,0 +1,25 @@
+{
+    "id": "dp3-11",
+    "name": "Jumpluff",
+    "number": "11",
+    "setId": "dp3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920902",
+        "reverse-holo": "921033"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "$263.46",
+                "grade9": "$50.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.54",
+                "psa10": "$70.14",
+                "grade9": "$25.72"
+            }
+        }
+    }
+}

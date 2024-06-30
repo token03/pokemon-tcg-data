@@ -1,0 +1,19 @@
+{
+    "id": "pl2-106",
+    "name": "Gallade E4 LV.X",
+    "number": "106",
+    "setId": "pl2",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925502"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.30",
+                "psa10": "",
+                "grade9": "$85.50"
+            }
+        }
+    }
+}

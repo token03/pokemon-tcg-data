@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-209",
+    "name": "Twin Energy",
+    "number": "209",
+    "setId": "swsh2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "886934"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.13",
+                "psa10": "$25.00",
+                "grade9": "$20.58"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm8-169",
+    "name": "Choice Helmet",
+    "number": "169",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962557",
+        "reverse-holo": "962776"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.87",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.97",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

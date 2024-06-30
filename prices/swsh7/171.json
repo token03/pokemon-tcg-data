@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-171",
+    "name": "Gyarados V",
+    "number": "171",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2512982"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.74",
+                "psa10": "$43.99",
+                "grade9": "$19.20"
+            }
+        }
+    }
+}

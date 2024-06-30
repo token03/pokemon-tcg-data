@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-2",
+    "name": "Azumarill",
+    "number": "2",
+    "setId": "hgss1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806115",
+        "reverse-holo": "806220"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.81",
+                "psa10": "$75.25",
+                "grade9": "$29.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": "$34.99"
+            }
+        }
+    }
+}

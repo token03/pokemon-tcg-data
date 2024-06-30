@@ -1,0 +1,25 @@
+{
+    "id": "neo1-44",
+    "name": "Piloswine",
+    "number": "44",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762361",
+        "1st-edition": "2324905"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$50.00",
+                "grade9": "$41.25"
+            },
+            "1st-edition": {
+                "ungraded": "$3.49",
+                "psa10": "$38.41",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

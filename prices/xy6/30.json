@@ -1,0 +1,25 @@
+{
+    "id": "xy6-30",
+    "name": "Shuppet",
+    "number": "30",
+    "setId": "xy6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958853",
+        "reverse-holo": "958962"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$37.47",
+                "grade9": "$14.28"
+            }
+        }
+    }
+}

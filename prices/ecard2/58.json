@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-58",
+    "name": "Seadra",
+    "number": "58",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842585",
+        "reverse-holo": "2293949"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$58.89",
+                "grade9": "$23.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.07",
+                "psa10": "$120.00",
+                "grade9": "$63.01"
+            }
+        }
+    }
+}

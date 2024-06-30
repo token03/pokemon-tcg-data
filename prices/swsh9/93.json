@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-93",
+    "name": "Morgrem",
+    "number": "93",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188317",
+        "reverse-holo": "3219446"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.55",
+                "psa10": "$32.21",
+                "grade9": "$10.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.97",
+                "grade9": "$11.63"
+            }
+        }
+    }
+}

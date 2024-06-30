@@ -1,0 +1,25 @@
+{
+    "id": "sm10-118",
+    "name": "Inkay",
+    "number": "118",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963274",
+        "reverse-holo": "963499"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

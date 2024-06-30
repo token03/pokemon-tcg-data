@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-93",
+    "name": "Mareep",
+    "number": "93",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842613",
+        "reverse-holo": "2293984"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.57",
+                "psa10": "$30.00",
+                "grade9": "$24.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.87",
+                "psa10": "$171.51",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

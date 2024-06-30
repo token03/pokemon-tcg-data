@@ -1,0 +1,25 @@
+{
+    "id": "dp4-8",
+    "name": "Sceptile",
+    "number": "8",
+    "setId": "dp4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "921161",
+        "reverse-holo": "921268"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.19",
+                "psa10": "$200.00",
+                "grade9": "$48.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.15",
+                "psa10": "$178.05",
+                "grade9": "$32.00"
+            }
+        }
+    }
+}

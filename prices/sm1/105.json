@@ -1,0 +1,25 @@
+{
+    "id": "sm1-105",
+    "name": "Stoutland",
+    "number": "105",
+    "setId": "sm1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806849",
+        "reverse-holo": "806979"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.61",
+                "grade9": "$2.99"
+            }
+        }
+    }
+}

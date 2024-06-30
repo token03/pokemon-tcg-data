@@ -1,0 +1,25 @@
+{
+    "id": "xy3-103",
+    "name": "Herbal Energy",
+    "number": "103",
+    "setId": "xy3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958086",
+        "reverse-holo": "958192"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.80",
+                "psa10": "$40.15",
+                "grade9": "$15.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.56",
+                "psa10": "$52.71",
+                "grade9": "$22.62"
+            }
+        }
+    }
+}

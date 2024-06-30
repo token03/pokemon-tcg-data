@@ -1,0 +1,31 @@
+{
+    "id": "swsh3-36",
+    "name": "Galarian Mr. Rime",
+    "number": "36",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887122",
+        "reverse-holo": "887306",
+        "thank-you": "5428254"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$37.95",
+                "grade9": "$12.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.28",
+                "psa10": "$25.14",
+                "grade9": "$12.03"
+            },
+            "thank-you": {
+                "ungraded": "$23.13",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

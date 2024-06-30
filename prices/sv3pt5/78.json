@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-78",
+    "name": "Rapidash",
+    "number": "78",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809459",
+        "reverse-holo": "5809661"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.08",
+                "psa10": "$35.36",
+                "grade9": "$11.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.13",
+                "psa10": "$35.18",
+                "grade9": "$11.57"
+            }
+        }
+    }
+}

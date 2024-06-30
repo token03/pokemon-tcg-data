@@ -1,0 +1,19 @@
+{
+    "id": "ex9-102",
+    "name": "Fire Energy",
+    "number": "102",
+    "setId": "ex9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "888327"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$8.99",
+                "psa10": "$92.00",
+                "grade9": "$28.57"
+            }
+        }
+    }
+}

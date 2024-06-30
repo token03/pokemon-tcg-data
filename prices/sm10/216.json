@@ -1,0 +1,19 @@
+{
+    "id": "sm10-216",
+    "name": "Venomoth-GX",
+    "number": "216",
+    "setId": "sm10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963372"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.67",
+                "psa10": "$40.25",
+                "grade9": "$14.99"
+            }
+        }
+    }
+}

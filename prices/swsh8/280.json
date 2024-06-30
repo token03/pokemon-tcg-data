@@ -1,0 +1,19 @@
+{
+    "id": "swsh8-280",
+    "name": "Flaaffy",
+    "number": "280",
+    "setId": "swsh8",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2771306"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.85",
+                "psa10": "$31.21",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

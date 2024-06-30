@@ -1,0 +1,25 @@
+{
+    "id": "gym1-82",
+    "name": "Lt. Surge's Rattata",
+    "number": "82",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762191",
+        "1st-edition": "2156520"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "$45.25",
+                "grade9": "$6.50"
+            },
+            "1st-edition": {
+                "ungraded": "$2.46",
+                "psa10": "$61.95",
+                "grade9": "$13.59"
+            }
+        }
+    }
+}

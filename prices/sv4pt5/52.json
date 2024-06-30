@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-52",
+    "name": "Grapploct",
+    "number": "52",
+    "setId": "sv4pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6276971",
+        "reverse-holo": "6277214"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.72",
+                "grade9": "$11.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.95",
+                "grade9": "$11.67"
+            }
+        }
+    }
+}

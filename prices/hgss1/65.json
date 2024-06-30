@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-65",
+    "name": "Growlithe",
+    "number": "65",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806177",
+        "reverse-holo": "806283"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$66.00",
+                "grade9": "$55.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.23",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

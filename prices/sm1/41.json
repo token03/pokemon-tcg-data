@@ -1,0 +1,31 @@
+{
+    "id": "sm1-41",
+    "name": "Primarina",
+    "number": "41",
+    "setId": "sm1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806790",
+        "cracked-ice-holo": "4476045",
+        "reverse-holo": "806921"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.81",
+                "psa10": "$23.78",
+                "grade9": "$4.13"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$1.61",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.04",
+                "psa10": "$59.33",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

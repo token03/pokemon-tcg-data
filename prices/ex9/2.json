@@ -1,0 +1,25 @@
+{
+    "id": "ex9-2",
+    "name": "Deoxys",
+    "number": "2",
+    "setId": "ex9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888227",
+        "reverse-holo": "888334"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.57",
+                "psa10": "$285.00",
+                "grade9": "$56.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$18.83",
+                "psa10": "$428.97",
+                "grade9": "$87.29"
+            }
+        }
+    }
+}

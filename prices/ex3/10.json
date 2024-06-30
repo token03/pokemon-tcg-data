@@ -1,0 +1,25 @@
+{
+    "id": "ex3-10",
+    "name": "Salamence",
+    "number": "10",
+    "setId": "ex3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849390",
+        "reverse-holo": "849489"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.09",
+                "psa10": "$315.00",
+                "grade9": "$70.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.05",
+                "psa10": "$441.78",
+                "grade9": "$79.47"
+            }
+        }
+    }
+}

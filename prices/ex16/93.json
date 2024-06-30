@@ -1,0 +1,19 @@
+{
+    "id": "ex16-93",
+    "name": "Claydol ex",
+    "number": "93",
+    "setId": "ex16",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889757"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.43",
+                "psa10": "$253.33",
+                "grade9": "$61.28"
+            }
+        }
+    }
+}

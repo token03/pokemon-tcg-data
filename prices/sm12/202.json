@@ -1,0 +1,25 @@
+{
+    "id": "sm12-202",
+    "name": "Red & Blue",
+    "number": "202",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964440",
+        "reverse-holo": "964694"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$33.97",
+                "grade9": "$7.40"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "$37.25",
+                "grade9": "$13.70"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw10-71",
+    "name": "Kangaskhan",
+    "number": "71",
+    "setId": "bw10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957373",
+        "reverse-holo": "957472"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$39.04",
+                "grade9": "$14.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

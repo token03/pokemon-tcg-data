@@ -1,0 +1,25 @@
+{
+    "id": "dp4-25",
+    "name": "Milotic",
+    "number": "25",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921179",
+        "reverse-holo": "921285"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.51",
+                "psa10": "$68.38",
+                "grade9": "$25.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.16",
+                "psa10": "$237.33",
+                "grade9": "$65.74"
+            }
+        }
+    }
+}

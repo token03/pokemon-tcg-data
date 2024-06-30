@@ -1,0 +1,19 @@
+{
+    "id": "sv3-230",
+    "name": "Basic Fire Energy",
+    "number": "230",
+    "setId": "sv3",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5605748"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$33.58",
+                "grade9": "$11.88"
+            }
+        }
+    }
+}

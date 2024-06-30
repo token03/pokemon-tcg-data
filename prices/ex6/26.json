@@ -1,0 +1,25 @@
+{
+    "id": "ex6-26",
+    "name": "Kingler",
+    "number": "26",
+    "setId": "ex6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849993",
+        "reverse-holo": "850108"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$42.00",
+                "grade9": "$32.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.15",
+                "psa10": "$171.46",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

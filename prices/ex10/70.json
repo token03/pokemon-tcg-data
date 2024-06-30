@@ -1,0 +1,25 @@
+{
+    "id": "ex10-70",
+    "name": "Pupitar",
+    "number": "70",
+    "setId": "ex10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888490",
+        "reverse-holo": "888632"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.74",
+                "psa10": "$30.00",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.59",
+                "psa10": "$47.00",
+                "grade9": "$29.92"
+            }
+        }
+    }
+}

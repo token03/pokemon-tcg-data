@@ -1,0 +1,25 @@
+{
+    "id": "ex4-17",
+    "name": "Team Aqua's Seviper",
+    "number": "17",
+    "setId": "ex4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849586",
+        "reverse-holo": "849683"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$20.50",
+                "grade9": "$5.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

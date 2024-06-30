@@ -1,0 +1,25 @@
+{
+    "id": "bw1-57",
+    "name": "Reuniclus",
+    "number": "57",
+    "setId": "bw1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "806367",
+        "reverse-holo": "806454"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.36",
+                "psa10": "$94.36",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.33",
+                "psa10": "",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

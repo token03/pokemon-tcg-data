@@ -1,0 +1,25 @@
+{
+    "id": "ex7-47",
+    "name": "Rocket's Wobbuffet",
+    "number": "47",
+    "setId": "ex7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886381",
+        "reverse-holo": "886492"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.25",
+                "psa10": "$50.00",
+                "grade9": "$41.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.99",
+                "psa10": "$472.90",
+                "grade9": "$45.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex8-93",
+    "name": "Boost Energy",
+    "number": "93",
+    "setId": "ex8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888113",
+        "reverse-holo": "888221"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.33",
+                "psa10": "$23.54",
+                "grade9": "$8.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.05",
+                "psa10": "$204.62",
+                "grade9": "$26.30"
+            }
+        }
+    }
+}

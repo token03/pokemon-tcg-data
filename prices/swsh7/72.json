@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-72",
+    "name": "Floette",
+    "number": "72",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512883",
+        "reverse-holo": "2513099"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$35.93",
+                "grade9": "$12.64"
+            }
+        }
+    }
+}

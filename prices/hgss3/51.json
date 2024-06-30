@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-51",
+    "name": "Hitmonchan",
+    "number": "51",
+    "setId": "hgss3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925938",
+        "reverse-holo": "926029"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.84",
+                "psa10": "$50.41",
+                "grade9": "$19.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.60",
+                "psa10": "$58.86",
+                "grade9": "$22.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm5-20",
+    "name": "Chimchar",
+    "number": "20",
+    "setId": "sm5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961383",
+        "reverse-holo": "961555"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

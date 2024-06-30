@@ -1,0 +1,25 @@
+{
+    "id": "pl3-67",
+    "name": "Marshtomp",
+    "number": "67",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287114",
+        "reverse-holo": "1287268"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$55.16",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$93.09",
+                "grade9": "$34.84"
+            }
+        }
+    }
+}

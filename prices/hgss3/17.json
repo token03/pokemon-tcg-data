@@ -1,0 +1,37 @@
+{
+    "id": "hgss3-17",
+    "name": "Leafeon",
+    "number": "17",
+    "setId": "hgss3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925904",
+        "prerelease-staff": "4913530",
+        "prerelease": "4913528",
+        "reverse-holo": "925995"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.08",
+                "psa10": "$59.00",
+                "grade9": "$49.00"
+            },
+            "prerelease-staff": {
+                "ungraded": "$121.61",
+                "psa10": "",
+                "grade9": "$143.13"
+            },
+            "prerelease": {
+                "ungraded": "$21.67",
+                "psa10": "$250.00",
+                "grade9": "$39.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.41",
+                "psa10": "$158.42",
+                "grade9": "$39.69"
+            }
+        }
+    }
+}

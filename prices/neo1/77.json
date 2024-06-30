@@ -1,0 +1,25 @@
+{
+    "id": "neo1-77",
+    "name": "Sudowoodo",
+    "number": "77",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762391",
+        "1st-edition": "2324926"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$55.50",
+                "grade9": "$21.00"
+            },
+            "1st-edition": {
+                "ungraded": "$2.61",
+                "psa10": "$50.55",
+                "grade9": "$15.03"
+            }
+        }
+    }
+}

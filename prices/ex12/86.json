@@ -1,0 +1,19 @@
+{
+    "id": "ex12-86",
+    "name": "Dustox ex",
+    "number": "86",
+    "setId": "ex12",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888968"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.42",
+                "psa10": "$292.47",
+                "grade9": "$75.46"
+            }
+        }
+    }
+}

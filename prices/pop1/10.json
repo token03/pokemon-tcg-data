@@ -1,0 +1,19 @@
+{
+    "id": "pop1-10",
+    "name": "Torkoal",
+    "number": "10",
+    "setId": "pop1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762675"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.68",
+                "psa10": "$157.45",
+                "grade9": "$12.23"
+            }
+        }
+    }
+}

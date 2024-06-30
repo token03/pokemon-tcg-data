@@ -1,0 +1,19 @@
+{
+    "id": "sm3-164",
+    "name": "Multi Switch",
+    "number": "164",
+    "setId": "sm3",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960948"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.85",
+                "psa10": "$18.50",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

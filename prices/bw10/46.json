@@ -1,0 +1,25 @@
+{
+    "id": "bw10-46",
+    "name": "Golurk",
+    "number": "46",
+    "setId": "bw10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957348",
+        "reverse-holo": "957451"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$72.00",
+                "grade9": "$59.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex3-4",
+    "name": "Flygon",
+    "number": "4",
+    "setId": "ex3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849384",
+        "reverse-holo": "849483"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.66",
+                "psa10": "$224.51",
+                "grade9": "$56.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.94",
+                "psa10": "$299.99",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

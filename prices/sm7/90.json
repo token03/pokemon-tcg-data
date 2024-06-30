@@ -1,0 +1,19 @@
+{
+    "id": "sm7-90",
+    "name": "Scizor-GX",
+    "number": "90",
+    "setId": "sm7",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "962004"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.97",
+                "psa10": "$46.03",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

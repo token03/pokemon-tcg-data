@@ -1,0 +1,19 @@
+{
+    "id": "det1-7",
+    "name": "Psyduck",
+    "number": "7",
+    "setId": "det1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963144"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "$34.49",
+                "grade9": "$14.49"
+            }
+        }
+    }
+}

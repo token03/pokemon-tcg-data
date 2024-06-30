@@ -1,0 +1,19 @@
+{
+    "id": "bw6-120",
+    "name": "Mew-EX",
+    "number": "120",
+    "setId": "bw6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956374"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$72.74",
+                "psa10": "$1,973.54",
+                "grade9": "$198.47"
+            }
+        }
+    }
+}

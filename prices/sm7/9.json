@@ -1,0 +1,25 @@
+{
+    "id": "sm7-9",
+    "name": "Grovyle",
+    "number": "9",
+    "setId": "sm7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961923",
+        "reverse-holo": "962105"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$34.07",
+                "grade9": "$12.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.34",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

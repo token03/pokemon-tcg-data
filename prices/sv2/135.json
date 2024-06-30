@@ -1,0 +1,25 @@
+{
+    "id": "sv2-135",
+    "name": "Tyranitar",
+    "number": "135",
+    "setId": "sv2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5287424",
+        "reverse-holo": "5287689"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$34.76",
+                "grade9": "$5.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$33.48",
+                "grade9": "$6.60"
+            }
+        }
+    }
+}

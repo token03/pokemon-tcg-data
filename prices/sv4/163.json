@@ -1,0 +1,25 @@
+{
+    "id": "sv4-163",
+    "name": "Earthen Vessel",
+    "number": "163",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5953001",
+        "reverse-holo": "5953248"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.28",
+                "psa10": "$19.00",
+                "grade9": "$15.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.13",
+                "psa10": "$15.99",
+                "grade9": "$15.88"
+            }
+        }
+    }
+}

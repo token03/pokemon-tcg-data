@@ -1,0 +1,19 @@
+{
+    "id": "base4-9",
+    "name": "Magneton",
+    "number": "9",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641812"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.12",
+                "psa10": "$425.00",
+                "grade9": "$50.00"
+            }
+        }
+    }
+}

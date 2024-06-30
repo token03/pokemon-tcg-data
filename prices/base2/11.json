@@ -1,0 +1,31 @@
+{
+    "id": "base2-11",
+    "name": "Snorlax",
+    "number": "11",
+    "setId": "base2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643336",
+        "1st-edition": "643384",
+        "no-symbol": "3179683"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.08",
+                "psa10": "$2,425.00",
+                "grade9": "$159.08"
+            },
+            "1st-edition": {
+                "ungraded": "$66.00",
+                "psa10": "$8,375.64",
+                "grade9": "$659.76"
+            },
+            "no-symbol": {
+                "ungraded": "$37.38",
+                "psa10": "$2,859.00",
+                "grade9": "$200.00"
+            }
+        }
+    }
+}

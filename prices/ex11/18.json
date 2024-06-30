@@ -1,0 +1,25 @@
+{
+    "id": "ex11-18",
+    "name": "Vaporeon \u03b4",
+    "number": "18",
+    "setId": "ex11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888680",
+        "reverse-holo": "888794"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.00",
+                "psa10": "$275.00",
+                "grade9": "$82.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$44.00",
+                "psa10": "$350.27",
+                "grade9": "$120.00"
+            }
+        }
+    }
+}

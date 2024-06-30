@@ -1,0 +1,31 @@
+{
+    "id": "ex13-65",
+    "name": "Exeggcute \u03b4",
+    "number": "65",
+    "setId": "ex13",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889145",
+        "reverse-holo": "889255",
+        "stamped": "4916996"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.78",
+                "psa10": "$64.17",
+                "grade9": "$22.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.00",
+                "psa10": "$62.00",
+                "grade9": "$51.88"
+            },
+            "stamped": {
+                "ungraded": "$7.31",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

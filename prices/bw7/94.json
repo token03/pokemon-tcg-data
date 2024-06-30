@@ -1,0 +1,25 @@
+{
+    "id": "bw7-94",
+    "name": "Scizor",
+    "number": "94",
+    "setId": "bw7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956609",
+        "reverse-holo": "956755"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.74",
+                "psa10": "$316.17",
+                "grade9": "$37.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.61",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo4-91",
+    "name": "Vulpix",
+    "number": "91",
+    "setId": "neo4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762665",
+        "1st-edition": "2183404"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.51",
+                "psa10": "$44.21",
+                "grade9": "$26.21"
+            },
+            "1st-edition": {
+                "ungraded": "$4.31",
+                "psa10": "$39.81",
+                "grade9": "$21.00"
+            }
+        }
+    }
+}

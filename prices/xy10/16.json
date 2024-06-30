@@ -1,0 +1,25 @@
+{
+    "id": "xy10-16",
+    "name": "Dewgong",
+    "number": "16",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959873",
+        "reverse-holo": "959997"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$35.09",
+                "grade9": "$13.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$37.59",
+                "grade9": "$8.00"
+            }
+        }
+    }
+}

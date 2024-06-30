@@ -1,0 +1,19 @@
+{
+    "id": "sv2-93",
+    "name": "Dedenne ex",
+    "number": "93",
+    "setId": "sv2",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5287382"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "$38.15",
+                "grade9": "$12.62"
+            }
+        }
+    }
+}

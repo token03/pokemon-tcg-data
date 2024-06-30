@@ -1,0 +1,31 @@
+{
+    "id": "swsh1-54",
+    "name": "Sobble",
+    "number": "54",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807281",
+        "cosmos-holo": "5809356",
+        "reverse-holo": "807282"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$15.50",
+                "grade9": "$6.54"
+            },
+            "cosmos-holo": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "$13.48",
+                "grade9": "$12.61"
+            }
+        }
+    }
+}

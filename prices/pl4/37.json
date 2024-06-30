@@ -1,0 +1,25 @@
+{
+    "id": "pl4-37",
+    "name": "Graveler",
+    "number": "37",
+    "setId": "pl4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925656",
+        "reverse-holo": "925767"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.03",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.16",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

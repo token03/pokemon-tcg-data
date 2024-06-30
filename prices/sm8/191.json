@@ -1,0 +1,19 @@
+{
+    "id": "sm8-191",
+    "name": "Thunder Mountain \u25c7",
+    "number": "191",
+    "setId": "sm8",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "962579"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$60.00",
+                "grade9": "$7.26"
+            }
+        }
+    }
+}

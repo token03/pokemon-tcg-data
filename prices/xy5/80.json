@@ -1,0 +1,25 @@
+{
+    "id": "xy5-80",
+    "name": "Medicham",
+    "number": "80",
+    "setId": "xy5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958537",
+        "reverse-holo": "958695"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.05",
+                "psa10": "$42.25",
+                "grade9": "$17.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

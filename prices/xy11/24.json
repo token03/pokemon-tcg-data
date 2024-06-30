@@ -1,0 +1,19 @@
+{
+    "id": "xy11-24",
+    "name": "Pyroar BREAK",
+    "number": "24",
+    "setId": "xy11",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "960103"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.39",
+                "psa10": "$30.44",
+                "grade9": "$14.52"
+            }
+        }
+    }
+}

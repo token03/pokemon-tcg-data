@@ -1,0 +1,25 @@
+{
+    "id": "dp6-61",
+    "name": "Lucario",
+    "number": "61",
+    "setId": "dp6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "924992",
+        "reverse-holo": "925137"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$58.57",
+                "grade9": "$21.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.36",
+                "psa10": "$92.54",
+                "grade9": "$38.00"
+            }
+        }
+    }
+}

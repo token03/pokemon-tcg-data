@@ -1,0 +1,25 @@
+{
+    "id": "dp6-24",
+    "name": "Deoxys Attack Forme",
+    "number": "24",
+    "setId": "dp6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "attack-reverse-holo": "925101",
+        "attack": "924955"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "attack-reverse-holo": {
+                "ungraded": "$3.36",
+                "psa10": "$78.17",
+                "grade9": "$29.60"
+            },
+            "attack": {
+                "ungraded": "$2.46",
+                "psa10": "$65.29",
+                "grade9": "$24.35"
+            }
+        }
+    }
+}

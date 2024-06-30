@@ -1,0 +1,19 @@
+{
+    "id": "xy10-72",
+    "name": "Diancie-EX",
+    "number": "72",
+    "setId": "xy10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959929"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.19",
+                "psa10": "$17.75",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

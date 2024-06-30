@@ -1,0 +1,19 @@
+{
+    "id": "mcd19-2",
+    "name": "Alolan Exeggutor",
+    "number": "2",
+    "setId": "mcd19",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180053"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$48.71",
+                "grade9": "$12.22"
+            }
+        }
+    }
+}

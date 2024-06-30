@@ -1,0 +1,19 @@
+{
+    "id": "swsh8-81",
+    "name": "Drednaw",
+    "number": "81",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771375"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$35.13",
+                "grade9": "$12.21"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex10-44",
+    "name": "Quagsire",
+    "number": "44",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888464",
+        "reverse-holo": "888606"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.37",
+                "psa10": "$78.20",
+                "grade9": "$27.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.10",
+                "psa10": "$200.00",
+                "grade9": "$41.57"
+            }
+        }
+    }
+}

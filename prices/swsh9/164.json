@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-164",
+    "name": "Flygon V",
+    "number": "164",
+    "setId": "swsh9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3188388"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.38",
+                "psa10": "$33.99",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

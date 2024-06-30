@@ -1,0 +1,19 @@
+{
+    "id": "sv3-212",
+    "name": "Vespiquen ex",
+    "number": "212",
+    "setId": "sv3",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5605730"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.60",
+                "psa10": "$21.76",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

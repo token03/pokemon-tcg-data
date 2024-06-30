@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-54",
+    "name": "Lapras",
+    "number": "54",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771083",
+        "reverse-holo": "2771353"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$15.00",
+                "grade9": "$12.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$37.27",
+                "grade9": "$8.04"
+            }
+        }
+    }
+}

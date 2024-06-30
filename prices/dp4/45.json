@@ -1,0 +1,25 @@
+{
+    "id": "dp4-45",
+    "name": "Magcargo",
+    "number": "45",
+    "setId": "dp4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921199",
+        "reverse-holo": "921305"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$185.68",
+                "grade9": ""
+            }
+        }
+    }
+}

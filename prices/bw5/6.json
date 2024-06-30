@@ -1,0 +1,25 @@
+{
+    "id": "bw5-6",
+    "name": "Leafeon",
+    "number": "6",
+    "setId": "bw5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956052",
+        "reverse-holo": "956164"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$65.04",
+                "grade9": "$27.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.61",
+                "psa10": "$114.29",
+                "grade9": "$76.45"
+            }
+        }
+    }
+}

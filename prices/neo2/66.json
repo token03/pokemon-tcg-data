@@ -1,0 +1,25 @@
+{
+    "id": "neo2-66",
+    "name": "Tyrogue",
+    "number": "66",
+    "setId": "neo2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762457",
+        "1st-edition": "2158481"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$65.36",
+                "grade9": "$10.29"
+            },
+            "1st-edition": {
+                "ungraded": "$2.76",
+                "psa10": "$40.51",
+                "grade9": "$13.79"
+            }
+        }
+    }
+}

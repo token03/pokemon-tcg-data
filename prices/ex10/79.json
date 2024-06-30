@@ -1,0 +1,25 @@
+{
+    "id": "ex10-79",
+    "name": "Wooper",
+    "number": "79",
+    "setId": "ex10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888499",
+        "reverse-holo": "888641"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$60.70",
+                "grade9": "$6.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.51",
+                "psa10": "$212.18",
+                "grade9": "$29.25"
+            }
+        }
+    }
+}

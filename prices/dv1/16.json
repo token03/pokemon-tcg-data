@@ -1,0 +1,25 @@
+{
+    "id": "dv1-16",
+    "name": "Haxorus",
+    "number": "16",
+    "setId": "dv1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956509",
+        "stamped": "5672134"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$54.75",
+                "grade9": "$20.24"
+            },
+            "stamped": {
+                "ungraded": "$8.16",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

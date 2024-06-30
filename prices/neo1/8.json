@@ -1,0 +1,25 @@
+{
+    "id": "neo1-8",
+    "name": "Kingdra",
+    "number": "8",
+    "setId": "neo1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762329",
+        "1st-edition": "2324879"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.93",
+                "psa10": "$300.00",
+                "grade9": "$43.64"
+            },
+            "1st-edition": {
+                "ungraded": "$25.28",
+                "psa10": "$705.00",
+                "grade9": "$112.15"
+            }
+        }
+    }
+}

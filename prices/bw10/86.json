@@ -1,0 +1,25 @@
+{
+    "id": "bw10-86",
+    "name": "Reversal Trigger",
+    "number": "86",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957388",
+        "reverse-holo": "957487"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

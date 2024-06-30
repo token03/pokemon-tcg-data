@@ -1,0 +1,25 @@
+{
+    "id": "base6-109",
+    "name": "Mysterious Fossil",
+    "number": "109",
+    "setId": "base6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842414",
+        "reverse-holo": "2253791"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.11",
+                "psa10": "$99.00",
+                "grade9": "$82.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$25.00",
+                "psa10": "$739.10",
+                "grade9": "$132.50"
+            }
+        }
+    }
+}

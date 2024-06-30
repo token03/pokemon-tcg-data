@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-75",
+    "name": "Vibrava",
+    "number": "75",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188299",
+        "reverse-holo": "3219429"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$36.06",
+                "grade9": "$12.49"
+            }
+        }
+    }
+}

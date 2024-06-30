@@ -1,0 +1,19 @@
+{
+    "id": "mcd16-4",
+    "name": "Magikarp",
+    "number": "4",
+    "setId": "mcd16",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180019"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$31.07",
+                "psa10": "$182.68",
+                "grade9": "$101.11"
+            }
+        }
+    }
+}

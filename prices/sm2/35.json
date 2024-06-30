@@ -1,0 +1,25 @@
+{
+    "id": "sm2-35",
+    "name": "Vanilluxe",
+    "number": "35",
+    "setId": "sm2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960532",
+        "reverse-holo": "960699"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$35.95",
+                "grade9": "$13.58"
+            }
+        }
+    }
+}

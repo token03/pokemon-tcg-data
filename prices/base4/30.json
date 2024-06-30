@@ -1,0 +1,19 @@
+{
+    "id": "base4-30",
+    "name": "Snorlax",
+    "number": "30",
+    "setId": "base4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "641833"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.22",
+                "psa10": "$129.42",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

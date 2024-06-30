@@ -1,0 +1,25 @@
+{
+    "id": "sv5-162",
+    "name": "Neo Upper Energy",
+    "number": "162",
+    "setId": "sv5",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "6495622",
+        "reverse-holo": "6495826"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.70",
+                "psa10": "$14.88",
+                "grade9": "$5.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

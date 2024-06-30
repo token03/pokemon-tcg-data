@@ -1,0 +1,25 @@
+{
+    "id": "base6-38",
+    "name": "Dark Dragonair",
+    "number": "38",
+    "setId": "base6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842345",
+        "reverse-holo": "2253721"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.13",
+                "psa10": "$51.00",
+                "grade9": "$19.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$125.00",
+                "psa10": "$811.00",
+                "grade9": "$346.22"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "dp1-93",
+    "name": "Piplup",
+    "number": "93",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763129",
+        "jumbo": "4957633",
+        "reverse-holo": "763251",
+        "stamped": "5428217"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.60",
+                "psa10": "$123.00",
+                "grade9": "$102.50"
+            },
+            "jumbo": {
+                "ungraded": "$7.13",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.64",
+                "psa10": "$85.05",
+                "grade9": "$35.00"
+            },
+            "stamped": {
+                "ungraded": "$3.14",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

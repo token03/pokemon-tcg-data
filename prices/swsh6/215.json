@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-215",
+    "name": "Flannery",
+    "number": "215",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254019"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.56",
+                "psa10": "$26.00",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

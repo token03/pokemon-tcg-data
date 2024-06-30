@@ -1,0 +1,19 @@
+{
+    "id": "sm3-149",
+    "name": "Tapu Bulu-GX",
+    "number": "149",
+    "setId": "sm3",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "960933"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.77",
+                "psa10": "$112.50",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

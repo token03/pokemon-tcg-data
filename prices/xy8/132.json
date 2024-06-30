@@ -1,0 +1,25 @@
+{
+    "id": "xy8-132",
+    "name": "Noibat",
+    "number": "132",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959321",
+        "reverse-holo": "959471"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$35.36",
+                "grade9": "$13.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

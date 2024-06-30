@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-117",
+    "name": "Wooper",
+    "number": "117",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887934",
+        "reverse-holo": "2294008"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.77",
+                "psa10": "$81.16",
+                "grade9": "$43.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$15.29",
+                "psa10": "$100.41",
+                "grade9": "$66.01"
+            }
+        }
+    }
+}

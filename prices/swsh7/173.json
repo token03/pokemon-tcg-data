@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-173",
+    "name": "Suicune V",
+    "number": "173",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2512984"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$36.73",
+                "grade9": "$21.00"
+            }
+        }
+    }
+}

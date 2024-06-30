@@ -1,0 +1,25 @@
+{
+    "id": "sm7-64",
+    "name": "Shuppet",
+    "number": "64",
+    "setId": "sm7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961978",
+        "reverse-holo": "962154"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

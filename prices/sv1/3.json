@@ -1,0 +1,31 @@
+{
+    "id": "sv1-3",
+    "name": "Shroomish",
+    "number": "3",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933781",
+        "holo": "5917673",
+        "reverse-holo": "4934035"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$4.59",
+                "psa10": "$9.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.72",
+                "psa10": "$33.11",
+                "grade9": "$11.04"
+            }
+        }
+    }
+}

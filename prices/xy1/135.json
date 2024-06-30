@@ -1,0 +1,19 @@
+{
+    "id": "xy1-135",
+    "name": "Lightning Energy",
+    "number": "135",
+    "setId": "xy1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2775144"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

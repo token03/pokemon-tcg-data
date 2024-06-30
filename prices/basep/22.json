@@ -1,0 +1,43 @@
+{
+    "id": "basep-22",
+    "name": "Articuno",
+    "number": "22",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5401618",
+        "aoki-error": "4507751",
+        "corrected": "3366436",
+        "winner": "4305609",
+        "staff": "5960325"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "aoki-error": {
+                "ungraded": "$7.47",
+                "psa10": "$39.99",
+                "grade9": "$28.93"
+            },
+            "corrected": {
+                "ungraded": "$20.67",
+                "psa10": "$67.88",
+                "grade9": "$49.00"
+            },
+            "winner": {
+                "ungraded": "$17.68",
+                "psa10": "$46.00",
+                "grade9": "$24.00"
+            },
+            "staff": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

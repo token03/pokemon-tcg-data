@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-169",
+    "name": "Flareon V",
+    "number": "169",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2512980"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.75",
+                "psa10": "$45.82",
+                "grade9": "$19.14"
+            }
+        }
+    }
+}

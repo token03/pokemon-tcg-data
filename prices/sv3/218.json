@@ -1,0 +1,19 @@
+{
+    "id": "sv3-218",
+    "name": "Geeta",
+    "number": "218",
+    "setId": "sv3",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5605736"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.46",
+                "psa10": "$38.06",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex3-18",
+    "name": "Ninjask",
+    "number": "18",
+    "setId": "ex3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849398",
+        "reverse-holo": "849497"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.05",
+                "psa10": "$24.50",
+                "grade9": "$19.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.01",
+                "psa10": "$130.00",
+                "grade9": "$41.17"
+            }
+        }
+    }
+}

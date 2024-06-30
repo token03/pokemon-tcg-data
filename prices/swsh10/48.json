@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-48",
+    "name": "Hisuian Avalugg",
+    "number": "48",
+    "setId": "swsh10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3489546",
+        "reverse-holo": "3489757"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$34.60",
+                "grade9": "$11.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "$34.77",
+                "grade9": "$11.87"
+            }
+        }
+    }
+}

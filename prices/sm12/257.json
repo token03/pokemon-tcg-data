@@ -1,0 +1,19 @@
+{
+    "id": "sm12-257",
+    "name": "Alolan Persian-GX",
+    "number": "257",
+    "setId": "sm12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "964495"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.78",
+                "psa10": "$30.56",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-108",
+    "name": "Rellor",
+    "number": "108",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277026"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$22.50",
+                "grade9": "$15.29"
+            }
+        }
+    }
+}

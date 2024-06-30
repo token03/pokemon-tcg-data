@@ -1,0 +1,25 @@
+{
+    "id": "sm8-138",
+    "name": "Granbull",
+    "number": "138",
+    "setId": "sm8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962526",
+        "reverse-holo": "962749"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.04",
+                "grade9": "$8.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.46",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

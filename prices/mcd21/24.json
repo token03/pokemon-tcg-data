@@ -1,0 +1,25 @@
+{
+    "id": "mcd21-24",
+    "name": "Sobble",
+    "number": "24",
+    "setId": "mcd21",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1317319",
+        "holo": "1317344"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$14.67",
+                "grade9": "$5.50"
+            },
+            "holo": {
+                "ungraded": "$2.88",
+                "psa10": "$30.98",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

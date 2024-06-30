@@ -1,0 +1,19 @@
+{
+    "id": "sm11-248",
+    "name": "Dragonite-GX",
+    "number": "248",
+    "setId": "sm11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963814"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$38.75",
+                "psa10": "$110.50",
+                "grade9": "$51.13"
+            }
+        }
+    }
+}

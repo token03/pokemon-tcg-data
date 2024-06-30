@@ -1,0 +1,25 @@
+{
+    "id": "neo4-14",
+    "name": "Light Dragonite",
+    "number": "14",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762605",
+        "1st-edition": "2183345"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$71.83",
+                "psa10": "$605.00",
+                "grade9": "$166.25"
+            },
+            "1st-edition": {
+                "ungraded": "$227.50",
+                "psa10": "$1,328.78",
+                "grade9": "$435.00"
+            }
+        }
+    }
+}

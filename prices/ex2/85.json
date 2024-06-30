@@ -1,0 +1,25 @@
+{
+    "id": "ex2-85",
+    "name": "Zigzagoon",
+    "number": "85",
+    "setId": "ex2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849273",
+        "reverse-holo": "849373"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$28.00",
+                "grade9": "$25.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.83",
+                "psa10": "$123.52",
+                "grade9": "$40.88"
+            }
+        }
+    }
+}

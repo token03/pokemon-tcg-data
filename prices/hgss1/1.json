@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-1",
+    "name": "Arcanine",
+    "number": "1",
+    "setId": "hgss1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806114",
+        "reverse-holo": "806219"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.74",
+                "psa10": "$144.29",
+                "grade9": "$86.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.91",
+                "psa10": "$147.38",
+                "grade9": "$61.44"
+            }
+        }
+    }
+}

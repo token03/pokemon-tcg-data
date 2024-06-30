@@ -1,0 +1,25 @@
+{
+    "id": "xy5-33",
+    "name": "Mudkip",
+    "number": "33",
+    "setId": "xy5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958490",
+        "reverse-holo": "958651"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$38.19",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.72",
+                "psa10": "$47.83",
+                "grade9": "$20.12"
+            }
+        }
+    }
+}

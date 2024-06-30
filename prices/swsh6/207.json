@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-207",
+    "name": "Galarian Slowking VMAX",
+    "number": "207",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.75",
+                "psa10": "$36.09",
+                "grade9": "$12.35"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy9-95",
+    "name": "Furfrou",
+    "number": "95",
+    "setId": "xy9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959586",
+        "reverse-holo": "959694"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.11",
+                "psa10": "$35.77",
+                "grade9": "$3.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "base1-64",
+    "name": "Starmie",
+    "number": "64",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630477",
+        "1st-edition": "715653",
+        "shadowless": "715755",
+        "trainer-deck-b": "2365265"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.91",
+                "psa10": "$39.72",
+                "grade9": "$20.10"
+            },
+            "1st-edition": {
+                "ungraded": "$18.10",
+                "psa10": "$220.00",
+                "grade9": "$56.71"
+            },
+            "shadowless": {
+                "ungraded": "$1.65",
+                "psa10": "$45.47",
+                "grade9": "$27.70"
+            },
+            "trainer-deck-b": {
+                "ungraded": "$90.00",
+                "psa10": "$264.10",
+                "grade9": ""
+            }
+        }
+    }
+}

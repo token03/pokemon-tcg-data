@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-127",
+    "name": "Tatsugiri",
+    "number": "127",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277046"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.25",
+                "psa10": "$30.50",
+                "grade9": "$7.67"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "base4-32",
+    "name": "Victreebel",
+    "number": "32",
+    "setId": "base4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "641835"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$35.94",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

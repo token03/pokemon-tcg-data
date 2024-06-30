@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-120",
+    "name": "Sableye V",
+    "number": "120",
+    "setId": "swsh1",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "807252"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$23.73",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

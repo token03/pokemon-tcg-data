@@ -1,0 +1,25 @@
+{
+    "id": "pl2-21",
+    "name": "Gastrodon East Sea",
+    "number": "21",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925417",
+        "reverse-holo": "925536"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

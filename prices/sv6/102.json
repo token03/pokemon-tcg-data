@@ -1,0 +1,25 @@
+{
+    "id": "sv6-102",
+    "name": "Probopass",
+    "number": "102",
+    "setId": "sv6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6769582",
+        "reverse-holo": "6769800"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$35.94",
+                "grade9": "$11.55"
+            }
+        }
+    }
+}

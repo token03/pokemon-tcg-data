@@ -1,0 +1,25 @@
+{
+    "id": "pl2-46",
+    "name": "Machamp GL",
+    "number": "46",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925442",
+        "reverse-holo": "925561"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$59.40",
+                "grade9": "$7.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.94",
+                "psa10": "$85.00",
+                "grade9": "$70.99"
+            }
+        }
+    }
+}

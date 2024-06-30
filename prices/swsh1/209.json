@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-209",
+    "name": "Professor's Research (Professor Magnolia)",
+    "number": "209",
+    "setId": "swsh1",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2336172"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.48",
+                "psa10": "$24.37",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

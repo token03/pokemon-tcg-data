@@ -1,0 +1,25 @@
+{
+    "id": "xy11-5",
+    "name": "Jumpluff",
+    "number": "5",
+    "setId": "xy11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960084",
+        "reverse-holo": "960200"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$37.16",
+                "grade9": "$0.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.26",
+                "psa10": "$36.22",
+                "grade9": "$13.71"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "basep-48",
+    "name": "Articuno",
+    "number": "48",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5811032",
+        "national-championships-staff": "4602209"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$57.55",
+                "grade9": "$11.56"
+            },
+            "national-championships-staff": {
+                "ungraded": "$172.39",
+                "psa10": "",
+                "grade9": "$335.00"
+            }
+        }
+    }
+}

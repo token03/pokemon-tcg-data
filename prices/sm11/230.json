@@ -1,0 +1,19 @@
+{
+    "id": "sm11-230",
+    "name": "Naganadel-GX",
+    "number": "230",
+    "setId": "sm11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963796"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.02",
+                "psa10": "$30.00",
+                "grade9": "$24.20"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-86",
+    "name": "Larvitar",
+    "number": "86",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887172",
+        "reverse-holo": "887354"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.76",
+                "grade9": "$11.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$15.50",
+                "grade9": "$12.82"
+            }
+        }
+    }
+}

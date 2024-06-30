@@ -1,0 +1,25 @@
+{
+    "id": "sm3-119",
+    "name": "Olivia",
+    "number": "119",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960903",
+        "reverse-holo": "961060"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "$34.69",
+                "grade9": "$12.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.86",
+                "psa10": "$38.23",
+                "grade9": "$14.96"
+            }
+        }
+    }
+}

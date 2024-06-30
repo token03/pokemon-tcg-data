@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-69",
+    "name": "Chansey",
+    "number": "69",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842595",
+        "reverse-holo": "2293960"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.61",
+                "psa10": "$44.54",
+                "grade9": "$19.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.01",
+                "psa10": "$153.42",
+                "grade9": "$33.09"
+            }
+        }
+    }
+}

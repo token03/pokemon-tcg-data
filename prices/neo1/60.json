@@ -1,0 +1,25 @@
+{
+    "id": "neo1-60",
+    "name": "Hoothoot",
+    "number": "60",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762374",
+        "1st-edition": "2324875"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$20.50",
+                "grade9": "$19.26"
+            },
+            "1st-edition": {
+                "ungraded": "$2.18",
+                "psa10": "$48.20",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

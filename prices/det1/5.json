@@ -1,0 +1,19 @@
+{
+    "id": "det1-5",
+    "name": "Charizard",
+    "number": "5",
+    "setId": "det1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963142"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.81",
+                "psa10": "$59.45",
+                "grade9": "$12.13"
+            }
+        }
+    }
+}

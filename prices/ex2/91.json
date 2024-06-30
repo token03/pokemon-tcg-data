@@ -1,0 +1,25 @@
+{
+    "id": "ex2-91",
+    "name": "Mysterious Fossil",
+    "number": "91",
+    "setId": "ex2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849279",
+        "reverse-holo": "849379"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "",
+                "grade9": "$87.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.44",
+                "psa10": "$90.88",
+                "grade9": "$22.84"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp5-7",
+    "name": "Leafeon",
+    "number": "7",
+    "setId": "dp5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "921369",
+        "reverse-holo": "921469"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.95",
+                "psa10": "$1,425.00",
+                "grade9": "$96.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$15.17",
+                "psa10": "$1,000.00",
+                "grade9": "$30.04"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ex12-85",
+    "name": "Banette ex",
+    "number": "85",
+    "setId": "ex12",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888967"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$27.49",
+                "psa10": "$499.23",
+                "grade9": "$78.32"
+            }
+        }
+    }
+}

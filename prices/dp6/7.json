@@ -1,0 +1,25 @@
+{
+    "id": "dp6-7",
+    "name": "Kingdra",
+    "number": "7",
+    "setId": "dp6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "924938",
+        "reverse-holo": "925084"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.51",
+                "psa10": "$126.81",
+                "grade9": "$48.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.95",
+                "psa10": "$86.65",
+                "grade9": "$33.04"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy10-104",
+    "name": "Mega Catcher",
+    "number": "104",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959961",
+        "reverse-holo": "960068"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.08",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

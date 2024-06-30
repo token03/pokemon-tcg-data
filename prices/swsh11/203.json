@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-203",
+    "name": "Hisuian Zoroark VSTAR",
+    "number": "203",
+    "setId": "swsh11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "4050120"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.03",
+                "psa10": "$29.52",
+                "grade9": "$11.38"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm3-166",
+    "name": "Super Scoop Up",
+    "number": "166",
+    "setId": "sm3",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960950"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.94",
+                "psa10": "$14.34",
+                "grade9": "$13.50"
+            }
+        }
+    }
+}

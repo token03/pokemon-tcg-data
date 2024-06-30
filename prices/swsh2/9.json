@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-9",
+    "name": "Ludicolo",
+    "number": "9",
+    "setId": "swsh2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886742",
+        "reverse-holo": "886943"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.10",
+                "psa10": "$37.98",
+                "grade9": "$14.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.64",
+                "psa10": "$24.00",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

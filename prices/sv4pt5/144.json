@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-144",
+    "name": "Pawmot",
+    "number": "144",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277063"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.19",
+                "psa10": "$39.46",
+                "grade9": "$7.52"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw7-17",
+    "name": "Lilligant",
+    "number": "17",
+    "setId": "bw7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956532",
+        "reverse-holo": "956684"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.83",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

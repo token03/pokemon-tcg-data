@@ -1,0 +1,25 @@
+{
+    "id": "sm6-78",
+    "name": "Pangoro",
+    "number": "78",
+    "setId": "sm6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961741",
+        "reverse-holo": "961881"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

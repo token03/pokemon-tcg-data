@@ -1,0 +1,25 @@
+{
+    "id": "pl1-120",
+    "name": "Skull Fossil",
+    "number": "120",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806076",
+        "reverse-holo": "806077"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.80",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

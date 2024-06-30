@@ -1,0 +1,31 @@
+{
+    "id": "sv1-52",
+    "name": "Quaxly",
+    "number": "52",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4683932",
+        "holo": "5166319",
+        "reverse-holo": "4934081"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$10.76",
+                "grade9": "$5.50"
+            },
+            "holo": {
+                "ungraded": "$1.95",
+                "psa10": "$16.03",
+                "grade9": "$9.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$35.16",
+                "grade9": "$11.73"
+            }
+        }
+    }
+}

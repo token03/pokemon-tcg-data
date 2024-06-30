@@ -1,0 +1,25 @@
+{
+    "id": "ex2-16",
+    "name": "Espeon",
+    "number": "16",
+    "setId": "ex2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849205",
+        "reverse-holo": "849304"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.80",
+                "psa10": "$64.72",
+                "grade9": "$23.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.95",
+                "psa10": "$1,828.56",
+                "grade9": "$76.00"
+            }
+        }
+    }
+}

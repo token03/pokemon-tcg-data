@@ -1,0 +1,25 @@
+{
+    "id": "ex7-17",
+    "name": "Dark Raticate",
+    "number": "17",
+    "setId": "ex7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886351",
+        "reverse-holo": "886462"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.40",
+                "psa10": "$66.00",
+                "grade9": "$55.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.01",
+                "psa10": "$199.99",
+                "grade9": "$43.12"
+            }
+        }
+    }
+}

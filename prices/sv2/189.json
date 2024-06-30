@@ -1,0 +1,25 @@
+{
+    "id": "sv2-189",
+    "name": "Superior Energy Retrieval",
+    "number": "189",
+    "setId": "sv2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5287478",
+        "reverse-holo": "5287740"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$36.91",
+                "grade9": "$12.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "$38.10",
+                "grade9": "$12.61"
+            }
+        }
+    }
+}

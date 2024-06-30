@@ -1,0 +1,25 @@
+{
+    "id": "xy7-78",
+    "name": "Lysandre",
+    "number": "78",
+    "setId": "xy7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959096",
+        "reverse-holo": "959184"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$36.98",
+                "grade9": "$14.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "$39.22",
+                "grade9": "$15.34"
+            }
+        }
+    }
+}

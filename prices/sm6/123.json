@@ -1,0 +1,19 @@
+{
+    "id": "sm6-123",
+    "name": "Zygarde-GX",
+    "number": "123",
+    "setId": "sm6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961786"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.87",
+                "psa10": "$40.53",
+                "grade9": "$13.02"
+            }
+        }
+    }
+}

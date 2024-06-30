@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-32",
+    "name": "Nidoran \u2642",
+    "number": "32",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809412",
+        "reverse-holo": "5809619"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.16",
+                "psa10": "$39.90",
+                "grade9": "$13.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.11",
+                "psa10": "$39.68",
+                "grade9": "$12.93"
+            }
+        }
+    }
+}

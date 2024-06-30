@@ -1,0 +1,25 @@
+{
+    "id": "sm1-102",
+    "name": "Spinda",
+    "number": "102",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806846",
+        "reverse-holo": "806976"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.61",
+                "grade9": "$12.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$18.00",
+                "grade9": "$14.57"
+            }
+        }
+    }
+}

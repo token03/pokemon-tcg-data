@@ -1,0 +1,19 @@
+{
+    "id": "xy5-159",
+    "name": "Professor Birch's Observations",
+    "number": "159",
+    "setId": "xy5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958616"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.41",
+                "psa10": "$125.00",
+                "grade9": "$24.85"
+            }
+        }
+    }
+}

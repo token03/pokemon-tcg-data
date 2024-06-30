@@ -1,0 +1,19 @@
+{
+    "id": "sv2-251",
+    "name": "Falkner",
+    "number": "251",
+    "setId": "sv2",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5287540"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$38.87",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-71",
+    "name": "Burned Tower",
+    "number": "71",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925958",
+        "reverse-holo": "926049"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.09",
+                "psa10": "$53.17",
+                "grade9": "$52.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.87",
+                "psa10": "$95.15",
+                "grade9": "$47.00"
+            }
+        }
+    }
+}

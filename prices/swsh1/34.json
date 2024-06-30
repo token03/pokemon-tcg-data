@@ -1,0 +1,37 @@
+{
+    "id": "swsh1-34",
+    "name": "Cinderace",
+    "number": "34",
+    "setId": "swsh1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "807041",
+        "cosmos-holo": "4643278",
+        "pokemon-league": "3402794",
+        "reverse-holo": "807042"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$15.00",
+                "grade9": "$15.00"
+            },
+            "cosmos-holo": {
+                "ungraded": "$1.92",
+                "psa10": "$37.32",
+                "grade9": "$13.95"
+            },
+            "pokemon-league": {
+                "ungraded": "$2.13",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "$65.00",
+                "grade9": "$6.00"
+            }
+        }
+    }
+}

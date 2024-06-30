@@ -1,0 +1,19 @@
+{
+    "id": "sm12-265",
+    "name": "Island Challenge Amulet",
+    "number": "265",
+    "setId": "sm12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "964503"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$20.00",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

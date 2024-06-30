@@ -1,0 +1,25 @@
+{
+    "id": "xy12-83",
+    "name": "Potion",
+    "number": "83",
+    "setId": "xy12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960371",
+        "reverse-holo": "960459"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$31.00",
+                "grade9": "$5.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$31.22",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

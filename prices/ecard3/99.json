@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-99",
+    "name": "Slugma",
+    "number": "99",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887978",
+        "reverse-holo": "2252698"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.31",
+                "psa10": "$20.50",
+                "grade9": "$15.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$18.53",
+                "psa10": "$98.74",
+                "grade9": "$41.63"
+            }
+        }
+    }
+}

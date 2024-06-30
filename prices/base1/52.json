@@ -1,0 +1,37 @@
+{
+    "id": "base1-52",
+    "name": "Machop",
+    "number": "52",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630465",
+        "1st-edition": "715641",
+        "shadowless": "715743",
+        "trainer-deck-a": "2386888"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$42.27",
+                "grade9": "$17.50"
+            },
+            "1st-edition": {
+                "ungraded": "$12.50",
+                "psa10": "$169.99",
+                "grade9": "$34.95"
+            },
+            "shadowless": {
+                "ungraded": "$1.25",
+                "psa10": "$40.44",
+                "grade9": "$19.66"
+            },
+            "trainer-deck-a": {
+                "ungraded": "$450.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

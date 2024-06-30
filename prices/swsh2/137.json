@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-137",
+    "name": "Copperajah VMAX",
+    "number": "137",
+    "setId": "swsh2",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "836353"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.85",
+                "psa10": "$19.99",
+                "grade9": "$10.30"
+            }
+        }
+    }
+}

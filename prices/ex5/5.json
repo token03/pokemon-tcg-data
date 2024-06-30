@@ -1,0 +1,25 @@
+{
+    "id": "ex5-5",
+    "name": "Electrode",
+    "number": "5",
+    "setId": "ex5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849778",
+        "reverse-holo": "849880"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.87",
+                "psa10": "$134.01",
+                "grade9": "$32.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.52",
+                "psa10": "$200.70",
+                "grade9": "$41.63"
+            }
+        }
+    }
+}

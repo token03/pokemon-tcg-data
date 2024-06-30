@@ -1,0 +1,25 @@
+{
+    "id": "dp6-126",
+    "name": "Tyrogue",
+    "number": "126",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925057",
+        "reverse-holo": "925200"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$53.67",
+                "grade9": "$19.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.33",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

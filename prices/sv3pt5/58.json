@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-58",
+    "name": "Growlithe",
+    "number": "58",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809439",
+        "reverse-holo": "5809643"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$36.42",
+                "grade9": "$11.94"
+            }
+        }
+    }
+}

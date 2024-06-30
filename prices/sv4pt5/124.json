@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-124",
+    "name": "Palafin",
+    "number": "124",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277043"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.60",
+                "psa10": "$30.60",
+                "grade9": "$8.00"
+            }
+        }
+    }
+}

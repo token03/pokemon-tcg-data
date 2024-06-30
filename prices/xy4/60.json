@@ -1,0 +1,25 @@
+{
+    "id": "xy4-60",
+    "name": "Bronzor",
+    "number": "60",
+    "setId": "xy4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958253",
+        "reverse-holo": "958370"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

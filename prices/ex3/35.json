@@ -1,0 +1,25 @@
+{
+    "id": "ex3-35",
+    "name": "Magneton",
+    "number": "35",
+    "setId": "ex3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849415",
+        "reverse-holo": "849514"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$64.74",
+                "grade9": "$50.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.55",
+                "psa10": "$202.50",
+                "grade9": "$43.16"
+            }
+        }
+    }
+}

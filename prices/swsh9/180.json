@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-180",
+    "name": "Roseanne's Backup",
+    "number": "180",
+    "setId": "swsh9",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3216305"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.69",
+                "psa10": "$26.81",
+                "grade9": "$8.95"
+            }
+        }
+    }
+}

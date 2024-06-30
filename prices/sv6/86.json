@@ -1,0 +1,25 @@
+{
+    "id": "sv6-86",
+    "name": "Flab\u00e9b\u00e9",
+    "number": "86",
+    "setId": "sv6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6769566",
+        "reverse-holo": "6769785"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.97",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

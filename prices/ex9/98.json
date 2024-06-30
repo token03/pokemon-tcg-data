@@ -1,0 +1,19 @@
+{
+    "id": "ex9-98",
+    "name": "Regice ex",
+    "number": "98",
+    "setId": "ex9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888323"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$42.43",
+                "psa10": "$539.56",
+                "grade9": "$103.92"
+            }
+        }
+    }
+}

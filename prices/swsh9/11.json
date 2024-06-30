@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-11",
+    "name": "Mothim",
+    "number": "11",
+    "setId": "swsh9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3188236",
+        "reverse-holo": "3219382"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.72",
+                "psa10": "$32.89",
+                "grade9": "$11.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$35.29",
+                "grade9": "$12.17"
+            }
+        }
+    }
+}

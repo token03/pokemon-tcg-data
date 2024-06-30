@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-44",
+    "name": "Hisuian Basculegion",
+    "number": "44",
+    "setId": "swsh10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3489542",
+        "reverse-holo": "3489753"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.98",
+                "psa10": "$34.04",
+                "grade9": "$11.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.02",
+                "psa10": "$34.16",
+                "grade9": "$11.63"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex6-22",
+    "name": "Dugtrio",
+    "number": "22",
+    "setId": "ex6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849989",
+        "reverse-holo": "850105"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$97.29",
+                "grade9": "$18.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.77",
+                "psa10": "$224.50",
+                "grade9": "$32.81"
+            }
+        }
+    }
+}

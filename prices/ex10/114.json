@@ -1,0 +1,19 @@
+{
+    "id": "ex10-114",
+    "name": "Raikou \u2605",
+    "number": "114",
+    "setId": "ex10",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "888533"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$200.00",
+                "psa10": "$999.99",
+                "grade9": "$370.26"
+            }
+        }
+    }
+}

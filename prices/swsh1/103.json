@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-103",
+    "name": "Claydol",
+    "number": "103",
+    "setId": "swsh1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "807043",
+        "reverse-holo": "807044"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$49.99",
+                "grade9": "$12.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.69",
+                "psa10": "$40.33",
+                "grade9": "$5.00"
+            }
+        }
+    }
+}

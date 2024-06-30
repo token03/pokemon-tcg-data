@@ -1,0 +1,31 @@
+{
+    "id": "basep-4",
+    "name": "Pikachu",
+    "number": "4",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "prize-pack-series-3": "6573149",
+        "normal": "4793427",
+        "jumbo": "4877802"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "prize-pack-series-3": {
+                "ungraded": "$8.88",
+                "psa10": "",
+                "grade9": ""
+            },
+            "normal": {
+                "ungraded": "$11.88",
+                "psa10": "$67.63",
+                "grade9": "$30.75"
+            },
+            "jumbo": {
+                "ungraded": "$3.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

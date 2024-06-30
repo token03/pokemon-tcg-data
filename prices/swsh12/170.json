@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-170",
+    "name": "Serperior V",
+    "number": "170",
+    "setId": "swsh12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277291"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$16.19",
+                "grade9": "$13.57"
+            }
+        }
+    }
+}

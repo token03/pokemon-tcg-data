@@ -1,0 +1,25 @@
+{
+    "id": "neo4-32",
+    "name": "Dark Croconaw",
+    "number": "32",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762560",
+        "1st-edition": "2183300"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.01",
+                "psa10": "$63.00",
+                "grade9": "$12.50"
+            },
+            "1st-edition": {
+                "ungraded": "$8.63",
+                "psa10": "$73.86",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-76",
+    "name": "Ruins of Alph",
+    "number": "76",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925963",
+        "reverse-holo": "926054"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$119.99",
+                "grade9": "$17.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.97",
+                "psa10": "$63.26",
+                "grade9": "$24.98"
+            }
+        }
+    }
+}

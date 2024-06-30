@@ -1,0 +1,31 @@
+{
+    "id": "swsh9-147",
+    "name": "Professor's Research",
+    "number": "147",
+    "setId": "swsh9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "3188371",
+        "holo": "4928135",
+        "reverse-holo": "3219492"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.98",
+                "psa10": "$41.94",
+                "grade9": "$14.91"
+            },
+            "holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$37.82",
+                "grade9": "$13.21"
+            }
+        }
+    }
+}

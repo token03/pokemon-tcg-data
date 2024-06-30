@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-40",
+    "name": "Wigglytuff ex",
+    "number": "40",
+    "setId": "sv3pt5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5809421"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.98",
+                "psa10": "$19.99",
+                "grade9": "$6.30"
+            }
+        }
+    }
+}

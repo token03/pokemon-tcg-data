@@ -1,0 +1,19 @@
+{
+    "id": "basep-42",
+    "name": "Pok\u00e9mon Tower",
+    "number": "42",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "643539"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$47.40",
+                "grade9": "$14.73"
+            }
+        }
+    }
+}

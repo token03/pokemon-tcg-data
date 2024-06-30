@@ -1,0 +1,19 @@
+{
+    "id": "swsh35-76",
+    "name": "Gardevoir VMAX",
+    "number": "76",
+    "setId": "swsh35",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "887502"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.99",
+                "psa10": "$31.00",
+                "grade9": "$19.00"
+            }
+        }
+    }
+}

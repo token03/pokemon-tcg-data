@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-191",
+    "name": "Scizor",
+    "number": "191",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277110"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$47.02",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

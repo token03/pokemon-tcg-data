@@ -1,0 +1,25 @@
+{
+    "id": "pop4-3",
+    "name": "Flygon",
+    "number": "3",
+    "setId": "pop4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762739",
+        "holo": "762755"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.63",
+                "psa10": "$94.00",
+                "grade9": "$51.29"
+            },
+            "holo": {
+                "ungraded": "$5.24",
+                "psa10": "$144.92",
+                "grade9": "$59.99"
+            }
+        }
+    }
+}

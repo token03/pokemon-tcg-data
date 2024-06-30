@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-23",
+    "name": "Appletun",
+    "number": "23",
+    "setId": "swsh2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886756",
+        "reverse-holo": "886954"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$16.00",
+                "grade9": "$13.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$36.08",
+                "grade9": "$13.21"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "bw4-14",
+    "name": "Moltres",
+    "number": "14",
+    "setId": "bw4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955866",
+        "cosmos-holo": "5316835",
+        "reverse-holo": "955968"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$191.92",
+                "grade9": "$26.99"
+            },
+            "cosmos-holo": {
+                "ungraded": "$2.68",
+                "psa10": "$2,325.00",
+                "grade9": "$21.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$88.32",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

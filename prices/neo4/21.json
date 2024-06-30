@@ -1,0 +1,25 @@
+{
+    "id": "neo4-21",
+    "name": "Dark Ursaring",
+    "number": "21",
+    "setId": "neo4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762581",
+        "1st-edition": "2183321"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.00",
+                "psa10": "$64.99",
+                "grade9": "$25.70"
+            },
+            "1st-edition": {
+                "ungraded": "$15.50",
+                "psa10": "$85.00",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

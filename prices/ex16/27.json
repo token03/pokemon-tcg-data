@@ -1,0 +1,37 @@
+{
+    "id": "ex16-27",
+    "name": "Cacturne",
+    "number": "27",
+    "setId": "ex16",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889691",
+        "prerelease": "4895157",
+        "reverse-holo": "889799",
+        "stamped": "4895159"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$55.83",
+                "grade9": "$55.10"
+            },
+            "prerelease": {
+                "ungraded": "$10.19",
+                "psa10": "",
+                "grade9": "$61.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.32",
+                "psa10": "$94.94",
+                "grade9": "$19.54"
+            },
+            "stamped": {
+                "ungraded": "$3.00",
+                "psa10": "",
+                "grade9": "$16.09"
+            }
+        }
+    }
+}

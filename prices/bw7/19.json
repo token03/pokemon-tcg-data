@@ -1,0 +1,25 @@
+{
+    "id": "bw7-19",
+    "name": "Charmeleon",
+    "number": "19",
+    "setId": "bw7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956534",
+        "reverse-holo": "956686"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$51.74",
+                "grade9": "$21.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$62.58",
+                "grade9": "$49.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "bw8-18",
+    "name": "Victini-EX",
+    "number": "18",
+    "setId": "bw8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956816"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.13",
+                "psa10": "$150.00",
+                "grade9": "$34.00"
+            }
+        }
+    }
+}

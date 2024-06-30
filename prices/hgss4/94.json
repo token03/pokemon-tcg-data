@@ -1,0 +1,19 @@
+{
+    "id": "hgss4-94",
+    "name": "Gengar",
+    "number": "94",
+    "setId": "hgss4",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "926151"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$74.85",
+                "psa10": "$898.44",
+                "grade9": "$200.00"
+            }
+        }
+    }
+}

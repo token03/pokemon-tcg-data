@@ -1,0 +1,25 @@
+{
+    "id": "bw11-58",
+    "name": "Mismagius",
+    "number": "58",
+    "setId": "bw11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957552",
+        "reverse-holo": "957686"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$39.96",
+                "grade9": "$7.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.75",
+                "psa10": "",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

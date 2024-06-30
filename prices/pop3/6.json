@@ -1,0 +1,25 @@
+{
+    "id": "pop3-6",
+    "name": "Vaporeon",
+    "number": "6",
+    "setId": "pop3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762718",
+        "holo": "762735"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.61",
+                "psa10": "$134.43",
+                "grade9": "$57.88"
+            },
+            "holo": {
+                "ungraded": "$10.42",
+                "psa10": "$86.00",
+                "grade9": "$79.00"
+            }
+        }
+    }
+}

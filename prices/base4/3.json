@@ -1,0 +1,19 @@
+{
+    "id": "base4-3",
+    "name": "Chansey",
+    "number": "3",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641806"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.71",
+                "psa10": "$1,452.00",
+                "grade9": "$74.63"
+            }
+        }
+    }
+}

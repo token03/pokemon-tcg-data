@@ -1,0 +1,25 @@
+{
+    "id": "ex11-62",
+    "name": "Ditto",
+    "number": "62",
+    "setId": "ex11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888724",
+        "reverse-holo": "888838"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.94",
+                "psa10": "$53.00",
+                "grade9": "$30.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.00",
+                "psa10": "$162.27",
+                "grade9": "$43.50"
+            }
+        }
+    }
+}

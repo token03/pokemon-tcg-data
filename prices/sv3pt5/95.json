@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-95",
+    "name": "Onix",
+    "number": "95",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809476",
+        "reverse-holo": "5809678"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.84",
+                "psa10": "$38.45",
+                "grade9": "$12.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$39.17",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

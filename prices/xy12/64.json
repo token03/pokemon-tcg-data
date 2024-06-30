@@ -1,0 +1,19 @@
+{
+    "id": "xy12-64",
+    "name": "Pidgeot-EX",
+    "number": "64",
+    "setId": "xy12",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "960352"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.10",
+                "psa10": "$20.69",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

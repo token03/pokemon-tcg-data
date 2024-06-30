@@ -1,0 +1,25 @@
+{
+    "id": "xy6-40",
+    "name": "Absol",
+    "number": "40",
+    "setId": "xy6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958863",
+        "reverse-holo": "958970"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.08",
+                "psa10": "$42.56",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "$38.33",
+                "grade9": "$14.78"
+            }
+        }
+    }
+}

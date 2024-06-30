@@ -1,0 +1,25 @@
+{
+    "id": "ex10-90",
+    "name": "Protective Orb",
+    "number": "90",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888510",
+        "reverse-holo": "888652"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.46",
+                "psa10": "",
+                "grade9": "$47.39"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.44",
+                "psa10": "$120.32",
+                "grade9": "$16.51"
+            }
+        }
+    }
+}

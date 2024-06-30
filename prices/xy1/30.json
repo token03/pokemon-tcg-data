@@ -1,0 +1,25 @@
+{
+    "id": "xy1-30",
+    "name": "M Blastoise-EX",
+    "number": "30",
+    "setId": "xy1",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "reverse-holo": "806652",
+        "normal": "806528"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "reverse-holo": {
+                "ungraded": "$7.68",
+                "psa10": "$78.15",
+                "grade9": "$38.53"
+            },
+            "normal": {
+                "ungraded": "$6.69",
+                "psa10": "$72.46",
+                "grade9": "$45.40"
+            }
+        }
+    }
+}

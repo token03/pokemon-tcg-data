@@ -1,0 +1,25 @@
+{
+    "id": "ex13-33",
+    "name": "Torkoal",
+    "number": "33",
+    "setId": "ex13",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889113",
+        "reverse-holo": "889224"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.50",
+                "psa10": "$91.91",
+                "grade9": "$55.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.99",
+                "psa10": "$202.66",
+                "grade9": "$17.50"
+            }
+        }
+    }
+}

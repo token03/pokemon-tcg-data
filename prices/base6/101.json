@@ -1,0 +1,25 @@
+{
+    "id": "base6-101",
+    "name": "Potion Energy",
+    "number": "101",
+    "setId": "base6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842406",
+        "reverse-holo": "2253782"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$196.79",
+                "grade9": "$47.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$23.35",
+                "psa10": "$287.68",
+                "grade9": "$65.90"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-90",
+    "name": "Technical Machine: Crisis Punch",
+    "number": "90",
+    "setId": "sv4pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6277008",
+        "reverse-holo": "6277245"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$37.14",
+                "grade9": "$12.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$36.67",
+                "grade9": "$11.87"
+            }
+        }
+    }
+}

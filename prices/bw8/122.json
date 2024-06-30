@@ -1,0 +1,25 @@
+{
+    "id": "bw8-122",
+    "name": "Eviolite",
+    "number": "122",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956919",
+        "reverse-holo": "957049"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": "$2.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "swsh9-26",
+    "name": "Infernape",
+    "number": "26",
+    "setId": "swsh9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "5435531",
+        "holo": "3188251",
+        "reverse-holo": "3219391"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.98",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.26",
+                "psa10": "$31.88",
+                "grade9": "$4.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$35.97",
+                "grade9": "$12.45"
+            }
+        }
+    }
+}

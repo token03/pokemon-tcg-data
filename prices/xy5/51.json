@@ -1,0 +1,25 @@
+{
+    "id": "xy5-51",
+    "name": "Gorebyss",
+    "number": "51",
+    "setId": "xy5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958508",
+        "reverse-holo": "958668"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$38.56",
+                "grade9": "$14.86"
+            }
+        }
+    }
+}

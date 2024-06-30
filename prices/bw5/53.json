@@ -1,0 +1,25 @@
+{
+    "id": "bw5-53",
+    "name": "Aerodactyl",
+    "number": "53",
+    "setId": "bw5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956099",
+        "reverse-holo": "956208"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.09",
+                "psa10": "$65.91",
+                "grade9": "$27.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.98",
+                "psa10": "$73.60",
+                "grade9": "$31.56"
+            }
+        }
+    }
+}

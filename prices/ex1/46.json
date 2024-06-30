@@ -1,0 +1,25 @@
+{
+    "id": "ex1-46",
+    "name": "Swellow",
+    "number": "46",
+    "setId": "ex1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762914",
+        "reverse-holo": "762996"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.86",
+                "psa10": "$25.00",
+                "grade9": "$21.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.55",
+                "psa10": "$56.61",
+                "grade9": "$32.84"
+            }
+        }
+    }
+}

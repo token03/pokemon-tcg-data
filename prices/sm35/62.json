@@ -1,0 +1,25 @@
+{
+    "id": "sm35-62",
+    "name": "Lillie",
+    "number": "62",
+    "setId": "sm35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961131",
+        "reverse-holo": "2978784"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "$34.70",
+                "grade9": "$12.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$36.53",
+                "grade9": "$11.56"
+            }
+        }
+    }
+}

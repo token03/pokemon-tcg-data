@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-18",
+    "name": "Flareon VMAX",
+    "number": "18",
+    "setId": "swsh7",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "2512829"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.62",
+                "psa10": "$39.95",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

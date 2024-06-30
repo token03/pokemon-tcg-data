@@ -1,0 +1,25 @@
+{
+    "id": "gym1-125",
+    "name": "Sabrina's Gaze",
+    "number": "125",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762125",
+        "1st-edition": "2156436"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$64.90",
+                "grade9": "$22.47"
+            },
+            "1st-edition": {
+                "ungraded": "$3.00",
+                "psa10": "$85.00",
+                "grade9": "$25.75"
+            }
+        }
+    }
+}

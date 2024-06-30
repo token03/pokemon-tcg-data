@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-25",
+    "name": "Heatran",
+    "number": "25",
+    "setId": "swsh3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "887111",
+        "reverse-holo": "887297"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$15.13",
+                "grade9": "$9.20"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.18",
+                "psa10": "$14.92",
+                "grade9": "$14.24"
+            }
+        }
+    }
+}

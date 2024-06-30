@@ -1,0 +1,19 @@
+{
+    "id": "bw8-136",
+    "name": "Charizard",
+    "number": "136",
+    "setId": "bw8",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "956933"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$319.77",
+                "psa10": "$7,850.00",
+                "grade9": "$900.50"
+            }
+        }
+    }
+}

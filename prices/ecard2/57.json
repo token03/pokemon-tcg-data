@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-57",
+    "name": "Scyther",
+    "number": "57",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842584",
+        "reverse-holo": "2293948"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.36",
+                "psa10": "$109.99",
+                "grade9": "$44.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$36.38",
+                "psa10": "$235.00",
+                "grade9": "$99.99"
+            }
+        }
+    }
+}

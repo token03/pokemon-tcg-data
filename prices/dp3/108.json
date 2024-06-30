@@ -1,0 +1,25 @@
+{
+    "id": "dp3-108",
+    "name": "Shroomish",
+    "number": "108",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920998",
+        "reverse-holo": "921130"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.13",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

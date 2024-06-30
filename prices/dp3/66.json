@@ -1,0 +1,25 @@
+{
+    "id": "dp3-66",
+    "name": "Smeargle",
+    "number": "66",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920956",
+        "reverse-holo": "921087"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "$60.47",
+                "grade9": "$33.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp7-30",
+    "name": "Tyranitar",
+    "number": "30",
+    "setId": "dp7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925243",
+        "reverse-holo": "925330"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.75",
+                "psa10": "$540.00",
+                "grade9": "$106.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.82",
+                "psa10": "$750.00",
+                "grade9": "$40.43"
+            }
+        }
+    }
+}

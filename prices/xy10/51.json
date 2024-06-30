@@ -1,0 +1,19 @@
+{
+    "id": "xy10-51",
+    "name": "Carbink BREAK",
+    "number": "51",
+    "setId": "xy10",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "959908"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$32.70",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

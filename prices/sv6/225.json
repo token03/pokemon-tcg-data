@@ -1,0 +1,19 @@
+{
+    "id": "sv6-225",
+    "name": "Rescue Board",
+    "number": "225",
+    "setId": "sv6",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "6769704"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.63",
+                "psa10": "$89.76",
+                "grade9": "$25.58"
+            }
+        }
+    }
+}

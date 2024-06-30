@@ -1,0 +1,19 @@
+{
+    "id": "mcd14-6",
+    "name": "Inkay",
+    "number": "6",
+    "setId": "mcd14",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179997"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

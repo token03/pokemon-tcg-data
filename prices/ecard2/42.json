@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-42",
+    "name": "Victreebel",
+    "number": "42",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842569",
+        "reverse-holo": "2293933"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.44",
+                "psa10": "$32.95",
+                "grade9": "$17.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.78",
+                "psa10": "$163.06",
+                "grade9": "$43.41"
+            }
+        }
+    }
+}

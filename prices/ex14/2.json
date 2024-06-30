@@ -1,0 +1,25 @@
+{
+    "id": "ex14-2",
+    "name": "Blastoise \u03b4",
+    "number": "2",
+    "setId": "ex14",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889289",
+        "reverse-holo": "889389"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.93",
+                "psa10": "$380.50",
+                "grade9": "$108.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$46.50",
+                "psa10": "$493.00",
+                "grade9": "$228.17"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-25",
+    "name": "Victini V",
+    "number": "25",
+    "setId": "swsh1",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "807305"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$21.08",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

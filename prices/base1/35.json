@@ -1,0 +1,31 @@
+{
+    "id": "base1-35",
+    "name": "Magikarp",
+    "number": "35",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630448",
+        "1st-edition": "715624",
+        "shadowless": "715726"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$79.99",
+                "grade9": "$34.94"
+            },
+            "1st-edition": {
+                "ungraded": "$37.83",
+                "psa10": "$521.50",
+                "grade9": "$119.12"
+            },
+            "shadowless": {
+                "ungraded": "$3.99",
+                "psa10": "$127.73",
+                "grade9": "$36.18"
+            }
+        }
+    }
+}

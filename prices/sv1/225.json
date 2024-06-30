@@ -1,0 +1,19 @@
+{
+    "id": "sv1-225",
+    "name": "Gyarados ex",
+    "number": "225",
+    "setId": "sv1",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "4933999"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.82",
+                "psa10": "$41.00",
+                "grade9": "$18.64"
+            }
+        }
+    }
+}

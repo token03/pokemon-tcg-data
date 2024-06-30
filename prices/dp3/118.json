@@ -1,0 +1,25 @@
+{
+    "id": "dp3-118",
+    "name": "Wooper",
+    "number": "118",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921008",
+        "reverse-holo": "921140"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$69.45",
+                "grade9": "$25.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.47",
+                "psa10": "$163.75",
+                "grade9": "$62.40"
+            }
+        }
+    }
+}

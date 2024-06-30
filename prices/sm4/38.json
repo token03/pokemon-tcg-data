@@ -1,0 +1,31 @@
+{
+    "id": "sm4-38",
+    "name": "Gengar",
+    "number": "38",
+    "setId": "sm4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "6870164",
+        "holo": "961185",
+        "reverse-holo": "961306"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$3.10",
+                "psa10": "$119.15",
+                "grade9": "$23.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.26",
+                "psa10": "$216.00",
+                "grade9": "$24.95"
+            }
+        }
+    }
+}

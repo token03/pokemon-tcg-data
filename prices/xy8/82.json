@@ -1,0 +1,25 @@
+{
+    "id": "xy8-82",
+    "name": "Mamoswine",
+    "number": "82",
+    "setId": "xy8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "959271",
+        "reverse-holo": "959424"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.45",
+                "psa10": "$67.96",
+                "grade9": "$14.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.96",
+                "psa10": "$60.00",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

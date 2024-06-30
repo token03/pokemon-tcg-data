@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-66",
+    "name": "Mankey",
+    "number": "66",
+    "setId": "swsh5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1673246",
+        "reverse-holo": "1725045"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.64",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "$36.22",
+                "grade9": "$12.95"
+            }
+        }
+    }
+}

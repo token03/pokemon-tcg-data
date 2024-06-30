@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-169",
+    "name": "Rapid Strike Urshifu VMAX",
+    "number": "169",
+    "setId": "swsh5",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "1673349"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.32",
+                "psa10": "$33.49",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

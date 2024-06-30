@@ -1,0 +1,25 @@
+{
+    "id": "gym1-4",
+    "name": "Erika's Dragonair",
+    "number": "4",
+    "setId": "gym1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762159",
+        "1st-edition": "2156473"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$29.99",
+                "psa10": "$362.24",
+                "grade9": "$67.37"
+            },
+            "1st-edition": {
+                "ungraded": "$95.30",
+                "psa10": "$640.25",
+                "grade9": "$181.48"
+            }
+        }
+    }
+}

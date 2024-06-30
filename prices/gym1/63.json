@@ -1,0 +1,25 @@
+{
+    "id": "gym1-63",
+    "name": "Blaine's Ponyta",
+    "number": "63",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762180",
+        "1st-edition": "2156499"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$44.00",
+                "grade9": "$20.86"
+            },
+            "1st-edition": {
+                "ungraded": "$2.66",
+                "psa10": "$36.03",
+                "grade9": "$19.44"
+            }
+        }
+    }
+}

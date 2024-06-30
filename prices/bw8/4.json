@@ -1,0 +1,25 @@
+{
+    "id": "bw8-4",
+    "name": "Combee",
+    "number": "4",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956802",
+        "reverse-holo": "956939"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

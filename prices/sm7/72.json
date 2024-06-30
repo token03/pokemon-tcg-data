@@ -1,0 +1,25 @@
+{
+    "id": "sm7-72",
+    "name": "Phanpy",
+    "number": "72",
+    "setId": "sm7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961986",
+        "reverse-holo": "962161"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

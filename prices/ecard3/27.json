@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-27",
+    "name": "Raichu",
+    "number": "27",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842689",
+        "reverse-holo": "2252627"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.50",
+                "psa10": "$80.18",
+                "grade9": "$33.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$32.28",
+                "psa10": "$222.61",
+                "grade9": "$67.30"
+            }
+        }
+    }
+}

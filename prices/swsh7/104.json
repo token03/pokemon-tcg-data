@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-104",
+    "name": "Nickit",
+    "number": "104",
+    "setId": "swsh7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2512916",
+        "reverse-holo": "2513123"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.81",
+                "psa10": "$33.16",
+                "grade9": "$11.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$34.06",
+                "grade9": "$11.81"
+            }
+        }
+    }
+}

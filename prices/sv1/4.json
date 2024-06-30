@@ -1,0 +1,31 @@
+{
+    "id": "sv1-4",
+    "name": "Breloom",
+    "number": "4",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "holo": "5890955",
+        "normal": "4933782",
+        "reverse-holo": "4934036"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.09",
+                "psa10": "$4.42",
+                "grade9": ""
+            },
+            "normal": {
+                "ungraded": "$0.20",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "$35.12",
+                "grade9": "$11.71"
+            }
+        }
+    }
+}

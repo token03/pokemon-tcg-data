@@ -1,0 +1,25 @@
+{
+    "id": "base3-18",
+    "name": "Ditto",
+    "number": "18",
+    "setId": "base3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341266",
+        "1st-edition": "1099512"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.80",
+                "psa10": "$56.41",
+                "grade9": "$22.48"
+            },
+            "1st-edition": {
+                "ungraded": "$8.00",
+                "psa10": "$123.55",
+                "grade9": "$35.84"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-158",
+    "name": "Billowing Smoke",
+    "number": "158",
+    "setId": "swsh3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887236",
+        "reverse-holo": "887414"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.76",
+                "grade9": "$11.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$34.90",
+                "grade9": "$12.51"
+            }
+        }
+    }
+}

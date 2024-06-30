@@ -1,0 +1,25 @@
+{
+    "id": "sm6-115",
+    "name": "Ultra Space",
+    "number": "115",
+    "setId": "sm6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961778",
+        "reverse-holo": "961912"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

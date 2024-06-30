@@ -1,0 +1,31 @@
+{
+    "id": "swsh8-225",
+    "name": "Battle VIP Pass",
+    "number": "225",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771251",
+        "prize-pack": "5790882",
+        "reverse-holo": "2771507"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.59",
+                "psa10": "$40.21",
+                "grade9": "$14.40"
+            },
+            "prize-pack": {
+                "ungraded": "$30.79",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.80",
+                "psa10": "$41.24",
+                "grade9": "$14.84"
+            }
+        }
+    }
+}

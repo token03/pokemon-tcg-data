@@ -1,0 +1,25 @@
+{
+    "id": "base5-38",
+    "name": "Dark Jolteon",
+    "number": "38",
+    "setId": "base5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643462",
+        "1st-edition": "1341380"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.40",
+                "psa10": "$78.62",
+                "grade9": "$25.99"
+            },
+            "1st-edition": {
+                "ungraded": "$9.93",
+                "psa10": "$186.23",
+                "grade9": "$35.18"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-188",
+    "name": "Pikachu VMAX",
+    "number": "188",
+    "setId": "swsh4",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "887725"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$105.73",
+                "psa10": "$229.99",
+                "grade9": "$112.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4-218",
+    "name": "Armarouge ex",
+    "number": "218",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953057"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.10",
+                "psa10": "$18.50",
+                "grade9": "$6.92"
+            }
+        }
+    }
+}

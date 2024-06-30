@@ -1,0 +1,25 @@
+{
+    "id": "pl1-114",
+    "name": "Pok\u00e9dex HANDY910is",
+    "number": "114",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806036",
+        "reverse-holo": "806037"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

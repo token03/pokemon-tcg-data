@@ -1,0 +1,31 @@
+{
+    "id": "swsh45-56",
+    "name": "Indeedee",
+    "number": "56",
+    "setId": "swsh45",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1341533",
+        "holo": "4566851",
+        "reverse-holo": "1341715"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$9.69",
+                "grade9": "$4.45"
+            },
+            "holo": {
+                "ungraded": "$1.10",
+                "psa10": "$16.05",
+                "grade9": "$6.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$13.00",
+                "grade9": "$10.67"
+            }
+        }
+    }
+}

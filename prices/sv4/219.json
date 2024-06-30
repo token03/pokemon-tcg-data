@@ -1,0 +1,19 @@
+{
+    "id": "sv4-219",
+    "name": "Garchomp ex",
+    "number": "219",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953058"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.07",
+                "psa10": "$41.00",
+                "grade9": "$16.10"
+            }
+        }
+    }
+}

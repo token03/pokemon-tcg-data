@@ -1,0 +1,25 @@
+{
+    "id": "ex16-37",
+    "name": "Sealeo",
+    "number": "37",
+    "setId": "ex16",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889701",
+        "reverse-holo": "889809"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.84",
+                "psa10": "$78.54",
+                "grade9": "$28.39"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$78.28",
+                "grade9": "$19.22"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-161",
+    "name": "Lost City",
+    "number": "161",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4050078",
+        "reverse-holo": "4050279"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$38.70",
+                "grade9": "$13.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.71",
+                "psa10": "$41.24",
+                "grade9": "$14.20"
+            }
+        }
+    }
+}

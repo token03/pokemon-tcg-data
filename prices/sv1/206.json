@@ -1,0 +1,19 @@
+{
+    "id": "sv1-206",
+    "name": "Wiglett",
+    "number": "206",
+    "setId": "sv1",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "4933980"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$63.32",
+                "grade9": "$24.99"
+            }
+        }
+    }
+}

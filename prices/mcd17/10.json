@@ -1,0 +1,19 @@
+{
+    "id": "mcd17-10",
+    "name": "Cutiefly",
+    "number": "10",
+    "setId": "mcd17",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180037"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.19",
+                "psa10": "$39.47",
+                "grade9": "$15.69"
+            }
+        }
+    }
+}

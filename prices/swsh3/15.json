@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-15",
+    "name": "Steenee",
+    "number": "15",
+    "setId": "swsh3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887101",
+        "reverse-holo": "887290"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$6.50",
+                "grade9": "$2.63"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "cel25-25",
+    "name": "Mew",
+    "number": "25",
+    "setId": "cel25",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2618170"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.84",
+                "psa10": "$64.00",
+                "grade9": "$28.55"
+            }
+        }
+    }
+}

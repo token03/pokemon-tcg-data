@@ -1,0 +1,31 @@
+{
+    "id": "base1-91",
+    "name": "Bill",
+    "number": "91",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630504",
+        "1st-edition": "715680",
+        "shadowless": "5836057"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$39.99",
+                "grade9": "$24.26"
+            },
+            "1st-edition": {
+                "ungraded": "$12.41",
+                "psa10": "$126.44",
+                "grade9": "$49.99"
+            },
+            "shadowless": {
+                "ungraded": "$2.88",
+                "psa10": "$40.94",
+                "grade9": "$23.99"
+            }
+        }
+    }
+}

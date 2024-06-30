@@ -1,0 +1,25 @@
+{
+    "id": "sm4-92",
+    "name": "Dashing Pouch",
+    "number": "92",
+    "setId": "sm4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961238",
+        "reverse-holo": "961354"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "$5.50",
+                "grade9": ""
+            }
+        }
+    }
+}

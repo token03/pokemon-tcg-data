@@ -1,0 +1,25 @@
+{
+    "id": "gym2-125",
+    "name": "Transparent Walls",
+    "number": "125",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762321",
+        "1st-edition": "1450319"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$38.68",
+                "grade9": "$29.35"
+            },
+            "1st-edition": {
+                "ungraded": "$2.78",
+                "psa10": "$45.00",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

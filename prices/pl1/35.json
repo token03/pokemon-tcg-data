@@ -1,0 +1,25 @@
+{
+    "id": "pl1-35",
+    "name": "Luvdisc",
+    "number": "35",
+    "setId": "pl1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "805998",
+        "reverse-holo": "805999"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.78",
+                "psa10": "$59.99",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.71",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

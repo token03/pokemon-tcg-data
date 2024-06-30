@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-132",
+    "name": "Caitlin",
+    "number": "132",
+    "setId": "swsh6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2253937",
+        "reverse-holo": "2254144"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$34.99",
+                "grade9": "$12.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$15.00",
+                "grade9": "$12.20"
+            }
+        }
+    }
+}

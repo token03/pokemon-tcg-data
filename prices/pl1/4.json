@@ -1,0 +1,25 @@
+{
+    "id": "pl1-4",
+    "name": "Delcatty",
+    "number": "4",
+    "setId": "pl1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "805923",
+        "reverse-holo": "805924"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.69",
+                "psa10": "$80.10",
+                "grade9": "$30.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.98",
+                "psa10": "",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "si1-8",
+    "name": "Jigglypuff",
+    "number": "8",
+    "setId": "si1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762490"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.93",
+                "psa10": "$121.27",
+                "grade9": "$35.83"
+            }
+        }
+    }
+}

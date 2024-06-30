@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-149",
+    "name": "Cara Liss",
+    "number": "149",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887689",
+        "reverse-holo": "887860"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.95",
+                "psa10": "$33.58",
+                "grade9": "$6.52"
+            }
+        }
+    }
+}

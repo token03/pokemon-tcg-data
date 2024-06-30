@@ -1,0 +1,25 @@
+{
+    "id": "swsh35-50",
+    "name": "Bede",
+    "number": "50",
+    "setId": "swsh35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887477",
+        "reverse-holo": "887540"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.81",
+                "psa10": "$13.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.35",
+                "psa10": "$6.50",
+                "grade9": "$6.05"
+            }
+        }
+    }
+}

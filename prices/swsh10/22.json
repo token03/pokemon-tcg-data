@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-22",
+    "name": "Rapidash",
+    "number": "22",
+    "setId": "swsh10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3489520",
+        "reverse-holo": "3489735"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.95",
+                "grade9": "$11.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.26",
+                "grade9": "$12.07"
+            }
+        }
+    }
+}

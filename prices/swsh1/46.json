@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-46",
+    "name": "Goldeen",
+    "number": "46",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1431213",
+        "reverse-holo": "1431229"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

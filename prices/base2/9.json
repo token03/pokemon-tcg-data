@@ -1,0 +1,31 @@
+{
+    "id": "base2-9",
+    "name": "Pinsir",
+    "number": "9",
+    "setId": "base2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643328",
+        "1st-edition": "643376",
+        "no-symbol": "3179674"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.07",
+                "psa10": "$485.21",
+                "grade9": "$45.94"
+            },
+            "1st-edition": {
+                "ungraded": "$25.00",
+                "psa10": "$1,007.95",
+                "grade9": "$145.00"
+            },
+            "no-symbol": {
+                "ungraded": "$14.43",
+                "psa10": "$860.00",
+                "grade9": "$92.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp5-34",
+    "name": "Vaporeon",
+    "number": "34",
+    "setId": "dp5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921396",
+        "reverse-holo": "921496"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.36",
+                "psa10": "$79.67",
+                "grade9": "$25.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.55",
+                "psa10": "$141.76",
+                "grade9": "$55.46"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex4-1",
+    "name": "Team Aqua's Cacturne",
+    "number": "1",
+    "setId": "ex4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849570",
+        "reverse-holo": "849667"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.69",
+                "psa10": "$125.05",
+                "grade9": "$26.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.97",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

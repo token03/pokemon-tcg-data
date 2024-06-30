@@ -1,0 +1,25 @@
+{
+    "id": "gym1-12",
+    "name": "Rocket's Moltres",
+    "number": "12",
+    "setId": "gym1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762119",
+        "1st-edition": "2156430"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.34",
+                "psa10": "$282.00",
+                "grade9": "$93.99"
+            },
+            "1st-edition": {
+                "ungraded": "$83.15",
+                "psa10": "$798.45",
+                "grade9": "$156.48"
+            }
+        }
+    }
+}

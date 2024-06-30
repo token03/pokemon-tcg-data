@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-165",
+    "name": "Tinkatink",
+    "number": "165",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277084"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.58",
+                "psa10": "$47.45",
+                "grade9": "$6.50"
+            }
+        }
+    }
+}

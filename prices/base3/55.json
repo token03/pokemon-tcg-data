@@ -1,0 +1,25 @@
+{
+    "id": "base3-55",
+    "name": "Slowpoke",
+    "number": "55",
+    "setId": "base3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643437",
+        "1st-edition": "1099549"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$36.99",
+                "grade9": "$14.00"
+            },
+            "1st-edition": {
+                "ungraded": "$1.25",
+                "psa10": "$56.00",
+                "grade9": "$15.32"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-141",
+    "name": "Galarian Chestplate",
+    "number": "141",
+    "setId": "swsh6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2253945",
+        "reverse-holo": "2254153"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.04",
+                "psa10": "$34.03",
+                "grade9": "$11.85"
+            }
+        }
+    }
+}

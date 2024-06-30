@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-208",
+    "name": "Tool Scrapper",
+    "number": "208",
+    "setId": "swsh2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "886933"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.81",
+                "psa10": "$19.16",
+                "grade9": "$15.23"
+            }
+        }
+    }
+}

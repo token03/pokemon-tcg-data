@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-40",
+    "name": "Unown",
+    "number": "40",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925927",
+        "reverse-holo": "926018"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "$47.76",
+                "grade9": "$18.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.80",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

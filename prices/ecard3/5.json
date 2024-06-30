@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-5",
+    "name": "Beedrill",
+    "number": "5",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842669",
+        "reverse-holo": "2252606"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.59",
+                "psa10": "$42.09",
+                "grade9": "$21.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$32.96",
+                "psa10": "$131.66",
+                "grade9": "$48.36"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-141",
+    "name": "Snorlax V",
+    "number": "141",
+    "setId": "swsh1",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "807279"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.40",
+                "psa10": "$26.66",
+                "grade9": "$17.32"
+            }
+        }
+    }
+}

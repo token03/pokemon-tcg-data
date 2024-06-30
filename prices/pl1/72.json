@@ -1,0 +1,25 @@
+{
+    "id": "pl1-72",
+    "name": "Diglett",
+    "number": "72",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "805930",
+        "reverse-holo": "805931"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$45.13",
+                "grade9": "$16.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

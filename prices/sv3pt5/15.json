@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-15",
+    "name": "Beedrill",
+    "number": "15",
+    "setId": "sv3pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5809395",
+        "reverse-holo": "5809603"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.83",
+                "grade9": "$2.47"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.80",
+                "psa10": "$39.96",
+                "grade9": "$13.01"
+            }
+        }
+    }
+}

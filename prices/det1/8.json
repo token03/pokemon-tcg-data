@@ -1,0 +1,19 @@
+{
+    "id": "det1-8",
+    "name": "Magikarp",
+    "number": "8",
+    "setId": "det1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963145"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$33.00",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

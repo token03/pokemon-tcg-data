@@ -1,0 +1,25 @@
+{
+    "id": "sv3-95",
+    "name": "Claydol",
+    "number": "95",
+    "setId": "sv3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5605613",
+        "reverse-holo": "5605844"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$0.12",
+                "psa10": "$30.54",
+                "grade9": "$10.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "$37.93",
+                "grade9": "$12.46"
+            }
+        }
+    }
+}

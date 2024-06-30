@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-204",
+    "name": "Irida",
+    "number": "204",
+    "setId": "swsh10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3489704"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.00",
+                "psa10": "$45.00",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

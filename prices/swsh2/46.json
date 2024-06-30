@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-46",
+    "name": "Seismitoad",
+    "number": "46",
+    "setId": "swsh2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886777",
+        "reverse-holo": "886973"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$12.56",
+                "grade9": "$12.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$34.18",
+                "grade9": "$12.21"
+            }
+        }
+    }
+}

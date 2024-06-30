@@ -1,0 +1,25 @@
+{
+    "id": "dp3-62",
+    "name": "Roselia",
+    "number": "62",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920952",
+        "reverse-holo": "921083"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.11",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

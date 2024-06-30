@@ -1,0 +1,25 @@
+{
+    "id": "swsh35-54",
+    "name": "Hyper Potion",
+    "number": "54",
+    "setId": "swsh35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887481",
+        "reverse-holo": "887544"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.46",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$17.49",
+                "grade9": "$12.40"
+            }
+        }
+    }
+}

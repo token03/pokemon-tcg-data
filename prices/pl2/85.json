@@ -1,0 +1,25 @@
+{
+    "id": "pl2-85",
+    "name": "Turtwig GL",
+    "number": "85",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925481",
+        "reverse-holo": "925600"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.48",
+                "psa10": "$62.46",
+                "grade9": "$23.69"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "",
+                "grade9": "$21.25"
+            }
+        }
+    }
+}

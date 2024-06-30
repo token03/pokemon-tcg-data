@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-15",
+    "name": "Ledian",
+    "number": "15",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842679",
+        "reverse-holo": "2252615"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.81",
+                "psa10": "$26.22",
+                "grade9": "$21.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.93",
+                "psa10": "$113.61",
+                "grade9": "$42.62"
+            }
+        }
+    }
+}

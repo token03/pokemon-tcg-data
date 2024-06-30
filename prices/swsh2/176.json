@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-176",
+    "name": "Eldegoss V",
+    "number": "176",
+    "setId": "swsh2",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "886902"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$17.47",
+                "grade9": "$11.25"
+            }
+        }
+    }
+}

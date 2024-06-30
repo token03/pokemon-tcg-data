@@ -1,0 +1,37 @@
+{
+    "id": "dp1-76",
+    "name": "Chimchar",
+    "number": "76",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763112",
+        "jumbo": "4957629",
+        "reverse-holo": "763234",
+        "stamped": "5428219"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$183.47",
+                "grade9": "$46.69"
+            },
+            "jumbo": {
+                "ungraded": "$7.13",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.68",
+                "psa10": "$79.88",
+                "grade9": "$49.95"
+            },
+            "stamped": {
+                "ungraded": "$3.65",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

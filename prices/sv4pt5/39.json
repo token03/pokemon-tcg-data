@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-39",
+    "name": "Dachsbun",
+    "number": "39",
+    "setId": "sv4pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6276958",
+        "reverse-holo": "6277201"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$35.19",
+                "grade9": "$11.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$29.95",
+                "grade9": "$11.66"
+            }
+        }
+    }
+}

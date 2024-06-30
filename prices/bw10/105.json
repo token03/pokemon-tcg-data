@@ -1,0 +1,19 @@
+{
+    "id": "bw10-105",
+    "name": "Rare Candy",
+    "number": "105",
+    "setId": "bw10",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "957407"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$63.14",
+                "psa10": "$468.18",
+                "grade9": "$180.00"
+            }
+        }
+    }
+}

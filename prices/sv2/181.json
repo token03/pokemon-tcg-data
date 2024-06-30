@@ -1,0 +1,25 @@
+{
+    "id": "sv2-181",
+    "name": "Fighting Au Lait",
+    "number": "181",
+    "setId": "sv2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5287470",
+        "reverse-holo": "5287732"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.35",
+                "psa10": "$36.02",
+                "grade9": "$11.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.57",
+                "grade9": "$11.79"
+            }
+        }
+    }
+}

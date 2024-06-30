@@ -1,0 +1,25 @@
+{
+    "id": "xy5-22",
+    "name": "Slugma",
+    "number": "22",
+    "setId": "xy5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958479",
+        "reverse-holo": "958641"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

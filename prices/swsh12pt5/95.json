@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-95",
+    "name": "Zacian V",
+    "number": "95",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4636991"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$24.46",
+                "grade9": "$7.01"
+            }
+        }
+    }
+}

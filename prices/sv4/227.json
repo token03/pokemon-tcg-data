@@ -1,0 +1,19 @@
+{
+    "id": "sv4-227",
+    "name": "Toxtricity ex",
+    "number": "227",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953066"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.91",
+                "psa10": "$31.85",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

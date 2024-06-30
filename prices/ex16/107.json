@@ -1,0 +1,19 @@
+{
+    "id": "ex16-107",
+    "name": "Psychic Energy",
+    "number": "107",
+    "setId": "ex16",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "889771"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$4.00",
+                "psa10": "$72.59",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

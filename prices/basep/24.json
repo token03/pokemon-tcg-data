@@ -1,0 +1,25 @@
+{
+    "id": "basep-24",
+    "name": "_____'s Pikachu",
+    "number": "24",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5298576",
+        "world-collection": "3363204"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.64",
+                "psa10": "",
+                "grade9": ""
+            },
+            "world-collection": {
+                "ungraded": "$95.13",
+                "psa10": "$340.52",
+                "grade9": "$174.00"
+            }
+        }
+    }
+}

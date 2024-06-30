@@ -1,0 +1,31 @@
+{
+    "id": "base1-11",
+    "name": "Nidoking",
+    "number": "11",
+    "setId": "base1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "630424",
+        "1st-edition": "715600",
+        "shadowless": "715702"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.50",
+                "psa10": "$488.72",
+                "grade9": "$88.50"
+            },
+            "1st-edition": {
+                "ungraded": "$178.16",
+                "psa10": "$4,971.69",
+                "grade9": "$884.96"
+            },
+            "shadowless": {
+                "ungraded": "$34.70",
+                "psa10": "$1,409.72",
+                "grade9": "$270.00"
+            }
+        }
+    }
+}

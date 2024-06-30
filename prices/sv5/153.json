@@ -1,0 +1,25 @@
+{
+    "id": "sv5-153",
+    "name": "Master Ball",
+    "number": "153",
+    "setId": "sv5",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "6495613",
+        "reverse-holo": "6495817"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.09",
+                "psa10": "$40.35",
+                "grade9": "$22.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw8-84",
+    "name": "Liepard",
+    "number": "84",
+    "setId": "bw8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956881",
+        "reverse-holo": "957015"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": "$9.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.25",
+                "psa10": "$47.76",
+                "grade9": "$19.14"
+            }
+        }
+    }
+}

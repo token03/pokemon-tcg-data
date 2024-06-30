@@ -1,0 +1,19 @@
+{
+    "id": "pop3-10",
+    "name": "High Pressure System",
+    "number": "10",
+    "setId": "pop3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762722"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

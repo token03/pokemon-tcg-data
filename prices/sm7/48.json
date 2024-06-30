@@ -1,0 +1,19 @@
+{
+    "id": "sm7-48",
+    "name": "Electrode-GX",
+    "number": "48",
+    "setId": "sm7",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961962"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.09",
+                "psa10": "$29.55",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

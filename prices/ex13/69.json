@@ -1,0 +1,25 @@
+{
+    "id": "ex13-69",
+    "name": "Magikarp \u03b4",
+    "number": "69",
+    "setId": "ex13",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889149",
+        "reverse-holo": "889258"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.54",
+                "psa10": "$75.00",
+                "grade9": "$22.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.77",
+                "psa10": "$202.68",
+                "grade9": "$41.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw2-18",
+    "name": "Pansear",
+    "number": "18",
+    "setId": "bw2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955445",
+        "reverse-holo": "955541"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$75.00",
+                "grade9": ""
+            }
+        }
+    }
+}

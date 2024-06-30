@@ -1,0 +1,25 @@
+{
+    "id": "pl2-101",
+    "name": "SP Energy",
+    "number": "101",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925497",
+        "reverse-holo": "925616"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.34",
+                "psa10": "$60.62",
+                "grade9": "$22.91"
+            }
+        }
+    }
+}

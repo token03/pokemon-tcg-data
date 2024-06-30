@@ -1,0 +1,25 @@
+{
+    "id": "ex15-86",
+    "name": "Holon Energy WP",
+    "number": "86",
+    "setId": "ex15",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889560",
+        "reverse-holo": "889661"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$65.36",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.75",
+                "psa10": "$80.00",
+                "grade9": ""
+            }
+        }
+    }
+}

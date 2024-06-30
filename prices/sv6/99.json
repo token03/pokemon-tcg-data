@@ -1,0 +1,25 @@
+{
+    "id": "sv6-99",
+    "name": "Hisuian Growlithe",
+    "number": "99",
+    "setId": "sv6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6769579",
+        "reverse-holo": "6769797"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$37.37",
+                "grade9": "$11.92"
+            }
+        }
+    }
+}

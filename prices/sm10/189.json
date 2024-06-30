@@ -1,0 +1,25 @@
+{
+    "id": "sm10-189",
+    "name": "Welder",
+    "number": "189",
+    "setId": "sm10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963345",
+        "reverse-holo": "963565"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$36.23",
+                "grade9": "$13.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.14",
+                "psa10": "$42.41",
+                "grade9": "$17.14"
+            }
+        }
+    }
+}

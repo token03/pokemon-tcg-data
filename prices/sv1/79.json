@@ -1,0 +1,25 @@
+{
+    "id": "sv1-79",
+    "name": "Kilowattrel",
+    "number": "79",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933855",
+        "reverse-holo": "4934107"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.76",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$35.42",
+                "grade9": "$11.81"
+            }
+        }
+    }
+}

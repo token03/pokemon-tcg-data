@@ -1,0 +1,19 @@
+{
+    "id": "ex3-95",
+    "name": "Magcargo ex",
+    "number": "95",
+    "setId": "ex3",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849474"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.68",
+                "psa10": "$143.29",
+                "grade9": "$65.44"
+            }
+        }
+    }
+}

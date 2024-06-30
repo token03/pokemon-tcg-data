@@ -1,0 +1,25 @@
+{
+    "id": "xy4-83",
+    "name": "Whismur",
+    "number": "83",
+    "setId": "xy4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958276",
+        "reverse-holo": "958390"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.69",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

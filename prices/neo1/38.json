@@ -1,0 +1,25 @@
+{
+    "id": "neo1-38",
+    "name": "Lanturn",
+    "number": "38",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762355",
+        "1st-edition": "2324880"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$58.00",
+                "grade9": "$48.00"
+            },
+            "1st-edition": {
+                "ungraded": "$1.87",
+                "psa10": "$35.66",
+                "grade9": "$19.00"
+            }
+        }
+    }
+}

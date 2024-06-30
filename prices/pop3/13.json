@@ -1,0 +1,19 @@
+{
+    "id": "pop3-13",
+    "name": "Eevee",
+    "number": "13",
+    "setId": "pop3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762725"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.87",
+                "psa10": "$41.00",
+                "grade9": "$32.00"
+            }
+        }
+    }
+}

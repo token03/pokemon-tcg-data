@@ -1,0 +1,19 @@
+{
+    "id": "sv2-271",
+    "name": "Meowscarada ex",
+    "number": "271",
+    "setId": "sv2",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5287560"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.50",
+                "psa10": "$26.11",
+                "grade9": "$18.57"
+            }
+        }
+    }
+}

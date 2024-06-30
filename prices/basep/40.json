@@ -1,0 +1,19 @@
+{
+    "id": "basep-40",
+    "name": "Pok\u00e9mon Center",
+    "number": "40",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "643538"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$648.59",
+                "psa10": "$787.50",
+                "grade9": "$602.27"
+            }
+        }
+    }
+}

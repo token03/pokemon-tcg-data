@@ -1,0 +1,25 @@
+{
+    "id": "ex11-105",
+    "name": "Holon Energy GL",
+    "number": "105",
+    "setId": "ex11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888767",
+        "reverse-holo": "888881"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.79",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$5.54",
+                "psa10": "$130.00",
+                "grade9": "$8.24"
+            }
+        }
+    }
+}

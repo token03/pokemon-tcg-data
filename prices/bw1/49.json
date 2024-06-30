@@ -1,0 +1,25 @@
+{
+    "id": "bw1-49",
+    "name": "Musharna",
+    "number": "49",
+    "setId": "bw1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806359",
+        "reverse-holo": "806446"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$44.57",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.31",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-128",
+    "name": "Scizor",
+    "number": "128",
+    "setId": "swsh2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886855",
+        "reverse-holo": "887043"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "$39.98",
+                "grade9": "$13.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.81",
+                "psa10": "$36.88",
+                "grade9": "$0.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-70",
+    "name": "Joltik",
+    "number": "70",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807151",
+        "reverse-holo": "807152"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.75",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$40.33",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-54",
+    "name": "Marowak",
+    "number": "54",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842581",
+        "reverse-holo": "2293945"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.66",
+                "psa10": "$47.55",
+                "grade9": "$13.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.31",
+                "psa10": "$304.72",
+                "grade9": "$36.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-26",
+    "name": "Volcanion",
+    "number": "26",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4636922",
+        "reverse-holo": "4637146"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.68",
+                "psa10": "$37.21",
+                "grade9": "$8.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$35.76",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

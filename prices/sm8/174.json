@@ -1,0 +1,25 @@
+{
+    "id": "sm8-174",
+    "name": "Fairy Charm Grass",
+    "number": "174",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962562",
+        "reverse-holo": "962781"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.60",
+                "psa10": "$40.45",
+                "grade9": "$16.13"
+            }
+        }
+    }
+}

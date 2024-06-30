@@ -1,0 +1,19 @@
+{
+    "id": "base4-26",
+    "name": "Kangaskhan",
+    "number": "26",
+    "setId": "base4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "641829"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$45.75",
+                "grade9": "$17.52"
+            }
+        }
+    }
+}

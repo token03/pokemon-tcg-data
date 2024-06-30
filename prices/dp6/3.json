@@ -1,0 +1,25 @@
+{
+    "id": "dp6-3",
+    "name": "Froslass",
+    "number": "3",
+    "setId": "dp6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "924934",
+        "reverse-holo": "925080"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.51",
+                "psa10": "$94.64",
+                "grade9": "$31.91"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "",
+                "grade9": "$24.42"
+            }
+        }
+    }
+}

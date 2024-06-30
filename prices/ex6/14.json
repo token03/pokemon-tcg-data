@@ -1,0 +1,25 @@
+{
+    "id": "ex6-14",
+    "name": "Slowbro",
+    "number": "14",
+    "setId": "ex6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849981",
+        "reverse-holo": "850097"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.37",
+                "psa10": "$137.49",
+                "grade9": "$35.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.50",
+                "psa10": "$126.52",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

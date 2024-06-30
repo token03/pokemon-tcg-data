@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-77",
+    "name": "Sage's Training",
+    "number": "77",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925964",
+        "reverse-holo": "926055"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "$45.64",
+                "grade9": "$17.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.85",
+                "psa10": "",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

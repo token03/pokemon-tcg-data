@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-127",
+    "name": "Lightning Cube 01",
+    "number": "127",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842643",
+        "reverse-holo": "2294018"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$19.99",
+                "grade9": "$18.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.50",
+                "psa10": "$70.00",
+                "grade9": "$22.98"
+            }
+        }
+    }
+}

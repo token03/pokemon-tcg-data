@@ -1,0 +1,25 @@
+{
+    "id": "base5-64",
+    "name": "Ponyta",
+    "number": "64",
+    "setId": "base5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643497",
+        "1st-edition": "1341405"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.74",
+                "psa10": "$47.15",
+                "grade9": "$21.74"
+            },
+            "1st-edition": {
+                "ungraded": "$2.07",
+                "psa10": "$42.05",
+                "grade9": "$15.55"
+            }
+        }
+    }
+}

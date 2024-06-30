@@ -1,0 +1,19 @@
+{
+    "id": "ex13-104",
+    "name": "Pikachu \u2605",
+    "number": "104",
+    "setId": "ex13",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "889184"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$542.63",
+                "psa10": "$8,300.00",
+                "grade9": "$2,600.00"
+            }
+        }
+    }
+}

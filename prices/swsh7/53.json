@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-53",
+    "name": "Lanturn",
+    "number": "53",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512864",
+        "reverse-holo": "2513085"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.88",
+                "grade9": "$12.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.86",
+                "grade9": "$4.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dc1-21",
+    "name": "Team Aqua's Sharpedo",
+    "number": "21",
+    "setId": "dc1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958774",
+        "reverse-holo": "2978728"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$89.95",
+                "grade9": "$44.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.26",
+                "psa10": "$43.27",
+                "grade9": "$17.58"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-139",
+    "name": "Fresh Water Set",
+    "number": "139",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188363",
+        "reverse-holo": "3219485"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.97",
+                "grade9": "$11.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$35.69",
+                "grade9": "$12.34"
+            }
+        }
+    }
+}

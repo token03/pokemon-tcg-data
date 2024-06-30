@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-84",
+    "name": "Hippopotas",
+    "number": "84",
+    "setId": "swsh7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2512895",
+        "reverse-holo": "2513108"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.15",
+                "psa10": "$30.59",
+                "grade9": "$10.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$34.49",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

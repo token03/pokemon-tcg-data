@@ -1,0 +1,25 @@
+{
+    "id": "ex16-23",
+    "name": "Seviper",
+    "number": "23",
+    "setId": "ex16",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889687",
+        "reverse-holo": "889795"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.69",
+                "psa10": "$56.55",
+                "grade9": "$13.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$80.00",
+                "grade9": "$21.34"
+            }
+        }
+    }
+}

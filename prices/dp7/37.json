@@ -1,0 +1,25 @@
+{
+    "id": "dp7-37",
+    "name": "Electrode",
+    "number": "37",
+    "setId": "dp7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925250",
+        "reverse-holo": "925336"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.43",
+                "psa10": "$63.98",
+                "grade9": "$23.96"
+            }
+        }
+    }
+}

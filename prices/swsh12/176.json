@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-176",
+    "name": "Unown V",
+    "number": "176",
+    "setId": "swsh12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277297"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$22.77",
+                "grade9": "$10.25"
+            }
+        }
+    }
+}

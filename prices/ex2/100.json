@@ -1,0 +1,19 @@
+{
+    "id": "ex2-100",
+    "name": "Wailord ex",
+    "number": "100",
+    "setId": "ex2",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849288"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.00",
+                "psa10": "$870.39",
+                "grade9": "$121.00"
+            }
+        }
+    }
+}

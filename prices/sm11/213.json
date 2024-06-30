@@ -1,0 +1,25 @@
+{
+    "id": "sm11-213",
+    "name": "Weakness Guard Energy",
+    "number": "213",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963779",
+        "reverse-holo": "964020"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.46",
+                "psa10": "$35.64",
+                "grade9": "$13.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$37.68",
+                "grade9": "$14.32"
+            }
+        }
+    }
+}

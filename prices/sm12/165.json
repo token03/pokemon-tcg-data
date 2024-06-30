@@ -1,0 +1,19 @@
+{
+    "id": "sm12-165",
+    "name": "Mega Lopunny & Jigglypuff-GX",
+    "number": "165",
+    "setId": "sm12",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964403"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.95",
+                "psa10": "$37.99",
+                "grade9": "$16.01"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex13-38",
+    "name": "Claydol",
+    "number": "38",
+    "setId": "ex13",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889118",
+        "reverse-holo": "889229"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.72",
+                "psa10": "$81.56",
+                "grade9": "$22.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.99",
+                "psa10": "$152.60",
+                "grade9": "$35.84"
+            }
+        }
+    }
+}

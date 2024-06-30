@@ -1,0 +1,25 @@
+{
+    "id": "ex15-13",
+    "name": "Arbok \u03b4",
+    "number": "13",
+    "setId": "ex15",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889487",
+        "reverse-holo": "889588"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$63.26",
+                "grade9": "$48.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.75",
+                "psa10": "$135.00",
+                "grade9": "$31.79"
+            }
+        }
+    }
+}

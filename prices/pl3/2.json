@@ -1,0 +1,25 @@
+{
+    "id": "pl3-2",
+    "name": "Blaziken FB",
+    "number": "2",
+    "setId": "pl3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1287530",
+        "reverse-holo": "1287203"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.28",
+                "psa10": "$850.00",
+                "grade9": "$52.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.00",
+                "psa10": "$103.14",
+                "grade9": "$37.79"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dv1-8",
+    "name": "Salamence",
+    "number": "8",
+    "setId": "dv1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956501",
+        "regional-championship": "6135051"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.43",
+                "psa10": "$183.50",
+                "grade9": "$44.99"
+            },
+            "regional-championship": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

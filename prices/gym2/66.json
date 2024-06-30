@@ -1,0 +1,25 @@
+{
+    "id": "gym2-66",
+    "name": "Blaine's Vulpix",
+    "number": "66",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762272",
+        "1st-edition": "1450260"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.07",
+                "psa10": "$28.67",
+                "grade9": "$12.50"
+            },
+            "1st-edition": {
+                "ungraded": "$5.40",
+                "psa10": "$50.86",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

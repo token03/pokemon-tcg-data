@@ -1,0 +1,25 @@
+{
+    "id": "dp7-24",
+    "name": "Salamence",
+    "number": "24",
+    "setId": "dp7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925237",
+        "reverse-holo": "925325"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$53.00",
+                "grade9": "$25.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.21",
+                "psa10": "$88.84",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm35-33",
+    "name": "Plusle",
+    "number": "33",
+    "setId": "sm35",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961102",
+        "reverse-holo": "2250653"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "$35.09",
+                "grade9": "$12.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "$99.99",
+                "grade9": "$12.48"
+            }
+        }
+    }
+}

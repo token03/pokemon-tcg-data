@@ -1,0 +1,19 @@
+{
+    "id": "base4-39",
+    "name": "Exeggutor",
+    "number": "39",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641842"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.40",
+                "psa10": "$35.00",
+                "grade9": "$14.42"
+            }
+        }
+    }
+}

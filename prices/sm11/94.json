@@ -1,0 +1,25 @@
+{
+    "id": "sm11-94",
+    "name": "Doublade",
+    "number": "94",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963660",
+        "reverse-holo": "963909"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.82",
+                "grade9": "$12.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

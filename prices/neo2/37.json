@@ -1,0 +1,25 @@
+{
+    "id": "neo2-37",
+    "name": "Corsola",
+    "number": "37",
+    "setId": "neo2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762423",
+        "1st-edition": "2158431"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$49.99",
+                "grade9": "$20.75"
+            },
+            "1st-edition": {
+                "ungraded": "$3.89",
+                "psa10": "$29.00",
+                "grade9": "$20.29"
+            }
+        }
+    }
+}

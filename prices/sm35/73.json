@@ -1,0 +1,19 @@
+{
+    "id": "sm35-73",
+    "name": "Pok\u00e9mon Breeder",
+    "number": "73",
+    "setId": "sm35",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961142"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.54",
+                "psa10": "$39.19",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

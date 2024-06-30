@@ -1,0 +1,25 @@
+{
+    "id": "neo3-21",
+    "name": "Raichu",
+    "number": "21",
+    "setId": "neo3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762529",
+        "1st-edition": "2427433"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.96",
+                "psa10": "$44.25",
+                "grade9": "$24.26"
+            },
+            "1st-edition": {
+                "ungraded": "$13.84",
+                "psa10": "$100.36",
+                "grade9": "$43.91"
+            }
+        }
+    }
+}

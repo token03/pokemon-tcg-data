@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-220",
+    "name": "Corvisquire",
+    "number": "220",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771246",
+        "reverse-holo": "2771502"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "$31.93",
+                "grade9": "$10.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$34.42",
+                "grade9": "$11.90"
+            }
+        }
+    }
+}

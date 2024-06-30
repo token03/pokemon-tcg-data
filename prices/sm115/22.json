@@ -1,0 +1,25 @@
+{
+    "id": "sm115-22",
+    "name": "Electrode",
+    "number": "22",
+    "setId": "sm115",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964042",
+        "reverse-holo": "964200"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$26.94",
+                "grade9": "$13.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$27.44",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

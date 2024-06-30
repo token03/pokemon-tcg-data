@@ -1,0 +1,25 @@
+{
+    "id": "bw1-104",
+    "name": "Switch",
+    "number": "104",
+    "setId": "bw1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806410",
+        "reverse-holo": "806497"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "$49.42",
+                "grade9": "$19.07"
+            }
+        }
+    }
+}

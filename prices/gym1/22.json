@@ -1,0 +1,25 @@
+{
+    "id": "gym1-22",
+    "name": "Brock's Rhyhorn",
+    "number": "22",
+    "setId": "gym1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762140",
+        "1st-edition": "2156454"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.82",
+                "psa10": "$22.40",
+                "grade9": "$21.89"
+            },
+            "1st-edition": {
+                "ungraded": "$12.65",
+                "psa10": "$93.24",
+                "grade9": "$20.83"
+            }
+        }
+    }
+}

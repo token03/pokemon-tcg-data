@@ -1,0 +1,25 @@
+{
+    "id": "sv3-61",
+    "name": "Finizen",
+    "number": "61",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605579",
+        "reverse-holo": "5605814"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "$34.81",
+                "grade9": "$11.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.85",
+                "grade9": "$11.81"
+            }
+        }
+    }
+}

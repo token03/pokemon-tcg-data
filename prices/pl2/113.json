@@ -1,0 +1,19 @@
+{
+    "id": "pl2-113",
+    "name": "Flying Pikachu",
+    "number": "113",
+    "setId": "pl2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "925509"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$34.49",
+                "psa10": "$472.04",
+                "grade9": "$145.00"
+            }
+        }
+    }
+}

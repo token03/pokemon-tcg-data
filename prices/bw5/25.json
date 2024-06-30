@@ -1,0 +1,37 @@
+{
+    "id": "bw5-25",
+    "name": "Vaporeon",
+    "number": "25",
+    "setId": "bw5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956071",
+        "championship-staff": "3895932",
+        "championship": "5978476",
+        "reverse-holo": "956182"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.71",
+                "psa10": "$1,000.00",
+                "grade9": "$64.66"
+            },
+            "championship-staff": {
+                "ungraded": "$504.04",
+                "psa10": "$904.69",
+                "grade9": "$177.55"
+            },
+            "championship": {
+                "ungraded": "$199.99",
+                "psa10": "$92.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$8.83",
+                "psa10": "$107.58",
+                "grade9": "$41.00"
+            }
+        }
+    }
+}

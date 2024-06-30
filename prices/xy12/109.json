@@ -1,0 +1,19 @@
+{
+    "id": "xy12-109",
+    "name": "\u30ca\u30c3\u30b7\u30fc[Exeggutor]",
+    "number": "109",
+    "setId": "xy12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960388"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.11",
+                "psa10": "$40.79",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

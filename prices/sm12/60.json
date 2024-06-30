@@ -1,0 +1,25 @@
+{
+    "id": "sm12-60",
+    "name": "Swanna",
+    "number": "60",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964298",
+        "reverse-holo": "964563"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$69.99",
+                "grade9": "$12.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$35.39",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-20",
+    "name": "Orbeetle",
+    "number": "20",
+    "setId": "swsh11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4049937",
+        "reverse-holo": "4050154"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.50",
+                "psa10": "$36.29",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.22",
+                "psa10": "$34.79",
+                "grade9": "$11.79"
+            }
+        }
+    }
+}

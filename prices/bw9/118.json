@@ -1,0 +1,19 @@
+{
+    "id": "bw9-118",
+    "name": "Sigilyph",
+    "number": "118",
+    "setId": "bw9",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "957172"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$42.47",
+                "psa10": "$353.83",
+                "grade9": "$135.00"
+            }
+        }
+    }
+}

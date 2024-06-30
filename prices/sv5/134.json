@@ -1,0 +1,25 @@
+{
+    "id": "sv5-134",
+    "name": "Tranquill",
+    "number": "134",
+    "setId": "sv5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6495594",
+        "reverse-holo": "6495798"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$36.93",
+                "grade9": "$11.88"
+            }
+        }
+    }
+}

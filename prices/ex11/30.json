@@ -1,0 +1,25 @@
+{
+    "id": "ex11-30",
+    "name": "Starmie \u03b4",
+    "number": "30",
+    "setId": "ex11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888692",
+        "reverse-holo": "888806"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.25",
+                "psa10": "$95.00",
+                "grade9": "$25.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.18",
+                "psa10": "$93.36",
+                "grade9": "$38.00"
+            }
+        }
+    }
+}

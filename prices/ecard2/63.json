@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-63",
+    "name": "Tyrogue",
+    "number": "63",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842590",
+        "reverse-holo": "2293954"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.50",
+                "psa10": "$32.00",
+                "grade9": "$9.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.00",
+                "psa10": "$171.50",
+                "grade9": "$51.99"
+            }
+        }
+    }
+}

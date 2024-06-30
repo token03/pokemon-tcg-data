@@ -1,0 +1,25 @@
+{
+    "id": "sm1-114",
+    "name": "Big Malasada",
+    "number": "114",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806858",
+        "reverse-holo": "806987"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.92",
+                "psa10": "$34.29",
+                "grade9": "$12.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$35.78",
+                "grade9": "$13.47"
+            }
+        }
+    }
+}

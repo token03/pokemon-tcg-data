@@ -1,0 +1,19 @@
+{
+    "id": "sm4-90",
+    "name": "Silvally-GX",
+    "number": "90",
+    "setId": "sm4",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961236"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.98",
+                "psa10": "$24.88",
+                "grade9": "$10.11"
+            }
+        }
+    }
+}

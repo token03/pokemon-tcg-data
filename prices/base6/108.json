@@ -1,0 +1,25 @@
+{
+    "id": "base6-108",
+    "name": "Bill",
+    "number": "108",
+    "setId": "base6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842413",
+        "reverse-holo": "2253789"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$18.20",
+                "grade9": "$11.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$34.41",
+                "psa10": "$637.02",
+                "grade9": "$86.47"
+            }
+        }
+    }
+}

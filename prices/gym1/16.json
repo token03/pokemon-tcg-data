@@ -1,0 +1,25 @@
+{
+    "id": "gym1-16",
+    "name": "Erika",
+    "number": "16",
+    "setId": "gym1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886541",
+        "1st-edition": "2156447"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.16",
+                "psa10": "$137.05",
+                "grade9": "$41.60"
+            },
+            "1st-edition": {
+                "ungraded": "$35.07",
+                "psa10": "$276.24",
+                "grade9": "$87.86"
+            }
+        }
+    }
+}

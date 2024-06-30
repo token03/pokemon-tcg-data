@@ -1,0 +1,25 @@
+{
+    "id": "sm9-91",
+    "name": "Zoroark",
+    "number": "91",
+    "setId": "sm9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "962889",
+        "reverse-holo": "963077"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.91",
+                "psa10": "$15.00",
+                "grade9": "$12.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.41",
+                "psa10": "$26.00",
+                "grade9": "$21.50"
+            }
+        }
+    }
+}

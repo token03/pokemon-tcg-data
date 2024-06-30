@@ -1,0 +1,37 @@
+{
+    "id": "base1-80",
+    "name": "Defender",
+    "number": "80",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630493",
+        "1st-edition": "715669",
+        "shadowless": "4035079",
+        "trainer-deck-a": "2386894"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$103.83",
+                "grade9": "$27.76"
+            },
+            "1st-edition": {
+                "ungraded": "$11.62",
+                "psa10": "$188.58",
+                "grade9": "$46.16"
+            },
+            "shadowless": {
+                "ungraded": "$2.75",
+                "psa10": "$59.50",
+                "grade9": "$30.25"
+            },
+            "trainer-deck-a": {
+                "ungraded": "$71.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

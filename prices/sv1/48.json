@@ -1,0 +1,25 @@
+{
+    "id": "sv1-48",
+    "name": "Alomomola",
+    "number": "48",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933824",
+        "reverse-holo": "4934077"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.54",
+                "psa10": "$36.73",
+                "grade9": "$12.25"
+            }
+        }
+    }
+}

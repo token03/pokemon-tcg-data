@@ -1,0 +1,19 @@
+{
+    "id": "sm12-263",
+    "name": "Giant Hearth",
+    "number": "263",
+    "setId": "sm12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "964501"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.40",
+                "psa10": "$26.05",
+                "grade9": "$19.00"
+            }
+        }
+    }
+}

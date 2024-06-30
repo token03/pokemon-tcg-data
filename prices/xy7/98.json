@@ -1,0 +1,25 @@
+{
+    "id": "xy7-98",
+    "name": "M Rayquaza-EX",
+    "number": "98",
+    "setId": "xy7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "959116",
+        "jumbo": "5420697"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$85.00",
+                "psa10": "$791.88",
+                "grade9": "$251.23"
+            },
+            "jumbo": {
+                "ungraded": "$20.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

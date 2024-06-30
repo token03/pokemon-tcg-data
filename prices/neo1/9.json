@@ -1,0 +1,25 @@
+{
+    "id": "neo1-9",
+    "name": "Lugia",
+    "number": "9",
+    "setId": "neo1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762330",
+        "1st-edition": "2324884"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$128.14",
+                "psa10": "$32,100.00",
+                "grade9": "$480.45"
+            },
+            "1st-edition": {
+                "ungraded": "$499.47",
+                "psa10": "$50,000.01",
+                "grade9": "$1,910.12"
+            }
+        }
+    }
+}

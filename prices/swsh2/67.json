@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-67",
+    "name": "Boltund V",
+    "number": "67",
+    "setId": "swsh2",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "886796"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "$14.75",
+                "grade9": "$12.36"
+            }
+        }
+    }
+}

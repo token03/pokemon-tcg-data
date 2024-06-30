@@ -1,0 +1,19 @@
+{
+    "id": "xy9-118",
+    "name": "Darkrai-EX",
+    "number": "118",
+    "setId": "xy9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959609"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$165.59",
+                "grade9": "$30.01"
+            }
+        }
+    }
+}

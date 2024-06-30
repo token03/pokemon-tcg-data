@@ -1,0 +1,19 @@
+{
+    "id": "bw7-149",
+    "name": "Skyla",
+    "number": "149",
+    "setId": "bw7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956664"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$107.53",
+                "psa10": "$3,810.69",
+                "grade9": "$315.00"
+            }
+        }
+    }
+}

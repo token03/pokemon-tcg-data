@@ -1,0 +1,25 @@
+{
+    "id": "gym1-107",
+    "name": "Celadon City Gym",
+    "number": "107",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762105",
+        "1st-edition": "2156416"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "$99.89",
+                "grade9": "$55.00"
+            },
+            "1st-edition": {
+                "ungraded": "$3.01",
+                "psa10": "$74.99",
+                "grade9": "$18.03"
+            }
+        }
+    }
+}

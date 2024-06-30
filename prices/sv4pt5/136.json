@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-136",
+    "name": "Luxio",
+    "number": "136",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277055"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.44",
+                "psa10": "$59.99",
+                "grade9": "$7.16"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-201",
+    "name": "Cyllene",
+    "number": "201",
+    "setId": "swsh10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3489701"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.21",
+                "psa10": "$19.00",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

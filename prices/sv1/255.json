@@ -1,0 +1,19 @@
+{
+    "id": "sv1-255",
+    "name": "Nest Ball",
+    "number": "255",
+    "setId": "sv1",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "4934029"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.00",
+                "psa10": "$26.00",
+                "grade9": "$10.28"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "swsh8-32",
+    "name": "Growlithe",
+    "number": "32",
+    "setId": "swsh8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2771061",
+        "cracked-ice": "6604600",
+        "reverse-holo": "2771337"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.64",
+                "psa10": "$32.52",
+                "grade9": "$11.09"
+            },
+            "cracked-ice": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$34.34",
+                "grade9": "$11.87"
+            }
+        }
+    }
+}

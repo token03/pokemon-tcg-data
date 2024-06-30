@@ -1,0 +1,19 @@
+{
+    "id": "sv2-86",
+    "name": "Slowking ex",
+    "number": "86",
+    "setId": "sv2",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5287375"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$35.35",
+                "grade9": "$12.91"
+            }
+        }
+    }
+}

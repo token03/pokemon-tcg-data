@@ -1,0 +1,19 @@
+{
+    "id": "xy9-116",
+    "name": "Manaphy-EX",
+    "number": "116",
+    "setId": "xy9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959607"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.19",
+                "psa10": "$58.50",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

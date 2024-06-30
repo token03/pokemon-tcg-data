@@ -1,0 +1,25 @@
+{
+    "id": "xy9-99",
+    "name": "Fighting Fury Belt",
+    "number": "99",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959590",
+        "reverse-holo": "959698"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$42.95",
+                "grade9": "$17.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.75",
+                "psa10": "$50.03",
+                "grade9": "$21.82"
+            }
+        }
+    }
+}

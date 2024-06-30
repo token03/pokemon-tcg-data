@@ -1,0 +1,25 @@
+{
+    "id": "basep-3",
+    "name": "Mewtwo",
+    "number": "3",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "regional-championships-staff": "4613812",
+        "normal": "845005"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "regional-championships-staff": {
+                "ungraded": "$184.95",
+                "psa10": "",
+                "grade9": "$125.50"
+            },
+            "normal": {
+                "ungraded": "$3.54",
+                "psa10": "$118.41",
+                "grade9": "$24.90"
+            }
+        }
+    }
+}

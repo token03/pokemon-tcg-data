@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-53",
+    "name": "Great Tusk ex",
+    "number": "53",
+    "setId": "sv4pt5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "6276972"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.28",
+                "psa10": "$38.95",
+                "grade9": "$6.62"
+            }
+        }
+    }
+}

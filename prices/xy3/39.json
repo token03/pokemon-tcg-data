@@ -1,0 +1,25 @@
+{
+    "id": "xy3-39",
+    "name": "Gothita",
+    "number": "39",
+    "setId": "xy3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958022",
+        "reverse-holo": "958132"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.54",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

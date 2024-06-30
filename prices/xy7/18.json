@@ -1,0 +1,25 @@
+{
+    "id": "xy7-18",
+    "name": "Volcarona",
+    "number": "18",
+    "setId": "xy7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959037",
+        "reverse-holo": "959134"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$37.00",
+                "grade9": "$22.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.13",
+                "psa10": "$128.04",
+                "grade9": "$6.00"
+            }
+        }
+    }
+}

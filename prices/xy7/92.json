@@ -1,0 +1,19 @@
+{
+    "id": "xy7-92",
+    "name": "M Tyranitar-EX",
+    "number": "92",
+    "setId": "xy7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959110"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.37",
+                "psa10": "$158.95",
+                "grade9": "$65.00"
+            }
+        }
+    }
+}

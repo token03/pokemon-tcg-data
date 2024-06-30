@@ -1,0 +1,25 @@
+{
+    "id": "dp4-100",
+    "name": "Moonlight Stadium",
+    "number": "100",
+    "setId": "dp4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921254",
+        "reverse-holo": "921360"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.45",
+                "psa10": "$67.47",
+                "grade9": "$24.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.25",
+                "psa10": "$151.59",
+                "grade9": ""
+            }
+        }
+    }
+}

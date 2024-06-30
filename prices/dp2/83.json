@@ -1,0 +1,25 @@
+{
+    "id": "dp2-83",
+    "name": "Finneon",
+    "number": "83",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920706",
+        "reverse-holo": "920830"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": "$9.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.06",
+                "psa10": "$63.33",
+                "grade9": "$22.93"
+            }
+        }
+    }
+}

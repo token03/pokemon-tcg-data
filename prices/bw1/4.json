@@ -1,0 +1,25 @@
+{
+    "id": "bw1-4",
+    "name": "Servine",
+    "number": "4",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806327",
+        "reverse-holo": "886701"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$46.70",
+                "grade9": "$17.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.93",
+                "psa10": "$49.53",
+                "grade9": "$13.55"
+            }
+        }
+    }
+}

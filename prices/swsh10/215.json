@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-215",
+    "name": "Trekking Shoes",
+    "number": "215",
+    "setId": "swsh10",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "3489715"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.00",
+                "psa10": "$29.97",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv5-138",
+    "name": "Drampa",
+    "number": "138",
+    "setId": "sv5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "6495598",
+        "reverse-holo": "6495802"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.09",
+                "psa10": "$39.99",
+                "grade9": "$11.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$36.01",
+                "grade9": "$11.63"
+            }
+        }
+    }
+}

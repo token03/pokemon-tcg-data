@@ -1,0 +1,25 @@
+{
+    "id": "g1-56",
+    "name": "Dodrio",
+    "number": "56",
+    "setId": "g1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959768",
+        "reverse-holo": "2978695"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$39.75",
+                "grade9": "$15.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.42",
+                "psa10": "$47.94",
+                "grade9": "$20.58"
+            }
+        }
+    }
+}

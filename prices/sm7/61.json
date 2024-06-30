@@ -1,0 +1,25 @@
+{
+    "id": "sm7-61",
+    "name": "Lunatone",
+    "number": "61",
+    "setId": "sm7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961975",
+        "reverse-holo": "962150"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$35.41",
+                "grade9": "$13.20"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

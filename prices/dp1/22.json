@@ -1,0 +1,25 @@
+{
+    "id": "dp1-22",
+    "name": "Clefable",
+    "number": "22",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763058",
+        "reverse-holo": "763180"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.76",
+                "psa10": "$39.99",
+                "grade9": "$21.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$71.25",
+                "grade9": "$26.00"
+            }
+        }
+    }
+}

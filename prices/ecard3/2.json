@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-2",
+    "name": "Alakazam",
+    "number": "2",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842666",
+        "reverse-holo": "2252603"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.00",
+                "psa10": "$89.00",
+                "grade9": "$76.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$67.72",
+                "psa10": "$373.99",
+                "grade9": "$112.52"
+            }
+        }
+    }
+}

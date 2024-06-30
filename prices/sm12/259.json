@@ -1,0 +1,19 @@
+{
+    "id": "sm12-259",
+    "name": "Reshiram & Zekrom-GX",
+    "number": "259",
+    "setId": "sm12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "964497"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$45.49",
+                "psa10": "$100.83",
+                "grade9": "$65.75"
+            }
+        }
+    }
+}

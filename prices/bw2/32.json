@@ -1,0 +1,25 @@
+{
+    "id": "bw2-32",
+    "name": "Emolga",
+    "number": "32",
+    "setId": "bw2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955458",
+        "reverse-holo": "955555"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.91",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

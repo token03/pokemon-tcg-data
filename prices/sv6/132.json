@@ -1,0 +1,25 @@
+{
+    "id": "sv6-132",
+    "name": "Farfetch'd",
+    "number": "132",
+    "setId": "sv6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6769612",
+        "reverse-holo": "6769827"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$37.28",
+                "grade9": "$11.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$35.20",
+                "grade9": "$11.36"
+            }
+        }
+    }
+}

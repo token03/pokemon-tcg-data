@@ -1,0 +1,25 @@
+{
+    "id": "sm5-39",
+    "name": "Glaceon-GX",
+    "number": "39",
+    "setId": "sm5",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961402",
+        "reverse-holo": "961574"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.83",
+                "psa10": "$45.55",
+                "grade9": "$22.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

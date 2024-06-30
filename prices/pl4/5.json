@@ -1,0 +1,25 @@
+{
+    "id": "pl4-5",
+    "name": "Luxray",
+    "number": "5",
+    "setId": "pl4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925624",
+        "reverse-holo": "925735"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$53.64",
+                "grade9": "$20.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-54",
+    "name": "Galarian Slowpoke",
+    "number": "54",
+    "setId": "swsh6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2253860",
+        "reverse-holo": "2254082"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.75",
+                "psa10": "$32.91",
+                "grade9": "$11.33"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$34.72",
+                "grade9": "$8.00"
+            }
+        }
+    }
+}

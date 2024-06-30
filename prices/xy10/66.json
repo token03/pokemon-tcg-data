@@ -1,0 +1,25 @@
+{
+    "id": "xy10-66",
+    "name": "Wigglytuff",
+    "number": "66",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959923",
+        "reverse-holo": "960037"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "$35.30",
+                "grade9": "$13.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.87",
+                "psa10": "$39.52",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

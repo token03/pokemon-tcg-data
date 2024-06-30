@@ -1,0 +1,31 @@
+{
+    "id": "xy3-14",
+    "name": "Blaziken",
+    "number": "14",
+    "setId": "xy3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957997",
+        "national-championships": "5575753",
+        "reverse-holo": "958108"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$88.50",
+                "grade9": "$30.00"
+            },
+            "national-championships": {
+                "ungraded": "$18.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.89",
+                "psa10": "$54.91",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

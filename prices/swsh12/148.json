@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-148",
+    "name": "Rufflet",
+    "number": "148",
+    "setId": "swsh12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4277269",
+        "reverse-holo": "4293868"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.18",
+                "grade9": "$11.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.07",
+                "psa10": "$34.52",
+                "grade9": "$11.63"
+            }
+        }
+    }
+}

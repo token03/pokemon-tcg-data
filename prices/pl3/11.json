@@ -1,0 +1,25 @@
+{
+    "id": "pl3-11",
+    "name": "Staraptor FB",
+    "number": "11",
+    "setId": "pl3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1287058",
+        "reverse-holo": "1287212"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.70",
+                "psa10": "$217.92",
+                "grade9": "$40.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.66",
+                "psa10": "$63.65",
+                "grade9": "$17.80"
+            }
+        }
+    }
+}

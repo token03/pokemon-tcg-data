@@ -1,0 +1,25 @@
+{
+    "id": "ex6-59",
+    "name": "Clefairy",
+    "number": "59",
+    "setId": "ex6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "850026",
+        "reverse-holo": "850141"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$69.81",
+                "grade9": "$33.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.02",
+                "psa10": "$56.50",
+                "grade9": "$29.88"
+            }
+        }
+    }
+}

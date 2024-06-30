@@ -1,0 +1,19 @@
+{
+    "id": "sm1-154",
+    "name": "Umbreon-GX",
+    "number": "154",
+    "setId": "sm1",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2390426"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$34.27",
+                "psa10": "$203.57",
+                "grade9": "$63.01"
+            }
+        }
+    }
+}

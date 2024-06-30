@@ -1,0 +1,25 @@
+{
+    "id": "ex1-86",
+    "name": "Pok\u00e9 Ball",
+    "number": "86",
+    "setId": "ex1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762939",
+        "reverse-holo": "763021"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$41.92",
+                "grade9": "$39.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.40",
+                "psa10": "",
+                "grade9": "$65.25"
+            }
+        }
+    }
+}

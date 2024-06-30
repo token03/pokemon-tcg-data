@@ -1,0 +1,31 @@
+{
+    "id": "hgss3-80",
+    "name": "Metal Energy",
+    "number": "80",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925967",
+        "pokemon-league": "6124813",
+        "reverse-holo": "926058"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "",
+                "grade9": "$34.99"
+            },
+            "pokemon-league": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": "$14.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.40",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

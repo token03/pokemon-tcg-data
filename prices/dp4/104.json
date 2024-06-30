@@ -1,0 +1,19 @@
+{
+    "id": "dp4-104",
+    "name": "Darkrai LV.X",
+    "number": "104",
+    "setId": "dp4",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "921258"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.00",
+                "psa10": "$660.00",
+                "grade9": "$119.12"
+            }
+        }
+    }
+}

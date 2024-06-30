@@ -1,0 +1,31 @@
+{
+    "id": "xy12-36",
+    "name": "Raichu",
+    "number": "36",
+    "setId": "xy12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "960324",
+        "holo": "4918502",
+        "reverse-holo": "960418"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.24",
+                "psa10": "$80.00",
+                "grade9": "$22.30"
+            },
+            "holo": {
+                "ungraded": "$3.10",
+                "psa10": "",
+                "grade9": "$16.18"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.52",
+                "psa10": "$51.68",
+                "grade9": "$17.20"
+            }
+        }
+    }
+}

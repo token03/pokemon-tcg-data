@@ -1,0 +1,25 @@
+{
+    "id": "cel25c-15_A4",
+    "name": "Claydol",
+    "number": "15",
+    "setId": "cel25c",
+    "rarity": "Classic Collection",
+    "priceChartingIds": {
+        "holo": "2618186",
+        "normal": "2618171"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.09",
+                "psa10": "$20.00",
+                "grade9": "$7.33"
+            },
+            "normal": {
+                "ungraded": "$4.74",
+                "psa10": "$48.18",
+                "grade9": "$18.39"
+            }
+        }
+    }
+}

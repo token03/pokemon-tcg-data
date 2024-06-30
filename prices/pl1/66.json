@@ -1,0 +1,25 @@
+{
+    "id": "pl1-66",
+    "name": "Zangoose",
+    "number": "66",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806110",
+        "reverse-holo": "806111"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.73",
+                "psa10": "$53.36",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

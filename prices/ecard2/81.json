@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-81",
+    "name": "Hitmonchan",
+    "number": "81",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842604",
+        "reverse-holo": "2293972"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$45.16",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.99",
+                "psa10": "$350.40",
+                "grade9": "$38.21"
+            }
+        }
+    }
+}

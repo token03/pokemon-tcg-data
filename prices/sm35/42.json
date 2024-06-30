@@ -1,0 +1,19 @@
+{
+    "id": "sm35-42",
+    "name": "Shining Jirachi",
+    "number": "42",
+    "setId": "sm35",
+    "rarity": "Rare Shining",
+    "priceChartingIds": {
+        "normal": "961111"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.97",
+                "psa10": "$48.70",
+                "grade9": "$21.79"
+            }
+        }
+    }
+}

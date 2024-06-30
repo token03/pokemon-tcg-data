@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-11",
+    "name": "Shuckle",
+    "number": "11",
+    "setId": "hgss1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806124",
+        "reverse-holo": "806229"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.09",
+                "psa10": "$129.62",
+                "grade9": "$39.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.72",
+                "psa10": "$86.06",
+                "grade9": "$34.57"
+            }
+        }
+    }
+}

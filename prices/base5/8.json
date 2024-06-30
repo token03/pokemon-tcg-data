@@ -1,0 +1,31 @@
+{
+    "id": "base5-8",
+    "name": "Dark Gyarados",
+    "number": "8",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643460",
+        "1st-edition": "1341350",
+        "prerelease-holo": "2253360"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.40",
+                "psa10": "$340.00",
+                "grade9": "$61.56"
+            },
+            "1st-edition": {
+                "ungraded": "$53.82",
+                "psa10": "$536.24",
+                "grade9": "$140.16"
+            },
+            "prerelease-holo": {
+                "ungraded": "$13.68",
+                "psa10": "$202.74",
+                "grade9": "$47.50"
+            }
+        }
+    }
+}

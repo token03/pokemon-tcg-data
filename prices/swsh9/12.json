@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-12",
+    "name": "Cherubi",
+    "number": "12",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188237",
+        "reverse-holo": "3219383"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$35.01",
+                "grade9": "$12.06"
+            }
+        }
+    }
+}

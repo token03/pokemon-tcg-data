@@ -1,0 +1,25 @@
+{
+    "id": "dp2-77",
+    "name": "Chikorita",
+    "number": "77",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920700",
+        "reverse-holo": "920824"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.19",
+                "psa10": "$56.90",
+                "grade9": "$11.71"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "$94.77",
+                "grade9": "$22.99"
+            }
+        }
+    }
+}

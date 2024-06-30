@@ -1,0 +1,19 @@
+{
+    "id": "sm1-152",
+    "name": "Espeon-GX",
+    "number": "152",
+    "setId": "sm1",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2541754"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.51",
+                "psa10": "$110.00",
+                "grade9": "$41.00"
+            }
+        }
+    }
+}

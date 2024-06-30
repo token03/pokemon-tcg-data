@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-26",
+    "name": "Scorbunny",
+    "number": "26",
+    "setId": "swsh6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2253832",
+        "reverse-holo": "2254057"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$34.14",
+                "grade9": "$11.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$34.22",
+                "grade9": "$11.94"
+            }
+        }
+    }
+}

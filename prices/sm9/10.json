@@ -1,0 +1,19 @@
+{
+    "id": "sm9-10",
+    "name": "Shaymin \u25c7",
+    "number": "10",
+    "setId": "sm9",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "962808"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.13",
+                "psa10": "$21.44",
+                "grade9": "$12.86"
+            }
+        }
+    }
+}

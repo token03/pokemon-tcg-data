@@ -1,0 +1,25 @@
+{
+    "id": "bw8-30",
+    "name": "Lombre",
+    "number": "30",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956828",
+        "reverse-holo": "956962"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.90",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

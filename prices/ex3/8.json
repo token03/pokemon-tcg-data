@@ -1,0 +1,25 @@
+{
+    "id": "ex3-8",
+    "name": "Plusle",
+    "number": "8",
+    "setId": "ex3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849388",
+        "reverse-holo": "849487"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.25",
+                "psa10": "$220.50",
+                "grade9": "$50.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.01",
+                "psa10": "$177.07",
+                "grade9": "$46.00"
+            }
+        }
+    }
+}

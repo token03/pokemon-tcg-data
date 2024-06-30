@@ -1,0 +1,25 @@
+{
+    "id": "dv1-9",
+    "name": "Latias",
+    "number": "9",
+    "setId": "dv1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956502",
+        "stamped": "6124274"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.19",
+                "psa10": "$150.00",
+                "grade9": "$37.50"
+            },
+            "stamped": {
+                "ungraded": "$4.29",
+                "psa10": "",
+                "grade9": "$65.00"
+            }
+        }
+    }
+}

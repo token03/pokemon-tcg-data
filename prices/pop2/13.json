@@ -1,0 +1,19 @@
+{
+    "id": "pop2-13",
+    "name": "Cacnea",
+    "number": "13",
+    "setId": "pop2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762701"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.96",
+                "psa10": "$70.15",
+                "grade9": "$11.58"
+            }
+        }
+    }
+}

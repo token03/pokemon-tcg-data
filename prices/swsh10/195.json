@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-195",
+    "name": "Hisuian Decidueye VSTAR",
+    "number": "195",
+    "setId": "swsh10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3489694"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.23",
+                "psa10": "$24.49",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

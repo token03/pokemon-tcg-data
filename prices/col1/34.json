@@ -1,0 +1,25 @@
+{
+    "id": "col1-34",
+    "name": "Tangrowth",
+    "number": "34",
+    "setId": "col1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926285",
+        "reverse-holo": "926391"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$65.99",
+                "grade9": "$18.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": "$15.73"
+            }
+        }
+    }
+}

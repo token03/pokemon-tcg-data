@@ -1,0 +1,25 @@
+{
+    "id": "sm11-206",
+    "name": "Reset Stamp",
+    "number": "206",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963772",
+        "reverse-holo": "964013"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.86",
+                "grade9": "$12.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.31",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

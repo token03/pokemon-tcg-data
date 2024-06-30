@@ -1,0 +1,25 @@
+{
+    "id": "sm115-46",
+    "name": "Chansey",
+    "number": "46",
+    "setId": "sm115",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964066",
+        "reverse-holo": "964220"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$26.98",
+                "grade9": "$12.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "$40.86",
+                "grade9": "$11.52"
+            }
+        }
+    }
+}

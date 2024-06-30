@@ -1,0 +1,25 @@
+{
+    "id": "bw10-78",
+    "name": "Caitlin",
+    "number": "78",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957380",
+        "reverse-holo": "957479"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sv1-155",
+    "name": "Lechonk",
+    "number": "155",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933929",
+        "pokemon-center": "4954121",
+        "reverse-holo": "4934176"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$16.19",
+                "grade9": "$7.55"
+            },
+            "pokemon-center": {
+                "ungraded": "$7.17",
+                "psa10": "$30.00",
+                "grade9": "$11.69"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$47.23",
+                "grade9": "$4.65"
+            }
+        }
+    }
+}

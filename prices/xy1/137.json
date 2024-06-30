@@ -1,0 +1,19 @@
+{
+    "id": "xy1-137",
+    "name": "Fighting Energy",
+    "number": "137",
+    "setId": "xy1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2775140"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

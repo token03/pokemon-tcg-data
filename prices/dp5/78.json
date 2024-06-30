@@ -1,0 +1,25 @@
+{
+    "id": "dp5-78",
+    "name": "Turtwig",
+    "number": "78",
+    "setId": "dp5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921440",
+        "reverse-holo": "921540"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "$55.16",
+                "grade9": "$20.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.08",
+                "psa10": "",
+                "grade9": "$74.99"
+            }
+        }
+    }
+}

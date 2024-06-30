@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-10",
+    "name": "Lilligant",
+    "number": "10",
+    "setId": "swsh7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2512821",
+        "reverse-holo": "2513054"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.86",
+                "grade9": "$11.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.86",
+                "grade9": "$11.72"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dc1-13",
+    "name": "Team Magma's Lairon",
+    "number": "13",
+    "setId": "dc1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958766",
+        "reverse-holo": "2978723"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$18.00",
+                "grade9": "$14.96"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.62",
+                "psa10": "$51.68",
+                "grade9": "$22.37"
+            }
+        }
+    }
+}

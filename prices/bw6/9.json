@@ -1,0 +1,25 @@
+{
+    "id": "bw6-9",
+    "name": "Cascoon",
+    "number": "9",
+    "setId": "bw6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956263",
+        "reverse-holo": "956391"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

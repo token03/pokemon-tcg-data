@@ -1,0 +1,25 @@
+{
+    "id": "sm5-47",
+    "name": "Luxio",
+    "number": "47",
+    "setId": "sm5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961410",
+        "reverse-holo": "961582"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.46",
+                "psa10": "$6.50",
+                "grade9": ""
+            }
+        }
+    }
+}

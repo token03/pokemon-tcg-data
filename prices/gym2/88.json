@@ -1,0 +1,25 @@
+{
+    "id": "gym2-88",
+    "name": "Misty's Magikarp",
+    "number": "88",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762290",
+        "1st-edition": "1450282"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "$63.28",
+                "grade9": "$26.56"
+            },
+            "1st-edition": {
+                "ungraded": "$4.12",
+                "psa10": "$66.04",
+                "grade9": "$28.00"
+            }
+        }
+    }
+}

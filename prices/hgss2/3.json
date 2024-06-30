@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-3",
+    "name": "Manaphy",
+    "number": "3",
+    "setId": "hgss2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1287345",
+        "reverse-holo": "1287441"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.98",
+                "psa10": "$278.00",
+                "grade9": "$37.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.06",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

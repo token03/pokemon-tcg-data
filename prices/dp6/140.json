@@ -1,0 +1,19 @@
+{
+    "id": "dp6-140",
+    "name": "Azelf LV.X",
+    "number": "140",
+    "setId": "dp6",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925071"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$28.36",
+                "psa10": "$850.05",
+                "grade9": "$132.45"
+            }
+        }
+    }
+}

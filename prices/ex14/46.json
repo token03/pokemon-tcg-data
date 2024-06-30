@@ -1,0 +1,25 @@
+{
+    "id": "ex14-46",
+    "name": "Bulbasaur",
+    "number": "46",
+    "setId": "ex14",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889333",
+        "reverse-holo": "889433"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "$44.21",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.14",
+                "psa10": "$151.40",
+                "grade9": "$33.30"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-138",
+    "name": "Lickitung",
+    "number": "138",
+    "setId": "swsh11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4050055",
+        "reverse-holo": "4050258"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$34.62",
+                "grade9": "$11.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$35.66",
+                "grade9": "$12.11"
+            }
+        }
+    }
+}

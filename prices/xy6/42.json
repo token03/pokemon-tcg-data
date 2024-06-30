@@ -1,0 +1,25 @@
+{
+    "id": "xy6-42",
+    "name": "Jirachi",
+    "number": "42",
+    "setId": "xy6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958865",
+        "reverse-holo": "958972"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.57",
+                "psa10": "$200.00",
+                "grade9": "$10.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.14",
+                "psa10": "$48.22",
+                "grade9": "$14.72"
+            }
+        }
+    }
+}

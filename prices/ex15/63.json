@@ -1,0 +1,25 @@
+{
+    "id": "ex15-63",
+    "name": "Shellder \u03b4",
+    "number": "63",
+    "setId": "ex15",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889537",
+        "reverse-holo": "889638"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$61.00",
+                "grade9": "$7.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.02",
+                "psa10": "$107.39",
+                "grade9": "$22.49"
+            }
+        }
+    }
+}

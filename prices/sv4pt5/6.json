@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-6",
+    "name": "Espathra ex",
+    "number": "6",
+    "setId": "sv4pt5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "6276925"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.27",
+                "psa10": "$36.24",
+                "grade9": "$11.75"
+            }
+        }
+    }
+}

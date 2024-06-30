@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-38",
+    "name": "Lickilicky",
+    "number": "38",
+    "setId": "hgss4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926096",
+        "reverse-holo": "926198"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.05",
+                "psa10": "",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

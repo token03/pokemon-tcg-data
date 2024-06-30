@@ -1,0 +1,25 @@
+{
+    "id": "bw10-2",
+    "name": "Masquerain",
+    "number": "2",
+    "setId": "bw10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957304",
+        "reverse-holo": "957409"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "",
+                "grade9": "$4.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.80",
+                "psa10": "$44.38",
+                "grade9": "$17.61"
+            }
+        }
+    }
+}

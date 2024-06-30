@@ -1,0 +1,25 @@
+{
+    "id": "bw9-50",
+    "name": "Beldum",
+    "number": "50",
+    "setId": "bw9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957276",
+        "reverse-holo": "957224"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

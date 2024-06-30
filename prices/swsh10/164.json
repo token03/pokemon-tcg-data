@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-164",
+    "name": "Virizion V",
+    "number": "164",
+    "setId": "swsh10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3489663"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.59",
+                "psa10": "$14.00",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

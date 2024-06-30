@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-41",
+    "name": "Koffing",
+    "number": "41",
+    "setId": "swsh45",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1341518",
+        "reverse-holo": "1341705"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.86",
+                "psa10": "$33.29",
+                "grade9": "$11.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "$35.25",
+                "grade9": "$4.74"
+            }
+        }
+    }
+}

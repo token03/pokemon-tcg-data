@@ -1,0 +1,25 @@
+{
+    "id": "gym2-87",
+    "name": "Misty's Horsea",
+    "number": "87",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762289",
+        "1st-edition": "1450281"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$25.40",
+                "grade9": "$21.45"
+            },
+            "1st-edition": {
+                "ungraded": "$2.81",
+                "psa10": "$49.99",
+                "grade9": "$15.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp5-10",
+    "name": "Moltres",
+    "number": "10",
+    "setId": "dp5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "921372",
+        "reverse-holo": "921472"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.32",
+                "psa10": "$306.00",
+                "grade9": "$60.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.07",
+                "psa10": "$2,191.17",
+                "grade9": "$24.89"
+            }
+        }
+    }
+}

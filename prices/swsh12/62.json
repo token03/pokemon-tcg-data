@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-62",
+    "name": "Jynx",
+    "number": "62",
+    "setId": "swsh12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4277182",
+        "reverse-holo": "4293800"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$34.65",
+                "grade9": "$11.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$37.98",
+                "grade9": "$12.88"
+            }
+        }
+    }
+}

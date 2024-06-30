@@ -1,0 +1,19 @@
+{
+    "id": "xy5-93",
+    "name": "Aggron-EX",
+    "number": "93",
+    "setId": "xy5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958550"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.07",
+                "psa10": "$42.38",
+                "grade9": "$23.52"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex4-49",
+    "name": "Team Aqua's Chinchou",
+    "number": "49",
+    "setId": "ex4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849618",
+        "reverse-holo": "849715"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "$66.99",
+                "grade9": "$22.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.56",
+                "psa10": "",
+                "grade9": "$32.00"
+            }
+        }
+    }
+}

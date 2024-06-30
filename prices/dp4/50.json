@@ -1,0 +1,25 @@
+{
+    "id": "dp4-50",
+    "name": "Purugly",
+    "number": "50",
+    "setId": "dp4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921204",
+        "reverse-holo": "921310"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.86",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.66",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

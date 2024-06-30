@@ -1,0 +1,19 @@
+{
+    "id": "mcd15-3",
+    "name": "Torchic",
+    "number": "3",
+    "setId": "mcd15",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180006"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.43",
+                "psa10": "$366.00",
+                "grade9": "$305.00"
+            }
+        }
+    }
+}

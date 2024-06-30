@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-121",
+    "name": "Apricorn Maker",
+    "number": "121",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842771",
+        "reverse-holo": "2252720"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.52",
+                "psa10": "$34.99",
+                "grade9": "$9.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$18.34",
+                "psa10": "$89.00",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

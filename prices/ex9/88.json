@@ -1,0 +1,19 @@
+{
+    "id": "ex9-88",
+    "name": "Metal Energy",
+    "number": "88",
+    "setId": "ex9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888313"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.49",
+                "psa10": "$145.35",
+                "grade9": "$16.59"
+            }
+        }
+    }
+}

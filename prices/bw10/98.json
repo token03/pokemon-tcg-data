@@ -1,0 +1,19 @@
+{
+    "id": "bw10-98",
+    "name": "Jirachi-EX",
+    "number": "98",
+    "setId": "bw10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "957400"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.00",
+                "psa10": "$508.50",
+                "grade9": "$61.77"
+            }
+        }
+    }
+}

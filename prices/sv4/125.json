@@ -1,0 +1,25 @@
+{
+    "id": "sv4-125",
+    "name": "Steelix",
+    "number": "125",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5979083",
+        "reverse-holo": "5953216"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.39",
+                "psa10": "$34.99",
+                "grade9": "$6.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$36.59",
+                "grade9": "$11.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "base4-45",
+    "name": "Jynx",
+    "number": "45",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641848"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "$23.10",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

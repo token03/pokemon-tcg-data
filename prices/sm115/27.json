@@ -1,0 +1,25 @@
+{
+    "id": "sm115-27",
+    "name": "Arbok",
+    "number": "27",
+    "setId": "sm115",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964047",
+        "reverse-holo": "964205"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$12.19",
+                "grade9": "$10.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.18",
+                "psa10": "$31.25",
+                "grade9": "$10.95"
+            }
+        }
+    }
+}

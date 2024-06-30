@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-93",
+    "name": "Gloom",
+    "number": "93",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.49",
+                "psa10": "$40.00",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

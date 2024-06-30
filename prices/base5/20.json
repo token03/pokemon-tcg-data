@@ -1,0 +1,25 @@
+{
+    "id": "base5-20",
+    "name": "Dark Blastoise",
+    "number": "20",
+    "setId": "base5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341825",
+        "1st-edition": "1341362"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.50",
+                "psa10": "$138.85",
+                "grade9": "$45.22"
+            },
+            "1st-edition": {
+                "ungraded": "$26.99",
+                "psa10": "$246.74",
+                "grade9": "$60.00"
+            }
+        }
+    }
+}

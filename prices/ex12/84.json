@@ -1,0 +1,19 @@
+{
+    "id": "ex12-84",
+    "name": "Armaldo ex",
+    "number": "84",
+    "setId": "ex12",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888966"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$33.14",
+                "psa10": "$584.99",
+                "grade9": "$94.99"
+            }
+        }
+    }
+}

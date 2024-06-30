@@ -1,0 +1,25 @@
+{
+    "id": "dp5-67",
+    "name": "Kabuto",
+    "number": "67",
+    "setId": "dp5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921429",
+        "reverse-holo": "921529"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "",
+                "grade9": "$44.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.13",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

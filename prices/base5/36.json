@@ -1,0 +1,25 @@
+{
+    "id": "base5-36",
+    "name": "Dark Gloom",
+    "number": "36",
+    "setId": "base5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643457",
+        "1st-edition": "1341378"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$53.10",
+                "grade9": "$14.72"
+            },
+            "1st-edition": {
+                "ungraded": "$3.89",
+                "psa10": "$74.50",
+                "grade9": "$24.99"
+            }
+        }
+    }
+}

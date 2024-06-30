@@ -1,0 +1,25 @@
+{
+    "id": "swsh35-34",
+    "name": "Arbok",
+    "number": "34",
+    "setId": "swsh35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887462",
+        "reverse-holo": "887525"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.87",
+                "psa10": "$33.35",
+                "grade9": "$11.69"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.77",
+                "grade9": "$4.25"
+            }
+        }
+    }
+}

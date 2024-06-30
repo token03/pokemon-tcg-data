@@ -1,0 +1,25 @@
+{
+    "id": "sv1-183",
+    "name": "Penny",
+    "number": "183",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933957",
+        "reverse-holo": "4934203"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "$14.00",
+                "grade9": "$11.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$36.95",
+                "grade9": "$12.33"
+            }
+        }
+    }
+}

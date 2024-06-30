@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-127",
+    "name": "Galarian Meowth",
+    "number": "127",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807104",
+        "reverse-holo": "807105"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$14.00",
+                "grade9": "$12.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "$34.46",
+                "grade9": "$12.41"
+            }
+        }
+    }
+}

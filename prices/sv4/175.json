@@ -1,0 +1,25 @@
+{
+    "id": "sv4-175",
+    "name": "Snorlax Doll",
+    "number": "175",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5953013",
+        "reverse-holo": "5953260"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$37.95",
+                "grade9": "$12.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.80",
+                "psa10": "$39.10",
+                "grade9": "$12.69"
+            }
+        }
+    }
+}

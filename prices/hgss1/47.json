@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-47",
+    "name": "Miltank",
+    "number": "47",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806160",
+        "reverse-holo": "806266"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.68",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.81",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

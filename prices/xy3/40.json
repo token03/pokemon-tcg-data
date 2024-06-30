@@ -1,0 +1,25 @@
+{
+    "id": "xy3-40",
+    "name": "Gothorita",
+    "number": "40",
+    "setId": "xy3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958023",
+        "reverse-holo": "958133"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

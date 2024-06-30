@@ -1,0 +1,25 @@
+{
+    "id": "ex8-36",
+    "name": "Lunatone",
+    "number": "36",
+    "setId": "ex8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888056",
+        "reverse-holo": "888164"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.81",
+                "psa10": "$91.32",
+                "grade9": "$31.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.99",
+                "psa10": "$223.24",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

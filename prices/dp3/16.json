@@ -1,0 +1,31 @@
+{
+    "id": "dp3-16",
+    "name": "Raikou",
+    "number": "16",
+    "setId": "dp3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920907",
+        "cracked-ice": "6792169",
+        "reverse-holo": "921038"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.70",
+                "psa10": "$381.00",
+                "grade9": "$70.00"
+            },
+            "cracked-ice": {
+                "ungraded": "$5.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$5.37",
+                "psa10": "$102.94",
+                "grade9": "$61.67"
+            }
+        }
+    }
+}

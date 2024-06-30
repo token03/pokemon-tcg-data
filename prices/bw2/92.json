@@ -1,0 +1,25 @@
+{
+    "id": "bw2-92",
+    "name": "Crushing Hammer",
+    "number": "92",
+    "setId": "bw2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955518",
+        "reverse-holo": "955615"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": "$7.51"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp6-43",
+    "name": "Uxie",
+    "number": "43",
+    "setId": "dp6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "924974",
+        "reverse-holo": "925120"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.50",
+                "psa10": "$108.50",
+                "grade9": "$16.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.05",
+                "psa10": "$102.50",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

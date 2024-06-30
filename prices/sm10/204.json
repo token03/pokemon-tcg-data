@@ -1,0 +1,19 @@
+{
+    "id": "sm10-204",
+    "name": "Gardevoir & Sylveon-GX",
+    "number": "204",
+    "setId": "sm10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963360"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.64",
+                "psa10": "$57.50",
+                "grade9": "$33.38"
+            }
+        }
+    }
+}

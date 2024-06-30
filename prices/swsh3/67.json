@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-67",
+    "name": "Jigglypuff",
+    "number": "67",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887153",
+        "reverse-holo": "887336"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$37.50",
+                "grade9": "$11.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$15.00",
+                "grade9": "$12.35"
+            }
+        }
+    }
+}

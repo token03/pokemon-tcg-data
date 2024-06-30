@@ -1,0 +1,31 @@
+{
+    "id": "swsh12pt5-146",
+    "name": "Ultra Ball",
+    "number": "146",
+    "setId": "swsh12pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4637043",
+        "prize-pack": "6042256",
+        "reverse-holo": "4637242"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$35.20",
+                "grade9": "$11.81"
+            },
+            "prize-pack": {
+                "ungraded": "$4.05",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "$37.18",
+                "grade9": "$12.49"
+            }
+        }
+    }
+}

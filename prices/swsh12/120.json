@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-120",
+    "name": "Radiant Jirachi",
+    "number": "120",
+    "setId": "swsh12",
+    "rarity": "Radiant Rare",
+    "priceChartingIds": {
+        "holo": "4277242",
+        "prize-pack": "5810896"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.31",
+                "psa10": "$25.00",
+                "grade9": "$12.00"
+            },
+            "prize-pack": {
+                "ungraded": "$22.41",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

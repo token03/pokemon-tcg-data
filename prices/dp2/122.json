@@ -1,0 +1,19 @@
+{
+    "id": "dp2-122",
+    "name": "Lucario LV.X",
+    "number": "122",
+    "setId": "dp2",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "920746"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.50",
+                "psa10": "$1,952.53",
+                "grade9": "$115.30"
+            }
+        }
+    }
+}

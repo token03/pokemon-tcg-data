@@ -1,0 +1,31 @@
+{
+    "id": "ex8-38",
+    "name": "Manectric",
+    "number": "38",
+    "setId": "ex8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888058",
+        "prerelease": "6073929",
+        "reverse-holo": "888166"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "$99.51",
+                "grade9": "$35.00"
+            },
+            "prerelease": {
+                "ungraded": "$35.79",
+                "psa10": "",
+                "grade9": "$23.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.17",
+                "psa10": "$142.50",
+                "grade9": "$36.60"
+            }
+        }
+    }
+}

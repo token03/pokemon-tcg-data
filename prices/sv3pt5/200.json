@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-200",
+    "name": "Blastoise ex",
+    "number": "200",
+    "setId": "sv3pt5",
+    "rarity": "Special Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5809583"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$43.99",
+                "psa10": "$169.85",
+                "grade9": "$48.00"
+            }
+        }
+    }
+}

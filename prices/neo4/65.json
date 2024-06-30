@@ -1,0 +1,25 @@
+{
+    "id": "neo4-65",
+    "name": "Gastly",
+    "number": "65",
+    "setId": "neo4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762588",
+        "1st-edition": "2183328"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "$28.24",
+                "grade9": "$22.68"
+            },
+            "1st-edition": {
+                "ungraded": "$3.95",
+                "psa10": "$40.00",
+                "grade9": "$20.12"
+            }
+        }
+    }
+}

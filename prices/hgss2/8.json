@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-8",
+    "name": "Shaymin",
+    "number": "8",
+    "setId": "hgss2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1287350",
+        "reverse-holo": "1287446"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.93",
+                "psa10": "$110.27",
+                "grade9": "$21.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.67",
+                "psa10": "$399.96",
+                "grade9": ""
+            }
+        }
+    }
+}

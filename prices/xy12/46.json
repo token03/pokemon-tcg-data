@@ -1,0 +1,19 @@
+{
+    "id": "xy12-46",
+    "name": "Nidoking BREAK",
+    "number": "46",
+    "setId": "xy12",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "960334"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.71",
+                "psa10": "$32.77",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "swsh10-52",
+    "name": "Hisuian Typhlosion",
+    "number": "52",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "3489550",
+        "gamestop-promo": "5327094",
+        "reverse-holo": "3489759",
+        "holo": "4563041"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$35.95",
+                "grade9": "$33.70"
+            },
+            "gamestop-promo": {
+                "ungraded": "$3.03",
+                "psa10": "$50.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "$37.13",
+                "grade9": "$9.29"
+            },
+            "holo": {
+                "ungraded": "$2.73",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

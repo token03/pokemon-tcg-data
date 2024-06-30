@@ -1,0 +1,25 @@
+{
+    "id": "dp2-40",
+    "name": "Whiscash",
+    "number": "40",
+    "setId": "dp2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920663",
+        "reverse-holo": "920787"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$47.00",
+                "grade9": "$16.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.21",
+                "psa10": "",
+                "grade9": "$37.85"
+            }
+        }
+    }
+}

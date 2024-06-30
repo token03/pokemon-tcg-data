@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-27",
+    "name": "Simisear V",
+    "number": "27",
+    "setId": "swsh9",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3188252"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$35.21",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-85",
+    "name": "Gengar",
+    "number": "85",
+    "setId": "swsh1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "807122",
+        "reverse-holo": "807123"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.36",
+                "psa10": "$41.00",
+                "grade9": "$13.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.54",
+                "psa10": "$50.00",
+                "grade9": "$12.28"
+            }
+        }
+    }
+}

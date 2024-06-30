@@ -1,0 +1,19 @@
+{
+    "id": "sm5-160",
+    "name": "Xurkitree-GX",
+    "number": "160",
+    "setId": "sm5",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961523"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.39",
+                "psa10": "$40.38",
+                "grade9": "$18.77"
+            }
+        }
+    }
+}

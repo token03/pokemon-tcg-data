@@ -1,0 +1,25 @@
+{
+    "id": "sm9-157",
+    "name": "Water Memory",
+    "number": "157",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962955",
+        "reverse-holo": "963137"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.46",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$34.15",
+                "grade9": "$12.40"
+            }
+        }
+    }
+}

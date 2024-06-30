@@ -1,0 +1,25 @@
+{
+    "id": "dp2-108",
+    "name": "Zubat",
+    "number": "108",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920732",
+        "reverse-holo": "920855"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.24",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

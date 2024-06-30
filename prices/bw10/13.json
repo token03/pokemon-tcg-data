@@ -1,0 +1,25 @@
+{
+    "id": "bw10-13",
+    "name": "Volcarona",
+    "number": "13",
+    "setId": "bw10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957315",
+        "reverse-holo": "957419"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$44.61",
+                "grade9": "$17.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$66.00",
+                "grade9": "$54.71"
+            }
+        }
+    }
+}

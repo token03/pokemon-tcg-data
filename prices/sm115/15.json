@@ -1,0 +1,25 @@
+{
+    "id": "sm115-15",
+    "name": "Magikarp",
+    "number": "15",
+    "setId": "sm115",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964035",
+        "reverse-holo": "964195"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$40.50",
+                "grade9": "$29.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$40.00",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-100",
+    "name": "Chikorita",
+    "number": "100",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887918",
+        "reverse-holo": "2266954"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.05",
+                "psa10": "$47.03",
+                "grade9": "$9.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.69",
+                "psa10": "$168.49",
+                "grade9": "$34.90"
+            }
+        }
+    }
+}

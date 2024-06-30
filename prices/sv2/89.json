@@ -1,0 +1,25 @@
+{
+    "id": "sv2-89",
+    "name": "Spiritomb",
+    "number": "89",
+    "setId": "sv2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5287378",
+        "reverse-holo": "5287647"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$36.01",
+                "grade9": "$11.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$79.99",
+                "grade9": "$7.95"
+            }
+        }
+    }
+}

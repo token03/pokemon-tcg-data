@@ -1,0 +1,31 @@
+{
+    "id": "bw1-79",
+    "name": "Watchog",
+    "number": "79",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806387",
+        "league-promo": "5206636",
+        "reverse-holo": "806474"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$40.59",
+                "grade9": "$9.56"
+            },
+            "league-promo": {
+                "ungraded": "$2.52",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

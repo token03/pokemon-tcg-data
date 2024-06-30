@@ -1,0 +1,25 @@
+{
+    "id": "ex8-30",
+    "name": "Donphan",
+    "number": "30",
+    "setId": "ex8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888050",
+        "reverse-holo": "888158"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.49",
+                "psa10": "$42.00",
+                "grade9": "$36.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.50",
+                "psa10": "$255.00",
+                "grade9": "$38.50"
+            }
+        }
+    }
+}

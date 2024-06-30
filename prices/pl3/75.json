@@ -1,0 +1,25 @@
+{
+    "id": "pl3-75",
+    "name": "Pinsir",
+    "number": "75",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287122",
+        "reverse-holo": "1287276"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

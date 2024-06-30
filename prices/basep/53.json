@@ -1,0 +1,25 @@
+{
+    "id": "basep-53",
+    "name": "Suicune",
+    "number": "53",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "1st-place-league-promo": "4566857",
+        "normal": "643547"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "1st-place-league-promo": {
+                "ungraded": "$74.12",
+                "psa10": "$237.50",
+                "grade9": "$237.49"
+            },
+            "normal": {
+                "ungraded": "$19.40",
+                "psa10": "$202.49",
+                "grade9": "$42.00"
+            }
+        }
+    }
+}

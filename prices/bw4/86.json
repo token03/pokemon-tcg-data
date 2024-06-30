@@ -1,0 +1,25 @@
+{
+    "id": "bw4-86",
+    "name": "Cilan",
+    "number": "86",
+    "setId": "bw4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955938",
+        "reverse-holo": "956046"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.15",
+                "psa10": "$49.35",
+                "grade9": "$19.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.09",
+                "psa10": "$48.98",
+                "grade9": "$19.25"
+            }
+        }
+    }
+}

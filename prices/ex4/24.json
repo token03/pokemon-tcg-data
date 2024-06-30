@@ -1,0 +1,31 @@
+{
+    "id": "ex4-24",
+    "name": "Team Aqua's Cacnea",
+    "number": "24",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849593",
+        "prerelease": "6136581",
+        "reverse-holo": "849690"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$76.70",
+                "grade9": "$65.39"
+            },
+            "prerelease": {
+                "ungraded": "$49.47",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.91",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-94",
+    "name": "Bulbasaur",
+    "number": "94",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842472",
+        "reverse-holo": "2266947"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.30",
+                "psa10": "$79.11",
+                "grade9": "$26.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$23.88",
+                "psa10": "$315.00",
+                "grade9": "$91.89"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-118",
+    "name": "Galarian Linoone",
+    "number": "118",
+    "setId": "swsh1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "807102",
+        "reverse-holo": "807103"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.97",
+                "psa10": "$33.70",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.02",
+                "psa10": "$37.70",
+                "grade9": "$14.15"
+            }
+        }
+    }
+}

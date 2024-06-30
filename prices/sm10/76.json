@@ -1,0 +1,25 @@
+{
+    "id": "sm10-76",
+    "name": "Mew",
+    "number": "76",
+    "setId": "sm10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963232",
+        "reverse-holo": "963460"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$33.65",
+                "grade9": "$18.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.41",
+                "psa10": "$42.38",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm5-152",
+    "name": "Looker",
+    "number": "152",
+    "setId": "sm5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961515"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.99",
+                "psa10": "$44.59",
+                "grade9": "$28.00"
+            }
+        }
+    }
+}

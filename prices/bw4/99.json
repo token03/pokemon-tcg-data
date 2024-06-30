@@ -1,0 +1,19 @@
+{
+    "id": "bw4-99",
+    "name": "Regigigas-EX",
+    "number": "99",
+    "setId": "bw4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "955951"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$32.73",
+                "psa10": "$332.03",
+                "grade9": "$127.61"
+            }
+        }
+    }
+}

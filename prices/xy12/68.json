@@ -1,0 +1,25 @@
+{
+    "id": "xy12-68",
+    "name": "Farfetch'd",
+    "number": "68",
+    "setId": "xy12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960356",
+        "reverse-holo": "960445"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$18.00",
+                "grade9": "$9.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$110.00",
+                "grade9": "$13.94"
+            }
+        }
+    }
+}

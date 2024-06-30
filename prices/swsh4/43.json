@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-43",
+    "name": "Pikachu V",
+    "number": "43",
+    "setId": "swsh4",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "842038"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.91",
+                "psa10": "$24.41",
+                "grade9": "$9.77"
+            }
+        }
+    }
+}

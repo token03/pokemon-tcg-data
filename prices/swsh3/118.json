@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-118",
+    "name": "Scizor V",
+    "number": "118",
+    "setId": "swsh3",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "887201"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.02",
+                "psa10": "$26.24",
+                "grade9": "$13.90"
+            }
+        }
+    }
+}

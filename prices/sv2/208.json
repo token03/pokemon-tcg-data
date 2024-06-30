@@ -1,0 +1,19 @@
+{
+    "id": "sv2-208",
+    "name": "Frigibax",
+    "number": "208",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287497"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.87",
+                "psa10": "$91.26",
+                "grade9": "$18.51"
+            }
+        }
+    }
+}

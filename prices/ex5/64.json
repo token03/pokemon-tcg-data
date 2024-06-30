@@ -1,0 +1,31 @@
+{
+    "id": "ex5-64",
+    "name": "Machop",
+    "number": "64",
+    "setId": "ex5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849837",
+        "city-championships": "4928507",
+        "reverse-holo": "849939"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.59",
+                "psa10": "$137.50",
+                "grade9": "$29.66"
+            },
+            "city-championships": {
+                "ungraded": "$11.21",
+                "psa10": "$89.00",
+                "grade9": "$7.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.83",
+                "psa10": "$141.41",
+                "grade9": "$21.25"
+            }
+        }
+    }
+}

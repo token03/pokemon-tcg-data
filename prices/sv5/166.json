@@ -1,0 +1,19 @@
+{
+    "id": "sv5-166",
+    "name": "Sawsbuck",
+    "number": "166",
+    "setId": "sv5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6495626"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.00",
+                "psa10": "$56.94",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

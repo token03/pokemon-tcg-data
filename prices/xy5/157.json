@@ -1,0 +1,19 @@
+{
+    "id": "xy5-157",
+    "name": "Archie's Ace in the Hole",
+    "number": "157",
+    "setId": "xy5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958614"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.99",
+                "psa10": "$114.81",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

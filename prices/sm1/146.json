@@ -1,0 +1,19 @@
+{
+    "id": "sm1-146",
+    "name": "Ilima",
+    "number": "146",
+    "setId": "sm1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2390414"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.47",
+                "psa10": "$37.97",
+                "grade9": "$22.33"
+            }
+        }
+    }
+}

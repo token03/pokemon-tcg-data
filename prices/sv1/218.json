@@ -1,0 +1,19 @@
+{
+    "id": "sv1-218",
+    "name": "Mabosstiff",
+    "number": "218",
+    "setId": "sv1",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "4933992"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$39.76",
+                "grade9": "$13.48"
+            }
+        }
+    }
+}

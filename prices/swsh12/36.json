@@ -1,0 +1,31 @@
+{
+    "id": "swsh12-36",
+    "name": "Articuno",
+    "number": "36",
+    "setId": "swsh12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "cosmos-holo": "4951556",
+        "holo": "4277155",
+        "reverse-holo": "4293780"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "cosmos-holo": {
+                "ungraded": "$1.80",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.75",
+                "psa10": "$68.98",
+                "grade9": "$10.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.24",
+                "psa10": "$39.37",
+                "grade9": "$13.39"
+            }
+        }
+    }
+}

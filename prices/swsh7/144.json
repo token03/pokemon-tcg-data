@@ -1,0 +1,31 @@
+{
+    "id": "swsh7-144",
+    "name": "Crystal Cave",
+    "number": "144",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512955",
+        "prize-pack-1": "5334239",
+        "reverse-holo": "2513158"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$34.25",
+                "grade9": "$11.90"
+            },
+            "prize-pack-1": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$34.49",
+                "grade9": "$2.15"
+            }
+        }
+    }
+}

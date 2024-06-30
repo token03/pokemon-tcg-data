@@ -1,0 +1,31 @@
+{
+    "id": "sm75-35",
+    "name": "Dratini",
+    "number": "35",
+    "setId": "sm75",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962269",
+        "reverse-holo": "962344",
+        "stamped": "4166491"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$16.01",
+                "grade9": "$9.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$85.00",
+                "grade9": "$71.00"
+            },
+            "stamped": {
+                "ungraded": "$30.97",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

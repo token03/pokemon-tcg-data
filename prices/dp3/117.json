@@ -1,0 +1,25 @@
+{
+    "id": "dp3-117",
+    "name": "Voltorb",
+    "number": "117",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921007",
+        "reverse-holo": "921139"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$58.91",
+                "grade9": "$21.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

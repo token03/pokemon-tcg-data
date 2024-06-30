@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-4",
+    "name": "Ariados",
+    "number": "4",
+    "setId": "swsh12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4277122",
+        "reverse-holo": "4293757"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.45",
+                "grade9": "$11.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$35.24",
+                "grade9": "$11.89"
+            }
+        }
+    }
+}

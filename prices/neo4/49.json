@@ -1,0 +1,25 @@
+{
+    "id": "neo4-49",
+    "name": "Light Machoke",
+    "number": "49",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762612",
+        "1st-edition": "2183352"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.38",
+                "psa10": "$68.83",
+                "grade9": "$16.81"
+            },
+            "1st-edition": {
+                "ungraded": "$4.99",
+                "psa10": "$75.00",
+                "grade9": "$23.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp5-18",
+    "name": "Espeon",
+    "number": "18",
+    "setId": "dp5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921380",
+        "reverse-holo": "921480"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.20",
+                "psa10": "$77.35",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.91",
+                "psa10": "$799.99",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm12-95",
+    "name": "Oricorio-GX",
+    "number": "95",
+    "setId": "sm12",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964333"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$45.94",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

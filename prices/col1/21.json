@@ -1,0 +1,25 @@
+{
+    "id": "col1-21",
+    "name": "Smeargle",
+    "number": "21",
+    "setId": "col1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "926272",
+        "reverse-holo": "926378"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.34",
+                "psa10": "$190.00",
+                "grade9": "$33.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.70",
+                "psa10": "$78.88",
+                "grade9": "$18.50"
+            }
+        }
+    }
+}

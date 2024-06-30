@@ -1,0 +1,25 @@
+{
+    "id": "sm10-71",
+    "name": "Drowzee",
+    "number": "71",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963227",
+        "reverse-holo": "963455"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": "$3.50"
+            }
+        }
+    }
+}

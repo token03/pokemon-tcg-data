@@ -1,0 +1,25 @@
+{
+    "id": "dp3-59",
+    "name": "Pinsir",
+    "number": "59",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920949",
+        "reverse-holo": "921080"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "$55.90",
+                "grade9": "$17.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.40",
+                "psa10": "$67.92",
+                "grade9": "$24.85"
+            }
+        }
+    }
+}

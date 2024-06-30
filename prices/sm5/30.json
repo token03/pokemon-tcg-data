@@ -1,0 +1,25 @@
+{
+    "id": "sm5-30",
+    "name": "Alolan Vulpix",
+    "number": "30",
+    "setId": "sm5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961393",
+        "reverse-holo": "961565"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.96",
+                "psa10": "$38.27",
+                "grade9": "$35.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "$61.00",
+                "grade9": "$16.32"
+            }
+        }
+    }
+}

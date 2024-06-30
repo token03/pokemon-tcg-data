@@ -1,0 +1,31 @@
+{
+    "id": "base1-23",
+    "name": "Arcanine",
+    "number": "23",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630436",
+        "1st-edition": "715612",
+        "shadowless": "715714"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.07",
+                "psa10": "$100.00",
+                "grade9": "$28.73"
+            },
+            "1st-edition": {
+                "ungraded": "$56.07",
+                "psa10": "$695.71",
+                "grade9": "$151.76"
+            },
+            "shadowless": {
+                "ungraded": "$5.26",
+                "psa10": "$157.12",
+                "grade9": "$69.99"
+            }
+        }
+    }
+}

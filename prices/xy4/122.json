@@ -1,0 +1,19 @@
+{
+    "id": "xy4-122",
+    "name": "Dialga-EX",
+    "number": "122",
+    "setId": "xy4",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "958315"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$104.31",
+                "psa10": "$3,375.04",
+                "grade9": "$385.04"
+            }
+        }
+    }
+}

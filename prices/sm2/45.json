@@ -1,0 +1,19 @@
+{
+    "id": "sm2-45",
+    "name": "Vikavolt-GX",
+    "number": "45",
+    "setId": "sm2",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "960542"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$16.00",
+                "grade9": "$13.05"
+            }
+        }
+    }
+}

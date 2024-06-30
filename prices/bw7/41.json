@@ -1,0 +1,25 @@
+{
+    "id": "bw7-41",
+    "name": "Samurott",
+    "number": "41",
+    "setId": "bw7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956556",
+        "reverse-holo": "956707"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.48",
+                "psa10": "$113.90",
+                "grade9": "$11.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.94",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

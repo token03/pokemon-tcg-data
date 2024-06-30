@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-44",
+    "name": "Rapid Strike Urshifu",
+    "number": "44",
+    "setId": "swsh6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2253850",
+        "reverse-holo": "2254075"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.46",
+                "psa10": "$36.08",
+                "grade9": "$6.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$35.46",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

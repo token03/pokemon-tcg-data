@@ -1,0 +1,31 @@
+{
+    "id": "bw1-1",
+    "name": "Snivy",
+    "number": "1",
+    "setId": "bw1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806325",
+        "crosshatch-reverse-holo": "2183097",
+        "reverse-holo": "806412"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$50.32",
+                "grade9": "$9.00"
+            },
+            "crosshatch-reverse-holo": {
+                "ungraded": "$101.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.87",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

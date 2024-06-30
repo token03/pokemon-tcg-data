@@ -1,0 +1,25 @@
+{
+    "id": "sm115-63",
+    "name": "Misty's Water Command",
+    "number": "63",
+    "setId": "sm115",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "964083",
+        "reverse-holo": "964237"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$29.85",
+                "grade9": "$11.67"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.97",
+                "psa10": "$37.71",
+                "grade9": "$11.15"
+            }
+        }
+    }
+}

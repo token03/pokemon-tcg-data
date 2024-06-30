@@ -1,0 +1,25 @@
+{
+    "id": "dp1-130",
+    "name": "Metal Energy",
+    "number": "130",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "prerelease": "6904854",
+        "normal": "2677902"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "prerelease": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-82",
+    "name": "Nemona",
+    "number": "82",
+    "setId": "sv4pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6277001",
+        "reverse-holo": "6277238"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.95",
+                "grade9": "$11.67"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.95",
+                "grade9": "$11.67"
+            }
+        }
+    }
+}

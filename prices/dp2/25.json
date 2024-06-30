@@ -1,0 +1,25 @@
+{
+    "id": "dp2-25",
+    "name": "Glalie",
+    "number": "25",
+    "setId": "dp2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920648",
+        "reverse-holo": "920772"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.30",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.64",
+                "psa10": "$72.77",
+                "grade9": "$17.57"
+            }
+        }
+    }
+}

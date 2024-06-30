@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-179",
+    "name": "Glimmet",
+    "number": "179",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277098"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$44.05",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

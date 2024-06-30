@@ -1,0 +1,25 @@
+{
+    "id": "bw7-84",
+    "name": "Dwebble",
+    "number": "84",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956599",
+        "reverse-holo": "956746"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.10",
+                "psa10": "",
+                "grade9": "$3.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

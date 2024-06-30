@@ -1,0 +1,25 @@
+{
+    "id": "neo2-56",
+    "name": "Kabuto",
+    "number": "56",
+    "setId": "neo2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762433",
+        "1st-edition": "2158450"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "$52.00",
+                "grade9": "$43.44"
+            },
+            "1st-edition": {
+                "ungraded": "$2.09",
+                "psa10": "$36.02",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

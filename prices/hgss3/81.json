@@ -1,0 +1,19 @@
+{
+    "id": "hgss3-81",
+    "name": "Espeon",
+    "number": "81",
+    "setId": "hgss3",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "925968"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.76",
+                "psa10": "$1,583.75",
+                "grade9": "$135.46"
+            }
+        }
+    }
+}

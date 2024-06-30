@@ -1,0 +1,25 @@
+{
+    "id": "base3-54",
+    "name": "Shellder",
+    "number": "54",
+    "setId": "base3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643435",
+        "1st-edition": "1099548"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "$33.17",
+                "grade9": "$11.00"
+            },
+            "1st-edition": {
+                "ungraded": "$1.90",
+                "psa10": "$35.97",
+                "grade9": "$13.50"
+            }
+        }
+    }
+}

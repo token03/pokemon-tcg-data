@@ -1,0 +1,19 @@
+{
+    "id": "sm10-203",
+    "name": "Lucario & Melmetal-GX",
+    "number": "203",
+    "setId": "sm10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963359"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.99",
+                "psa10": "$44.32",
+                "grade9": "$22.50"
+            }
+        }
+    }
+}

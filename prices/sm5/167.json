@@ -1,0 +1,19 @@
+{
+    "id": "sm5-167",
+    "name": "Escape Board",
+    "number": "167",
+    "setId": "sm5",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "961530"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.96",
+                "psa10": "$50.00",
+                "grade9": "$31.00"
+            }
+        }
+    }
+}

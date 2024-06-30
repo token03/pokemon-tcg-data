@@ -1,0 +1,31 @@
+{
+    "id": "sm6-108",
+    "name": "Judge",
+    "number": "108",
+    "setId": "sm6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961771",
+        "professor-program": "6635593",
+        "reverse-holo": "961906"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$36.39",
+                "grade9": "$13.81"
+            },
+            "professor-program": {
+                "ungraded": "$14.86",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.69",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

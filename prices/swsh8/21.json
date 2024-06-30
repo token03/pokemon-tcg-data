@@ -1,0 +1,19 @@
+{
+    "id": "swsh8-21",
+    "name": "Tsareena V",
+    "number": "21",
+    "setId": "swsh8",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2771050"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$21.53",
+                "grade9": "$6.68"
+            }
+        }
+    }
+}

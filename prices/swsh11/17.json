@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-17",
+    "name": "Trevenant",
+    "number": "17",
+    "setId": "swsh11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4049934",
+        "reverse-holo": "4050151"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.38",
+                "psa10": "$36.29",
+                "grade9": "$13.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$38.29",
+                "grade9": "$13.09"
+            }
+        }
+    }
+}

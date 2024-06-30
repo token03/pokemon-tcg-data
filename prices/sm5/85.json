@@ -1,0 +1,25 @@
+{
+    "id": "sm5-85",
+    "name": "Bastiodon",
+    "number": "85",
+    "setId": "sm5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961448",
+        "reverse-holo": "961616"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "$18.00",
+                "grade9": "$15.18"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$36.33",
+                "grade9": "$29.77"
+            }
+        }
+    }
+}

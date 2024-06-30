@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-107",
+    "name": "Aegislash",
+    "number": "107",
+    "setId": "swsh5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "1673288",
+        "reverse-holo": "1725079"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.80",
+                "grade9": "$11.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$14.00",
+                "grade9": "$12.04"
+            }
+        }
+    }
+}

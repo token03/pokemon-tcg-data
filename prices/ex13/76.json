@@ -1,0 +1,25 @@
+{
+    "id": "ex13-76",
+    "name": "Pichu \u03b4",
+    "number": "76",
+    "setId": "ex13",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889156",
+        "reverse-holo": "889265"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.22",
+                "psa10": "$65.13",
+                "grade9": "$21.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.99",
+                "psa10": "$212.25",
+                "grade9": "$45.73"
+            }
+        }
+    }
+}

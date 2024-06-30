@@ -1,0 +1,19 @@
+{
+    "id": "base4-109",
+    "name": "Defender",
+    "number": "109",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641911"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "$27.99",
+                "grade9": "$16.11"
+            }
+        }
+    }
+}

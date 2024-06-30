@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-36",
+    "name": "Prinplup",
+    "number": "36",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188261",
+        "reverse-holo": "3219398"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.53",
+                "psa10": "$32.12",
+                "grade9": "$10.87"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$35.01",
+                "grade9": "$12.06"
+            }
+        }
+    }
+}

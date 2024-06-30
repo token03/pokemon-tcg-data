@@ -1,0 +1,25 @@
+{
+    "id": "xy12-76",
+    "name": "Devolution Spray",
+    "number": "76",
+    "setId": "xy12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960364",
+        "reverse-holo": "960452"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$36.10",
+                "grade9": "$7.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.19",
+                "psa10": "$51.51",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

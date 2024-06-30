@@ -1,0 +1,25 @@
+{
+    "id": "ex13-21",
+    "name": "Latias \u03b4",
+    "number": "21",
+    "setId": "ex13",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889101",
+        "reverse-holo": "889212"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$57.00",
+                "grade9": "$39.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.77",
+                "psa10": "$318.75",
+                "grade9": "$51.00"
+            }
+        }
+    }
+}

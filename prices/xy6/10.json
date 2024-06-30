@@ -1,0 +1,25 @@
+{
+    "id": "xy6-10",
+    "name": "Ninjask",
+    "number": "10",
+    "setId": "xy6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958833",
+        "reverse-holo": "958943"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$36.82",
+                "grade9": "$13.91"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "$40.07",
+                "grade9": "$15.77"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "swsh5-23",
+    "name": "Tepig",
+    "number": "23",
+    "setId": "swsh5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1673204",
+        "cosmos-holo": "4360773",
+        "reverse-holo": "1725007"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$34.99",
+                "grade9": "$12.37"
+            },
+            "cosmos-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$72.53",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$37.49",
+                "grade9": "$13.55"
+            }
+        }
+    }
+}

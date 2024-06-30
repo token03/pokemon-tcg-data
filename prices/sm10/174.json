@@ -1,0 +1,25 @@
+{
+    "id": "sm10-174",
+    "name": "Giovanni's Exile",
+    "number": "174",
+    "setId": "sm10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963330",
+        "reverse-holo": "963550"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": "$5.00"
+            }
+        }
+    }
+}

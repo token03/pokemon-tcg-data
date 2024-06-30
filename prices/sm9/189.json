@@ -1,0 +1,19 @@
+{
+    "id": "sm9-189",
+    "name": "Cobalion-GX",
+    "number": "189",
+    "setId": "sm9",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "962987"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.18",
+                "psa10": "$39.25",
+                "grade9": "$23.50"
+            }
+        }
+    }
+}

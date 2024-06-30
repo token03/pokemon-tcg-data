@@ -1,0 +1,19 @@
+{
+    "id": "ex9-94",
+    "name": "Dusclops ex",
+    "number": "94",
+    "setId": "ex9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888319"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$39.03",
+                "psa10": "$1,200.00",
+                "grade9": "$121.25"
+            }
+        }
+    }
+}

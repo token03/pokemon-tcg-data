@@ -1,0 +1,31 @@
+{
+    "id": "dp3-125",
+    "name": "Roseanne's Research",
+    "number": "125",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921015",
+        "pokemon-league-holo": "6124831",
+        "reverse-holo": "921147"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.11",
+                "psa10": "$49.33",
+                "grade9": "$6.00"
+            },
+            "pokemon-league-holo": {
+                "ungraded": "$11.13",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.95",
+                "psa10": "$136.11",
+                "grade9": "$51.57"
+            }
+        }
+    }
+}

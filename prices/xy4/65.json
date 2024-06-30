@@ -1,0 +1,19 @@
+{
+    "id": "xy4-65",
+    "name": "Aegislash-EX",
+    "number": "65",
+    "setId": "xy4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958258"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.76",
+                "psa10": "$22.72",
+                "grade9": "$14.56"
+            }
+        }
+    }
+}

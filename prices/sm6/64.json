@@ -1,0 +1,25 @@
+{
+    "id": "sm6-64",
+    "name": "Toxicroak",
+    "number": "64",
+    "setId": "sm6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961727",
+        "reverse-holo": "961869"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$34.55",
+                "grade9": "$12.72"
+            }
+        }
+    }
+}

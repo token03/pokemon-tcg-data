@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-3",
+    "name": "Paras",
+    "number": "3",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887089",
+        "reverse-holo": "887278"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.81",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$34.75",
+                "grade9": "$12.43"
+            }
+        }
+    }
+}

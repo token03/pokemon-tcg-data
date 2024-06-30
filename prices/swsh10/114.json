@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-114",
+    "name": "Origin Forme Dialga VSTAR",
+    "number": "114",
+    "setId": "swsh10",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "3489613"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.04",
+                "psa10": "$26.34",
+                "grade9": "$14.75"
+            }
+        }
+    }
+}

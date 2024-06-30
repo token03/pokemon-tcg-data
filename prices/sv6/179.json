@@ -1,0 +1,19 @@
+{
+    "id": "sv6-179",
+    "name": "Chimecho",
+    "number": "179",
+    "setId": "sv6",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6775697"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.51",
+                "psa10": "$48.91",
+                "grade9": "$14.93"
+            }
+        }
+    }
+}

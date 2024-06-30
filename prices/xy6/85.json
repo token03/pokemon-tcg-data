@@ -1,0 +1,25 @@
+{
+    "id": "xy6-85",
+    "name": "Latios Spirit Link",
+    "number": "85",
+    "setId": "xy6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958908",
+        "reverse-holo": "959007"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$38.62",
+                "grade9": "$14.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.46",
+                "psa10": "$38.38",
+                "grade9": "$14.81"
+            }
+        }
+    }
+}

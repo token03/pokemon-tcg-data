@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-33",
+    "name": "Centiskorch V",
+    "number": "33",
+    "setId": "swsh3",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "887119"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$19.00",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

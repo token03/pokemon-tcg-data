@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-147",
+    "name": "Drilbur",
+    "number": "147",
+    "setId": "swsh8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2771176",
+        "reverse-holo": "2771436"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "$31.97",
+                "grade9": "$10.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$35.52",
+                "grade9": "$12.38"
+            }
+        }
+    }
+}

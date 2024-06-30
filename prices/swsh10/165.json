@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-165",
+    "name": "Heatran V",
+    "number": "165",
+    "setId": "swsh10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3489664"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.67",
+                "psa10": "$17.50",
+                "grade9": "$14.06"
+            }
+        }
+    }
+}

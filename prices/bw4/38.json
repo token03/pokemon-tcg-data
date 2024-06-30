@@ -1,0 +1,19 @@
+{
+    "id": "bw4-38",
+    "name": "Kyurem-EX",
+    "number": "38",
+    "setId": "bw4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "955890"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.67",
+                "psa10": "$72.66",
+                "grade9": "$23.00"
+            }
+        }
+    }
+}

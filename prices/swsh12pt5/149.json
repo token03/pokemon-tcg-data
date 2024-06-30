@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-149",
+    "name": "Friends in Sinnoh",
+    "number": "149",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4637045"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.74",
+                "psa10": "$34.00",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

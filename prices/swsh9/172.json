@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-172",
+    "name": "Roseanne's Backup",
+    "number": "172",
+    "setId": "swsh9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3188395"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.40",
+                "psa10": "$31.30",
+                "grade9": "$12.29"
+            }
+        }
+    }
+}

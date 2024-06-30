@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-79",
+    "name": "Electric Generator",
+    "number": "79",
+    "setId": "sv4pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6276998",
+        "reverse-holo": "6277235"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$36.19",
+                "grade9": "$11.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$36.48",
+                "grade9": "$11.82"
+            }
+        }
+    }
+}

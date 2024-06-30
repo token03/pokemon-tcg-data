@@ -1,0 +1,25 @@
+{
+    "id": "bw4-57",
+    "name": "Gardevoir",
+    "number": "57",
+    "setId": "bw4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955909",
+        "reverse-holo": "956008"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.94",
+                "psa10": "$74.95",
+                "grade9": "$44.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.01",
+                "psa10": "$86.05",
+                "grade9": "$37.32"
+            }
+        }
+    }
+}

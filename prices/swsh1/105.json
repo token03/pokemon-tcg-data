@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-105",
+    "name": "Mudbray",
+    "number": "105",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807183",
+        "reverse-holo": "807184"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.77",
+                "grade9": "$12.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.77",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

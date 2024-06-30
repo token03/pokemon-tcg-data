@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-41",
+    "name": "Dunsparce",
+    "number": "41",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806154",
+        "reverse-holo": "806260"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.02",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

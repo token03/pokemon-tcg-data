@@ -1,0 +1,19 @@
+{
+    "id": "base4-81",
+    "name": "Metapod",
+    "number": "81",
+    "setId": "base4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "641884"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.33",
+                "psa10": "$34.99",
+                "grade9": "$22.17"
+            }
+        }
+    }
+}

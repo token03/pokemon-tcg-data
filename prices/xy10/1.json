@@ -1,0 +1,25 @@
+{
+    "id": "xy10-1",
+    "name": "Shuckle",
+    "number": "1",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959858",
+        "reverse-holo": "959983"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$35.96",
+                "grade9": "$13.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$38.51",
+                "grade9": "$15.04"
+            }
+        }
+    }
+}

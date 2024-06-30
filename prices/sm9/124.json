@@ -1,0 +1,25 @@
+{
+    "id": "sm9-124",
+    "name": "Pidgeot",
+    "number": "124",
+    "setId": "sm9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962922",
+        "reverse-holo": "963105"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$120.00",
+                "grade9": "$14.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.58",
+                "psa10": "$40.06",
+                "grade9": "$15.83"
+            }
+        }
+    }
+}

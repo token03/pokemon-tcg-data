@@ -1,0 +1,19 @@
+{
+    "id": "ex3-89",
+    "name": "Ampharos ex",
+    "number": "89",
+    "setId": "ex3",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849468"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.32",
+                "psa10": "$800.00",
+                "grade9": "$109.38"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-156",
+    "name": "Forest Seal Stone",
+    "number": "156",
+    "setId": "swsh12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4277277"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.70",
+                "psa10": "$28.00",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

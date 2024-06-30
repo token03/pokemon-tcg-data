@@ -1,0 +1,25 @@
+{
+    "id": "dp7-11",
+    "name": "Torterra",
+    "number": "11",
+    "setId": "dp7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925224",
+        "reverse-holo": "925315"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.45",
+                "psa10": "$79.28",
+                "grade9": "$54.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.25",
+                "psa10": "$75.44",
+                "grade9": "$70.00"
+            }
+        }
+    }
+}

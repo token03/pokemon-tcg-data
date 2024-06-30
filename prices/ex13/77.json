@@ -1,0 +1,25 @@
+{
+    "id": "ex13-77",
+    "name": "Pidgey \u03b4",
+    "number": "77",
+    "setId": "ex13",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889157",
+        "reverse-holo": "889266"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.66",
+                "psa10": "$76.89",
+                "grade9": "$27.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.50",
+                "psa10": "$135.71",
+                "grade9": "$24.04"
+            }
+        }
+    }
+}

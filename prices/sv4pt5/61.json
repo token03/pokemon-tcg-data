@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-61",
+    "name": "Scrafty",
+    "number": "61",
+    "setId": "sv4pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6276980",
+        "reverse-holo": "6277220"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$33.95",
+                "grade9": "$11.67"
+            }
+        }
+    }
+}

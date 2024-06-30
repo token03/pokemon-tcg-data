@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-121",
+    "name": "Malamar V",
+    "number": "121",
+    "setId": "swsh2",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "886848"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$18.00",
+                "grade9": "$9.98"
+            }
+        }
+    }
+}

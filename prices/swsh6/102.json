@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-102",
+    "name": "Seviper",
+    "number": "102",
+    "setId": "swsh6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2253907",
+        "reverse-holo": "2254120"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.83",
+                "grade9": "$11.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "$36.04",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

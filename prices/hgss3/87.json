@@ -1,0 +1,19 @@
+{
+    "id": "hgss3-87",
+    "name": "Kyogre & Groudon LEGEND",
+    "number": "87",
+    "setId": "hgss3",
+    "rarity": "LEGEND",
+    "priceChartingIds": {
+        "normal": "925974"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$40.11",
+                "psa10": "$418.90",
+                "grade9": "$155.00"
+            }
+        }
+    }
+}

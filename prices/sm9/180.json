@@ -1,0 +1,19 @@
+{
+    "id": "sm9-180",
+    "name": "Nita",
+    "number": "180",
+    "setId": "sm9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962978"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$34.54",
+                "psa10": "$89.79",
+                "grade9": "$36.21"
+            }
+        }
+    }
+}

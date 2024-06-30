@@ -1,0 +1,19 @@
+{
+    "id": "dc1-6",
+    "name": "Team Aqua's Kyogre-EX",
+    "number": "6",
+    "setId": "dc1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958759"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$57.42",
+                "psa10": "$579.79",
+                "grade9": "$297.17"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm8-129",
+    "name": "Cobalion",
+    "number": "129",
+    "setId": "sm8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962517",
+        "reverse-holo": "962742"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$35.68",
+                "grade9": "$14.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

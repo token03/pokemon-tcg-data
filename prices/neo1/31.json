@@ -1,0 +1,25 @@
+{
+    "id": "neo1-31",
+    "name": "Croconaw",
+    "number": "31",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762349",
+        "1st-edition": "2324852"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.45",
+                "psa10": "$33.00",
+                "grade9": "$33.00"
+            },
+            "1st-edition": {
+                "ungraded": "$5.00",
+                "psa10": "$50.00",
+                "grade9": "$20.16"
+            }
+        }
+    }
+}

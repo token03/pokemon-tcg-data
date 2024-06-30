@@ -1,0 +1,25 @@
+{
+    "id": "xy4-34",
+    "name": "Gengar-EX",
+    "number": "34",
+    "setId": "xy4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958227",
+        "jumbo": "4395870"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.92",
+                "psa10": "$77.50",
+                "grade9": "$30.21"
+            },
+            "jumbo": {
+                "ungraded": "$10.58",
+                "psa10": "$360.00",
+                "grade9": "$165.85"
+            }
+        }
+    }
+}

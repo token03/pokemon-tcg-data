@@ -1,0 +1,25 @@
+{
+    "id": "ex5-20",
+    "name": "Masquerain",
+    "number": "20",
+    "setId": "ex5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849793",
+        "reverse-holo": "849895"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.79",
+                "psa10": "$23.04",
+                "grade9": "$11.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.01",
+                "psa10": "$168.74",
+                "grade9": "$22.83"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm2-63",
+    "name": "Machop",
+    "number": "63",
+    "setId": "sm2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960560",
+        "reverse-holo": "960722"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$36.00",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy1-121",
+    "name": "Muscle Band",
+    "number": "121",
+    "setId": "xy1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806614",
+        "reverse-holo": "806738"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$42.56",
+                "grade9": "$16.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.19",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

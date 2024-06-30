@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-184",
+    "name": "Sableye",
+    "number": "184",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277103"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.88",
+                "psa10": "$33.88",
+                "grade9": "$20.38"
+            }
+        }
+    }
+}

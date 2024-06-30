@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-38",
+    "name": "Croconaw",
+    "number": "38",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806151",
+        "reverse-holo": "806257"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$36.00",
+                "grade9": "$15.47"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.33",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

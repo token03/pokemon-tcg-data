@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-119",
+    "name": "Jirachi",
+    "number": "119",
+    "setId": "swsh4",
+    "rarity": "Amazing Rare",
+    "priceChartingIds": {
+        "normal": "842114"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.27",
+                "psa10": "$24.97",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

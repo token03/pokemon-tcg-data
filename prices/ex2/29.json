@@ -1,0 +1,25 @@
+{
+    "id": "ex2-29",
+    "name": "Arbok",
+    "number": "29",
+    "setId": "ex2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849217",
+        "reverse-holo": "849317"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.68",
+                "psa10": "$71.87",
+                "grade9": "$21.67"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.63",
+                "psa10": "$133.94",
+                "grade9": "$29.88"
+            }
+        }
+    }
+}

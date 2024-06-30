@@ -1,0 +1,19 @@
+{
+    "id": "bw5-54",
+    "name": "Groudon-EX",
+    "number": "54",
+    "setId": "bw5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956100"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.41",
+                "psa10": "$165.15",
+                "grade9": "$48.37"
+            }
+        }
+    }
+}

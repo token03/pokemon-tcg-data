@@ -1,0 +1,25 @@
+{
+    "id": "dp7-43",
+    "name": "Magneton",
+    "number": "43",
+    "setId": "dp7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925256",
+        "reverse-holo": "925342"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.07",
+                "psa10": "$58.94",
+                "grade9": "$21.89"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "swsh3-110",
+    "name": "Hydreigon",
+    "number": "110",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887194",
+        "reverse-holo": "887375",
+        "thank-you": "3453657"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$34.52",
+                "grade9": "$3.34"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$30.75",
+                "grade9": "$10.00"
+            },
+            "thank-you": {
+                "ungraded": "$3.25",
+                "psa10": "$49.99",
+                "grade9": "$11.67"
+            }
+        }
+    }
+}

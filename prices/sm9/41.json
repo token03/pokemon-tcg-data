@@ -1,0 +1,25 @@
+{
+    "id": "sm9-41",
+    "name": "Mareep",
+    "number": "41",
+    "setId": "sm9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962839",
+        "reverse-holo": "963032"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$19.99",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.53",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

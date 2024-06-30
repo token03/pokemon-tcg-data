@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-65",
+    "name": "Weepinbell",
+    "number": "65",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842592",
+        "reverse-holo": "2293956"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.91",
+                "psa10": "$134.18",
+                "grade9": "$19.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.99",
+                "psa10": "$127.50",
+                "grade9": "$52.06"
+            }
+        }
+    }
+}

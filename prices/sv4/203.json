@@ -1,0 +1,25 @@
+{
+    "id": "sv4-203",
+    "name": "Slither Wing",
+    "number": "203",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953041",
+        "holo": "5985070"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.49",
+                "psa10": "$37.75",
+                "grade9": "$9.74"
+            },
+            "holo": {
+                "ungraded": "$4.80",
+                "psa10": "$35.00",
+                "grade9": ""
+            }
+        }
+    }
+}

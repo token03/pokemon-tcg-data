@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-207",
+    "name": "Bede",
+    "number": "207",
+    "setId": "swsh1",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2336170"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.62",
+                "psa10": "$24.15",
+                "grade9": "$14.32"
+            }
+        }
+    }
+}

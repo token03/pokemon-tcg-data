@@ -1,0 +1,31 @@
+{
+    "id": "ex1-7",
+    "name": "Gardevoir",
+    "number": "7",
+    "setId": "ex1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762887",
+        "kevin-nguyen": "4895091",
+        "reverse-holo": "762969"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.75",
+                "psa10": "$457.79",
+                "grade9": "$47.05"
+            },
+            "kevin-nguyen": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$14.63",
+                "psa10": "$139.69",
+                "grade9": "$55.00"
+            }
+        }
+    }
+}

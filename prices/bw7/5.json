@@ -1,0 +1,25 @@
+{
+    "id": "bw7-5",
+    "name": "Tangela",
+    "number": "5",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956520",
+        "reverse-holo": "956673"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.94",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

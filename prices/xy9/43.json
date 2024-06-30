@@ -1,0 +1,25 @@
+{
+    "id": "xy9-43",
+    "name": "Electivire",
+    "number": "43",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959534",
+        "reverse-holo": "959651"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$37.44",
+                "grade9": "$14.39"
+            }
+        }
+    }
+}

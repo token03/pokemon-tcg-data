@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-207",
+    "name": "Gyarados VMAX",
+    "number": "207",
+    "setId": "swsh7",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2513016"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.13",
+                "psa10": "$67.47",
+                "grade9": "$27.86"
+            }
+        }
+    }
+}

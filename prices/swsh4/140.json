@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-140",
+    "name": "Togekiss V",
+    "number": "140",
+    "setId": "swsh4",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "842135"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$15.52",
+                "grade9": "$7.54"
+            }
+        }
+    }
+}

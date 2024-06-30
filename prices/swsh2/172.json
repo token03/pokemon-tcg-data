@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-172",
+    "name": "Horror Psychic Energy",
+    "number": "172",
+    "setId": "swsh2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886898",
+        "reverse-holo": "887084"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$35.28",
+                "grade9": "$12.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.59",
+                "psa10": "$39.85",
+                "grade9": "$15.19"
+            }
+        }
+    }
+}

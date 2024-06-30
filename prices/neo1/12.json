@@ -1,0 +1,25 @@
+{
+    "id": "neo1-12",
+    "name": "Pichu",
+    "number": "12",
+    "setId": "neo1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762332",
+        "1st-edition": "2324903"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$28.98",
+                "psa10": "$701.75",
+                "grade9": "$132.08"
+            },
+            "1st-edition": {
+                "ungraded": "$83.52",
+                "psa10": "$2,681.48",
+                "grade9": "$397.42"
+            }
+        }
+    }
+}

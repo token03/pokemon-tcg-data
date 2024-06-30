@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-90",
+    "name": "Lickitung",
+    "number": "90",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842611",
+        "reverse-holo": "2293981"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.36",
+                "psa10": "$20.02",
+                "grade9": "$15.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.99",
+                "psa10": "$509.53",
+                "grade9": "$46.86"
+            }
+        }
+    }
+}

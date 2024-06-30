@@ -1,0 +1,31 @@
+{
+    "id": "base1-68",
+    "name": "Vulpix",
+    "number": "68",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630481",
+        "1st-edition": "715657",
+        "shadowless": "715759"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$43.00",
+                "grade9": "$19.50"
+            },
+            "1st-edition": {
+                "ungraded": "$15.08",
+                "psa10": "$209.75",
+                "grade9": "$53.00"
+            },
+            "shadowless": {
+                "ungraded": "$1.53",
+                "psa10": "$61.94",
+                "grade9": "$22.87"
+            }
+        }
+    }
+}

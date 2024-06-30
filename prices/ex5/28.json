@@ -1,0 +1,25 @@
+{
+    "id": "ex5-28",
+    "name": "Beldum",
+    "number": "28",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849801",
+        "reverse-holo": "849903"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "$80.86",
+                "grade9": "$9.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.70",
+                "psa10": "$100.00",
+                "grade9": "$30.92"
+            }
+        }
+    }
+}

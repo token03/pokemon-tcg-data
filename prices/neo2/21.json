@@ -1,0 +1,25 @@
+{
+    "id": "neo2-21",
+    "name": "Forretress",
+    "number": "21",
+    "setId": "neo2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886572",
+        "1st-edition": "2158438"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.56",
+                "psa10": "$39.99",
+                "grade9": "$19.95"
+            },
+            "1st-edition": {
+                "ungraded": "$10.22",
+                "psa10": "$80.00",
+                "grade9": "$20.61"
+            }
+        }
+    }
+}

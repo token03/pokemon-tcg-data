@@ -1,0 +1,19 @@
+{
+    "id": "sv4-217",
+    "name": "Froslass ex",
+    "number": "217",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953056"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.96",
+                "psa10": "$39.33",
+                "grade9": "$11.35"
+            }
+        }
+    }
+}

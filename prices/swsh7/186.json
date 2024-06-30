@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-186",
+    "name": "Medicham V",
+    "number": "186",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2512996"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.12",
+                "psa10": "$51.33",
+                "grade9": "$21.32"
+            }
+        }
+    }
+}

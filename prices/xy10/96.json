@@ -1,0 +1,25 @@
+{
+    "id": "xy10-96",
+    "name": "Dome Fossil Kabuto",
+    "number": "96",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959953",
+        "reverse-holo": "960060"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$37.64",
+                "grade9": "$14.53"
+            }
+        }
+    }
+}

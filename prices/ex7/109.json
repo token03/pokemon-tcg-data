@@ -1,0 +1,19 @@
+{
+    "id": "ex7-109",
+    "name": "Treecko \u2605",
+    "number": "109",
+    "setId": "ex7",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "886443"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$515.87",
+                "psa10": "$5,538.42",
+                "grade9": "$1,724.91"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-4",
+    "name": "Blastoise",
+    "number": "4",
+    "setId": "ecard1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842420",
+        "reverse-holo": "2266859"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$104.70",
+                "psa10": "$1,669.07",
+                "grade9": "$498.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$85.00",
+                "psa10": "$732.58",
+                "grade9": "$131.75"
+            }
+        }
+    }
+}

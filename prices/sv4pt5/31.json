@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-31",
+    "name": "Mime Jr.",
+    "number": "31",
+    "setId": "sv4pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6276950",
+        "reverse-holo": "6277193"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "$34.86",
+                "grade9": "$11.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$34.95",
+                "grade9": "$11.87"
+            }
+        }
+    }
+}

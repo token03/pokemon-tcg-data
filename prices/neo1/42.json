@@ -1,0 +1,25 @@
+{
+    "id": "neo1-42",
+    "name": "Noctowl",
+    "number": "42",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762359",
+        "1st-edition": "2324899"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.96",
+                "psa10": "$42.91",
+                "grade9": "$22.50"
+            },
+            "1st-edition": {
+                "ungraded": "$5.00",
+                "psa10": "$54.21",
+                "grade9": "$25.14"
+            }
+        }
+    }
+}

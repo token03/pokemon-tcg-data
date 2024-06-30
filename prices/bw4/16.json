@@ -1,0 +1,25 @@
+{
+    "id": "bw4-16",
+    "name": "Simisear",
+    "number": "16",
+    "setId": "bw4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955868",
+        "reverse-holo": "955970"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.66",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

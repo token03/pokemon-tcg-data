@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-185",
+    "name": "Pok\u00e9mon Center Lady",
+    "number": "185",
+    "setId": "swsh4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887723"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.30",
+                "psa10": "$48.21",
+                "grade9": "$19.40"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pop5-14",
+    "name": "Pelipper \u03b4",
+    "number": "14",
+    "setId": "pop5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762773",
+        "holo": "762781"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.25",
+                "psa10": "$58.00",
+                "grade9": "$31.14"
+            },
+            "holo": {
+                "ungraded": "$4.83",
+                "psa10": "$112.74",
+                "grade9": "$75.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm10-103",
+    "name": "Landorus",
+    "number": "103",
+    "setId": "sm10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "963259",
+        "reverse-holo": "963486"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.61",
+                "psa10": "$36.30",
+                "grade9": "$13.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$35.17",
+                "grade9": "$3.13"
+            }
+        }
+    }
+}

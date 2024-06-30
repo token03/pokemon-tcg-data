@@ -1,0 +1,19 @@
+{
+    "id": "si1-7",
+    "name": "Ledyba",
+    "number": "7",
+    "setId": "si1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762489"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.36",
+                "psa10": "$359.99",
+                "grade9": "$50.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-181",
+    "name": "Murkrow",
+    "number": "181",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277100"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.29",
+                "psa10": "$34.95",
+                "grade9": "$8.37"
+            }
+        }
+    }
+}

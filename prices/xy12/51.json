@@ -1,0 +1,49 @@
+{
+    "id": "xy12-51",
+    "name": "Mewtwo",
+    "number": "51",
+    "setId": "xy12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960339",
+        "cracked-ice-holo": "4626701",
+        "holo": "3087030",
+        "prerelease-staff": "2038367",
+        "prerelease": "2038366",
+        "reverse-holo": "960432"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.77",
+                "psa10": "$34.66",
+                "grade9": "$13.25"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$5.16",
+                "psa10": "$138.50",
+                "grade9": "$25.49"
+            },
+            "holo": {
+                "ungraded": "$4.05",
+                "psa10": "$207.29",
+                "grade9": "$25.74"
+            },
+            "prerelease-staff": {
+                "ungraded": "$329.95",
+                "psa10": "",
+                "grade9": "$412.00"
+            },
+            "prerelease": {
+                "ungraded": "$69.86",
+                "psa10": "$672.88",
+                "grade9": "$142.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.04",
+                "psa10": "$69.87",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

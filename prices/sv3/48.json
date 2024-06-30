@@ -1,0 +1,25 @@
+{
+    "id": "sv3-48",
+    "name": "Buizel",
+    "number": "48",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605566",
+        "reverse-holo": "5605801"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.68",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.49",
+                "grade9": "$11.39"
+            }
+        }
+    }
+}

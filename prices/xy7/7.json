@@ -1,0 +1,19 @@
+{
+    "id": "xy7-7",
+    "name": "Sceptile-EX",
+    "number": "7",
+    "setId": "xy7",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959026"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.01",
+                "psa10": "$48.53",
+                "grade9": "$16.57"
+            }
+        }
+    }
+}

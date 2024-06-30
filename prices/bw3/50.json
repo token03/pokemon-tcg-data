@@ -1,0 +1,25 @@
+{
+    "id": "bw3-50",
+    "name": "Solosis",
+    "number": "50",
+    "setId": "bw3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955705",
+        "reverse-holo": "955807"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.90",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

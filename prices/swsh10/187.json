@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-187",
+    "name": "Kamado",
+    "number": "187",
+    "setId": "swsh10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3489686"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.77",
+                "psa10": "$28.82",
+                "grade9": "$12.22"
+            }
+        }
+    }
+}

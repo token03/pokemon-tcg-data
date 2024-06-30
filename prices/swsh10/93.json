@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-93",
+    "name": "Hisuian Sneasler",
+    "number": "93",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "3489591",
+        "reverse-holo": "3489794"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.48",
+                "psa10": "$35.99",
+                "grade9": "$9.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "$35.22",
+                "grade9": "$12.05"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-59",
+    "name": "Chikorita",
+    "number": "59",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806171",
+        "reverse-holo": "806277"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$47.00",
+                "grade9": "$17.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.34",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

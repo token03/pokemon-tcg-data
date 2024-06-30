@@ -1,0 +1,25 @@
+{
+    "id": "bw6-44",
+    "name": "Manectric",
+    "number": "44",
+    "setId": "bw6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956298",
+        "reverse-holo": "956425"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

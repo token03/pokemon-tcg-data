@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-72",
+    "name": "Ledyba",
+    "number": "72",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842731",
+        "reverse-holo": "2252670"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.99",
+                "psa10": "$30.11",
+                "grade9": "$16.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.99",
+                "psa10": "$92.00",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

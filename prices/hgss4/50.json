@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-50",
+    "name": "Tentacruel",
+    "number": "50",
+    "setId": "hgss4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926108",
+        "reverse-holo": "926210"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$88.88",
+                "grade9": "$17.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

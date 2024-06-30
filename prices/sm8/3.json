@@ -1,0 +1,25 @@
+{
+    "id": "sm8-3",
+    "name": "Scyther",
+    "number": "3",
+    "setId": "sm8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962391",
+        "reverse-holo": "962627"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.97",
+                "grade9": "$12.33"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$129.03",
+                "grade9": "$14.58"
+            }
+        }
+    }
+}

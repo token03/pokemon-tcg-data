@@ -1,0 +1,19 @@
+{
+    "id": "bp-9",
+    "name": "Rocket's Hitmonchan",
+    "number": "9",
+    "setId": "bp",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "winner": "2978644"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "winner": {
+                "ungraded": "$67.91",
+                "psa10": "$780.01",
+                "grade9": "$134.80"
+            }
+        }
+    }
+}

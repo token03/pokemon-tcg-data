@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-137",
+    "name": "Pidgeot V",
+    "number": "137",
+    "setId": "swsh11",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4050054"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "$27.25",
+                "grade9": "$13.50"
+            }
+        }
+    }
+}

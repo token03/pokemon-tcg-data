@@ -1,0 +1,25 @@
+{
+    "id": "xy4-91",
+    "name": "AZ",
+    "number": "91",
+    "setId": "xy4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958284",
+        "reverse-holo": "958398"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.94",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

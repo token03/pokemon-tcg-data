@@ -1,0 +1,25 @@
+{
+    "id": "bw5-77",
+    "name": "Klinklang",
+    "number": "77",
+    "setId": "bw5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956123",
+        "reverse-holo": "956230"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": "$41.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

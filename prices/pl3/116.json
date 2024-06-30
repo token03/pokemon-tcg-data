@@ -1,0 +1,25 @@
+{
+    "id": "pl3-116",
+    "name": "Mudkip",
+    "number": "116",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287173",
+        "reverse-holo": "1287317"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$59.99",
+                "grade9": "$15.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.53",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-154",
+    "name": "Rookidee",
+    "number": "154",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887232",
+        "reverse-holo": "887410"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.76",
+                "grade9": "$11.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$60.00",
+                "grade9": "$50.00"
+            }
+        }
+    }
+}

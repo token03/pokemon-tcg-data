@@ -1,0 +1,19 @@
+{
+    "id": "ex16-106",
+    "name": "Lightning Energy",
+    "number": "106",
+    "setId": "ex16",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "889770"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$6.08",
+                "psa10": "$44.35",
+                "grade9": "$15.65"
+            }
+        }
+    }
+}

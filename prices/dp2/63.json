@@ -1,0 +1,25 @@
+{
+    "id": "dp2-63",
+    "name": "Shieldon",
+    "number": "63",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920686",
+        "reverse-holo": "920810"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$57.37",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.18",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

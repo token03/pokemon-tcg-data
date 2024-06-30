@@ -1,0 +1,25 @@
+{
+    "id": "dp7-63",
+    "name": "Larvitar",
+    "number": "63",
+    "setId": "dp7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925273",
+        "reverse-holo": "925362"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$139.99",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.54",
+                "psa10": "",
+                "grade9": "$54.88"
+            }
+        }
+    }
+}

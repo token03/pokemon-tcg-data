@@ -1,0 +1,25 @@
+{
+    "id": "gym1-126",
+    "name": "Trash Exchange",
+    "number": "126",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762126",
+        "1st-edition": "2156437"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.21",
+                "psa10": "$23.33",
+                "grade9": "$7.20"
+            },
+            "1st-edition": {
+                "ungraded": "$2.63",
+                "psa10": "$49.44",
+                "grade9": "$13.77"
+            }
+        }
+    }
+}

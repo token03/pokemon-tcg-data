@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-159",
+    "name": "Granbull V",
+    "number": "159",
+    "setId": "swsh9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3188383"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.66",
+                "psa10": "$16.50",
+                "grade9": "$11.47"
+            }
+        }
+    }
+}

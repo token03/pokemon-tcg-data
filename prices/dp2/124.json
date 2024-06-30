@@ -1,0 +1,19 @@
+{
+    "id": "dp2-124",
+    "name": "Time-Space Distortion",
+    "number": "124",
+    "setId": "dp2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "920748"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.23",
+                "psa10": "$555.44",
+                "grade9": "$92.08"
+            }
+        }
+    }
+}

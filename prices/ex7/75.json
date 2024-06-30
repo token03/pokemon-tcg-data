@@ -1,0 +1,25 @@
+{
+    "id": "ex7-75",
+    "name": "Sentret",
+    "number": "75",
+    "setId": "ex7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886409",
+        "reverse-holo": "886520"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$54.52",
+                "grade9": "$50.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.45",
+                "psa10": "$93.37",
+                "grade9": "$48.67"
+            }
+        }
+    }
+}

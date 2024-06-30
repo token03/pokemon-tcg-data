@@ -1,0 +1,19 @@
+{
+    "id": "dp1-129",
+    "name": "Darkness Energy",
+    "number": "129",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2677905"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

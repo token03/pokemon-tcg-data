@@ -1,0 +1,19 @@
+{
+    "id": "dv1-2",
+    "name": "Dratini",
+    "number": "2",
+    "setId": "dv1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956495"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.29",
+                "psa10": "$75.00",
+                "grade9": "$47.00"
+            }
+        }
+    }
+}

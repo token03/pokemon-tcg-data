@@ -1,0 +1,25 @@
+{
+    "id": "bw3-12",
+    "name": "Accelgor",
+    "number": "12",
+    "setId": "bw3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955667",
+        "reverse-holo": "955769"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.91",
+                "psa10": "$37.95",
+                "grade9": "$18.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

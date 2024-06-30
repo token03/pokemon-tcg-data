@@ -1,0 +1,25 @@
+{
+    "id": "sm115-29",
+    "name": "Weezing",
+    "number": "29",
+    "setId": "sm115",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964049",
+        "reverse-holo": "964207"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$46.00",
+                "grade9": "$38.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.77",
+                "psa10": "$22.75",
+                "grade9": "$7.39"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm8-236",
+    "name": "Wait and See Hammer",
+    "number": "236",
+    "setId": "sm8",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "962624"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.43",
+                "psa10": "$59.75",
+                "grade9": "$17.21"
+            }
+        }
+    }
+}

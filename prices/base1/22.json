@@ -1,0 +1,37 @@
+{
+    "id": "base1-22",
+    "name": "Pidgeotto",
+    "number": "22",
+    "setId": "base1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "630435",
+        "1st-edition": "715611",
+        "shadowless": "715713",
+        "trainer-deck-b": "2386885"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.05",
+                "psa10": "$105.68",
+                "grade9": "$41.84"
+            },
+            "1st-edition": {
+                "ungraded": "$66.17",
+                "psa10": "$528.22",
+                "grade9": "$176.67"
+            },
+            "shadowless": {
+                "ungraded": "$7.43",
+                "psa10": "$106.28",
+                "grade9": "$58.50"
+            },
+            "trainer-deck-b": {
+                "ungraded": "$140.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

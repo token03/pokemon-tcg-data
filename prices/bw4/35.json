@@ -1,0 +1,25 @@
+{
+    "id": "bw4-35",
+    "name": "Jellicent",
+    "number": "35",
+    "setId": "bw4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955887",
+        "reverse-holo": "955988"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.07",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

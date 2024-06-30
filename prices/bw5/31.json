@@ -1,0 +1,25 @@
+{
+    "id": "bw5-31",
+    "name": "Tympole",
+    "number": "31",
+    "setId": "bw5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956077",
+        "reverse-holo": "956187"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

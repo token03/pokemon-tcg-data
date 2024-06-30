@@ -1,0 +1,25 @@
+{
+    "id": "gym1-81",
+    "name": "Lt. Surge's Pikachu",
+    "number": "81",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762190",
+        "1st-edition": "2156519"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.55",
+                "psa10": "$54.36",
+                "grade9": "$22.00"
+            },
+            "1st-edition": {
+                "ungraded": "$11.77",
+                "psa10": "$148.25",
+                "grade9": "$34.00"
+            }
+        }
+    }
+}

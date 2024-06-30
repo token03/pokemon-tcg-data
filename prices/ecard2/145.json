@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-145",
+    "name": "Boost Energy",
+    "number": "145",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842661",
+        "reverse-holo": "2294036"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.02",
+                "psa10": "$54.88",
+                "grade9": "$9.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.62",
+                "psa10": "$82.88",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

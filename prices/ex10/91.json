@@ -1,0 +1,25 @@
+{
+    "id": "ex10-91",
+    "name": "Sitrus Berry",
+    "number": "91",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888511",
+        "reverse-holo": "888653"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.95",
+                "psa10": "$90.20",
+                "grade9": "$31.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.79",
+                "psa10": "",
+                "grade9": "$44.70"
+            }
+        }
+    }
+}

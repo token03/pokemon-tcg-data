@@ -1,0 +1,25 @@
+{
+    "id": "xy4-6",
+    "name": "Swadloon",
+    "number": "6",
+    "setId": "xy4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958199",
+        "reverse-holo": "958321"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$36.19",
+                "grade9": "$13.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$39.21",
+                "grade9": "$15.17"
+            }
+        }
+    }
+}

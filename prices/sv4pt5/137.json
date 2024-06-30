@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-137",
+    "name": "Luxray",
+    "number": "137",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277056"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.66",
+                "psa10": "$42.25",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

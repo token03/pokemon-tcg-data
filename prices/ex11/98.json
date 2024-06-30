@@ -1,0 +1,25 @@
+{
+    "id": "ex11-98",
+    "name": "Holon Transceiver",
+    "number": "98",
+    "setId": "ex11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888760",
+        "reverse-holo": "888874"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.85",
+                "psa10": "$114.00",
+                "grade9": "$94.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.00",
+                "psa10": "$409.81",
+                "grade9": "$32.09"
+            }
+        }
+    }
+}

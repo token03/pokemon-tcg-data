@@ -1,0 +1,25 @@
+{
+    "id": "base5-78",
+    "name": "Goop Gas Attack",
+    "number": "78",
+    "setId": "base5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643485",
+        "1st-edition": "1341419"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$39.47",
+                "grade9": "$15.33"
+            },
+            "1st-edition": {
+                "ungraded": "$1.63",
+                "psa10": "$40.33",
+                "grade9": "$9.79"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw1-103",
+    "name": "Super Scoop Up",
+    "number": "103",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806409",
+        "reverse-holo": "806496"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.86",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

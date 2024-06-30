@@ -1,0 +1,31 @@
+{
+    "id": "dp1-56",
+    "name": "Monferno",
+    "number": "56",
+    "setId": "dp1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "763092",
+        "reverse-holo": "763214",
+        "stamped": "4360786"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$57.20",
+                "grade9": "$20.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.47",
+                "psa10": "$71.23",
+                "grade9": "$25.81"
+            },
+            "stamped": {
+                "ungraded": "$3.76",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

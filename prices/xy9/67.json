@@ -1,0 +1,25 @@
+{
+    "id": "xy9-67",
+    "name": "Sudowoodo",
+    "number": "67",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959558",
+        "reverse-holo": "959672"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$36.56",
+                "grade9": "$13.87"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$40.34",
+                "grade9": "$16.10"
+            }
+        }
+    }
+}

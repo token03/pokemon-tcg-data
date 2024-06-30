@@ -1,0 +1,25 @@
+{
+    "id": "ex5-19",
+    "name": "Huntail",
+    "number": "19",
+    "setId": "ex5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849792",
+        "reverse-holo": "849894"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.16",
+                "psa10": "$36.00",
+                "grade9": "$30.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$58.32",
+                "grade9": "$6.50"
+            }
+        }
+    }
+}

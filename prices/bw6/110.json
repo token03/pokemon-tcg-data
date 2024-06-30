@@ -1,0 +1,25 @@
+{
+    "id": "bw6-110",
+    "name": "Bouffalant",
+    "number": "110",
+    "setId": "bw6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956364",
+        "reverse-holo": "956485"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.33",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

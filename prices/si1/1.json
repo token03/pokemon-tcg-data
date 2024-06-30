@@ -1,0 +1,19 @@
+{
+    "id": "si1-1",
+    "name": "Mew",
+    "number": "1",
+    "setId": "si1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762474"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$53.00",
+                "psa10": "$4,219.50",
+                "grade9": "$412.76"
+            }
+        }
+    }
+}

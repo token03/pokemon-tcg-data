@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-37",
+    "name": "Suicune",
+    "number": "37",
+    "setId": "swsh3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "836579",
+        "reverse-holo": "887307"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.98",
+                "psa10": "$34.10",
+                "grade9": "$10.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.46",
+                "psa10": "$27.19",
+                "grade9": "$18.84"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw10-37",
+    "name": "Mesprit",
+    "number": "37",
+    "setId": "bw10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957339",
+        "reverse-holo": "957442"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.23",
+                "psa10": "$225.64",
+                "grade9": "$22.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.79",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

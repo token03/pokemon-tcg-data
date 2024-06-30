@@ -1,0 +1,25 @@
+{
+    "id": "dc1-32",
+    "name": "Team Magma's Secret Base",
+    "number": "32",
+    "setId": "dc1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958785",
+        "reverse-holo": "2978738"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.30",
+                "psa10": "$49.38",
+                "grade9": "$19.35"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

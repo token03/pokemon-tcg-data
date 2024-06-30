@@ -1,0 +1,25 @@
+{
+    "id": "pl3-66",
+    "name": "Manectric G",
+    "number": "66",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287113",
+        "reverse-holo": "1287267"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.51",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": "$26.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "g1-45",
+    "name": "Golem",
+    "number": "45",
+    "setId": "g1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959757",
+        "reverse-holo": "2978686"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.21",
+                "psa10": "$46.76",
+                "grade9": "$21.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$45.60",
+                "grade9": "$19.19"
+            }
+        }
+    }
+}

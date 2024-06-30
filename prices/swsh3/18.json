@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-18",
+    "name": "Golisopod",
+    "number": "18",
+    "setId": "swsh3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "887104",
+        "reverse-holo": "887293"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$17.98",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "$36.01",
+                "grade9": "$13.07"
+            }
+        }
+    }
+}

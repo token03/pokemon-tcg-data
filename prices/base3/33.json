@@ -1,0 +1,25 @@
+{
+    "id": "base3-33",
+    "name": "Gastly",
+    "number": "33",
+    "setId": "base3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643405",
+        "1st-edition": "1099527"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$85.32",
+                "grade9": "$26.04"
+            },
+            "1st-edition": {
+                "ungraded": "$3.00",
+                "psa10": "$89.00",
+                "grade9": "$29.46"
+            }
+        }
+    }
+}

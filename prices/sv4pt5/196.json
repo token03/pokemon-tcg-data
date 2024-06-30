@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-196",
+    "name": "Pidgey",
+    "number": "196",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277115"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.00",
+                "psa10": "$34.00",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

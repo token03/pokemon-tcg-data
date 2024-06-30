@@ -1,0 +1,19 @@
+{
+    "id": "dp7-101",
+    "name": "Charmander",
+    "number": "101",
+    "setId": "dp7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "925301"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$36.75",
+                "psa10": "$1,729.00",
+                "grade9": "$90.01"
+            }
+        }
+    }
+}

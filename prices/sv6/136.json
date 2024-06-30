@@ -1,0 +1,25 @@
+{
+    "id": "sv6-136",
+    "name": "Snorlax",
+    "number": "136",
+    "setId": "sv6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6769616",
+        "reverse-holo": "6769830"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$35.54",
+                "grade9": "$11.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "$36.34",
+                "grade9": "$11.65"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp7-90",
+    "name": "Pok\u00e9 Healer +",
+    "number": "90",
+    "setId": "dp7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925292",
+        "reverse-holo": "925389"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.14",
+                "psa10": "$56.42",
+                "grade9": "$20.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.24",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo4-33",
+    "name": "Dark Exeggutor",
+    "number": "33",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762564",
+        "1st-edition": "2183303"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.53",
+                "psa10": "$53.00",
+                "grade9": "$29.58"
+            },
+            "1st-edition": {
+                "ungraded": "$9.71",
+                "psa10": "$33.42",
+                "grade9": "$16.88"
+            }
+        }
+    }
+}

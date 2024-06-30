@@ -1,0 +1,25 @@
+{
+    "id": "pl2-15",
+    "name": "Beedrill",
+    "number": "15",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925411",
+        "reverse-holo": "925531"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$56.17",
+                "grade9": "$22.30"
+            }
+        }
+    }
+}

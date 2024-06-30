@@ -1,0 +1,19 @@
+{
+    "id": "ex8-105",
+    "name": "Latias \u2605",
+    "number": "105",
+    "setId": "ex8",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "888125"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$377.10",
+                "psa10": "$12,613.51",
+                "grade9": "$3,000.00"
+            }
+        }
+    }
+}

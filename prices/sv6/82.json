@@ -1,0 +1,25 @@
+{
+    "id": "sv6-82",
+    "name": "Alakazam",
+    "number": "82",
+    "setId": "sv6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6769562",
+        "reverse-holo": "6769781"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$35.00",
+                "grade9": "$11.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$37.18",
+                "grade9": "$11.87"
+            }
+        }
+    }
+}

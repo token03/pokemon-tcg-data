@@ -1,0 +1,19 @@
+{
+    "id": "sm4-34",
+    "name": "Alolan Golem-GX",
+    "number": "34",
+    "setId": "sm4",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961181"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$23.68",
+                "grade9": "$11.02"
+            }
+        }
+    }
+}

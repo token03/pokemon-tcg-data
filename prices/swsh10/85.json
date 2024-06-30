@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-85",
+    "name": "Kleavor",
+    "number": "85",
+    "setId": "swsh10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3489583",
+        "reverse-holo": "3489787"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$35.05",
+                "grade9": "$11.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.77",
+                "psa10": "$37.21",
+                "grade9": "$12.84"
+            }
+        }
+    }
+}

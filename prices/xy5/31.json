@@ -1,0 +1,25 @@
+{
+    "id": "xy5-31",
+    "name": "Seadra",
+    "number": "31",
+    "setId": "xy5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958488",
+        "reverse-holo": "958649"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "$39.87",
+                "grade9": "$15.60"
+            }
+        }
+    }
+}

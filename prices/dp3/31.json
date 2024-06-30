@@ -1,0 +1,25 @@
+{
+    "id": "dp3-31",
+    "name": "Magmortar",
+    "number": "31",
+    "setId": "dp3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920921",
+        "reverse-holo": "921053"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.06",
+                "psa10": "$40.00",
+                "grade9": "$33.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.89",
+                "psa10": "$107.21",
+                "grade9": "$30.50"
+            }
+        }
+    }
+}

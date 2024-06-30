@@ -1,0 +1,25 @@
+{
+    "id": "ex9-32",
+    "name": "Illumise",
+    "number": "32",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888257",
+        "reverse-holo": "888364"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.20",
+                "psa10": "$40.00",
+                "grade9": "$33.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.19",
+                "psa10": "$248.56",
+                "grade9": "$31.50"
+            }
+        }
+    }
+}

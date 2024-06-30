@@ -1,0 +1,25 @@
+{
+    "id": "sv1-84",
+    "name": "Ralts",
+    "number": "84",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933860",
+        "reverse-holo": "4934111"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.33",
+                "grade9": "$11.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$36.20",
+                "grade9": "$12.08"
+            }
+        }
+    }
+}

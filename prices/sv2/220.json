@@ -1,0 +1,19 @@
+{
+    "id": "sv2-220",
+    "name": "Nacli",
+    "number": "220",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287509"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.03",
+                "psa10": "$26.00",
+                "grade9": "$14.97"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm4-18",
+    "name": "Gyarados-GX",
+    "number": "18",
+    "setId": "sm4",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961165"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$49.99",
+                "grade9": "$20.78"
+            }
+        }
+    }
+}

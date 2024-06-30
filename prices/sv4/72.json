@@ -1,0 +1,31 @@
+{
+    "id": "sv4-72",
+    "name": "Xatu",
+    "number": "72",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5952909",
+        "holo": "5978907",
+        "reverse-holo": "5953169"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.31",
+                "psa10": "$39.29",
+                "grade9": "$12.74"
+            },
+            "holo": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": "$7.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "$36.46",
+                "grade9": "$11.91"
+            }
+        }
+    }
+}

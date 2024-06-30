@@ -1,0 +1,25 @@
+{
+    "id": "ex2-70",
+    "name": "Omanyte",
+    "number": "70",
+    "setId": "ex2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849258",
+        "reverse-holo": "849358"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.19",
+                "psa10": "$84.61",
+                "grade9": "$32.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.32",
+                "psa10": "$113.22",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

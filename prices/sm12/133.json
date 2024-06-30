@@ -1,0 +1,25 @@
+{
+    "id": "sm12-133",
+    "name": "Absol",
+    "number": "133",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964371",
+        "reverse-holo": "964631"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.82",
+                "grade9": "$12.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$37.71",
+                "grade9": "$14.32"
+            }
+        }
+    }
+}

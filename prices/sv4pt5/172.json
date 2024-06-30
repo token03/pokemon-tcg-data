@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-172",
+    "name": "Paldean Tauros",
+    "number": "172",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277091"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.42",
+                "psa10": "$25.30",
+                "grade9": "$7.93"
+            }
+        }
+    }
+}

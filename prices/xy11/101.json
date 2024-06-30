@@ -1,0 +1,25 @@
+{
+    "id": "xy11-101",
+    "name": "Gardevoir Spirit Link",
+    "number": "101",
+    "setId": "xy11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960180",
+        "reverse-holo": "960283"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$36.28",
+                "grade9": "$13.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.45",
+                "psa10": "$35.00",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm35-4",
+    "name": "Shroomish",
+    "number": "4",
+    "setId": "sm35",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961073",
+        "reverse-holo": "2978747"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$124.99",
+                "grade9": "$13.25"
+            }
+        }
+    }
+}

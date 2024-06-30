@@ -1,0 +1,25 @@
+{
+    "id": "pl1-106",
+    "name": "Galactic HQ",
+    "number": "106",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "805948",
+        "reverse-holo": "805950"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.86",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.55",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

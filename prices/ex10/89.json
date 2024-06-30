@@ -1,0 +1,25 @@
+{
+    "id": "ex10-89",
+    "name": "Professor Elm's Training Method",
+    "number": "89",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888509",
+        "reverse-holo": "888651"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$48.00",
+                "grade9": "$40.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.45",
+                "psa10": "$86.99",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo4-113",
+    "name": "Shining Tyranitar",
+    "number": "113",
+    "setId": "neo4",
+    "rarity": "Rare Shining",
+    "priceChartingIds": {
+        "normal": "762644",
+        "1st-edition": "2183384"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$253.47",
+                "psa10": "$1,275.00",
+                "grade9": "$537.50"
+            },
+            "1st-edition": {
+                "ungraded": "$561.23",
+                "psa10": "$3,725.00",
+                "grade9": "$1,244.32"
+            }
+        }
+    }
+}

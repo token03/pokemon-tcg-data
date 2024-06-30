@@ -1,0 +1,25 @@
+{
+    "id": "base5-30",
+    "name": "Dark Vileplume",
+    "number": "30",
+    "setId": "base5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341834",
+        "1st-edition": "1341372"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.08",
+                "psa10": "$32.48",
+                "grade9": "$17.99"
+            },
+            "1st-edition": {
+                "ungraded": "$9.00",
+                "psa10": "$67.49",
+                "grade9": "$27.99"
+            }
+        }
+    }
+}

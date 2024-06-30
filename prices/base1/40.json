@@ -1,0 +1,37 @@
+{
+    "id": "base1-40",
+    "name": "Raticate",
+    "number": "40",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630453",
+        "1st-edition": "715629",
+        "shadowless": "715731",
+        "trainer-deck-a": "2386893"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.98",
+                "psa10": "$43.44",
+                "grade9": "$12.76"
+            },
+            "1st-edition": {
+                "ungraded": "$9.99",
+                "psa10": "$200.00",
+                "grade9": "$44.45"
+            },
+            "shadowless": {
+                "ungraded": "$2.21",
+                "psa10": "$86.46",
+                "grade9": "$29.74"
+            },
+            "trainer-deck-a": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": "$187.50"
+            }
+        }
+    }
+}

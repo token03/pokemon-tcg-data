@@ -1,0 +1,19 @@
+{
+    "id": "sv6-203",
+    "name": "Caretaker",
+    "number": "203",
+    "setId": "sv6",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6775720"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.57",
+                "psa10": "$44.11",
+                "grade9": "$13.68"
+            }
+        }
+    }
+}

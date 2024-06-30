@@ -1,0 +1,25 @@
+{
+    "id": "gym2-5",
+    "name": "Giovanni's Gyarados",
+    "number": "5",
+    "setId": "gym2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762211",
+        "1st-edition": "1450200"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$46.50",
+                "psa10": "$407.31",
+                "grade9": "$118.42"
+            },
+            "1st-edition": {
+                "ungraded": "$125.00",
+                "psa10": "$1,000.00",
+                "grade9": "$249.62"
+            }
+        }
+    }
+}

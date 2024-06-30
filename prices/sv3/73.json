@@ -1,0 +1,19 @@
+{
+    "id": "sv3-73",
+    "name": "Pawmot ex",
+    "number": "73",
+    "setId": "sv3",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5605591"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.03",
+                "psa10": "$37.14",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

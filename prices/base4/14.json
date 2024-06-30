@@ -1,0 +1,19 @@
+{
+    "id": "base4-14",
+    "name": "Pidgeot",
+    "number": "14",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641817"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.71",
+                "psa10": "$373.00",
+                "grade9": "$60.46"
+            }
+        }
+    }
+}

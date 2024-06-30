@@ -1,0 +1,49 @@
+{
+    "id": "sv5-119",
+    "name": "Koraidon",
+    "number": "119",
+    "setId": "sv5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6635822",
+        "eb-games": "6769448",
+        "gamestop": "6518456",
+        "holo": "6495579",
+        "reverse-holo": "6495786",
+        "stamped": "6659921"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "",
+                "grade9": ""
+            },
+            "eb-games": {
+                "ungraded": "$19.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "gamestop": {
+                "ungraded": "$6.76",
+                "psa10": "$36.57",
+                "grade9": "$6.50"
+            },
+            "holo": {
+                "ungraded": "$1.05",
+                "psa10": "$35.00",
+                "grade9": "$11.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$39.45",
+                "grade9": "$12.57"
+            },
+            "stamped": {
+                "ungraded": "$10.45",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

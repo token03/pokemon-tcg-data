@@ -1,0 +1,25 @@
+{
+    "id": "ex3-56",
+    "name": "Geodude",
+    "number": "56",
+    "setId": "ex3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849436",
+        "reverse-holo": "849535"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$25.99",
+                "grade9": "$18.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.15",
+                "psa10": "$107.04",
+                "grade9": "$26.28"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo1-87",
+    "name": "Mary",
+    "number": "87",
+    "setId": "neo1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762400",
+        "1st-edition": "2324890"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.36",
+                "psa10": "$51.25",
+                "grade9": "$39.88"
+            },
+            "1st-edition": {
+                "ungraded": "$5.54",
+                "psa10": "$45.44",
+                "grade9": "$13.34"
+            }
+        }
+    }
+}

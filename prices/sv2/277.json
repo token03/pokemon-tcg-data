@@ -1,0 +1,19 @@
+{
+    "id": "sv2-277",
+    "name": "Superior Energy Retrieval",
+    "number": "277",
+    "setId": "sv2",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5287566"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.96",
+                "psa10": "$27.00",
+                "grade9": "$22.17"
+            }
+        }
+    }
+}

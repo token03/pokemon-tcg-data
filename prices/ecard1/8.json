@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-8",
+    "name": "Cloyster",
+    "number": "8",
+    "setId": "ecard1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842424",
+        "reverse-holo": "2266863"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.72",
+                "psa10": "$335.35",
+                "grade9": "$104.69"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.47",
+                "psa10": "$144.25",
+                "grade9": "$45.00"
+            }
+        }
+    }
+}

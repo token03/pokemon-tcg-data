@@ -1,0 +1,25 @@
+{
+    "id": "bw7-6",
+    "name": "Tangrowth",
+    "number": "6",
+    "setId": "bw7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956521",
+        "reverse-holo": "956674"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$140.36",
+                "grade9": "$16.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

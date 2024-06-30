@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-58",
+    "name": "Regieleki VMAX",
+    "number": "58",
+    "setId": "swsh12",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "4277178"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.86",
+                "psa10": "$14.95",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

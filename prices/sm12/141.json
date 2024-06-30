@@ -1,0 +1,25 @@
+{
+    "id": "sm12-141",
+    "name": "Probopass",
+    "number": "141",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964379",
+        "reverse-holo": "964639"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "$31.93",
+                "grade9": "$11.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

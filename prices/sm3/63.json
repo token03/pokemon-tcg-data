@@ -1,0 +1,19 @@
+{
+    "id": "sm3-63",
+    "name": "Necrozma-GX",
+    "number": "63",
+    "setId": "sm3",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "960847"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.45",
+                "psa10": "$36.71",
+                "grade9": "$11.41"
+            }
+        }
+    }
+}

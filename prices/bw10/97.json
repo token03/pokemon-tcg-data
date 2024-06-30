@@ -1,0 +1,19 @@
+{
+    "id": "bw10-97",
+    "name": "Genesect-EX",
+    "number": "97",
+    "setId": "bw10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "957399"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.22",
+                "psa10": "$403.65",
+                "grade9": "$155.37"
+            }
+        }
+    }
+}

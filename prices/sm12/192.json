@@ -1,0 +1,25 @@
+{
+    "id": "sm12-192",
+    "name": "Great Catcher",
+    "number": "192",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964430",
+        "reverse-holo": "964684"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.81",
+                "psa10": "$36.97",
+                "grade9": "$13.91"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm35-40",
+    "name": "Shining Mew",
+    "number": "40",
+    "setId": "sm35",
+    "rarity": "Rare Shining",
+    "priceChartingIds": {
+        "normal": "961109"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$32.91",
+                "psa10": "$153.20",
+                "grade9": "$45.00"
+            }
+        }
+    }
+}

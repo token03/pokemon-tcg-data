@@ -1,0 +1,37 @@
+{
+    "id": "xy12-45",
+    "name": "Nidoking",
+    "number": "45",
+    "setId": "xy12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "6779878",
+        "holo": "960333",
+        "prerelease": "4234461",
+        "reverse-holo": "960427"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.05",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$2.94",
+                "psa10": "$430.00",
+                "grade9": "$14.37"
+            },
+            "prerelease": {
+                "ungraded": "$29.96",
+                "psa10": "$75.29",
+                "grade9": "$74.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.88",
+                "psa10": "$45.36",
+                "grade9": "$12.70"
+            }
+        }
+    }
+}

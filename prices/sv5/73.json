@@ -1,0 +1,25 @@
+{
+    "id": "sv5-73",
+    "name": "Elgyem",
+    "number": "73",
+    "setId": "sv5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6495533",
+        "reverse-holo": "6495745"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.80",
+                "grade9": "$11.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$35.43",
+                "grade9": "$11.47"
+            }
+        }
+    }
+}

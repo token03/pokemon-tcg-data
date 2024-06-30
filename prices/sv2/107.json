@@ -1,0 +1,37 @@
+{
+    "id": "sv2-107",
+    "name": "Primeape",
+    "number": "107",
+    "setId": "sv2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "cosmos-holo": "5441925",
+        "normal": "5287396",
+        "cosmo-holo": "5861847",
+        "reverse-holo": "5287664"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "cosmos-holo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$36.64",
+                "grade9": "$12.13"
+            },
+            "cosmo-holo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "$36.10",
+                "grade9": "$11.96"
+            }
+        }
+    }
+}

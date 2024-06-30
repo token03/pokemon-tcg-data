@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-92",
+    "name": "Grapploct",
+    "number": "92",
+    "setId": "swsh6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2253897",
+        "reverse-holo": "2254113"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$37.44",
+                "grade9": "$13.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.57",
+                "psa10": "$36.12",
+                "grade9": "$12.80"
+            }
+        }
+    }
+}

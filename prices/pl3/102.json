@@ -1,0 +1,25 @@
+{
+    "id": "pl3-102",
+    "name": "Doduo",
+    "number": "102",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287149",
+        "reverse-holo": "1287303"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.51",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

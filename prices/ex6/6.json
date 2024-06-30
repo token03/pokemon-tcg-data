@@ -1,0 +1,25 @@
+{
+    "id": "ex6-6",
+    "name": "Kangaskhan",
+    "number": "6",
+    "setId": "ex6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849973",
+        "reverse-holo": "850089"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.51",
+                "psa10": "$221.18",
+                "grade9": "$35.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.36",
+                "psa10": "$111.21",
+                "grade9": "$34.20"
+            }
+        }
+    }
+}

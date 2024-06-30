@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-33",
+    "name": "Vaporeon",
+    "number": "33",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842695",
+        "reverse-holo": "2252632"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.99",
+                "psa10": "$77.55",
+                "grade9": "$40.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$70.50",
+                "psa10": "$280.87",
+                "grade9": "$114.05"
+            }
+        }
+    }
+}

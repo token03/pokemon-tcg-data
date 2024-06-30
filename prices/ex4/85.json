@@ -1,0 +1,25 @@
+{
+    "id": "ex4-85",
+    "name": "Warp Point",
+    "number": "85",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849654",
+        "reverse-holo": "849751"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$6.80",
+                "psa10": "",
+                "grade9": "$14.99"
+            }
+        }
+    }
+}

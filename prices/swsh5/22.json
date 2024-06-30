@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-22",
+    "name": "Victini VMAX",
+    "number": "22",
+    "setId": "swsh5",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "1673203",
+        "play!": "6782112"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.29",
+                "psa10": "$20.50",
+                "grade9": "$10.00"
+            },
+            "play!": {
+                "ungraded": "$16.43",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

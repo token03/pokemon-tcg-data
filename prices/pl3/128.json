@@ -1,0 +1,25 @@
+{
+    "id": "pl3-128",
+    "name": "Skorupi",
+    "number": "128",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287176",
+        "reverse-holo": "1287329"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.65",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

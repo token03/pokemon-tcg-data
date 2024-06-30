@@ -1,0 +1,19 @@
+{
+    "id": "sm11-227",
+    "name": "Mawile-GX",
+    "number": "227",
+    "setId": "sm11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963793"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.42",
+                "psa10": "$29.85",
+                "grade9": "$20.16"
+            }
+        }
+    }
+}

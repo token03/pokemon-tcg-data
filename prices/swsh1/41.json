@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-41",
+    "name": "Cloyster",
+    "number": "41",
+    "setId": "swsh1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "807047",
+        "reverse-holo": "807048"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$31.00",
+                "grade9": "$12.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$13.50",
+                "grade9": "$12.65"
+            }
+        }
+    }
+}

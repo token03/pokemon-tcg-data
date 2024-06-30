@@ -1,0 +1,25 @@
+{
+    "id": "pl3-115",
+    "name": "Mime Jr.",
+    "number": "115",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287162",
+        "reverse-holo": "1287316"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "$47.81",
+                "grade9": "$17.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

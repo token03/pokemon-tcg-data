@@ -1,0 +1,25 @@
+{
+    "id": "dp7-13",
+    "name": "Bronzong",
+    "number": "13",
+    "setId": "dp7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925226",
+        "reverse-holo": "925316"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.19",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw6-21",
+    "name": "Magmortar",
+    "number": "21",
+    "setId": "bw6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956275",
+        "reverse-holo": "956403"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.16",
+                "psa10": "$48.25",
+                "grade9": "$19.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.50",
+                "psa10": "$59.54",
+                "grade9": "$24.82"
+            }
+        }
+    }
+}

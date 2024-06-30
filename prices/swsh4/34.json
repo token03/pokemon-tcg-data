@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-34",
+    "name": "Dewott",
+    "number": "34",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887590",
+        "reverse-holo": "887765"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.55",
+                "psa10": "$12.25",
+                "grade9": "$3.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "$34.42",
+                "grade9": "$5.38"
+            }
+        }
+    }
+}

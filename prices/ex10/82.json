@@ -1,0 +1,25 @@
+{
+    "id": "ex10-82",
+    "name": "Energy Removal 2",
+    "number": "82",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888502",
+        "reverse-holo": "888644"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$50.61",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.94",
+                "psa10": "$35.00",
+                "grade9": "$32.79"
+            }
+        }
+    }
+}

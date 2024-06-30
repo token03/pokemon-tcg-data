@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-13",
+    "name": "Shiftry",
+    "number": "13",
+    "setId": "swsh11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4049930",
+        "reverse-holo": "4050147"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.83",
+                "psa10": "$37.62",
+                "grade9": "$12.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "$36.71",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl3-89",
+    "name": "Baltoy",
+    "number": "89",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287136",
+        "reverse-holo": "1287290"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.88",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

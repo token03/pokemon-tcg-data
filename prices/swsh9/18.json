@@ -1,0 +1,31 @@
+{
+    "id": "swsh9-18",
+    "name": "Charizard VSTAR",
+    "number": "18",
+    "setId": "swsh9",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "3188243",
+        "jumbo": "4135426",
+        "prize-pack": "5672158"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.75",
+                "psa10": "$36.00",
+                "grade9": "$15.56"
+            },
+            "jumbo": {
+                "ungraded": "$16.16",
+                "psa10": "$399.99",
+                "grade9": ""
+            },
+            "prize-pack": {
+                "ungraded": "$130.56",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

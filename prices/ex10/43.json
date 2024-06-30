@@ -1,0 +1,25 @@
+{
+    "id": "ex10-43",
+    "name": "Noctowl",
+    "number": "43",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888463",
+        "reverse-holo": "888605"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$94.67",
+                "grade9": "$33.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.57",
+                "psa10": "$122.00",
+                "grade9": "$24.54"
+            }
+        }
+    }
+}

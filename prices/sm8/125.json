@@ -1,0 +1,25 @@
+{
+    "id": "sm8-125",
+    "name": "Steelix",
+    "number": "125",
+    "setId": "sm8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962513",
+        "reverse-holo": "962738"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$34.77",
+                "grade9": "$12.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.86",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

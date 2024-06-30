@@ -1,0 +1,25 @@
+{
+    "id": "dp2-45",
+    "name": "Dewgong",
+    "number": "45",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920668",
+        "reverse-holo": "920792"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.08",
+                "psa10": "$47.48",
+                "grade9": "$16.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": "$30.50"
+            }
+        }
+    }
+}

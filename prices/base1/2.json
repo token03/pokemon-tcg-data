@@ -1,0 +1,43 @@
+{
+    "id": "base1-2",
+    "name": "Blastoise",
+    "number": "2",
+    "setId": "base1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "630415",
+        "1st-edition": "715591",
+        "shadowless": "715693",
+        "stage-error": "4536070",
+        "trainer-deck-b": "2365260"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$51.91",
+                "psa10": "$2,000.02",
+                "grade9": "$348.79"
+            },
+            "1st-edition": {
+                "ungraded": "$545.25",
+                "psa10": "$22,235.27",
+                "grade9": "$3,757.70"
+            },
+            "shadowless": {
+                "ungraded": "$139.25",
+                "psa10": "$6,917.11",
+                "grade9": "$956.00"
+            },
+            "stage-error": {
+                "ungraded": "$287.63",
+                "psa10": "",
+                "grade9": "$999.00"
+            },
+            "trainer-deck-b": {
+                "ungraded": "$1,324.50",
+                "psa10": "$12,500.00",
+                "grade9": "$3,351.00"
+            }
+        }
+    }
+}

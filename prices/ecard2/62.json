@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-62",
+    "name": "Spinarak",
+    "number": "62",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842589",
+        "reverse-holo": "2293953"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$30.00",
+                "grade9": "$15.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.68",
+                "psa10": "$110.15",
+                "grade9": "$31.51"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm115-49",
+    "name": "Eevee",
+    "number": "49",
+    "setId": "sm115",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964069",
+        "reverse-holo": "964223"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$17.58",
+                "grade9": "$10.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.66",
+                "psa10": "$30.00",
+                "grade9": "$8.00"
+            }
+        }
+    }
+}

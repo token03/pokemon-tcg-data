@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-160",
+    "name": "Whimsicott V",
+    "number": "160",
+    "setId": "swsh9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3188384"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.13",
+                "psa10": "$22.76",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv5-129",
+    "name": "Dudunsparce",
+    "number": "129",
+    "setId": "sv5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6495589",
+        "reverse-holo": "6495793"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$36.06",
+                "grade9": "$11.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$36.89",
+                "grade9": "$11.87"
+            }
+        }
+    }
+}

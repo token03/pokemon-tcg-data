@@ -1,0 +1,25 @@
+{
+    "id": "dp3-101",
+    "name": "Qwilfish",
+    "number": "101",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920991",
+        "reverse-holo": "921122"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.63",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv1-32",
+    "name": "Arcanine ex",
+    "number": "32",
+    "setId": "sv1",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "4933809"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.12",
+                "psa10": "$24.24",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

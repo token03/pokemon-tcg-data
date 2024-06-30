@@ -1,0 +1,25 @@
+{
+    "id": "sm10-150",
+    "name": "Doduo",
+    "number": "150",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963306",
+        "reverse-holo": "963527"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

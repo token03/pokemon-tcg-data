@@ -1,0 +1,25 @@
+{
+    "id": "sm3-70",
+    "name": "Riolu",
+    "number": "70",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960854",
+        "reverse-holo": "961016"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$37.04",
+                "grade9": "$14.24"
+            }
+        }
+    }
+}

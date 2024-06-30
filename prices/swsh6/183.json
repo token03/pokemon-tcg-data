@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-183",
+    "name": "Blissey V",
+    "number": "183",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253987"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.99",
+                "psa10": "$67.33",
+                "grade9": "$29.42"
+            }
+        }
+    }
+}

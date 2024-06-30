@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-189",
+    "name": "Arezu",
+    "number": "189",
+    "setId": "swsh11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4050106"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.55",
+                "psa10": "$29.22",
+                "grade9": "$14.99"
+            }
+        }
+    }
+}

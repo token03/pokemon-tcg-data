@@ -1,0 +1,19 @@
+{
+    "id": "xy5-145",
+    "name": "Trevenant-EX",
+    "number": "145",
+    "setId": "xy5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958602"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.99",
+                "psa10": "$179.55",
+                "grade9": "$27.87"
+            }
+        }
+    }
+}

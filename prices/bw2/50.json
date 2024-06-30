@@ -1,0 +1,25 @@
+{
+    "id": "bw2-50",
+    "name": "Roggenrola",
+    "number": "50",
+    "setId": "bw2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955476",
+        "reverse-holo": "955573"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "",
+                "grade9": "$23.99"
+            }
+        }
+    }
+}

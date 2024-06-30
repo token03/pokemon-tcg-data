@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-201",
+    "name": "Ditto",
+    "number": "201",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277120"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.34",
+                "psa10": "$46.04",
+                "grade9": "$15.25"
+            }
+        }
+    }
+}

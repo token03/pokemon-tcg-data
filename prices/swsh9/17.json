@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-17",
+    "name": "Charizard V",
+    "number": "17",
+    "setId": "swsh9",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3188242",
+        "prize-pack": "5963740"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$39.50",
+                "grade9": "$15.79"
+            },
+            "prize-pack": {
+                "ungraded": "$51.05",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

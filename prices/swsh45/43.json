@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-43",
+    "name": "Spinarak",
+    "number": "43",
+    "setId": "swsh45",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1341520",
+        "reverse-holo": "1341707"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.34",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$34.71",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

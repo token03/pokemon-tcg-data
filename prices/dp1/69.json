@@ -1,0 +1,25 @@
+{
+    "id": "dp1-69",
+    "name": "Azurill",
+    "number": "69",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763105",
+        "reverse-holo": "763227"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.56",
+                "psa10": "$72.68",
+                "grade9": "$26.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$113.20",
+                "grade9": "$41.92"
+            }
+        }
+    }
+}

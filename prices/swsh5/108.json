@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-108",
+    "name": "Aegislash",
+    "number": "108",
+    "setId": "swsh5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1673287",
+        "reverse-holo": "1725080"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$34.49",
+                "grade9": "$12.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.65",
+                "psa10": "$11.51",
+                "grade9": "$11.19"
+            }
+        }
+    }
+}

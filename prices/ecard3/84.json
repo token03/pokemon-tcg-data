@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-84",
+    "name": "Pikachu",
+    "number": "84",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842741",
+        "reverse-holo": "2252682"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.92",
+                "psa10": "$151.95",
+                "grade9": "$49.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$99.00",
+                "psa10": "$759.18",
+                "grade9": "$209.72"
+            }
+        }
+    }
+}

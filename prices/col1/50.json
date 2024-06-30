@@ -1,0 +1,25 @@
+{
+    "id": "col1-50",
+    "name": "Riolu",
+    "number": "50",
+    "setId": "col1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926301",
+        "reverse-holo": "926407"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$47.59",
+                "grade9": "$18.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.19",
+                "psa10": "$220.00",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

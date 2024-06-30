@@ -1,0 +1,25 @@
+{
+    "id": "dp4-34",
+    "name": "Cacturne",
+    "number": "34",
+    "setId": "dp4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921188",
+        "reverse-holo": "921294"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.28",
+                "psa10": "$137.58",
+                "grade9": ""
+            }
+        }
+    }
+}

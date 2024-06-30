@@ -1,0 +1,25 @@
+{
+    "id": "dp4-43",
+    "name": "Linoone",
+    "number": "43",
+    "setId": "dp4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921197",
+        "reverse-holo": "921303"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.85",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

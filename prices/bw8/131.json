@@ -1,0 +1,19 @@
+{
+    "id": "bw8-131",
+    "name": "Victini-EX",
+    "number": "131",
+    "setId": "bw8",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956928"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.98",
+                "psa10": "$170.78",
+                "grade9": "$68.31"
+            }
+        }
+    }
+}

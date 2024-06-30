@@ -1,0 +1,31 @@
+{
+    "id": "xy1-17",
+    "name": "Vivillon",
+    "number": "17",
+    "setId": "xy1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806514",
+        "cosmos-holo": "6390601",
+        "reverse-holo": "806639"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.89",
+                "psa10": "$56.15",
+                "grade9": "$0.99"
+            },
+            "cosmos-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.94",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

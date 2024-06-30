@@ -1,0 +1,19 @@
+{
+    "id": "ex12-87",
+    "name": "Flygon ex",
+    "number": "87",
+    "setId": "ex12",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888969"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$34.75",
+                "psa10": "$812.50",
+                "grade9": "$132.60"
+            }
+        }
+    }
+}

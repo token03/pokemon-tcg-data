@@ -1,0 +1,25 @@
+{
+    "id": "neo3-7",
+    "name": "Ho-oh",
+    "number": "7",
+    "setId": "neo3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886591",
+        "1st-edition": "2427413"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$78.05",
+                "psa10": "$844.50",
+                "grade9": "$197.50"
+            },
+            "1st-edition": {
+                "ungraded": "$214.75",
+                "psa10": "$2,368.00",
+                "grade9": "$616.78"
+            }
+        }
+    }
+}

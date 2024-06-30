@@ -1,0 +1,25 @@
+{
+    "id": "ex8-28",
+    "name": "Whiscash",
+    "number": "28",
+    "setId": "ex8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888049",
+        "reverse-holo": "888156"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.21",
+                "psa10": "$47.00",
+                "grade9": "$38.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.31",
+                "psa10": "$67.47",
+                "grade9": "$29.37"
+            }
+        }
+    }
+}

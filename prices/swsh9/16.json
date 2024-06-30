@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-16",
+    "name": "Zarude V",
+    "number": "16",
+    "setId": "swsh9",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3188241"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "$11.50",
+                "grade9": "$8.04"
+            }
+        }
+    }
+}

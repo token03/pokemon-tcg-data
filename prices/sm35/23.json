@@ -1,0 +1,25 @@
+{
+    "id": "sm35-23",
+    "name": "Floatzel",
+    "number": "23",
+    "setId": "sm35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961092",
+        "reverse-holo": "2978762"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.01",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.54",
+                "psa10": "$36.79",
+                "grade9": "$14.08"
+            }
+        }
+    }
+}

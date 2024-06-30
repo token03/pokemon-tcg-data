@@ -1,0 +1,19 @@
+{
+    "id": "sv2-213",
+    "name": "Gothorita",
+    "number": "213",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287502"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.14",
+                "psa10": "$61.97",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

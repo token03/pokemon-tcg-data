@@ -1,0 +1,25 @@
+{
+    "id": "neo2-72",
+    "name": "Fossil Egg",
+    "number": "72",
+    "setId": "neo2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762426",
+        "1st-edition": "2158439"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$81.64",
+                "grade9": "$12.50"
+            },
+            "1st-edition": {
+                "ungraded": "$1.54",
+                "psa10": "$20.39",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-17",
+    "name": "Hisuian Lilligant V",
+    "number": "17",
+    "setId": "swsh10",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3489515"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$19.99",
+                "grade9": "$9.25"
+            }
+        }
+    }
+}

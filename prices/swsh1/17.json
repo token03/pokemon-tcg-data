@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-17",
+    "name": "Blipbug",
+    "number": "17",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1431208",
+        "reverse-holo": "1431205"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.06",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

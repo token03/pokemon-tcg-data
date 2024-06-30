@@ -1,0 +1,19 @@
+{
+    "id": "sm9-173",
+    "name": "Dana",
+    "number": "173",
+    "setId": "sm9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962971"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$40.00",
+                "psa10": "$127.93",
+                "grade9": "$48.69"
+            }
+        }
+    }
+}

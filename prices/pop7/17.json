@@ -1,0 +1,19 @@
+{
+    "id": "pop7-17",
+    "name": "Spinda",
+    "number": "17",
+    "setId": "pop7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762823"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$59.64",
+                "grade9": "$21.79"
+            }
+        }
+    }
+}

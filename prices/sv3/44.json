@@ -1,0 +1,25 @@
+{
+    "id": "sv3-44",
+    "name": "Armarouge",
+    "number": "44",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605562",
+        "reverse-holo": "5605797"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.94",
+                "psa10": "$34.21",
+                "grade9": "$11.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$35.08",
+                "grade9": "$11.57"
+            }
+        }
+    }
+}

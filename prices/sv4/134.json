@@ -1,0 +1,31 @@
+{
+    "id": "sv4-134",
+    "name": "Aegislash",
+    "number": "134",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5952972",
+        "holo": "5983536",
+        "reverse-holo": "5953225"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$38.12",
+                "grade9": "$12.40"
+            },
+            "holo": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": "$7.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$35.25",
+                "grade9": "$8.00"
+            }
+        }
+    }
+}

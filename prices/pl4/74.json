@@ -1,0 +1,25 @@
+{
+    "id": "pl4-74",
+    "name": "Shinx",
+    "number": "74",
+    "setId": "pl4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925693",
+        "reverse-holo": "925804"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.32",
+                "psa10": "",
+                "grade9": "$19.77"
+            }
+        }
+    }
+}

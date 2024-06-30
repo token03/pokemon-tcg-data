@@ -1,0 +1,19 @@
+{
+    "id": "mcd18-6",
+    "name": "Machop",
+    "number": "6",
+    "setId": "mcd18",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180045"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$44.05",
+                "grade9": "$12.77"
+            }
+        }
+    }
+}

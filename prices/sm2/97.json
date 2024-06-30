@@ -1,0 +1,25 @@
+{
+    "id": "sm2-97",
+    "name": "Drampa",
+    "number": "97",
+    "setId": "sm2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "960594",
+        "reverse-holo": "960753"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.48",
+                "psa10": "$59.99",
+                "grade9": "$19.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "$36.36",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

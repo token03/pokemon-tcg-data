@@ -1,0 +1,25 @@
+{
+    "id": "sv4-166",
+    "name": "Luxurious Cape",
+    "number": "166",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5953004",
+        "reverse-holo": "5953251"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "$35.95",
+                "grade9": "$11.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "$36.46",
+                "grade9": "$6.53"
+            }
+        }
+    }
+}

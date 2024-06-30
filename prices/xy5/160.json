@@ -1,0 +1,19 @@
+{
+    "id": "xy5-160",
+    "name": "Teammates",
+    "number": "160",
+    "setId": "xy5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958617"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.00",
+                "psa10": "$387.47",
+                "grade9": "$109.56"
+            }
+        }
+    }
+}

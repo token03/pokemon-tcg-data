@@ -1,0 +1,19 @@
+{
+    "id": "sv1-231",
+    "name": "Koraidon ex",
+    "number": "231",
+    "setId": "sv1",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "4934005"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.73",
+                "psa10": "$32.54",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo1-81",
+    "name": "Totodile",
+    "number": "81",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1431249",
+        "1st-edition": "2324937"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$83.74",
+                "grade9": "$22.73"
+            },
+            "1st-edition": {
+                "ungraded": "$3.25",
+                "psa10": "$89.99",
+                "grade9": "$20.09"
+            }
+        }
+    }
+}

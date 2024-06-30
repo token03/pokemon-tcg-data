@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-81",
+    "name": "Sandygast",
+    "number": "81",
+    "setId": "swsh2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886810",
+        "reverse-holo": "887001"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

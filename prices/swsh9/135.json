@@ -1,0 +1,31 @@
+{
+    "id": "swsh9-135",
+    "name": "Choice Belt",
+    "number": "135",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188359",
+        "holo-prize-pack-stamp": "6115083",
+        "reverse-holo": "3219479"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$34.37",
+                "grade9": "$11.79"
+            },
+            "holo-prize-pack-stamp": {
+                "ungraded": "$2.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "$34.69",
+                "grade9": "$11.93"
+            }
+        }
+    }
+}

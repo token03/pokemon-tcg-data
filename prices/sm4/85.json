@@ -1,0 +1,25 @@
+{
+    "id": "sm4-85",
+    "name": "Minccino",
+    "number": "85",
+    "setId": "sm4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961231",
+        "reverse-holo": "961348"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.88",
+                "grade9": "$12.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$36.00",
+                "grade9": "$13.61"
+            }
+        }
+    }
+}

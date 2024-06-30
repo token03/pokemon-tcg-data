@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-156",
+    "name": "Rubber Gloves",
+    "number": "156",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512967",
+        "reverse-holo": "2513169"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "$34.57",
+                "grade9": "$12.03"
+            }
+        }
+    }
+}

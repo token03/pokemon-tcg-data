@@ -1,0 +1,31 @@
+{
+    "id": "base1-3",
+    "name": "Chansey",
+    "number": "3",
+    "setId": "base1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "630416",
+        "1st-edition": "715592",
+        "shadowless": "715694"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.73",
+                "psa10": "$1,985.75",
+                "grade9": "$120.49"
+            },
+            "1st-edition": {
+                "ungraded": "$178.64",
+                "psa10": "$31,206.00",
+                "grade9": "$1,538.38"
+            },
+            "shadowless": {
+                "ungraded": "$31.28",
+                "psa10": "$2,676.51",
+                "grade9": "$1,013.00"
+            }
+        }
+    }
+}

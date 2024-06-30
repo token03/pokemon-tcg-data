@@ -1,0 +1,25 @@
+{
+    "id": "dp3-33",
+    "name": "Mothim",
+    "number": "33",
+    "setId": "dp3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920923",
+        "reverse-holo": "921055"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$52.74",
+                "grade9": "$18.91"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.23",
+                "psa10": "",
+                "grade9": "$33.61"
+            }
+        }
+    }
+}

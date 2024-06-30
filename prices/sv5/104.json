@@ -1,0 +1,19 @@
+{
+    "id": "sv5-104",
+    "name": "Gengar ex",
+    "number": "104",
+    "setId": "sv5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "6495564"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.89",
+                "psa10": "$40.50",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

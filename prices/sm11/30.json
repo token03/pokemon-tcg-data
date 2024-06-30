@@ -1,0 +1,25 @@
+{
+    "id": "sm11-30",
+    "name": "Chandelure",
+    "number": "30",
+    "setId": "sm11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963596",
+        "reverse-holo": "963852"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "$40.00",
+                "grade9": "$20.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$41.58",
+                "grade9": "$16.52"
+            }
+        }
+    }
+}

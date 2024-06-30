@@ -1,0 +1,25 @@
+{
+    "id": "bw3-46",
+    "name": "Cofagrigus",
+    "number": "46",
+    "setId": "bw3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955701",
+        "reverse-holo": "955803"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.59",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-239",
+    "name": "Penny",
+    "number": "239",
+    "setId": "sv4pt5",
+    "rarity": "Special Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6277158"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.00",
+                "psa10": "$59.22",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

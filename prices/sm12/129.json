@@ -1,0 +1,19 @@
+{
+    "id": "sm12-129",
+    "name": "Alolan Persian-GX",
+    "number": "129",
+    "setId": "sm12",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964367"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$28.95",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

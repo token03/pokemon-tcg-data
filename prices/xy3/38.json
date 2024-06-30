@@ -1,0 +1,25 @@
+{
+    "id": "xy3-38",
+    "name": "Skorupi",
+    "number": "38",
+    "setId": "xy3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958021",
+        "reverse-holo": "958131"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "$37.47",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

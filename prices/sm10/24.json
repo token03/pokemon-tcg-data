@@ -1,0 +1,25 @@
+{
+    "id": "sm10-24",
+    "name": "Darmanitan",
+    "number": "24",
+    "setId": "sm10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963180",
+        "reverse-holo": "963411"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "$35.60",
+                "grade9": "$13.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "$34.74",
+                "grade9": "$12.72"
+            }
+        }
+    }
+}

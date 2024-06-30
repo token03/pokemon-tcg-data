@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-94",
+    "name": "Umbreon V",
+    "number": "94",
+    "setId": "swsh7",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2512906",
+        "prize-pack-series-one": "4651966"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.65",
+                "psa10": "$46.43",
+                "grade9": "$18.00"
+            },
+            "prize-pack-series-one": {
+                "ungraded": "$35.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

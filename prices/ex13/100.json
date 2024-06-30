@@ -1,0 +1,19 @@
+{
+    "id": "ex13-100",
+    "name": "Mew ex",
+    "number": "100",
+    "setId": "ex13",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889180"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$105.75",
+                "psa10": "$1,287.51",
+                "grade9": "$274.00"
+            }
+        }
+    }
+}

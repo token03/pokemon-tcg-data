@@ -1,0 +1,25 @@
+{
+    "id": "sm9-128",
+    "name": "Kangaskhan",
+    "number": "128",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962926",
+        "reverse-holo": "963109"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$4.24",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.14",
+                "psa10": "$36.67",
+                "grade9": "$14.99"
+            }
+        }
+    }
+}

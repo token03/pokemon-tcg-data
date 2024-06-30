@@ -1,0 +1,25 @@
+{
+    "id": "dp2-50",
+    "name": "Golbat",
+    "number": "50",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920673",
+        "reverse-holo": "920797"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.89",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

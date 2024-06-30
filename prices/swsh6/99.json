@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-99",
+    "name": "Galarian Slowking V",
+    "number": "99",
+    "setId": "swsh6",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2253904"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$23.99",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

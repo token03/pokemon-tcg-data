@@ -1,0 +1,25 @@
+{
+    "id": "xy8-139",
+    "name": "Glalie Spirit Link",
+    "number": "139",
+    "setId": "xy8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959328",
+        "reverse-holo": "959478"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.73",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

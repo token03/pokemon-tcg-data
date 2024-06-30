@@ -1,0 +1,25 @@
+{
+    "id": "gym2-124",
+    "name": "Fervor",
+    "number": "124",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762320",
+        "1st-edition": "1450318"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$30.00",
+                "grade9": "$25.30"
+            },
+            "1st-edition": {
+                "ungraded": "$2.86",
+                "psa10": "$37.03",
+                "grade9": "$12.27"
+            }
+        }
+    }
+}

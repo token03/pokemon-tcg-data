@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-231",
+    "name": "Paldean Student",
+    "number": "231",
+    "setId": "sv4pt5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6277150"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$16.00",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

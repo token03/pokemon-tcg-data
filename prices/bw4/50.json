@@ -1,0 +1,25 @@
+{
+    "id": "bw4-50",
+    "name": "Zekrom",
+    "number": "50",
+    "setId": "bw4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955902",
+        "reverse-holo": "956002"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.84",
+                "psa10": "$46.53",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.34",
+                "psa10": "$51.79",
+                "grade9": "$20.62"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm10-149",
+    "name": "Persian-GX",
+    "number": "149",
+    "setId": "sm10",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963305"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.36",
+                "psa10": "$23.04",
+                "grade9": "$14.97"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-199",
+    "name": "Bede",
+    "number": "199",
+    "setId": "swsh1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2336162"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.23",
+                "psa10": "$24.99",
+                "grade9": "$12.57"
+            }
+        }
+    }
+}

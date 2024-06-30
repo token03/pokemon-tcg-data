@@ -1,0 +1,25 @@
+{
+    "id": "xy12-3",
+    "name": "Caterpie",
+    "number": "3",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960291",
+        "reverse-holo": "960393"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.97",
+                "psa10": "$78.74",
+                "grade9": "$10.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$26.92",
+                "grade9": "$13.14"
+            }
+        }
+    }
+}

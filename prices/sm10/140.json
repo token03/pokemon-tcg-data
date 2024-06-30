@@ -1,0 +1,19 @@
+{
+    "id": "sm10-140",
+    "name": "Whimsicott-GX",
+    "number": "140",
+    "setId": "sm10",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963296"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$15.50",
+                "grade9": "$9.80"
+            }
+        }
+    }
+}

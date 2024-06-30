@@ -1,0 +1,25 @@
+{
+    "id": "dp7-7",
+    "name": "Mismagius",
+    "number": "7",
+    "setId": "dp7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925220",
+        "reverse-holo": "925311"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.98",
+                "psa10": "$99.84",
+                "grade9": "$23.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

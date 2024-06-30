@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-226",
+    "name": "Bug Catcher",
+    "number": "226",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771252",
+        "reverse-holo": "2771508"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "$34.22",
+                "grade9": "$11.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.13",
+                "psa10": "$34.46",
+                "grade9": "$11.92"
+            }
+        }
+    }
+}

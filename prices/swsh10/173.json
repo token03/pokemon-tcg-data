@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-173",
+    "name": "Hisuian Decidueye V",
+    "number": "173",
+    "setId": "swsh10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3489672"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.38",
+                "psa10": "$22.65",
+                "grade9": "$9.01"
+            }
+        }
+    }
+}

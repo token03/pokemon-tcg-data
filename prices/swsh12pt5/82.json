@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-82",
+    "name": "Dragalge",
+    "number": "82",
+    "setId": "swsh12pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4636978",
+        "reverse-holo": "4637192"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$35.41",
+                "grade9": "$11.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$36.44",
+                "grade9": "$12.24"
+            }
+        }
+    }
+}

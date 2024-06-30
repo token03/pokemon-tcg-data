@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-100",
+    "name": "Snover",
+    "number": "100",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277018"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.24",
+                "psa10": "$16.50",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "dp6-2",
+    "name": "Dragonite",
+    "number": "2",
+    "setId": "dp6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "924933",
+        "national-championships-staff": "4781292",
+        "national-championships": "4781293",
+        "reverse-holo": "925079"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.74",
+                "psa10": "$377.68",
+                "grade9": "$176.87"
+            },
+            "national-championships-staff": {
+                "ungraded": "$282.01",
+                "psa10": "$1,264.45",
+                "grade9": "$575.00"
+            },
+            "national-championships": {
+                "ungraded": "$99.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$18.66",
+                "psa10": "$297.86",
+                "grade9": "$118.92"
+            }
+        }
+    }
+}

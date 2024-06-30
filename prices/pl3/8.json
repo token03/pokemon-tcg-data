@@ -1,0 +1,31 @@
+{
+    "id": "pl3-8",
+    "name": "Rayquaza C",
+    "number": "8",
+    "setId": "pl3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1287055",
+        "cracked-ice": "5923908",
+        "reverse-holo": "1287209"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.52",
+                "psa10": "$366.86",
+                "grade9": "$75.00"
+            },
+            "cracked-ice": {
+                "ungraded": "$46.00",
+                "psa10": "",
+                "grade9": "$1,017.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.11",
+                "psa10": "$222.71",
+                "grade9": "$77.00"
+            }
+        }
+    }
+}

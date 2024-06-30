@@ -1,0 +1,25 @@
+{
+    "id": "sv6-20",
+    "name": "Poltchageist",
+    "number": "20",
+    "setId": "sv6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6769500",
+        "reverse-holo": "6769726"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$34.70",
+                "grade9": "$11.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$34.90",
+                "grade9": "$11.28"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "base6-80",
+    "name": "Magnemite",
+    "number": "80",
+    "setId": "base6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842386",
+        "reverse-holo": "2253762"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$24.05",
+                "grade9": "$9.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$40.58",
+                "psa10": "$319.05",
+                "grade9": "$95.12"
+            }
+        }
+    }
+}

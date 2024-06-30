@@ -1,0 +1,25 @@
+{
+    "id": "dp3-123",
+    "name": "Professor Rowan",
+    "number": "123",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921013",
+        "reverse-holo": "921145"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.46",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

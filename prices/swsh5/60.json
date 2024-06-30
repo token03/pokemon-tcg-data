@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-60",
+    "name": "Espurr",
+    "number": "60",
+    "setId": "swsh5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1673240",
+        "reverse-holo": "4946868"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.80",
+                "grade9": "$11.81"
+            },
+            "reverse-holo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

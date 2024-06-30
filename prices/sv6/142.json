@@ -1,0 +1,25 @@
+{
+    "id": "sv6-142",
+    "name": "Accompanying Flute",
+    "number": "142",
+    "setId": "sv6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6769622",
+        "reverse-holo": "6769835"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.90",
+                "grade9": "$11.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.26",
+                "psa10": "$36.78",
+                "grade9": "$11.77"
+            }
+        }
+    }
+}

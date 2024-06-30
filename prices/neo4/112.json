@@ -1,0 +1,25 @@
+{
+    "id": "neo4-112",
+    "name": "Shining Steelix",
+    "number": "112",
+    "setId": "neo4",
+    "rarity": "Rare Shining",
+    "priceChartingIds": {
+        "normal": "762643",
+        "1st-edition": "2183383"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$115.53",
+                "psa10": "$515.00",
+                "grade9": "$326.24"
+            },
+            "1st-edition": {
+                "ungraded": "$280.00",
+                "psa10": "$1,233.59",
+                "grade9": "$468.88"
+            }
+        }
+    }
+}

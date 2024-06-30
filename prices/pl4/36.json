@@ -1,0 +1,25 @@
+{
+    "id": "pl4-36",
+    "name": "Gastly",
+    "number": "36",
+    "setId": "pl4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925655",
+        "reverse-holo": "925766"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.16",
+                "psa10": "",
+                "grade9": "$45.00"
+            }
+        }
+    }
+}

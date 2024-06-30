@@ -1,0 +1,25 @@
+{
+    "id": "pl2-75",
+    "name": "Nuzleaf",
+    "number": "75",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925471",
+        "reverse-holo": "925590"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.77",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw9-21",
+    "name": "Wooper",
+    "number": "21",
+    "setId": "bw9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957076",
+        "reverse-holo": "957196"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$41.28",
+                "grade9": "$15.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

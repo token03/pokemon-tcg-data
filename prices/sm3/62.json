@@ -1,0 +1,25 @@
+{
+    "id": "sm3-62",
+    "name": "Palossand",
+    "number": "62",
+    "setId": "sm3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "960846",
+        "reverse-holo": "961010"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$36.07",
+                "grade9": "$6.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "$34.43",
+                "grade9": "$12.67"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex12-38",
+    "name": "Lairon",
+    "number": "38",
+    "setId": "ex12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888920",
+        "reverse-holo": "889013"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.40",
+                "psa10": "$87.00",
+                "grade9": "$26.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "$84.00",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

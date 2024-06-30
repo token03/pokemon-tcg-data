@@ -1,0 +1,19 @@
+{
+    "id": "sv1-19",
+    "name": "Spidops ex",
+    "number": "19",
+    "setId": "sv1",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "4933796"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$16.03",
+                "grade9": "$6.33"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-40",
+    "name": "Shellder",
+    "number": "40",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807263",
+        "reverse-holo": "807264"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

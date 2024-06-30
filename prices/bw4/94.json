@@ -1,0 +1,19 @@
+{
+    "id": "bw4-94",
+    "name": "Shaymin-EX",
+    "number": "94",
+    "setId": "bw4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "955946"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.49",
+                "psa10": "$416.25",
+                "grade9": "$54.53"
+            }
+        }
+    }
+}

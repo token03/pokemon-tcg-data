@@ -1,0 +1,25 @@
+{
+    "id": "ex4-29",
+    "name": "Team Aqua's Manectric",
+    "number": "29",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849598",
+        "reverse-holo": "849695"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.79",
+                "psa10": "",
+                "grade9": "$15.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.52",
+                "psa10": "",
+                "grade9": "$34.02"
+            }
+        }
+    }
+}

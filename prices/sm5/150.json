@@ -1,0 +1,19 @@
+{
+    "id": "sm5-150",
+    "name": "Lana",
+    "number": "150",
+    "setId": "sm5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961513"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$44.73",
+                "psa10": "$200.00",
+                "grade9": "$50.07"
+            }
+        }
+    }
+}

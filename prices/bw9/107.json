@@ -1,0 +1,19 @@
+{
+    "id": "bw9-107",
+    "name": "Life Dew",
+    "number": "107",
+    "setId": "bw9",
+    "rarity": "Rare ACE",
+    "priceChartingIds": {
+        "normal": "957161"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.04",
+                "psa10": "$91.23",
+                "grade9": "$22.07"
+            }
+        }
+    }
+}

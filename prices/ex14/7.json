@@ -1,0 +1,25 @@
+{
+    "id": "ex14-7",
+    "name": "Luvdisc",
+    "number": "7",
+    "setId": "ex14",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889294",
+        "reverse-holo": "889394"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.55",
+                "psa10": "$81.04",
+                "grade9": "$29.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.00",
+                "psa10": "$139.12",
+                "grade9": "$16.72"
+            }
+        }
+    }
+}

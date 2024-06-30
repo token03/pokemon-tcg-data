@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-2",
+    "name": "Kakuna",
+    "number": "2",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "841997",
+        "reverse-holo": "887739"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.14",
+                "psa10": "$34.38",
+                "grade9": "$12.18"
+            }
+        }
+    }
+}

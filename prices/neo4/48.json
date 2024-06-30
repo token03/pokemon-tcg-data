@@ -1,0 +1,25 @@
+{
+    "id": "neo4-48",
+    "name": "Light Jolteon",
+    "number": "48",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762608",
+        "1st-edition": "2183348"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.10",
+                "psa10": "$132.50",
+                "grade9": "$41.29"
+            },
+            "1st-edition": {
+                "ungraded": "$41.40",
+                "psa10": "$375.00",
+                "grade9": "$97.51"
+            }
+        }
+    }
+}

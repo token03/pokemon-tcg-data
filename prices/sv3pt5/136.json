@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-136",
+    "name": "Flareon",
+    "number": "136",
+    "setId": "sv3pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5809517",
+        "reverse-holo": "5809717"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$23.04",
+                "grade9": "$5.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$39.45",
+                "grade9": "$8.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-136",
+    "name": "Cleansing Gloves",
+    "number": "136",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188360",
+        "reverse-holo": "3219481"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.01",
+                "grade9": "$12.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$35.53",
+                "grade9": "$12.27"
+            }
+        }
+    }
+}

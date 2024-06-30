@@ -1,0 +1,25 @@
+{
+    "id": "sm11-56",
+    "name": "Pikachu",
+    "number": "56",
+    "setId": "sm11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963622",
+        "reverse-holo": "963875"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.23",
+                "psa10": "$34.75",
+                "grade9": "$18.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$32.00",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

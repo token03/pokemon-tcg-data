@@ -1,0 +1,19 @@
+{
+    "id": "xy5-156",
+    "name": "M Gardevoir-EX",
+    "number": "156",
+    "setId": "xy5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958613"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.29",
+                "psa10": "$540.36",
+                "grade9": "$67.38"
+            }
+        }
+    }
+}

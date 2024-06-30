@@ -1,0 +1,25 @@
+{
+    "id": "ex1-82",
+    "name": "Energy Switch",
+    "number": "82",
+    "setId": "ex1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762935",
+        "reverse-holo": "763017"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$55.00",
+                "grade9": "$46.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.93",
+                "psa10": "$59.48",
+                "grade9": "$25.47"
+            }
+        }
+    }
+}

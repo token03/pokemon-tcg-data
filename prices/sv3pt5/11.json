@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-11",
+    "name": "Metapod",
+    "number": "11",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809391",
+        "reverse-holo": "5809599"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.91",
+                "psa10": "$38.77",
+                "grade9": "$12.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.25",
+                "psa10": "$20.50",
+                "grade9": "$13.12"
+            }
+        }
+    }
+}

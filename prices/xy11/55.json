@@ -1,0 +1,25 @@
+{
+    "id": "xy11-55",
+    "name": "Probopass",
+    "number": "55",
+    "setId": "xy11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960134",
+        "reverse-holo": "960245"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$35.14",
+                "grade9": "$13.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "$37.70",
+                "grade9": "$14.59"
+            }
+        }
+    }
+}

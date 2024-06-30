@@ -1,0 +1,25 @@
+{
+    "id": "sm2-79",
+    "name": "Honchkrow",
+    "number": "79",
+    "setId": "sm2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960576",
+        "reverse-holo": "960737"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$35.04",
+                "grade9": "$13.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$37.04",
+                "grade9": "$14.24"
+            }
+        }
+    }
+}

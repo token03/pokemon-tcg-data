@@ -1,0 +1,25 @@
+{
+    "id": "col1-63",
+    "name": "Mareep",
+    "number": "63",
+    "setId": "col1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "926314",
+        "reverse-holo": "926420"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$44.97",
+                "grade9": "$19.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.28",
+                "psa10": "",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

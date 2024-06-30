@@ -1,0 +1,25 @@
+{
+    "id": "base6-13",
+    "name": "Hitmonlee",
+    "number": "13",
+    "setId": "base6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842320",
+        "reverse-holo": "2253697"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.07",
+                "psa10": "$266.27",
+                "grade9": "$51.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$35.64",
+                "psa10": "$447.58",
+                "grade9": "$135.00"
+            }
+        }
+    }
+}

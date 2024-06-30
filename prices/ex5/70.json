@@ -1,0 +1,25 @@
+{
+    "id": "ex5-70",
+    "name": "Rhyhorn",
+    "number": "70",
+    "setId": "ex5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849843",
+        "reverse-holo": "849945"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.79",
+                "psa10": "$117.51",
+                "grade9": "$39.71"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.00",
+                "psa10": "$145.45",
+                "grade9": "$29.85"
+            }
+        }
+    }
+}

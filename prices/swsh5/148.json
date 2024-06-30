@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-148",
+    "name": "Mimikyu V",
+    "number": "148",
+    "setId": "swsh5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "1673328"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.46",
+                "psa10": "$52.25",
+                "grade9": "$15.31"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ex8-104",
+    "name": "Sharpedo ex",
+    "number": "104",
+    "setId": "ex8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888124"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.02",
+                "psa10": "$373.00",
+                "grade9": "$84.36"
+            }
+        }
+    }
+}

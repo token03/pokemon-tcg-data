@@ -1,0 +1,19 @@
+{
+    "id": "sv4-212",
+    "name": "Loudred",
+    "number": "212",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953050"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.00",
+                "psa10": "$77.08",
+                "grade9": "$28.00"
+            }
+        }
+    }
+}

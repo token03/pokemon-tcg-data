@@ -1,0 +1,19 @@
+{
+    "id": "sv6-68",
+    "name": "Luxray ex",
+    "number": "68",
+    "setId": "sv6",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "6769548"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "$39.01",
+                "grade9": "$12.35"
+            }
+        }
+    }
+}

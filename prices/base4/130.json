@@ -1,0 +1,19 @@
+{
+    "id": "base4-130",
+    "name": "Water Energy",
+    "number": "130",
+    "setId": "base4",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "641932"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "$61.75",
+                "grade9": "$14.01"
+            }
+        }
+    }
+}

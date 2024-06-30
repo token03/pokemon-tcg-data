@@ -1,0 +1,19 @@
+{
+    "id": "sv4-223",
+    "name": "Iron Hands ex",
+    "number": "223",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953062"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.34",
+                "psa10": "$34.97",
+                "grade9": "$17.66"
+            }
+        }
+    }
+}

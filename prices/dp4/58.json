@@ -1,0 +1,25 @@
+{
+    "id": "dp4-58",
+    "name": "Wailmer",
+    "number": "58",
+    "setId": "dp4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921212",
+        "reverse-holo": "921318"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.90",
+                "psa10": "$174.87",
+                "grade9": "$10.51"
+            }
+        }
+    }
+}

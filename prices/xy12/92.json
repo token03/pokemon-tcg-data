@@ -1,0 +1,25 @@
+{
+    "id": "xy12-92",
+    "name": "Fire Energy",
+    "number": "92",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2775139",
+        "reverse-holo": "2358128"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.54",
+                "psa10": "$50.61",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.78",
+                "psa10": "$52.11",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

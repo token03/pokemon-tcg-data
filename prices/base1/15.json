@@ -1,0 +1,31 @@
+{
+    "id": "base1-15",
+    "name": "Venusaur",
+    "number": "15",
+    "setId": "base1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "630428",
+        "1st-edition": "715604",
+        "shadowless": "715706"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$42.00",
+                "psa10": "$1,169.57",
+                "grade9": "$267.68"
+            },
+            "1st-edition": {
+                "ungraded": "$488.26",
+                "psa10": "$13,434.06",
+                "grade9": "$2,650.50"
+            },
+            "shadowless": {
+                "ungraded": "$106.97",
+                "psa10": "$3,075.00",
+                "grade9": "$748.67"
+            }
+        }
+    }
+}

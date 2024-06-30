@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-55",
+    "name": "Makuhita",
+    "number": "55",
+    "setId": "hgss3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925942",
+        "reverse-holo": "926033"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.64",
+                "psa10": "",
+                "grade9": "$21.96"
+            }
+        }
+    }
+}

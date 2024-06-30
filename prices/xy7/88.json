@@ -1,0 +1,19 @@
+{
+    "id": "xy7-88",
+    "name": "M Ampharos-EX",
+    "number": "88",
+    "setId": "xy7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959106"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.13",
+                "psa10": "$141.14",
+                "grade9": "$49.27"
+            }
+        }
+    }
+}

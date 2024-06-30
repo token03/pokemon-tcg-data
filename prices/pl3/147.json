@@ -1,0 +1,19 @@
+{
+    "id": "pl3-147",
+    "name": "Staraptor FB LV.X",
+    "number": "147",
+    "setId": "pl3",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "1287195"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.00",
+                "psa10": "$1,445.00",
+                "grade9": "$59.50"
+            }
+        }
+    }
+}

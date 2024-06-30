@@ -1,0 +1,25 @@
+{
+    "id": "sv6-6",
+    "name": "Sunkern",
+    "number": "6",
+    "setId": "sv6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6769486",
+        "reverse-holo": "6769711"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "$37.28",
+                "grade9": "$11.90"
+            }
+        }
+    }
+}

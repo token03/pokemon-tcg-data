@@ -1,0 +1,37 @@
+{
+    "id": "base5-5",
+    "name": "Dark Dragonite",
+    "number": "5",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "5528495",
+        "1st-edition-error": "4050361",
+        "1st-edition": "1341347",
+        "holo": "643453"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$38.73",
+                "psa10": "",
+                "grade9": "$175.28"
+            },
+            "1st-edition-error": {
+                "ungraded": "",
+                "psa10": "$3,203.00",
+                "grade9": "$3,000.00"
+            },
+            "1st-edition": {
+                "ungraded": "$101.00",
+                "psa10": "$2,375.00",
+                "grade9": "$384.46"
+            },
+            "holo": {
+                "ungraded": "$50.99",
+                "psa10": "$1,018.88",
+                "grade9": "$172.87"
+            }
+        }
+    }
+}

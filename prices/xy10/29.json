@@ -1,0 +1,25 @@
+{
+    "id": "xy10-29",
+    "name": "Mew",
+    "number": "29",
+    "setId": "xy10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959886",
+        "reverse-holo": "960006"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$45.82",
+                "grade9": "$16.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.44",
+                "psa10": "$62.72",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

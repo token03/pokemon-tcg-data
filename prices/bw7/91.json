@@ -1,0 +1,25 @@
+{
+    "id": "bw7-91",
+    "name": "Liepard",
+    "number": "91",
+    "setId": "bw7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956606",
+        "reverse-holo": "956752"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.39",
+                "psa10": "$58.03",
+                "grade9": "$24.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.85",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

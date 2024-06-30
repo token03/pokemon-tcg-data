@@ -1,0 +1,25 @@
+{
+    "id": "xy2-88",
+    "name": "Blacksmith",
+    "number": "88",
+    "setId": "xy2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957835",
+        "reverse-holo": "957935"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.83",
+                "psa10": "$49.20",
+                "grade9": "$20.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.12",
+                "psa10": "$46.41",
+                "grade9": "$18.93"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "base1-21",
+    "name": "Electrode",
+    "number": "21",
+    "setId": "base1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "630434",
+        "1st-edition": "715610",
+        "shadowless": "715712"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$76.49",
+                "grade9": "$17.99"
+            },
+            "1st-edition": {
+                "ungraded": "$45.99",
+                "psa10": "$491.50",
+                "grade9": "$99.50"
+            },
+            "shadowless": {
+                "ungraded": "$4.81",
+                "psa10": "$112.46",
+                "grade9": "$39.71"
+            }
+        }
+    }
+}

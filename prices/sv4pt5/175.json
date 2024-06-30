@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-175",
+    "name": "Hawlucha",
+    "number": "175",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277094"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.98",
+                "psa10": "$38.00",
+                "grade9": "$8.34"
+            }
+        }
+    }
+}

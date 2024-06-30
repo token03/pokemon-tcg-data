@@ -1,0 +1,25 @@
+{
+    "id": "sv2-133",
+    "name": "Sneasel",
+    "number": "133",
+    "setId": "sv2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5287422",
+        "reverse-holo": "5287687"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.81",
+                "psa10": "$33.61",
+                "grade9": "$11.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.33",
+                "psa10": "$35.93",
+                "grade9": "$11.90"
+            }
+        }
+    }
+}

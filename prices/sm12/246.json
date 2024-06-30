@@ -1,0 +1,19 @@
+{
+    "id": "sm12-246",
+    "name": "Excadrill",
+    "number": "246",
+    "setId": "sm12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "964484"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$27.58",
+                "grade9": "$11.41"
+            }
+        }
+    }
+}

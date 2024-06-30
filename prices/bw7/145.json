@@ -1,0 +1,19 @@
+{
+    "id": "bw7-145",
+    "name": "Black Kyurem-EX",
+    "number": "145",
+    "setId": "bw7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956660"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$52.37",
+                "psa10": "$2,099.90",
+                "grade9": "$126.26"
+            }
+        }
+    }
+}

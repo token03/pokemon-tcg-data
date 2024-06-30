@@ -1,0 +1,19 @@
+{
+    "id": "sv4-233",
+    "name": "Maushold ex",
+    "number": "233",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953072"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.05",
+                "psa10": "$46.50",
+                "grade9": "$12.70"
+            }
+        }
+    }
+}

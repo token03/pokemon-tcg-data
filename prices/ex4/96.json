@@ -1,0 +1,19 @@
+{
+    "id": "ex4-96",
+    "name": "Absol",
+    "number": "96",
+    "setId": "ex4",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "849665"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$82.63",
+                "psa10": "$500.00",
+                "grade9": "$164.35"
+            }
+        }
+    }
+}

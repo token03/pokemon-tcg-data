@@ -1,0 +1,25 @@
+{
+    "id": "ex14-87",
+    "name": "Potion",
+    "number": "87",
+    "setId": "ex14",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889374",
+        "reverse-holo": "889473"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$65.20",
+                "grade9": "$23.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.49",
+                "psa10": "$93.35",
+                "grade9": "$14.99"
+            }
+        }
+    }
+}

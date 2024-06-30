@@ -1,0 +1,25 @@
+{
+    "id": "neo1-4",
+    "name": "Feraligatr",
+    "number": "4",
+    "setId": "neo1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762326",
+        "1st-edition": "2324862"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.74",
+                "psa10": "$453.89",
+                "grade9": "$99.43"
+            },
+            "1st-edition": {
+                "ungraded": "$79.07",
+                "psa10": "$1,262.50",
+                "grade9": "$195.25"
+            }
+        }
+    }
+}

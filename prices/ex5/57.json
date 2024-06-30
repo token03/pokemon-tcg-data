@@ -1,0 +1,25 @@
+{
+    "id": "ex5-57",
+    "name": "Chinchou",
+    "number": "57",
+    "setId": "ex5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849830",
+        "reverse-holo": "849932"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$23.00",
+                "grade9": "$19.33"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.72",
+                "psa10": "$115.92",
+                "grade9": "$16.41"
+            }
+        }
+    }
+}

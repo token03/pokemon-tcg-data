@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-203",
+    "name": "Telescopic Sight",
+    "number": "203",
+    "setId": "swsh4",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "887736"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$20.24",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

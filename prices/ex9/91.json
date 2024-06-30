@@ -1,0 +1,19 @@
+{
+    "id": "ex9-91",
+    "name": "Cacturne ex",
+    "number": "91",
+    "setId": "ex9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888316"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.12",
+                "psa10": "$1,329.51",
+                "grade9": "$92.48"
+            }
+        }
+    }
+}

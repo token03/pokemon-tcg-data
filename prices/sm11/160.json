@@ -1,0 +1,19 @@
+{
+    "id": "sm11-160",
+    "name": "Naganadel-GX",
+    "number": "160",
+    "setId": "sm11",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963726"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.66",
+                "psa10": "$23.68",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

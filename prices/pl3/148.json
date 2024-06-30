@@ -1,0 +1,19 @@
+{
+    "id": "pl3-148",
+    "name": "Articuno",
+    "number": "148",
+    "setId": "pl3",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "1287196"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$70.00",
+                "psa10": "$856.03",
+                "grade9": "$200.72"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy8-103",
+    "name": "Florges",
+    "number": "103",
+    "setId": "xy8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959292",
+        "reverse-holo": "959444"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$39.05",
+                "grade9": "$15.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$40.83",
+                "grade9": "$16.33"
+            }
+        }
+    }
+}

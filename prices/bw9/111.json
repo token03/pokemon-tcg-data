@@ -1,0 +1,19 @@
+{
+    "id": "bw9-111",
+    "name": "Deoxys-EX",
+    "number": "111",
+    "setId": "bw9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "957165"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$38.88",
+                "psa10": "$789.70",
+                "grade9": "$129.95"
+            }
+        }
+    }
+}

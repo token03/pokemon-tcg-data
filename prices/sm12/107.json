@@ -1,0 +1,25 @@
+{
+    "id": "sm12-107",
+    "name": "Trapinch",
+    "number": "107",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964345",
+        "reverse-holo": "964607"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$34.05",
+                "grade9": "$12.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$35.55",
+                "grade9": "$13.10"
+            }
+        }
+    }
+}

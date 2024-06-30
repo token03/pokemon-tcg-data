@@ -1,0 +1,19 @@
+{
+    "id": "sv4-202",
+    "name": "Garganacl",
+    "number": "202",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953040"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.25",
+                "psa10": "$40.00",
+                "grade9": "$10.24"
+            }
+        }
+    }
+}

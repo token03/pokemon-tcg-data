@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-21",
+    "name": "Skarmory",
+    "number": "21",
+    "setId": "hgss3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925908",
+        "reverse-holo": "925999"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "$42.88",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.03",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

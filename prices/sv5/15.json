@@ -1,0 +1,25 @@
+{
+    "id": "sv5-15",
+    "name": "Whimsicott",
+    "number": "15",
+    "setId": "sv5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6495475",
+        "reverse-holo": "6495693"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.75",
+                "psa10": "$33.64",
+                "grade9": "$10.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "$37.03",
+                "grade9": "$11.91"
+            }
+        }
+    }
+}

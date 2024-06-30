@@ -1,0 +1,25 @@
+{
+    "id": "sv3-64",
+    "name": "Magneton",
+    "number": "64",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605582",
+        "reverse-holo": "5605817"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$35.07",
+                "grade9": "$11.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "$36.30",
+                "grade9": "$11.95"
+            }
+        }
+    }
+}

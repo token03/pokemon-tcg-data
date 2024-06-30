@@ -1,0 +1,19 @@
+{
+    "id": "basep-39",
+    "name": "Misdreavus",
+    "number": "39",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "6149127"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$50.71",
+                "psa10": "$2,048.12",
+                "grade9": "$372.72"
+            }
+        }
+    }
+}

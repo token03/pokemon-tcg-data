@@ -1,0 +1,31 @@
+{
+    "id": "bw8-123",
+    "name": "Hypnotoxic Laser",
+    "number": "123",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956920",
+        "league-promo": "6604663",
+        "reverse-holo": "957050"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$49.00",
+                "grade9": "$40.75"
+            },
+            "league-promo": {
+                "ungraded": "$60.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$6.13",
+                "psa10": "$78.41",
+                "grade9": "$34.91"
+            }
+        }
+    }
+}

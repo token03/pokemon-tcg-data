@@ -1,0 +1,25 @@
+{
+    "id": "bw9-30",
+    "name": "Cryogonal",
+    "number": "30",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957085",
+        "reverse-holo": "957205"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "$39.75",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.32",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

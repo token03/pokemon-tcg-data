@@ -1,0 +1,25 @@
+{
+    "id": "ex1-77",
+    "name": "Wingull",
+    "number": "77",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762930",
+        "reverse-holo": "763012"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$44.56",
+                "grade9": "$40.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.40",
+                "psa10": "$66.00",
+                "grade9": "$55.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy5-19",
+    "name": "Trevenant-EX",
+    "number": "19",
+    "setId": "xy5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958476"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$46.45",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

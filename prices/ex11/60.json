@@ -1,0 +1,25 @@
+{
+    "id": "ex11-60",
+    "name": "Cubone",
+    "number": "60",
+    "setId": "ex11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888722",
+        "reverse-holo": "888836"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.04",
+                "psa10": "$150.56",
+                "grade9": "$15.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.00",
+                "psa10": "$161.22",
+                "grade9": "$33.13"
+            }
+        }
+    }
+}

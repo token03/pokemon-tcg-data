@@ -1,0 +1,19 @@
+{
+    "id": "sm8-223",
+    "name": "Tyranitar-GX",
+    "number": "223",
+    "setId": "sm8",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "962611"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.27",
+                "psa10": "$174.27",
+                "grade9": "$54.67"
+            }
+        }
+    }
+}

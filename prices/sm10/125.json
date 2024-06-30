@@ -1,0 +1,25 @@
+{
+    "id": "sm10-125",
+    "name": "Aggron",
+    "number": "125",
+    "setId": "sm10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963281",
+        "reverse-holo": "963505"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$35.37",
+                "grade9": "$13.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.09",
+                "psa10": "$40.00",
+                "grade9": "$13.87"
+            }
+        }
+    }
+}

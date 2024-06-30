@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-36",
+    "name": "Clefable",
+    "number": "36",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809416",
+        "reverse-holo": "5809623"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$35.00",
+                "grade9": "$11.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$36.24",
+                "grade9": "$9.17"
+            }
+        }
+    }
+}

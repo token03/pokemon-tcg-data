@@ -1,0 +1,19 @@
+{
+    "id": "pop9-10",
+    "name": "Pachirisu",
+    "number": "10",
+    "setId": "pop9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762868"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.96",
+                "psa10": "$69.73",
+                "grade9": "$61.48"
+            }
+        }
+    }
+}

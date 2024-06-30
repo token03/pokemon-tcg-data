@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-70",
+    "name": "Snubbull",
+    "number": "70",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887156",
+        "reverse-holo": "887338"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.81",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

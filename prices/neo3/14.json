@@ -1,0 +1,25 @@
+{
+    "id": "neo3-14",
+    "name": "Suicune",
+    "number": "14",
+    "setId": "neo3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762547",
+        "1st-edition": "2427452"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$65.84",
+                "psa10": "$2,475.00",
+                "grade9": "$197.50"
+            },
+            "1st-edition": {
+                "ungraded": "$227.75",
+                "psa10": "$8,114.80",
+                "grade9": "$567.89"
+            }
+        }
+    }
+}

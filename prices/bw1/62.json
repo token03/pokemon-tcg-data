@@ -1,0 +1,25 @@
+{
+    "id": "bw1-62",
+    "name": "Sawk",
+    "number": "62",
+    "setId": "bw1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806371",
+        "reverse-holo": "806458"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.78",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

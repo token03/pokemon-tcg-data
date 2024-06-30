@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-125",
+    "name": "Veluza",
+    "number": "125",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277044"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.22",
+                "psa10": "$38.95",
+                "grade9": "$16.82"
+            }
+        }
+    }
+}

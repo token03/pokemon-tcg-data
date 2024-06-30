@@ -1,0 +1,25 @@
+{
+    "id": "bw5-93",
+    "name": "Dark Patch",
+    "number": "93",
+    "setId": "bw5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956139",
+        "reverse-holo": "956245"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.94",
+                "psa10": "$55.74",
+                "grade9": "$6.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.62",
+                "psa10": "$88.01",
+                "grade9": "$15.02"
+            }
+        }
+    }
+}

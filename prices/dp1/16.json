@@ -1,0 +1,25 @@
+{
+    "id": "dp1-16",
+    "name": "Staraptor",
+    "number": "16",
+    "setId": "dp1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "763052",
+        "reverse-holo": "763174"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.40",
+                "psa10": "$192.36",
+                "grade9": "$65.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.95",
+                "psa10": "$112.52",
+                "grade9": "$37.91"
+            }
+        }
+    }
+}

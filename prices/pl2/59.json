@@ -1,0 +1,25 @@
+{
+    "id": "pl2-59",
+    "name": "Eevee",
+    "number": "59",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925455",
+        "reverse-holo": "925574"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.74",
+                "psa10": "$64.99",
+                "grade9": "$28.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.20",
+                "psa10": "$167.72",
+                "grade9": "$68.12"
+            }
+        }
+    }
+}

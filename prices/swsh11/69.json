@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-69",
+    "name": "Radiant Gardevoir",
+    "number": "69",
+    "setId": "swsh11",
+    "rarity": "Radiant Rare",
+    "priceChartingIds": {
+        "normal": "4049986",
+        "prize-pack": "5810701"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$19.00",
+                "grade9": "$9.35"
+            },
+            "prize-pack": {
+                "ungraded": "$25.10",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy4-15",
+    "name": "Totodile",
+    "number": "15",
+    "setId": "xy4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958208",
+        "reverse-holo": "958330"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$38.91",
+                "grade9": "$12.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$107.50",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

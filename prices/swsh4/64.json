@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-64",
+    "name": "Clefable",
+    "number": "64",
+    "setId": "swsh4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887615",
+        "reverse-holo": "887788"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$13.50",
+                "grade9": "$3.91"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.70",
+                "psa10": "$24.72",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

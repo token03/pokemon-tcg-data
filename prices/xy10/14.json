@@ -1,0 +1,19 @@
+{
+    "id": "xy10-14",
+    "name": "Delphox BREAK",
+    "number": "14",
+    "setId": "xy10",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "959871"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.71",
+                "psa10": "$26.04",
+                "grade9": "$12.71"
+            }
+        }
+    }
+}

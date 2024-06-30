@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-37",
+    "name": "Poliwhirl",
+    "number": "37",
+    "setId": "hgss2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287379",
+        "reverse-holo": "1287475"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.38",
+                "psa10": "$227.50",
+                "grade9": "$65.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.07",
+                "psa10": "$63.81",
+                "grade9": "$25.01"
+            }
+        }
+    }
+}

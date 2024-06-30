@@ -1,0 +1,31 @@
+{
+    "id": "base6-3",
+    "name": "Charizard",
+    "number": "3",
+    "setId": "base6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842310",
+        "holo": "4787624",
+        "reverse-holo": "2253687"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$55.02",
+                "psa10": "$1,225.00",
+                "grade9": "$283.78"
+            },
+            "holo": {
+                "ungraded": "$80.72",
+                "psa10": "$2,931.06",
+                "grade9": "$670.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$600.63",
+                "psa10": "$15,243.51",
+                "grade9": "$3,313.32"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "base5-77",
+    "name": "Nightly Garbage Run",
+    "number": "77",
+    "setId": "base5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643495",
+        "1st-edition": "1341418"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.91",
+                "psa10": "$60.00",
+                "grade9": "$13.01"
+            },
+            "1st-edition": {
+                "ungraded": "$3.42",
+                "psa10": "$115.00",
+                "grade9": "$23.07"
+            }
+        }
+    }
+}

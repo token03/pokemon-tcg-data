@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-98",
+    "name": "Onix",
+    "number": "98",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842618",
+        "reverse-holo": "2293989"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$59.35",
+                "grade9": "$40.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.62",
+                "psa10": "$115.00",
+                "grade9": "$47.31"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-201",
+    "name": "Giratina VSTAR",
+    "number": "201",
+    "setId": "swsh11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "4050118"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.00",
+                "psa10": "$70.00",
+                "grade9": "$23.95"
+            }
+        }
+    }
+}

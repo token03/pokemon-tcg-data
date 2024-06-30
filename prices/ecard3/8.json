@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-8",
+    "name": "Flareon",
+    "number": "8",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842672",
+        "reverse-holo": "2252608"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.00",
+                "psa10": "$66.00",
+                "grade9": "$31.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$64.88",
+                "psa10": "$318.85",
+                "grade9": "$107.50"
+            }
+        }
+    }
+}

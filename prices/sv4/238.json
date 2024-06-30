@@ -1,0 +1,19 @@
+{
+    "id": "sv4-238",
+    "name": "Parasol Lady",
+    "number": "238",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953077"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.75",
+                "psa10": "$39.99",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

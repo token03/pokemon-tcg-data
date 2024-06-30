@@ -1,0 +1,25 @@
+{
+    "id": "neo1-105",
+    "name": "Recycle Energy",
+    "number": "105",
+    "setId": "neo1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2183444",
+        "1st-edition": "2324912"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.30",
+                "psa10": "$17.19",
+                "grade9": "$13.61"
+            },
+            "1st-edition": {
+                "ungraded": "$7.48",
+                "psa10": "$93.50",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

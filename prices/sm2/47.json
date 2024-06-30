@@ -1,0 +1,19 @@
+{
+    "id": "sm2-47",
+    "name": "Tapu Koko-GX",
+    "number": "47",
+    "setId": "sm2",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "960544"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$22.49",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

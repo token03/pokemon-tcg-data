@@ -1,0 +1,25 @@
+{
+    "id": "xy11-105",
+    "name": "Special Charge",
+    "number": "105",
+    "setId": "xy11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960184",
+        "reverse-holo": "960287"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.40",
+                "psa10": "$19.50",
+                "grade9": "$17.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.27",
+                "psa10": "$41.21",
+                "grade9": "$16.68"
+            }
+        }
+    }
+}

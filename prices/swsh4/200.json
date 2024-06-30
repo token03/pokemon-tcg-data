@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-200",
+    "name": "Cape of Toughness",
+    "number": "200",
+    "setId": "swsh4",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "842165"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.61",
+                "psa10": "$19.15",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

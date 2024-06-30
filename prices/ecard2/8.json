@@ -1,0 +1,31 @@
+{
+    "id": "ecard2-8",
+    "name": "Electrode",
+    "number": "8",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842537",
+        "reverse-holo": "2293899",
+        "box-topper": "5878912"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.75",
+                "psa10": "$59.11",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$15.67",
+                "psa10": "$165.73",
+                "grade9": "$45.90"
+            },
+            "box-topper": {
+                "ungraded": "$85.00",
+                "psa10": "",
+                "grade9": "$239.54"
+            }
+        }
+    }
+}

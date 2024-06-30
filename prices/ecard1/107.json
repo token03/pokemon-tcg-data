@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-107",
+    "name": "Dratini",
+    "number": "107",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842481",
+        "reverse-holo": "2266960"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.55",
+                "psa10": "$49.99",
+                "grade9": "$23.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$15.99",
+                "psa10": "$470.17",
+                "grade9": "$55.51"
+            }
+        }
+    }
+}

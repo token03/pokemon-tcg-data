@@ -1,0 +1,19 @@
+{
+    "id": "cel25c-113_A",
+    "name": "Reshiram",
+    "number": "113",
+    "setId": "cel25c",
+    "rarity": "Classic Collection",
+    "priceChartingIds": {
+        "normal": "2618174"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.74",
+                "psa10": "$30.26",
+                "grade9": "$13.38"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-152",
+    "name": "Xatu",
+    "number": "152",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277071"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.14",
+                "psa10": "$26.62",
+                "grade9": "$11.07"
+            }
+        }
+    }
+}

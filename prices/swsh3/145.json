@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-145",
+    "name": "Starly",
+    "number": "145",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887224",
+        "reverse-holo": "887401"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.91",
+                "psa10": "$25.00",
+                "grade9": "$11.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.14",
+                "psa10": "$49.99",
+                "grade9": "$12.22"
+            }
+        }
+    }
+}

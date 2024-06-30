@@ -1,0 +1,25 @@
+{
+    "id": "sv3-173",
+    "name": "Audino",
+    "number": "173",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605691",
+        "reverse-holo": "5605909"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$35.12",
+                "grade9": "$11.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "$36.76",
+                "grade9": "$12.09"
+            }
+        }
+    }
+}

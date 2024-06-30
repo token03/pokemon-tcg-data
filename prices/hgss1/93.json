@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-93",
+    "name": "Full Heal",
+    "number": "93",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806204",
+        "reverse-holo": "806311"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.52",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

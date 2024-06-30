@@ -1,0 +1,19 @@
+{
+    "id": "mcd14-9",
+    "name": "Swirlix",
+    "number": "9",
+    "setId": "mcd14",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180000"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.52",
+                "psa10": "$52.82",
+                "grade9": "$22.54"
+            }
+        }
+    }
+}

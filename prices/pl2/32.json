@@ -1,0 +1,25 @@
+{
+    "id": "pl2-32",
+    "name": "Rhyperior E4",
+    "number": "32",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925428",
+        "reverse-holo": "925547"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "$72.00",
+                "grade9": "$60.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

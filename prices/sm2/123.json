@@ -1,0 +1,25 @@
+{
+    "id": "sm2-123",
+    "name": "Energy Recycler",
+    "number": "123",
+    "setId": "sm2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960620",
+        "reverse-holo": "960777"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$37.67",
+                "grade9": "$14.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.22",
+                "psa10": "$40.09",
+                "grade9": "$16.07"
+            }
+        }
+    }
+}

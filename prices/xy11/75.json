@@ -1,0 +1,19 @@
+{
+    "id": "xy11-75",
+    "name": "Magearna-EX",
+    "number": "75",
+    "setId": "xy11",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "960154"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.34",
+                "psa10": "$24.95",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

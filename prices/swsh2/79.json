@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-79",
+    "name": "Galarian Cursola",
+    "number": "79",
+    "setId": "swsh2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "886808",
+        "reverse-holo": "886999"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$0.99",
+                "psa10": "$18.00",
+                "grade9": "$14.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$20.77",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

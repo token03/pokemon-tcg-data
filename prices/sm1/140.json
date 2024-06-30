@@ -1,0 +1,19 @@
+{
+    "id": "sm1-140",
+    "name": "Espeon-GX",
+    "number": "140",
+    "setId": "sm1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2290837"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.74",
+                "psa10": "$75.34",
+                "grade9": "$30.20"
+            }
+        }
+    }
+}

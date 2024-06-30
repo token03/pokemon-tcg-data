@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-98",
+    "name": "Charmander",
+    "number": "98",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887917",
+        "reverse-holo": "2266951"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.25",
+                "psa10": "$96.18",
+                "grade9": "$27.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$43.14",
+                "psa10": "$340.00",
+                "grade9": "$95.00"
+            }
+        }
+    }
+}

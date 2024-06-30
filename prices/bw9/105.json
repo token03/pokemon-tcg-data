@@ -1,0 +1,25 @@
+{
+    "id": "bw9-105",
+    "name": "Team Plasma Ball",
+    "number": "105",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957159",
+        "reverse-holo": "957274"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$39.84",
+                "grade9": "$15.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

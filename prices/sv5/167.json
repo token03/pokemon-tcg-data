@@ -1,0 +1,19 @@
+{
+    "id": "sv5-167",
+    "name": "Litten",
+    "number": "167",
+    "setId": "sv5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6495627"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.64",
+                "psa10": "$61.00",
+                "grade9": "$18.37"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm12-145",
+    "name": "Alolan Ninetales",
+    "number": "145",
+    "setId": "sm12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "964383",
+        "reverse-holo": "964642"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.41",
+                "psa10": "$36.92",
+                "grade9": "$10.69"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.85",
+                "psa10": "$40.98",
+                "grade9": "$12.12"
+            }
+        }
+    }
+}

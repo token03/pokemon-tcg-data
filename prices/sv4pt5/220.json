@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-220",
+    "name": "Noivern ex",
+    "number": "220",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6277139"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.27",
+                "psa10": "$18.50",
+                "grade9": "$11.82"
+            }
+        }
+    }
+}

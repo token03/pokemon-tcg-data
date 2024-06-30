@@ -1,0 +1,25 @@
+{
+    "id": "xy3-46",
+    "name": "Machamp",
+    "number": "46",
+    "setId": "xy3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958029",
+        "reverse-holo": "958139"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$75.00",
+                "grade9": "$62.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.97",
+                "psa10": "$48.95",
+                "grade9": "$20.53"
+            }
+        }
+    }
+}

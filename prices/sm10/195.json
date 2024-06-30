@@ -1,0 +1,19 @@
+{
+    "id": "sm10-195",
+    "name": "Dedenne-GX",
+    "number": "195",
+    "setId": "sm10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963351"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$32.41",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex9-77",
+    "name": "Lanette's Net Search",
+    "number": "77",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888302",
+        "reverse-holo": "888409"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.88",
+                "psa10": "",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.99",
+                "psa10": "$302.76",
+                "grade9": "$82.95"
+            }
+        }
+    }
+}

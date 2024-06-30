@@ -1,0 +1,19 @@
+{
+    "id": "sm9-113",
+    "name": "Latias & Latios-GX",
+    "number": "113",
+    "setId": "sm9",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "962911"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.00",
+                "psa10": "$69.28",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

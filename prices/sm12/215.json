@@ -1,0 +1,19 @@
+{
+    "id": "sm12-215",
+    "name": "Blastoise & Piplup-GX",
+    "number": "215",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964453"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$84.50",
+                "psa10": "$325.00",
+                "grade9": "$114.73"
+            }
+        }
+    }
+}

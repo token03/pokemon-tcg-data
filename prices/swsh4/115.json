@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-115",
+    "name": "Steelix V",
+    "number": "115",
+    "setId": "swsh4",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "842110"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$15.42",
+                "grade9": "$7.73"
+            }
+        }
+    }
+}

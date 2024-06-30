@@ -1,0 +1,31 @@
+{
+    "id": "sv1-194",
+    "name": "Switch",
+    "number": "194",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933968",
+        "prize-pack": "6399952",
+        "reverse-holo": "4934214"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$35.86",
+                "grade9": "$11.96"
+            },
+            "prize-pack": {
+                "ungraded": "$2.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$35.37",
+                "grade9": "$11.80"
+            }
+        }
+    }
+}

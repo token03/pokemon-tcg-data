@@ -1,0 +1,37 @@
+{
+    "id": "swsh10-45",
+    "name": "Keldeo",
+    "number": "45",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "3489543",
+        "cosmos-holo": "5441696",
+        "holo": "5428790",
+        "reverse-holo": "3489754"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$36.40",
+                "grade9": "$10.00"
+            },
+            "cosmos-holo": {
+                "ungraded": "$2.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": "$21.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.47",
+                "psa10": "$40.06",
+                "grade9": "$13.96"
+            }
+        }
+    }
+}

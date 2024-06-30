@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-84",
+    "name": "Quagsire",
+    "number": "84",
+    "setId": "swsh4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887634",
+        "reverse-holo": "887807"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$35.26",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$31.75",
+                "grade9": "$7.32"
+            }
+        }
+    }
+}

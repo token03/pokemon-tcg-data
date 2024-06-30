@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-47",
+    "name": "Flaaffy",
+    "number": "47",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842574",
+        "reverse-holo": "2293938"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.87",
+                "psa10": "$68.27",
+                "grade9": "$29.98"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.79",
+                "psa10": "$89.00",
+                "grade9": "$27.47"
+            }
+        }
+    }
+}

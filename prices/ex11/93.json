@@ -1,0 +1,25 @@
+{
+    "id": "ex11-93",
+    "name": "Holon Mentor",
+    "number": "93",
+    "setId": "ex11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888755",
+        "reverse-holo": "888869"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$89.54",
+                "grade9": "$31.35"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.66",
+                "psa10": "$79.80",
+                "grade9": "$12.36"
+            }
+        }
+    }
+}

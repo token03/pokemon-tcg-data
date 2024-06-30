@@ -1,0 +1,25 @@
+{
+    "id": "base6-9",
+    "name": "Dark Vaporeon",
+    "number": "9",
+    "setId": "base6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842316",
+        "reverse-holo": "2253693"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$34.34",
+                "psa10": "$3,750.00",
+                "grade9": "$180.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$98.53",
+                "psa10": "$1,767.57",
+                "grade9": "$319.99"
+            }
+        }
+    }
+}

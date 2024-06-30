@@ -1,0 +1,25 @@
+{
+    "id": "dp2-11",
+    "name": "Lumineon",
+    "number": "11",
+    "setId": "dp2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920634",
+        "reverse-holo": "920759"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.62",
+                "psa10": "$64.99",
+                "grade9": "$43.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.11",
+                "psa10": "$80.39",
+                "grade9": "$29.55"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "base5-4",
+    "name": "Dark Charizard",
+    "number": "4",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643450",
+        "1st-edition": "1341346"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$105.22",
+                "psa10": "$1,430.62",
+                "grade9": "$229.48"
+            },
+            "1st-edition": {
+                "ungraded": "$250.00",
+                "psa10": "$3,250.00",
+                "grade9": "$710.13"
+            }
+        }
+    }
+}

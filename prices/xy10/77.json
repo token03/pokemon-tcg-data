@@ -1,0 +1,25 @@
+{
+    "id": "xy10-77",
+    "name": "Snorlax",
+    "number": "77",
+    "setId": "xy10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959934",
+        "reverse-holo": "960045"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.15",
+                "psa10": "$65.00",
+                "grade9": "$16.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$145.00",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

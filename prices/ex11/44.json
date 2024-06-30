@@ -1,0 +1,25 @@
+{
+    "id": "ex11-44",
+    "name": "Hariyama",
+    "number": "44",
+    "setId": "ex11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888706",
+        "reverse-holo": "888820"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.94",
+                "psa10": "$88.55",
+                "grade9": "$31.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$75.00",
+                "grade9": "$23.50"
+            }
+        }
+    }
+}

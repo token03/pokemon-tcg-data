@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-52",
+    "name": "Slowbro",
+    "number": "52",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806165",
+        "reverse-holo": "806271"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$53.04",
+                "grade9": "$20.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$65.66",
+                "grade9": "$25.62"
+            }
+        }
+    }
+}

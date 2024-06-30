@@ -1,0 +1,31 @@
+{
+    "id": "pl2-33",
+    "name": "Snorlax",
+    "number": "33",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925429",
+        "pokemon-league-holo": "6124822",
+        "reverse-holo": "925548"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.30",
+                "psa10": "$100.19",
+                "grade9": "$32.98"
+            },
+            "pokemon-league-holo": {
+                "ungraded": "$8.05",
+                "psa10": "$63.00",
+                "grade9": "$26.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.99",
+                "psa10": "$199.84",
+                "grade9": "$49.00"
+            }
+        }
+    }
+}

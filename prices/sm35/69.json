@@ -1,0 +1,25 @@
+{
+    "id": "sm35-69",
+    "name": "Double Colorless Energy",
+    "number": "69",
+    "setId": "sm35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961138",
+        "reverse-holo": "2978789"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.68",
+                "psa10": "$37.31",
+                "grade9": "$14.40"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.85",
+                "psa10": "$42.41",
+                "grade9": "$17.47"
+            }
+        }
+    }
+}

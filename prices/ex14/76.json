@@ -1,0 +1,25 @@
+{
+    "id": "ex14-76",
+    "name": "Crystal Shard",
+    "number": "76",
+    "setId": "ex14",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889363",
+        "reverse-holo": "889462"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.42",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$27.00",
+                "grade9": "$22.15"
+            }
+        }
+    }
+}

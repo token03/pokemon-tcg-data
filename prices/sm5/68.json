@@ -1,0 +1,25 @@
+{
+    "id": "sm5-68",
+    "name": "Hippopotas",
+    "number": "68",
+    "setId": "sm5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961431",
+        "reverse-holo": "961600"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$30.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.22",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

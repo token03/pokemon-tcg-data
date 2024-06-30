@@ -1,0 +1,19 @@
+{
+    "id": "sv6-189",
+    "name": "Sinistcha ex",
+    "number": "189",
+    "setId": "sv6",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6775707"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.70",
+                "psa10": "$42.37",
+                "grade9": "$13.23"
+            }
+        }
+    }
+}

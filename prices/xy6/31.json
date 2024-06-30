@@ -1,0 +1,25 @@
+{
+    "id": "xy6-31",
+    "name": "Banette",
+    "number": "31",
+    "setId": "xy6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958854",
+        "reverse-holo": "958963"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$37.98",
+                "grade9": "$14.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "$44.46",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex8-82",
+    "name": "Wurmple",
+    "number": "82",
+    "setId": "ex8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888102",
+        "reverse-holo": "888210"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.31",
+                "psa10": "$23.35",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.50",
+                "psa10": "$77.99",
+                "grade9": "$23.48"
+            }
+        }
+    }
+}

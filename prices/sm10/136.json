@@ -1,0 +1,25 @@
+{
+    "id": "sm10-136",
+    "name": "Togepi",
+    "number": "136",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963292",
+        "reverse-holo": "963515"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$30.00",
+                "grade9": "$16.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.29",
+                "psa10": "$36.00",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

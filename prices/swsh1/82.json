@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-82",
+    "name": "Galarian Rapidash",
+    "number": "82",
+    "setId": "swsh1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "807112",
+        "reverse-holo": "807113"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.74",
+                "psa10": "$16.50",
+                "grade9": "$3.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.93",
+                "psa10": "$15.00",
+                "grade9": "$10.01"
+            }
+        }
+    }
+}

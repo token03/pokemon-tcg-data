@@ -1,0 +1,19 @@
+{
+    "id": "xy12-65",
+    "name": "M Pidgeot-EX",
+    "number": "65",
+    "setId": "xy12",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "960353"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.10",
+                "psa10": "$33.99",
+                "grade9": "$14.64"
+            }
+        }
+    }
+}

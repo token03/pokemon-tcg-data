@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-150",
+    "name": "Lucky Ice Pop",
+    "number": "150",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512961",
+        "reverse-holo": "2513164"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$35.42",
+                "grade9": "$12.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$35.07",
+                "grade9": "$12.26"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-107",
+    "name": "Ditto",
+    "number": "107",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4637003",
+        "reverse-holo": "4637208"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.00",
+                "psa10": "$28.06",
+                "grade9": "$17.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.47",
+                "psa10": "$40.61",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

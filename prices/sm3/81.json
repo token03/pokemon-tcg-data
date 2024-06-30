@@ -1,0 +1,25 @@
+{
+    "id": "sm3-81",
+    "name": "Alolan Rattata",
+    "number": "81",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960865",
+        "reverse-holo": "961026"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.96",
+                "grade9": "$12.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$36.33",
+                "grade9": "$13.81"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-54",
+    "name": "Hisuian Typhlosion VSTAR",
+    "number": "54",
+    "setId": "swsh10",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "3489552"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.28",
+                "psa10": "$27.19",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

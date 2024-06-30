@@ -1,0 +1,25 @@
+{
+    "id": "bw1-5",
+    "name": "Serperior",
+    "number": "5",
+    "setId": "bw1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806328",
+        "reverse-holo": "806414"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.47",
+                "psa10": "$55.25",
+                "grade9": "$18.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.85",
+                "psa10": "$68.95",
+                "grade9": "$28.20"
+            }
+        }
+    }
+}

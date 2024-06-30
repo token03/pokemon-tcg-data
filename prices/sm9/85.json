@@ -1,0 +1,25 @@
+{
+    "id": "sm9-85",
+    "name": "Tyranitar",
+    "number": "85",
+    "setId": "sm9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962883",
+        "reverse-holo": "963071"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$75.00",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.93",
+                "psa10": "$106.50",
+                "grade9": "$17.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex16-63",
+    "name": "Slakoth",
+    "number": "63",
+    "setId": "ex16",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889727",
+        "reverse-holo": "889834"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$119.99",
+                "grade9": "$19.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.83",
+                "psa10": "$95.91",
+                "grade9": "$18.95"
+            }
+        }
+    }
+}

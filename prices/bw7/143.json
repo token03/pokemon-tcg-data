@@ -1,0 +1,19 @@
+{
+    "id": "bw7-143",
+    "name": "Cresselia-EX",
+    "number": "143",
+    "setId": "bw7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956658"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.47",
+                "psa10": "$513.11",
+                "grade9": "$70.07"
+            }
+        }
+    }
+}

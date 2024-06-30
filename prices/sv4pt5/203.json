@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-203",
+    "name": "Wingull",
+    "number": "203",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277122"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.31",
+                "psa10": "$47.72",
+                "grade9": "$14.98"
+            }
+        }
+    }
+}

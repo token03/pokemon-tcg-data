@@ -1,0 +1,25 @@
+{
+    "id": "sm35-66",
+    "name": "Super Scoop Up",
+    "number": "66",
+    "setId": "sm35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961135",
+        "reverse-holo": "2978787"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.44",
+                "grade9": "$13.27"
+            }
+        }
+    }
+}

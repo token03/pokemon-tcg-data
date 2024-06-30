@@ -1,0 +1,19 @@
+{
+    "id": "sm11-234",
+    "name": "Grimsley",
+    "number": "234",
+    "setId": "sm11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963800"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.99",
+                "psa10": "$32.27",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

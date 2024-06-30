@@ -1,0 +1,19 @@
+{
+    "id": "sm10-213",
+    "name": "Red's Challenge",
+    "number": "213",
+    "setId": "sm10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963369"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$70.00",
+                "psa10": "$146.75",
+                "grade9": "$76.95"
+            }
+        }
+    }
+}

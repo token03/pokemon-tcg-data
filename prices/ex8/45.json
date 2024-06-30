@@ -1,0 +1,25 @@
+{
+    "id": "ex8-45",
+    "name": "Shelgon",
+    "number": "45",
+    "setId": "ex8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888065",
+        "reverse-holo": "888173"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$71.73",
+                "grade9": "$24.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.00",
+                "psa10": "$137.57",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

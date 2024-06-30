@@ -1,0 +1,19 @@
+{
+    "id": "base4-112",
+    "name": "Maintenance",
+    "number": "112",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641914"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$61.32",
+                "grade9": "$9.75"
+            }
+        }
+    }
+}

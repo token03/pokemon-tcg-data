@@ -1,0 +1,25 @@
+{
+    "id": "ex16-56",
+    "name": "Omanyte",
+    "number": "56",
+    "setId": "ex16",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889720",
+        "reverse-holo": "889827"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$52.74",
+                "grade9": "$18.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.38",
+                "psa10": "$88.23",
+                "grade9": "$17.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex10-34",
+    "name": "Aipom",
+    "number": "34",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888454",
+        "reverse-holo": "888596"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.71",
+                "psa10": "$60.00",
+                "grade9": "$35.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.50",
+                "psa10": "$143.00",
+                "grade9": "$50.51"
+            }
+        }
+    }
+}

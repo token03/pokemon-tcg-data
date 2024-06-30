@@ -1,0 +1,25 @@
+{
+    "id": "dp7-51",
+    "name": "Skarmory",
+    "number": "51",
+    "setId": "dp7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925264",
+        "reverse-holo": "925350"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.68",
+                "psa10": "",
+                "grade9": "$22.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.96",
+                "psa10": "$57.39",
+                "grade9": "$21.26"
+            }
+        }
+    }
+}

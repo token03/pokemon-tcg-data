@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-172",
+    "name": "Hisuian Electrode V",
+    "number": "172",
+    "setId": "swsh11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4050089"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.77",
+                "psa10": "$35.03",
+                "grade9": "$12.37"
+            }
+        }
+    }
+}

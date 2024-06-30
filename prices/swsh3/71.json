@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-71",
+    "name": "Granbull",
+    "number": "71",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887157",
+        "reverse-holo": "887339"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.75",
+                "grade9": "$12.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "$31.99",
+                "grade9": "$13.07"
+            }
+        }
+    }
+}

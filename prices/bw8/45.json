@@ -1,0 +1,25 @@
+{
+    "id": "bw8-45",
+    "name": "Magneton",
+    "number": "45",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956843",
+        "reverse-holo": "956977"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.68",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

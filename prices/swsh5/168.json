@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-168",
+    "name": "Single Strike Urshifu VMAX",
+    "number": "168",
+    "setId": "swsh5",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "1673348"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$33.49",
+                "psa10": "$87.74",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

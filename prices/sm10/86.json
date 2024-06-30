@@ -1,0 +1,25 @@
+{
+    "id": "sm10-86",
+    "name": "Dugtrio",
+    "number": "86",
+    "setId": "sm10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963242",
+        "reverse-holo": "963469"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$34.81",
+                "grade9": "$12.77"
+            }
+        }
+    }
+}

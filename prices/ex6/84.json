@@ -1,0 +1,25 @@
+{
+    "id": "ex6-84",
+    "name": "Venonat",
+    "number": "84",
+    "setId": "ex6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "850051",
+        "reverse-holo": "850166"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.96",
+                "psa10": "$61.82",
+                "grade9": "$14.25"
+            }
+        }
+    }
+}

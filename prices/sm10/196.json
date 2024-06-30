@@ -1,0 +1,19 @@
+{
+    "id": "sm10-196",
+    "name": "Muk & Alolan Muk-GX",
+    "number": "196",
+    "setId": "sm10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963352"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.46",
+                "psa10": "$47.75",
+                "grade9": "$22.84"
+            }
+        }
+    }
+}

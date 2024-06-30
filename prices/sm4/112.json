@@ -1,0 +1,19 @@
+{
+    "id": "sm4-112",
+    "name": "Gyarados-GX",
+    "number": "112",
+    "setId": "sm4",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961259"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$35.00",
+                "psa10": "$109.77",
+                "grade9": "$38.28"
+            }
+        }
+    }
+}

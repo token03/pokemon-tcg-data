@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-189",
+    "name": "Coalossal VMAX",
+    "number": "189",
+    "setId": "swsh4",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "887726"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.50",
+                "psa10": "$27.81",
+                "grade9": "$12.17"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-102",
+    "name": "Corsola",
+    "number": "102",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842477",
+        "reverse-holo": "2266955"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.01",
+                "psa10": "$34.73",
+                "grade9": "$18.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.61",
+                "psa10": "$239.58",
+                "grade9": "$34.00"
+            }
+        }
+    }
+}

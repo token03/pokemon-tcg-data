@@ -1,0 +1,25 @@
+{
+    "id": "dp1-82",
+    "name": "Gastly",
+    "number": "82",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763118",
+        "reverse-holo": "763240"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$38.00",
+                "grade9": "$12.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.62",
+                "psa10": "$89.17",
+                "grade9": "$33.25"
+            }
+        }
+    }
+}

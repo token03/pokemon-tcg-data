@@ -1,0 +1,25 @@
+{
+    "id": "bw9-47",
+    "name": "Mr. Mime",
+    "number": "47",
+    "setId": "bw9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957102",
+        "reverse-holo": "957221"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.42",
+                "psa10": "$49.95",
+                "grade9": "$19.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.73",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

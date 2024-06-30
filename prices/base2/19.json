@@ -1,0 +1,25 @@
+{
+    "id": "base2-19",
+    "name": "Flareon",
+    "number": "19",
+    "setId": "base2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1099559",
+        "1st-edition": "1099575"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.31",
+                "psa10": "$67.44",
+                "grade9": "$27.50"
+            },
+            "1st-edition": {
+                "ungraded": "$10.39",
+                "psa10": "$184.74",
+                "grade9": "$71.77"
+            }
+        }
+    }
+}

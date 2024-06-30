@@ -1,0 +1,25 @@
+{
+    "id": "sv1-139",
+    "name": "Forretress",
+    "number": "139",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933913",
+        "reverse-holo": "4934161"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.46",
+                "grade9": "$11.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "$35.77",
+                "grade9": "$11.93"
+            }
+        }
+    }
+}

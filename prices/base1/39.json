@@ -1,0 +1,31 @@
+{
+    "id": "base1-39",
+    "name": "Porygon",
+    "number": "39",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630452",
+        "1st-edition": "715628",
+        "shadowless": "715730"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$67.46",
+                "grade9": "$18.74"
+            },
+            "1st-edition": {
+                "ungraded": "$15.00",
+                "psa10": "$253.97",
+                "grade9": "$46.09"
+            },
+            "shadowless": {
+                "ungraded": "$3.01",
+                "psa10": "$87.18",
+                "grade9": "$34.86"
+            }
+        }
+    }
+}

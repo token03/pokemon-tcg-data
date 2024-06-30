@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-194",
+    "name": "Miss Fortune Sisters",
+    "number": "194",
+    "setId": "swsh11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4050111"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$34.76",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

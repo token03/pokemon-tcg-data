@@ -1,0 +1,37 @@
+{
+    "id": "xy12-90",
+    "name": "Double Colorless Energy",
+    "number": "90",
+    "setId": "xy12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960378",
+        "international-championships": "5629767",
+        "reverse-holo": "960466",
+        "top-8-latin-america": "6808996"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$40.20",
+                "grade9": "$17.39"
+            },
+            "international-championships": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.24",
+                "psa10": "$45.91",
+                "grade9": "$5.82"
+            },
+            "top-8-latin-america": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": "$3,764.09"
+            }
+        }
+    }
+}

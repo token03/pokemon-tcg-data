@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-21",
+    "name": "Blaziken VMAX",
+    "number": "21",
+    "setId": "swsh6",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "2253827"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.55",
+                "psa10": "$35.67",
+                "grade9": "$12.95"
+            }
+        }
+    }
+}

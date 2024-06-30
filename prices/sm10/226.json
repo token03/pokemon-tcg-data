@@ -1,0 +1,19 @@
+{
+    "id": "sm10-226",
+    "name": "Whimsicott-GX",
+    "number": "226",
+    "setId": "sm10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963382"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.94",
+                "psa10": "$45.42",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

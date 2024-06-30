@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-194",
+    "name": "Machamp VMAX",
+    "number": "194",
+    "setId": "swsh10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3489693"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.15",
+                "psa10": "$50.60",
+                "grade9": "$27.10"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm12-14",
+    "name": "Kricketune",
+    "number": "14",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964252",
+        "reverse-holo": "964521"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$15.00",
+                "grade9": ""
+            }
+        }
+    }
+}

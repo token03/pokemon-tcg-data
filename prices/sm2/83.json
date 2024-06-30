@@ -1,0 +1,25 @@
+{
+    "id": "sm2-83",
+    "name": "Beldum",
+    "number": "83",
+    "setId": "sm2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960580",
+        "reverse-holo": "960741"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$20.00",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-99",
+    "name": "Darkrai VSTAR",
+    "number": "99",
+    "setId": "swsh10",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "3489598",
+        "jumbo": "4313985"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$32.68",
+                "grade9": "$12.15"
+            },
+            "jumbo": {
+                "ungraded": "$2.65",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

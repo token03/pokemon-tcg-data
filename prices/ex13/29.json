@@ -1,0 +1,25 @@
+{
+    "id": "ex13-29",
+    "name": "Registeel",
+    "number": "29",
+    "setId": "ex13",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889109",
+        "reverse-holo": "889220"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.77",
+                "psa10": "$154.12",
+                "grade9": "$9.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.00",
+                "psa10": "$120.71",
+                "grade9": "$42.50"
+            }
+        }
+    }
+}

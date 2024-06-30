@@ -1,0 +1,25 @@
+{
+    "id": "base5-10",
+    "name": "Dark Machamp",
+    "number": "10",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643464",
+        "1st-edition": "1341352"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.42",
+                "psa10": "$350.00",
+                "grade9": "$78.39"
+            },
+            "1st-edition": {
+                "ungraded": "$40.41",
+                "psa10": "$484.50",
+                "grade9": "$130.13"
+            }
+        }
+    }
+}

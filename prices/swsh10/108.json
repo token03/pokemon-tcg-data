@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-108",
+    "name": "Registeel",
+    "number": "108",
+    "setId": "swsh10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3489607",
+        "reverse-holo": "3489805"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.03",
+                "grade9": "$11.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$34.89",
+                "grade9": "$11.92"
+            }
+        }
+    }
+}

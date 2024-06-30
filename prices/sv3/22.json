@@ -1,0 +1,19 @@
+{
+    "id": "sv3-22",
+    "name": "Toedscruel ex",
+    "number": "22",
+    "setId": "sv3",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5605540"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "$11.00",
+                "grade9": "$9.48"
+            }
+        }
+    }
+}

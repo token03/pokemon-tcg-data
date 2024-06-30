@@ -1,0 +1,19 @@
+{
+    "id": "mcd12-8",
+    "name": "Drilbur",
+    "number": "8",
+    "setId": "mcd12",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179975"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$69.58",
+                "grade9": "$6.44"
+            }
+        }
+    }
+}

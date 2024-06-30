@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-76",
+    "name": "Flygon",
+    "number": "76",
+    "setId": "swsh9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3188300",
+        "reverse-holo": "3219430"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$34.73",
+                "grade9": "$11.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "$34.49",
+                "grade9": "$11.84"
+            }
+        }
+    }
+}

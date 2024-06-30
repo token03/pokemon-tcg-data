@@ -1,0 +1,25 @@
+{
+    "id": "neo1-95",
+    "name": "New Pok\u00e9dex",
+    "number": "95",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762408",
+        "1st-edition": "2324898"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$21.27",
+                "grade9": "$19.99"
+            },
+            "1st-edition": {
+                "ungraded": "$2.36",
+                "psa10": "$26.88",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-24",
+    "name": "Reshiram V",
+    "number": "24",
+    "setId": "swsh12",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277143"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$11.00",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

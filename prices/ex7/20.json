@@ -1,0 +1,31 @@
+{
+    "id": "ex7-20",
+    "name": "Dark Tyranitar",
+    "number": "20",
+    "setId": "ex7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886354",
+        "cosmos-holo": "5699274",
+        "reverse-holo": "886465"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.60",
+                "psa10": "$105.72",
+                "grade9": "$45.00"
+            },
+            "cosmos-holo": {
+                "ungraded": "$15.19",
+                "psa10": "$800.00",
+                "grade9": "$57.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$28.50",
+                "psa10": "$901.36",
+                "grade9": "$139.96"
+            }
+        }
+    }
+}

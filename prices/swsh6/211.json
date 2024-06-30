@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-211",
+    "name": "Avery",
+    "number": "211",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254015"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.00",
+                "psa10": "$50.67",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

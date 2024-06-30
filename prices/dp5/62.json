@@ -1,0 +1,31 @@
+{
+    "id": "dp5-62",
+    "name": "Eevee",
+    "number": "62",
+    "setId": "dp5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921424",
+        "reverse-holo": "921524",
+        "stamped": "5419572"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.27",
+                "psa10": "$92.00",
+                "grade9": "$77.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.71",
+                "psa10": "$188.54",
+                "grade9": "$68.00"
+            },
+            "stamped": {
+                "ungraded": "$7.65",
+                "psa10": "",
+                "grade9": "$75.00"
+            }
+        }
+    }
+}

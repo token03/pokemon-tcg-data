@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-60",
+    "name": "Qwilfish",
+    "number": "60",
+    "setId": "swsh8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2771089",
+        "reverse-holo": "2771359"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.04",
+                "psa10": "$30.16",
+                "grade9": "$10.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "$35.40",
+                "grade9": "$12.33"
+            }
+        }
+    }
+}

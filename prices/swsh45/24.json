@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-24",
+    "name": "Manaphy",
+    "number": "24",
+    "setId": "swsh45",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341501",
+        "reverse-holo": "1341691"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$22.75",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "$35.06",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

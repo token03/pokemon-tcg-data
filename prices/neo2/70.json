@@ -1,0 +1,25 @@
+{
+    "id": "neo2-70",
+    "name": "Weedle",
+    "number": "70",
+    "setId": "neo2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762469",
+        "1st-edition": "2158496"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$60.32",
+                "grade9": "$17.00"
+            },
+            "1st-edition": {
+                "ungraded": "$1.61",
+                "psa10": "$57.73",
+                "grade9": "$17.42"
+            }
+        }
+    }
+}

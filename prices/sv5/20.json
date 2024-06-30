@@ -1,0 +1,25 @@
+{
+    "id": "sv5-20",
+    "name": "Bramblin",
+    "number": "20",
+    "setId": "sv5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6495480",
+        "reverse-holo": "6495698"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$36.26",
+                "grade9": "$11.70"
+            }
+        }
+    }
+}

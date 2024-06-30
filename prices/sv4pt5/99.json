@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-99",
+    "name": "Pineco",
+    "number": "99",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277017"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.89",
+                "psa10": "$36.50",
+                "grade9": "$17.09"
+            }
+        }
+    }
+}

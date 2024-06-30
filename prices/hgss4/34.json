@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-34",
+    "name": "Electrode",
+    "number": "34",
+    "setId": "hgss4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926092",
+        "reverse-holo": "926194"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "",
+                "grade9": "$22.19"
+            }
+        }
+    }
+}

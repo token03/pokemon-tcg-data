@@ -1,0 +1,25 @@
+{
+    "id": "bw8-55",
+    "name": "Crobat",
+    "number": "55",
+    "setId": "bw8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956853",
+        "reverse-holo": "956986"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$152.50",
+                "grade9": "$22.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$53.61",
+                "grade9": "$22.15"
+            }
+        }
+    }
+}

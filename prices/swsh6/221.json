@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-221",
+    "name": "Siebold",
+    "number": "221",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254025"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.47",
+                "psa10": "$18.26",
+                "grade9": "$7.51"
+            }
+        }
+    }
+}

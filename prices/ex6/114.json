@@ -1,0 +1,19 @@
+{
+    "id": "ex6-114",
+    "name": "Articuno ex",
+    "number": "114",
+    "setId": "ex6",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "850081"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$95.75",
+                "psa10": "$495.99",
+                "grade9": "$171.25"
+            }
+        }
+    }
+}

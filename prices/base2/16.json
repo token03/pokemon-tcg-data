@@ -1,0 +1,31 @@
+{
+    "id": "base2-16",
+    "name": "Wigglytuff",
+    "number": "16",
+    "setId": "base2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643345",
+        "1st-edition": "643393",
+        "no-symbol": "3179697"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.61",
+                "psa10": "$520.86",
+                "grade9": "$60.52"
+            },
+            "1st-edition": {
+                "ungraded": "$32.48",
+                "psa10": "$1,792.50",
+                "grade9": "$151.53"
+            },
+            "no-symbol": {
+                "ungraded": "$24.15",
+                "psa10": "$659.18",
+                "grade9": "$107.75"
+            }
+        }
+    }
+}

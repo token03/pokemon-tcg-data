@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-240",
+    "name": "Wo-Chien ex",
+    "number": "240",
+    "setId": "sv4pt5",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "6277159"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.98",
+                "psa10": "$45.21",
+                "grade9": "$9.17"
+            }
+        }
+    }
+}

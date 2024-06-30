@@ -1,0 +1,25 @@
+{
+    "id": "sm12-28",
+    "name": "Entei",
+    "number": "28",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964266",
+        "reverse-holo": "964534"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.30",
+                "psa10": "$69.99",
+                "grade9": "$6.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.77",
+                "psa10": "$44.00",
+                "grade9": "$36.99"
+            }
+        }
+    }
+}

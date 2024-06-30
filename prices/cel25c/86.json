@@ -1,0 +1,19 @@
+{
+    "id": "cel25c-86_A",
+    "name": "Rocket's Admin.",
+    "number": "86",
+    "setId": "cel25c",
+    "rarity": "Classic Collection",
+    "priceChartingIds": {
+        "normal": "2618195"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$23.41",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm1-58",
+    "name": "Alolan Muk",
+    "number": "58",
+    "setId": "sm1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806806",
+        "reverse-holo": "806937"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$41.25",
+                "grade9": "$12.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.70",
+                "psa10": "$18.00",
+                "grade9": "$14.74"
+            }
+        }
+    }
+}

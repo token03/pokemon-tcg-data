@@ -1,0 +1,31 @@
+{
+    "id": "dp4-26",
+    "name": "Palkia",
+    "number": "26",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921180",
+        "reverse-holo": "921286",
+        "stamped": "5451767"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.29",
+                "psa10": "$80.29",
+                "grade9": "$27.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.01",
+                "psa10": "$124.00",
+                "grade9": "$39.99"
+            },
+            "stamped": {
+                "ungraded": "$2.25",
+                "psa10": "",
+                "grade9": "$29.95"
+            }
+        }
+    }
+}

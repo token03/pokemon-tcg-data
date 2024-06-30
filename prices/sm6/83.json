@@ -1,0 +1,25 @@
+{
+    "id": "sm6-83",
+    "name": "Flab\u00e9b\u00e9",
+    "number": "83",
+    "setId": "sm6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961746",
+        "reverse-holo": "961884"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.14",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

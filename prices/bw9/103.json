@@ -1,0 +1,25 @@
+{
+    "id": "bw9-103",
+    "name": "Superior Energy Retrieval",
+    "number": "103",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957157",
+        "reverse-holo": "957272"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$52.65",
+                "grade9": "$21.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

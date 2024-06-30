@@ -1,0 +1,19 @@
+{
+    "id": "xy9-27",
+    "name": "M Gyarados-EX",
+    "number": "27",
+    "setId": "xy9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959518"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.60",
+                "psa10": "$114.36",
+                "grade9": "$37.78"
+            }
+        }
+    }
+}

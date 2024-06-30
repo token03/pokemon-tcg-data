@@ -1,0 +1,25 @@
+{
+    "id": "ex8-7",
+    "name": "Dusclops",
+    "number": "7",
+    "setId": "ex8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888028",
+        "reverse-holo": "888135"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.34",
+                "psa10": "$139.50",
+                "grade9": "$30.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.26",
+                "psa10": "$142.49",
+                "grade9": "$69.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy8-4",
+    "name": "Cacnea",
+    "number": "4",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959192",
+        "reverse-holo": "959357"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$35.90",
+                "grade9": "$13.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.85",
+                "psa10": "$40.03",
+                "grade9": "$15.86"
+            }
+        }
+    }
+}

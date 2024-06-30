@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-163",
+    "name": "Ice Rider Calyrex V",
+    "number": "163",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253967"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.25",
+                "psa10": "$14.50",
+                "grade9": "$10.01"
+            }
+        }
+    }
+}

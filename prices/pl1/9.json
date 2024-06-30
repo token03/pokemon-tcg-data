@@ -1,0 +1,25 @@
+{
+    "id": "pl1-9",
+    "name": "Giratina",
+    "number": "9",
+    "setId": "pl1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "805952",
+        "reverse-holo": "886659"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.69",
+                "psa10": "$675.00",
+                "grade9": "$44.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.90",
+                "psa10": "$135.79",
+                "grade9": "$54.06"
+            }
+        }
+    }
+}

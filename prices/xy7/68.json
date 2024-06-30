@@ -1,0 +1,19 @@
+{
+    "id": "xy7-68",
+    "name": "Lugia-EX",
+    "number": "68",
+    "setId": "xy7",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959086"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.52",
+                "psa10": "$66.26",
+                "grade9": "$25.87"
+            }
+        }
+    }
+}

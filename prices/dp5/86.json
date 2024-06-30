@@ -1,0 +1,25 @@
+{
+    "id": "dp5-86",
+    "name": "Quick Ball",
+    "number": "86",
+    "setId": "dp5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921448",
+        "reverse-holo": "921548"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.05",
+                "psa10": "$60.33",
+                "grade9": "$38.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

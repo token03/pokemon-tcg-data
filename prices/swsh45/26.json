@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-26",
+    "name": "Chewtle",
+    "number": "26",
+    "setId": "swsh45",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1341503",
+        "reverse-holo": "1341693"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$15.50",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

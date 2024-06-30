@@ -1,0 +1,25 @@
+{
+    "id": "sv2-48",
+    "name": "Eiscue",
+    "number": "48",
+    "setId": "sv2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5287337",
+        "reverse-holo": "5287611"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$36.86",
+                "grade9": "$12.20"
+            }
+        }
+    }
+}

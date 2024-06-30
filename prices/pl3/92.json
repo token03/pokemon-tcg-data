@@ -1,0 +1,25 @@
+{
+    "id": "pl3-92",
+    "name": "Buizel",
+    "number": "92",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287139",
+        "reverse-holo": "1287293"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.80",
+                "psa10": "",
+                "grade9": "$18.52"
+            }
+        }
+    }
+}

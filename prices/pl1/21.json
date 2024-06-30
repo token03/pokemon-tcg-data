@@ -1,0 +1,25 @@
+{
+    "id": "pl1-21",
+    "name": "Beautifly",
+    "number": "21",
+    "setId": "pl1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "805889",
+        "reverse-holo": "805890"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$56.88",
+                "grade9": "$21.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

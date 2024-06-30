@@ -1,0 +1,25 @@
+{
+    "id": "ex15-64",
+    "name": "Smoochum \u03b4",
+    "number": "64",
+    "setId": "ex15",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889538",
+        "reverse-holo": "889639"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.16",
+                "psa10": "$72.85",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.65",
+                "psa10": "$70.69",
+                "grade9": "$26.04"
+            }
+        }
+    }
+}

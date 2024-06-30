@@ -1,0 +1,31 @@
+{
+    "id": "sv2-74",
+    "name": "Pawmi",
+    "number": "74",
+    "setId": "sv2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5287363",
+        "cosmo-holo": "6610724",
+        "reverse-holo": "5287634"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$38.06",
+                "grade9": "$12.59"
+            },
+            "cosmo-holo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "$34.41",
+                "grade9": "$11.42"
+            }
+        }
+    }
+}

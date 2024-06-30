@@ -1,0 +1,19 @@
+{
+    "id": "xy2-79",
+    "name": "M Kangaskhan-EX",
+    "number": "79",
+    "setId": "xy2",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "957826"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.68",
+                "psa10": "$50.49",
+                "grade9": "$30.12"
+            }
+        }
+    }
+}

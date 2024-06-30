@@ -1,0 +1,25 @@
+{
+    "id": "neo2-58",
+    "name": "Mareep",
+    "number": "58",
+    "setId": "neo2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762438",
+        "1st-edition": "2158457"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$49.99",
+                "grade9": "$12.93"
+            },
+            "1st-edition": {
+                "ungraded": "$2.29",
+                "psa10": "$40.37",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp1-90",
+    "name": "Mime Jr.",
+    "number": "90",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763126",
+        "reverse-holo": "763248"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.91",
+                "psa10": "$69.37",
+                "grade9": "$25.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.95",
+                "psa10": "$95.86",
+                "grade9": "$35.27"
+            }
+        }
+    }
+}

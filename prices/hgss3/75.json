@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-75",
+    "name": "Legend Box",
+    "number": "75",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925962",
+        "reverse-holo": "926053"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.73",
+                "psa10": "",
+                "grade9": "$34.95"
+            }
+        }
+    }
+}

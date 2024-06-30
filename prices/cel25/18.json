@@ -1,0 +1,19 @@
+{
+    "id": "cel25-18",
+    "name": "Zamazenta V",
+    "number": "18",
+    "setId": "cel25",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2618163"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$17.78",
+                "grade9": "$7.41"
+            }
+        }
+    }
+}

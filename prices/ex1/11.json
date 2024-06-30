@@ -1,0 +1,25 @@
+{
+    "id": "ex1-11",
+    "name": "Sceptile",
+    "number": "11",
+    "setId": "ex1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762891",
+        "reverse-holo": "762973"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.46",
+                "psa10": "$1,043.95",
+                "grade9": "$137.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.98",
+                "psa10": "$286.60",
+                "grade9": "$50.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "ex9-82",
+    "name": "Professor Birch",
+    "number": "82",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2158350",
+        "program-2005": "888307",
+        "reverse-holo": "888414"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.87",
+                "psa10": "$9.51",
+                "grade9": ""
+            },
+            "program-2005": {
+                "ungraded": "$4.25",
+                "psa10": "",
+                "grade9": "$59.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.12",
+                "psa10": "$158.54",
+                "grade9": "$33.24"
+            }
+        }
+    }
+}

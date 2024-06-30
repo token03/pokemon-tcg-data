@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-122",
+    "name": "Malamar VMAX",
+    "number": "122",
+    "setId": "swsh2",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "886849"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$24.34",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

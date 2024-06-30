@@ -1,0 +1,25 @@
+{
+    "id": "bw8-57",
+    "name": "Koffing",
+    "number": "57",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956855",
+        "reverse-holo": "956988"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

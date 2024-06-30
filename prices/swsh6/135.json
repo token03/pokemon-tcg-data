@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-135",
+    "name": "Dyna Tree Hill",
+    "number": "135",
+    "setId": "swsh6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2253940",
+        "reverse-holo": "2254147"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$34.72",
+                "grade9": "$12.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$34.22",
+                "grade9": "$11.94"
+            }
+        }
+    }
+}

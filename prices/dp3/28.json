@@ -1,0 +1,25 @@
+{
+    "id": "dp3-28",
+    "name": "Golduck",
+    "number": "28",
+    "setId": "dp3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920918",
+        "reverse-holo": "921050"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$77.32",
+                "grade9": "$28.25"
+            }
+        }
+    }
+}

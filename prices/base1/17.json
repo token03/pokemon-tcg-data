@@ -1,0 +1,31 @@
+{
+    "id": "base1-17",
+    "name": "Beedrill",
+    "number": "17",
+    "setId": "base1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "630430",
+        "1st-edition": "715606",
+        "shadowless": "715708"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.51",
+                "psa10": "$62.34",
+                "grade9": "$32.17"
+            },
+            "1st-edition": {
+                "ungraded": "$85.98",
+                "psa10": "$976.26",
+                "grade9": "$249.99"
+            },
+            "shadowless": {
+                "ungraded": "$6.32",
+                "psa10": "$101.98",
+                "grade9": "$30.36"
+            }
+        }
+    }
+}

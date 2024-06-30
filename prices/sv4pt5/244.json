@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-244",
+    "name": "Ting-Lu ex",
+    "number": "244",
+    "setId": "sv4pt5",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "6277163"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.10",
+                "psa10": "$29.00",
+                "grade9": "$11.63"
+            }
+        }
+    }
+}

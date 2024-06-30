@@ -1,0 +1,25 @@
+{
+    "id": "base2-61",
+    "name": "Rhyhorn",
+    "number": "61",
+    "setId": "base2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643333",
+        "1st-edition": "643381"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$43.93",
+                "grade9": "$8.75"
+            },
+            "1st-edition": {
+                "ungraded": "$1.99",
+                "psa10": "$51.00",
+                "grade9": "$19.23"
+            }
+        }
+    }
+}

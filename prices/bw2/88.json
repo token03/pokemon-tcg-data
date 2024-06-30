@@ -1,0 +1,25 @@
+{
+    "id": "bw2-88",
+    "name": "Braviary",
+    "number": "88",
+    "setId": "bw2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955514",
+        "reverse-holo": "955611"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.68",
+                "psa10": "$66.26",
+                "grade9": "$59.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "",
+                "grade9": "$24.39"
+            }
+        }
+    }
+}

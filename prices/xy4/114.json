@@ -1,0 +1,19 @@
+{
+    "id": "xy4-114",
+    "name": "Gengar-EX",
+    "number": "114",
+    "setId": "xy4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958307"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$78.47",
+                "psa10": "$1,607.41",
+                "grade9": "$304.76"
+            }
+        }
+    }
+}

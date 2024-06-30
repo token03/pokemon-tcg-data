@@ -1,0 +1,31 @@
+{
+    "id": "bw8-53",
+    "name": "Zubat",
+    "number": "53",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956851",
+        "2015-world-championship-promo": "6886328",
+        "reverse-holo": "956984"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "2015-world-championship-promo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.97",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

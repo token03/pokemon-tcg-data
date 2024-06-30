@@ -1,0 +1,25 @@
+{
+    "id": "ex15-80",
+    "name": "Professor Oak's Research",
+    "number": "80",
+    "setId": "ex15",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889554",
+        "reverse-holo": "889655"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$98.56",
+                "grade9": "$35.67"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.48",
+                "psa10": "",
+                "grade9": "$31.49"
+            }
+        }
+    }
+}

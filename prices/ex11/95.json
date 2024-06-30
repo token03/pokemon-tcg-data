@@ -1,0 +1,31 @@
+{
+    "id": "ex11-95",
+    "name": "Holon Researcher",
+    "number": "95",
+    "setId": "ex11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888757",
+        "reverse-holo": "888871",
+        "stamped": "5056059"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.53",
+                "psa10": "$80.81",
+                "grade9": "$28.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.99",
+                "psa10": "$149.42",
+                "grade9": "$17.58"
+            },
+            "stamped": {
+                "ungraded": "$6.90",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

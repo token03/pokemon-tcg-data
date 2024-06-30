@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-188",
+    "name": "Brawly",
+    "number": "188",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253992"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.55",
+                "psa10": "$20.50",
+                "grade9": "$11.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-160",
+    "name": "Spirit Mask",
+    "number": "160",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512972",
+        "reverse-holo": "2513174"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$34.29",
+                "grade9": "$11.91"
+            }
+        }
+    }
+}

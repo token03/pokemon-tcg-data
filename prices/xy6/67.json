@@ -1,0 +1,31 @@
+{
+    "id": "xy6-67",
+    "name": "Meowth",
+    "number": "67",
+    "setId": "xy6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958890",
+        "build-a-bear": "6160724",
+        "reverse-holo": "958991"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$512.09",
+                "grade9": "$14.56"
+            },
+            "build-a-bear": {
+                "ungraded": "$29.95",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "$41.29",
+                "grade9": "$16.47"
+            }
+        }
+    }
+}

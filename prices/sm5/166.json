@@ -1,0 +1,19 @@
+{
+    "id": "sm5-166",
+    "name": "Crushing Hammer",
+    "number": "166",
+    "setId": "sm5",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "961529"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.00",
+                "psa10": "$79.00",
+                "grade9": "$66.00"
+            }
+        }
+    }
+}

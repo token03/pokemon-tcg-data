@@ -1,0 +1,25 @@
+{
+    "id": "bw7-95",
+    "name": "Skarmory",
+    "number": "95",
+    "setId": "bw7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956610",
+        "reverse-holo": "956756"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

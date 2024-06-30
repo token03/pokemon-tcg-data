@@ -1,0 +1,25 @@
+{
+    "id": "base5-80",
+    "name": "Rainbow Energy",
+    "number": "80",
+    "setId": "base5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2397935",
+        "1st-edition": "1341421"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.53",
+                "psa10": "$44.18",
+                "grade9": "$19.99"
+            },
+            "1st-edition": {
+                "ungraded": "$12.36",
+                "psa10": "$97.25",
+                "grade9": "$27.48"
+            }
+        }
+    }
+}

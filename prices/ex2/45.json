@@ -1,0 +1,25 @@
+{
+    "id": "ex2-45",
+    "name": "Lombre",
+    "number": "45",
+    "setId": "ex2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849233",
+        "reverse-holo": "849333"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$102.00",
+                "grade9": "$84.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.62",
+                "psa10": "$209.06",
+                "grade9": "$40.59"
+            }
+        }
+    }
+}

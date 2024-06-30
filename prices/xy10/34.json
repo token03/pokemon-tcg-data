@@ -1,0 +1,25 @@
+{
+    "id": "xy10-34",
+    "name": "Duosion",
+    "number": "34",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959891",
+        "reverse-holo": "960011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$37.64",
+                "grade9": "$14.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "$38.91",
+                "grade9": "$15.28"
+            }
+        }
+    }
+}

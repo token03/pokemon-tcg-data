@@ -1,0 +1,25 @@
+{
+    "id": "pop8-16",
+    "name": "Riolu",
+    "number": "16",
+    "setId": "pop8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762845",
+        "holo": "762858"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.65",
+                "psa10": "$52.00",
+                "grade9": "$23.00"
+            },
+            "holo": {
+                "ungraded": "$8.22",
+                "psa10": "$54.98",
+                "grade9": "$47.85"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-20",
+    "name": "Gossifleur",
+    "number": "20",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807126",
+        "reverse-holo": "807127"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.76",
+                "grade9": "$12.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

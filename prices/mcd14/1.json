@@ -1,0 +1,19 @@
+{
+    "id": "mcd14-1",
+    "name": "Weedle",
+    "number": "1",
+    "setId": "mcd14",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179992"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.27",
+                "psa10": "$65.17",
+                "grade9": "$60.00"
+            }
+        }
+    }
+}

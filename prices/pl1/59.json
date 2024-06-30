@@ -1,0 +1,25 @@
+{
+    "id": "pl1-59",
+    "name": "Prinplup",
+    "number": "59",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806044",
+        "reverse-holo": "806045"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.24",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

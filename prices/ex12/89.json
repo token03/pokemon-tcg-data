@@ -1,0 +1,19 @@
+{
+    "id": "ex12-89",
+    "name": "Walrein ex",
+    "number": "89",
+    "setId": "ex12",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888971"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.50",
+                "psa10": "$400.00",
+                "grade9": "$112.94"
+            }
+        }
+    }
+}

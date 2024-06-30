@@ -1,0 +1,31 @@
+{
+    "id": "bw4-89",
+    "name": "Level Ball",
+    "number": "89",
+    "setId": "bw4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955941",
+        "2014-world-championship": "2513837",
+        "reverse-holo": "956038"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$44.05",
+                "grade9": "$16.86"
+            },
+            "2014-world-championship": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.82",
+                "psa10": "$64.64",
+                "grade9": "$26.89"
+            }
+        }
+    }
+}

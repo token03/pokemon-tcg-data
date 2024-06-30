@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-145",
+    "name": "Zapdos ex",
+    "number": "145",
+    "setId": "sv3pt5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5809526"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "$34.85",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

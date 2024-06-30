@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-207",
+    "name": "Scoop Up Net",
+    "number": "207",
+    "setId": "swsh2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "886932"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.92",
+                "psa10": "$28.14",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

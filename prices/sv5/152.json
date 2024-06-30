@@ -1,0 +1,25 @@
+{
+    "id": "sv5-152",
+    "name": "Hero's Cape",
+    "number": "152",
+    "setId": "sv5",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "6495612",
+        "reverse-holo": "6495816"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.73",
+                "psa10": "$19.66",
+                "grade9": "$5.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

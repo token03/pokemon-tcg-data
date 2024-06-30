@@ -1,0 +1,31 @@
+{
+    "id": "sv1-61",
+    "name": "Dondozo",
+    "number": "61",
+    "setId": "sv1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5058654",
+        "holo": "4933837",
+        "reverse-holo": "4934090"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$9.25",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$2.83",
+                "psa10": "$43.16",
+                "grade9": "$14.40"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$36.03",
+                "grade9": "$12.02"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl3-117",
+    "name": "Nincada",
+    "number": "117",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287164",
+        "reverse-holo": "1287318"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.80",
+                "psa10": "",
+                "grade9": "$22.29"
+            }
+        }
+    }
+}

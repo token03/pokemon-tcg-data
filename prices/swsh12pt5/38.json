@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-38",
+    "name": "Glaceon V",
+    "number": "38",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4637244"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "$19.50",
+                "grade9": "$10.49"
+            }
+        }
+    }
+}

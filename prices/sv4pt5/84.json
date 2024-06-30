@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-84",
+    "name": "Nest Ball",
+    "number": "84",
+    "setId": "sv4pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6277003",
+        "reverse-holo": "6277240"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$35.95",
+                "grade9": "$11.67"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$38.81",
+                "grade9": "$12.48"
+            }
+        }
+    }
+}

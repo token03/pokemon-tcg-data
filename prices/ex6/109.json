@@ -1,0 +1,19 @@
+{
+    "id": "ex6-109",
+    "name": "Gyarados ex",
+    "number": "109",
+    "setId": "ex6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "850076"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$73.00",
+                "psa10": "$579.70",
+                "grade9": "$206.40"
+            }
+        }
+    }
+}

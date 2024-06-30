@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-4",
+    "name": "Azumarill",
+    "number": "4",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842533",
+        "reverse-holo": "2293895"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.22",
+                "psa10": "$77.00",
+                "grade9": "$64.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.87",
+                "psa10": "$130.50",
+                "grade9": "$37.48"
+            }
+        }
+    }
+}

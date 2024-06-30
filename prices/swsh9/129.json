@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-129",
+    "name": "Acerola's Premonition",
+    "number": "129",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188353",
+        "reverse-holo": "3219473"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$34.81",
+                "grade9": "$11.98"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "$35.81",
+                "grade9": "$12.39"
+            }
+        }
+    }
+}

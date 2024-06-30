@@ -1,0 +1,25 @@
+{
+    "id": "xy8-133",
+    "name": "Assault Vest",
+    "number": "133",
+    "setId": "xy8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959322",
+        "reverse-holo": "959472"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$35.37",
+                "grade9": "$13.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.33",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

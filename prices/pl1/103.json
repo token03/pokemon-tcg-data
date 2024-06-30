@@ -1,0 +1,25 @@
+{
+    "id": "pl1-103",
+    "name": "Wurmple",
+    "number": "103",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806108",
+        "reverse-holo": "806109"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "$51.73",
+                "grade9": "$19.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.94",
+                "psa10": "$55.54",
+                "grade9": "$20.64"
+            }
+        }
+    }
+}

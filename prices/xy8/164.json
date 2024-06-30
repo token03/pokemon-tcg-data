@@ -1,0 +1,19 @@
+{
+    "id": "xy8-164",
+    "name": "Mewtwo-EX",
+    "number": "164",
+    "setId": "xy8",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "959353"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$38.37",
+                "psa10": "$484.73",
+                "grade9": "$96.42"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sv4-164",
+    "name": "Future Booster Energy Capsule",
+    "number": "164",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5953002",
+        "cosmos-holo": "6021783",
+        "reverse-holo": "5953249"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "$36.64",
+                "grade9": "$11.96"
+            },
+            "cosmos-holo": {
+                "ungraded": "$2.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$35.76",
+                "grade9": "$11.70"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex13-52",
+    "name": "Seadra \u03b4",
+    "number": "52",
+    "setId": "ex13",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889132",
+        "reverse-holo": "889243"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.20",
+                "psa10": "$34.39",
+                "grade9": "$24.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.68",
+                "psa10": "$79.50",
+                "grade9": "$33.08"
+            }
+        }
+    }
+}

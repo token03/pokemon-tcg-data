@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-181",
+    "name": "Rotom Bike",
+    "number": "181",
+    "setId": "swsh1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "807250",
+        "reverse-holo": "807251"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.18",
+                "psa10": "$34.50",
+                "grade9": "$12.42"
+            }
+        }
+    }
+}

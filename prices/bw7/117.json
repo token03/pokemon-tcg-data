@@ -1,0 +1,25 @@
+{
+    "id": "bw7-117",
+    "name": "Lopunny",
+    "number": "117",
+    "setId": "bw7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956632",
+        "reverse-holo": "956776"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$40.78",
+                "grade9": "$15.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.85",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

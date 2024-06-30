@@ -1,0 +1,31 @@
+{
+    "id": "sm1-24",
+    "name": "Litten",
+    "number": "24",
+    "setId": "sm1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806773",
+        "holo": "4476048",
+        "reverse-holo": "806906"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$35.22",
+                "grade9": "$4.17"
+            },
+            "holo": {
+                "ungraded": "$2.39",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$37.05",
+                "grade9": "$7.50"
+            }
+        }
+    }
+}

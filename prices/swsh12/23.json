@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-23",
+    "name": "Victini",
+    "number": "23",
+    "setId": "swsh12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4277142",
+        "reverse-holo": "4293773"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$35.03",
+                "grade9": "$11.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.96",
+                "psa10": "$38.41",
+                "grade9": "$13.03"
+            }
+        }
+    }
+}

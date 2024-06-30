@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-131",
+    "name": "Pok\u00e9mon Park",
+    "number": "131",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842647",
+        "reverse-holo": "2294022"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.94",
+                "psa10": "$49.29",
+                "grade9": "$26.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.42",
+                "psa10": "$309.57",
+                "grade9": "$46.00"
+            }
+        }
+    }
+}

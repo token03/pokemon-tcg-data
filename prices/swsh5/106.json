@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-106",
+    "name": "Doublade",
+    "number": "106",
+    "setId": "swsh5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1673286",
+        "reverse-holo": "1725078"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.80",
+                "grade9": "$11.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$34.76",
+                "grade9": "$12.26"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw6-106",
+    "name": "Bidoof",
+    "number": "106",
+    "setId": "bw6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956360",
+        "reverse-holo": "956481"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

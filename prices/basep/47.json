@@ -1,0 +1,19 @@
+{
+    "id": "basep-47",
+    "name": "Mew",
+    "number": "47",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "2386848"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$46.00",
+                "psa10": "$104.70",
+                "grade9": "$66.43"
+            }
+        }
+    }
+}

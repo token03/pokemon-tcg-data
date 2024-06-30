@@ -1,0 +1,25 @@
+{
+    "id": "sv4-82",
+    "name": "Tinkatink",
+    "number": "82",
+    "setId": "sv4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5952920",
+        "reverse-holo": "5953178"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.55",
+                "psa10": "$32.56",
+                "grade9": "$10.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$35.06",
+                "grade9": "$11.49"
+            }
+        }
+    }
+}

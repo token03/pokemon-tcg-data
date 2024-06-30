@@ -1,0 +1,25 @@
+{
+    "id": "ex1-51",
+    "name": "Carvanha",
+    "number": "51",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762917",
+        "reverse-holo": "762999"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$269.99",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.62",
+                "psa10": "$49.82",
+                "grade9": "$33.43"
+            }
+        }
+    }
+}

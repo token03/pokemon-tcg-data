@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-141",
+    "name": "Toxtricity",
+    "number": "141",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277060"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.01",
+                "psa10": "$75.00",
+                "grade9": "$8.00"
+            }
+        }
+    }
+}

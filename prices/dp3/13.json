@@ -1,0 +1,25 @@
+{
+    "id": "dp3-13",
+    "name": "Ludicolo",
+    "number": "13",
+    "setId": "dp3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920904",
+        "reverse-holo": "921035"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.43",
+                "psa10": "$69.47",
+                "grade9": "$33.98"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.75",
+                "psa10": "$89.24",
+                "grade9": "$21.10"
+            }
+        }
+    }
+}

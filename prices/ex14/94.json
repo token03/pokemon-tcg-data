@@ -1,0 +1,19 @@
+{
+    "id": "ex14-94",
+    "name": "Jirachi ex",
+    "number": "94",
+    "setId": "ex14",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889381"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$45.00",
+                "psa10": "$673.32",
+                "grade9": "$132.62"
+            }
+        }
+    }
+}

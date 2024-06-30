@@ -1,0 +1,25 @@
+{
+    "id": "bw10-20",
+    "name": "Suicune",
+    "number": "20",
+    "setId": "bw10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957322",
+        "reverse-holo": "957426"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$43.14",
+                "grade9": "$25.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.00",
+                "psa10": "",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

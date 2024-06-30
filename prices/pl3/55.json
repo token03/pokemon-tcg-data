@@ -1,0 +1,25 @@
+{
+    "id": "pl3-55",
+    "name": "Cherrim",
+    "number": "55",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287102",
+        "reverse-holo": "1287256"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.10",
+                "psa10": "$56.54",
+                "grade9": "$21.35"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.79",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

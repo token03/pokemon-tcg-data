@@ -1,0 +1,19 @@
+{
+    "id": "mcd22-15",
+    "name": "Smeargle",
+    "number": "15",
+    "setId": "mcd22",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "holo": "3892327"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.55",
+                "psa10": "$129.99",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

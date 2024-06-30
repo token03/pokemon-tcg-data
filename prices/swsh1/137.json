@@ -1,0 +1,31 @@
+{
+    "id": "swsh1-137",
+    "name": "Copperajah",
+    "number": "137",
+    "setId": "swsh1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "3233467",
+        "holo": "807049",
+        "reverse-holo": "807050"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.68",
+                "psa10": "$28.17",
+                "grade9": "$17.38"
+            },
+            "holo": {
+                "ungraded": "$1.39",
+                "psa10": "$16.17",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$35.91",
+                "grade9": "$13.19"
+            }
+        }
+    }
+}

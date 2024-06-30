@@ -1,0 +1,25 @@
+{
+    "id": "ex6-27",
+    "name": "Magneton",
+    "number": "27",
+    "setId": "ex6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849994",
+        "reverse-holo": "850109"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.34",
+                "psa10": "$46.00",
+                "grade9": "$38.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.25",
+                "psa10": "$104.06",
+                "grade9": "$31.17"
+            }
+        }
+    }
+}

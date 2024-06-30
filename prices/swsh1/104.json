@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-104",
+    "name": "Regirock V",
+    "number": "104",
+    "setId": "swsh1",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "807235"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "$17.99",
+                "grade9": "$11.60"
+            }
+        }
+    }
+}

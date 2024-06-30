@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-134",
+    "name": "Single Strike Style Mustard",
+    "number": "134",
+    "setId": "swsh5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1673314",
+        "reverse-holo": "1725103"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$34.84",
+                "grade9": "$12.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.07",
+                "psa10": "$34.11",
+                "grade9": "$11.95"
+            }
+        }
+    }
+}

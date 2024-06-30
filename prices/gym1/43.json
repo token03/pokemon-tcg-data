@@ -1,0 +1,25 @@
+{
+    "id": "gym1-43",
+    "name": "Erika's Exeggcute",
+    "number": "43",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762163",
+        "1st-edition": "2156477"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$27.00",
+                "grade9": "$22.35"
+            },
+            "1st-edition": {
+                "ungraded": "$4.34",
+                "psa10": "$58.00",
+                "grade9": "$17.86"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl2-86",
+    "name": "Weedle",
+    "number": "86",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925482",
+        "reverse-holo": "925601"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$49.74",
+                "grade9": "$18.33"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.75",
+                "psa10": "",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

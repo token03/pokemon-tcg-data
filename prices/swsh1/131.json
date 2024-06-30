@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-131",
+    "name": "Ferrothorn",
+    "number": "131",
+    "setId": "swsh1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "807098",
+        "reverse-holo": "807099"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.03",
+                "psa10": "$29.00",
+                "grade9": "$12.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$16.00",
+                "grade9": "$12.92"
+            }
+        }
+    }
+}

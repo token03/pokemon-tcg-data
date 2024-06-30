@@ -1,0 +1,31 @@
+{
+    "id": "sv1-15",
+    "name": "Meowscarada",
+    "number": "15",
+    "setId": "sv1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "cosmos-holo": "6021776",
+        "holo": "4933792",
+        "reverse-holo": "4934047"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "cosmos-holo": {
+                "ungraded": "$1.40",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.90",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$36.30",
+                "grade9": "$12.10"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm12-200",
+    "name": "N's Resolve",
+    "number": "200",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964438",
+        "reverse-holo": "964692"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$35.36",
+                "grade9": "$13.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.98",
+                "psa10": "$41.48",
+                "grade9": "$16.43"
+            }
+        }
+    }
+}

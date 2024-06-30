@@ -1,0 +1,25 @@
+{
+    "id": "base3-10",
+    "name": "Lapras",
+    "number": "10",
+    "setId": "base3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643421",
+        "1st-edition": "1099504"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.13",
+                "psa10": "$703.00",
+                "grade9": "$69.06"
+            },
+            "1st-edition": {
+                "ungraded": "$34.64",
+                "psa10": "$3,026.05",
+                "grade9": "$201.25"
+            }
+        }
+    }
+}

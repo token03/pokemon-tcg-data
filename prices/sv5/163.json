@@ -1,0 +1,19 @@
+{
+    "id": "sv5-163",
+    "name": "Shiftry",
+    "number": "163",
+    "setId": "sv5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6495623"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.06",
+                "psa10": "$51.00",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm9-95",
+    "name": "Yveltal",
+    "number": "95",
+    "setId": "sm9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962893",
+        "reverse-holo": "963081"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.38",
+                "psa10": "$44.14",
+                "grade9": "$15.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.88",
+                "psa10": "$44.00",
+                "grade9": "$21.51"
+            }
+        }
+    }
+}

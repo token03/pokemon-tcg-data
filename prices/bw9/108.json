@@ -1,0 +1,19 @@
+{
+    "id": "bw9-108",
+    "name": "Rock Guard",
+    "number": "108",
+    "setId": "bw9",
+    "rarity": "Rare ACE",
+    "priceChartingIds": {
+        "normal": "957162"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.71",
+                "psa10": "$65.87",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

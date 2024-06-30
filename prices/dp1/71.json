@@ -1,0 +1,25 @@
+{
+    "id": "dp1-71",
+    "name": "Bonsly",
+    "number": "71",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763107",
+        "reverse-holo": "763229"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.98",
+                "psa10": "$95.48",
+                "grade9": "$45.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.99",
+                "psa10": "$146.51",
+                "grade9": "$79.00"
+            }
+        }
+    }
+}

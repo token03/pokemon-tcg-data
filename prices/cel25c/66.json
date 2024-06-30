@@ -1,0 +1,19 @@
+{
+    "id": "cel25c-66_A",
+    "name": "Shining Magikarp",
+    "number": "66",
+    "setId": "cel25c",
+    "rarity": "Classic Collection",
+    "priceChartingIds": {
+        "normal": "2618176"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$48.32",
+                "grade9": "$20.04"
+            }
+        }
+    }
+}

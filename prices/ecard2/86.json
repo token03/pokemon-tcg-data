@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-86",
+    "name": "Houndour",
+    "number": "86",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842608",
+        "reverse-holo": "2293977"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "$56.43",
+                "grade9": "$18.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.23",
+                "psa10": "$162.50",
+                "grade9": "$45.00"
+            }
+        }
+    }
+}

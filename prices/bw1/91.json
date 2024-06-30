@@ -1,0 +1,25 @@
+{
+    "id": "bw1-91",
+    "name": "Bouffalant",
+    "number": "91",
+    "setId": "bw1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886697",
+        "reverse-holo": "886718"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy8-95",
+    "name": "Bronzor",
+    "number": "95",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959284",
+        "reverse-holo": "959436"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

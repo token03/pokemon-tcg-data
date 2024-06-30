@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-219",
+    "name": "Peonia",
+    "number": "219",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254023"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.97",
+                "psa10": "$37.19",
+                "grade9": "$9.66"
+            }
+        }
+    }
+}

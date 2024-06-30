@@ -1,0 +1,25 @@
+{
+    "id": "sv3-137",
+    "name": "Inkay",
+    "number": "137",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605655",
+        "reverse-holo": "5605878"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$34.54",
+                "grade9": "$11.40"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$35.21",
+                "grade9": "$11.62"
+            }
+        }
+    }
+}

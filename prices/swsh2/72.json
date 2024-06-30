@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-72",
+    "name": "Pincurchin V",
+    "number": "72",
+    "setId": "swsh2",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "886801"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.89",
+                "psa10": "$24.99",
+                "grade9": "$16.21"
+            }
+        }
+    }
+}

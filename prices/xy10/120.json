@@ -1,0 +1,19 @@
+{
+    "id": "xy10-120",
+    "name": "Genesect-EX",
+    "number": "120",
+    "setId": "xy10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959977"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.07",
+                "psa10": "$65.90",
+                "grade9": "$19.24"
+            }
+        }
+    }
+}

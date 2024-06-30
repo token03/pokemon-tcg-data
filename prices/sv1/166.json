@@ -1,0 +1,37 @@
+{
+    "id": "sv1-166",
+    "name": "Arven",
+    "number": "166",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933940",
+        "regional-championships-staff": "5881530",
+        "regional-championships": "6302886",
+        "reverse-holo": "4934186"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$37.69",
+                "grade9": "$12.57"
+            },
+            "regional-championships-staff": {
+                "ungraded": "$75.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "regional-championships": {
+                "ungraded": "$15.59",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.96",
+                "psa10": "$38.57",
+                "grade9": "$12.87"
+            }
+        }
+    }
+}

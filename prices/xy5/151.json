@@ -1,0 +1,19 @@
+{
+    "id": "xy5-151",
+    "name": "Primal Groudon-EX",
+    "number": "151",
+    "setId": "xy5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958608"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$38.90",
+                "psa10": "$746.94",
+                "grade9": "$90.00"
+            }
+        }
+    }
+}

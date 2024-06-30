@@ -1,0 +1,25 @@
+{
+    "id": "bw9-22",
+    "name": "Quagsire",
+    "number": "22",
+    "setId": "bw9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957077",
+        "reverse-holo": "957197"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$45.16",
+                "grade9": "$17.91"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

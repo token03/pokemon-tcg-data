@@ -1,0 +1,19 @@
+{
+    "id": "pop4-12",
+    "name": "Pidgey",
+    "number": "12",
+    "setId": "pop4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762748"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.85",
+                "psa10": "$19.50",
+                "grade9": "$12.63"
+            }
+        }
+    }
+}

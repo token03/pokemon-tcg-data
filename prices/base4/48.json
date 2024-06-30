@@ -1,0 +1,19 @@
+{
+    "id": "base4-48",
+    "name": "Lickitung",
+    "number": "48",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641851"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "$68.26",
+                "grade9": "$11.39"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-40",
+    "name": "Origin Forme Palkia VSTAR",
+    "number": "40",
+    "setId": "swsh10",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "3489538"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.72",
+                "psa10": "$23.80",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

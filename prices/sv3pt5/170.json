@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-170",
+    "name": "Squirtle",
+    "number": "170",
+    "setId": "sv3pt5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5809551"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.77",
+                "psa10": "$123.49",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

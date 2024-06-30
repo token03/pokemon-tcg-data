@@ -1,0 +1,25 @@
+{
+    "id": "sm11-101",
+    "name": "Necrozma",
+    "number": "101",
+    "setId": "sm11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963667",
+        "reverse-holo": "963916"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.88",
+                "psa10": "$41.12",
+                "grade9": "$5.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.85",
+                "psa10": "$16.50",
+                "grade9": "$14.02"
+            }
+        }
+    }
+}

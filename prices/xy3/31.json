@@ -1,0 +1,25 @@
+{
+    "id": "xy3-31",
+    "name": "Plusle",
+    "number": "31",
+    "setId": "xy3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958014",
+        "reverse-holo": "958124"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.27",
+                "psa10": "$40.40",
+                "grade9": "$15.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.15",
+                "psa10": "$43.85",
+                "grade9": "$17.70"
+            }
+        }
+    }
+}

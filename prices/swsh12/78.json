@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-78",
+    "name": "Reuniclus",
+    "number": "78",
+    "setId": "swsh12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4277199",
+        "reverse-holo": "4293812"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$35.15",
+                "grade9": "$11.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$36.97",
+                "grade9": "$12.52"
+            }
+        }
+    }
+}

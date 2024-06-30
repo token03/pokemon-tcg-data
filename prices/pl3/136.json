@@ -1,0 +1,31 @@
+{
+    "id": "pl3-136",
+    "name": "Cynthia's Guidance",
+    "number": "136",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287184",
+        "crosshatch-holo": "6777958",
+        "reverse-holo": "1287337"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$53.16",
+                "grade9": "$20.00"
+            },
+            "crosshatch-holo": {
+                "ungraded": "$31.30",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.50",
+                "psa10": "$74.27",
+                "grade9": "$45.80"
+            }
+        }
+    }
+}

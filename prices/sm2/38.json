@@ -1,0 +1,19 @@
+{
+    "id": "sm2-38",
+    "name": "Wishiwashi-GX",
+    "number": "38",
+    "setId": "sm2",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "960535"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.15",
+                "psa10": "$19.54",
+                "grade9": "$14.10"
+            }
+        }
+    }
+}

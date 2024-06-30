@@ -1,0 +1,37 @@
+{
+    "id": "dp6-52",
+    "name": "Dragonair",
+    "number": "52",
+    "setId": "dp6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "924983",
+        "championships": "5610847",
+        "reverse-holo": "925128",
+        "staff-championships": "5610835"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$191.00",
+                "grade9": "$158.98"
+            },
+            "championships": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$9.83",
+                "psa10": "$173.92",
+                "grade9": "$141.26"
+            },
+            "staff-championships": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm11-249",
+    "name": "Naganadel-GX",
+    "number": "249",
+    "setId": "sm11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963815"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.50",
+                "psa10": "$42.46",
+                "grade9": "$15.28"
+            }
+        }
+    }
+}

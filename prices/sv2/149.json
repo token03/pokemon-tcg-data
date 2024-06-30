@@ -1,0 +1,25 @@
+{
+    "id": "sv2-149",
+    "name": "Cufant",
+    "number": "149",
+    "setId": "sv2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5287438",
+        "reverse-holo": "5287703"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$36.69",
+                "grade9": "$12.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.41",
+                "grade9": "$11.42"
+            }
+        }
+    }
+}

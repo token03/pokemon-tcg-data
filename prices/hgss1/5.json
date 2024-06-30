@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-5",
+    "name": "Hitmontop",
+    "number": "5",
+    "setId": "hgss1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806118",
+        "reverse-holo": "806223"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.33",
+                "psa10": "$69.84",
+                "grade9": "$28.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

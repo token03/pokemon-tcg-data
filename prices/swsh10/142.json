@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-142",
+    "name": "Gapejaw Bog",
+    "number": "142",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489641",
+        "reverse-holo": "3489835"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$34.93",
+                "grade9": "$11.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$34.89",
+                "grade9": "$11.92"
+            }
+        }
+    }
+}

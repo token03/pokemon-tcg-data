@@ -1,0 +1,31 @@
+{
+    "id": "xy9-46",
+    "name": "Luxray",
+    "number": "46",
+    "setId": "xy9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959537",
+        "cracked-ice-holo": "6402849",
+        "reverse-holo": "959654"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.46",
+                "psa10": "$37.59",
+                "grade9": "$14.48"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$3.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "$39.05",
+                "grade9": "$15.34"
+            }
+        }
+    }
+}

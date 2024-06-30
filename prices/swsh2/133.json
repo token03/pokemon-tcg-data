@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-133",
+    "name": "Honedge",
+    "number": "133",
+    "setId": "swsh2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886860",
+        "reverse-holo": "887048"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.76",
+                "grade9": "$11.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "base5-31",
+    "name": "Dark Weezing",
+    "number": "31",
+    "setId": "base5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341835",
+        "1st-edition": "1341373"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$33.53",
+                "grade9": "$24.00"
+            },
+            "1st-edition": {
+                "ungraded": "$6.89",
+                "psa10": "$61.00",
+                "grade9": "$37.00"
+            }
+        }
+    }
+}

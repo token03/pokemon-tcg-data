@@ -1,0 +1,25 @@
+{
+    "id": "ex3-85",
+    "name": "High Pressure System",
+    "number": "85",
+    "setId": "ex3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849464",
+        "reverse-holo": "849564"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.89",
+                "psa10": "$30.00",
+                "grade9": "$25.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.12",
+                "psa10": "",
+                "grade9": "$37.00"
+            }
+        }
+    }
+}

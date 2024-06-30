@@ -1,0 +1,19 @@
+{
+    "id": "pl1-122",
+    "name": "Dialga G LV.X",
+    "number": "122",
+    "setId": "pl1",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "805929"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.50",
+                "psa10": "$597.50",
+                "grade9": "$92.45"
+            }
+        }
+    }
+}

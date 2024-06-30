@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-120",
+    "name": "Bidoof",
+    "number": "120",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188344",
+        "reverse-holo": "3219467"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.97",
+                "grade9": "$11.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$36.37",
+                "grade9": "$12.62"
+            }
+        }
+    }
+}

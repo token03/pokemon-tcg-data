@@ -1,0 +1,25 @@
+{
+    "id": "neo1-68",
+    "name": "Oddish",
+    "number": "68",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762382",
+        "1st-edition": "2324900"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$24.99",
+                "grade9": "$14.92"
+            },
+            "1st-edition": {
+                "ungraded": "$1.99",
+                "psa10": "$50.14",
+                "grade9": "$14.13"
+            }
+        }
+    }
+}

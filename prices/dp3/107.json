@@ -1,0 +1,31 @@
+{
+    "id": "dp3-107",
+    "name": "Shellos West Sea",
+    "number": "107",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920997",
+        "reverse-holo": "921129",
+        "san-diego-comic-con": "5530238"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "san-diego-comic-con": {
+                "ungraded": "$24.98",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

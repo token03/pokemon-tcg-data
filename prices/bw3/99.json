@@ -1,0 +1,19 @@
+{
+    "id": "bw3-99",
+    "name": "Terrakion",
+    "number": "99",
+    "setId": "bw3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "955754"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.91",
+                "psa10": "$195.50",
+                "grade9": "$36.50"
+            }
+        }
+    }
+}

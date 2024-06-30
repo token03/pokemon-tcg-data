@@ -1,0 +1,25 @@
+{
+    "id": "ex7-14",
+    "name": "Togetic",
+    "number": "14",
+    "setId": "ex7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886348",
+        "reverse-holo": "886459"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.88",
+                "psa10": "$429.97",
+                "grade9": "$90.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$39.99",
+                "psa10": "$1,367.88",
+                "grade9": "$82.39"
+            }
+        }
+    }
+}

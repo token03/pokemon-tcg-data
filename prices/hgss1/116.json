@@ -1,0 +1,19 @@
+{
+    "id": "hgss1-116",
+    "name": "Fire Energy",
+    "number": "116",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2677915"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.99",
+                "psa10": "$54.64",
+                "grade9": ""
+            }
+        }
+    }
+}

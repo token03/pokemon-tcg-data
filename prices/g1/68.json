@@ -1,0 +1,31 @@
+{
+    "id": "g1-68",
+    "name": "Pok\u00e9mon Center Lady",
+    "number": "68",
+    "setId": "g1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959780",
+        "reverse-holo": "2978706",
+        "shintaro-ito": "5172624"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$38.76",
+                "grade9": "$35.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.74",
+                "psa10": "$48.17",
+                "grade9": "$20.71"
+            },
+            "shintaro-ito": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

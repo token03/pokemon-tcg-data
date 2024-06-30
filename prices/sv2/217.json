@@ -1,0 +1,19 @@
+{
+    "id": "sv2-217",
+    "name": "Tinkatuff",
+    "number": "217",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287506"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.04",
+                "psa10": "$59.95",
+                "grade9": "$18.70"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex13-19",
+    "name": "Bellossom \u03b4",
+    "number": "19",
+    "setId": "ex13",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889099",
+        "reverse-holo": "889210"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.81",
+                "psa10": "$24.39",
+                "grade9": "$14.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.50",
+                "psa10": "$123.66",
+                "grade9": "$28.35"
+            }
+        }
+    }
+}

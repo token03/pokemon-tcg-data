@@ -1,0 +1,19 @@
+{
+    "id": "pl2-104",
+    "name": "Floatzel GL LV.X",
+    "number": "104",
+    "setId": "pl2",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925500"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.00",
+                "psa10": "$550.64",
+                "grade9": "$127.19"
+            }
+        }
+    }
+}

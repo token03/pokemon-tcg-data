@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-165",
+    "name": "Victini VMAX",
+    "number": "165",
+    "setId": "swsh5",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "1673345"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.98",
+                "psa10": "$36.49",
+                "grade9": "$16.06"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-159",
+    "name": "Galarian Zigzagoon",
+    "number": "159",
+    "setId": "swsh8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2771188",
+        "reverse-holo": "2771445"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$34.06",
+                "grade9": "$11.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$34.93",
+                "grade9": "$12.12"
+            }
+        }
+    }
+}

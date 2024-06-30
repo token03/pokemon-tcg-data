@@ -1,0 +1,25 @@
+{
+    "id": "sm10-46",
+    "name": "Krabby",
+    "number": "46",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963202",
+        "reverse-holo": "963432"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

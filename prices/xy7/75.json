@@ -1,0 +1,25 @@
+{
+    "id": "xy7-75",
+    "name": "Hex Maniac",
+    "number": "75",
+    "setId": "xy7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959093",
+        "reverse-holo": "959181"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.80",
+                "psa10": "$40.21",
+                "grade9": "$15.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.17",
+                "psa10": "$45.30",
+                "grade9": "$18.87"
+            }
+        }
+    }
+}

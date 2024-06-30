@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-178",
+    "name": "Galarian Slowking V",
+    "number": "178",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253982"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.79",
+                "psa10": "$26.99",
+                "grade9": "$8.02"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm115-65",
+    "name": "Sabrina's Suggestion",
+    "number": "65",
+    "setId": "sm115",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964085",
+        "reverse-holo": "4528949"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$70.00",
+                "grade9": "$23.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

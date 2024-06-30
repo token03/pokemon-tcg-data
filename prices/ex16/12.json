@@ -1,0 +1,25 @@
+{
+    "id": "ex16-12",
+    "name": "Raichu",
+    "number": "12",
+    "setId": "ex16",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889676",
+        "reverse-holo": "889784"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.30",
+                "psa10": "$205.00",
+                "grade9": "$39.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.75",
+                "psa10": "$216.54",
+                "grade9": "$56.33"
+            }
+        }
+    }
+}

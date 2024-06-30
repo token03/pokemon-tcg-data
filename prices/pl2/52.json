@@ -1,0 +1,31 @@
+{
+    "id": "pl2-52",
+    "name": "Tropius",
+    "number": "52",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925448",
+        "prerelease": "6226361",
+        "reverse-holo": "925567"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "",
+                "grade9": ""
+            },
+            "prerelease": {
+                "ungraded": "$11.44",
+                "psa10": "",
+                "grade9": "$41.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

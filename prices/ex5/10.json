@@ -1,0 +1,25 @@
+{
+    "id": "ex5-10",
+    "name": "Medicham",
+    "number": "10",
+    "setId": "ex5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849783",
+        "reverse-holo": "849885"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.76",
+                "psa10": "$148.95",
+                "grade9": "$25.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.00",
+                "psa10": "$191.80",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

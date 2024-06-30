@@ -1,0 +1,25 @@
+{
+    "id": "bw7-54",
+    "name": "Electivire",
+    "number": "54",
+    "setId": "bw7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956569",
+        "reverse-holo": "956719"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$159.57",
+                "grade9": "$20.40"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.75",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

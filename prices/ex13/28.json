@@ -1,0 +1,25 @@
+{
+    "id": "ex13-28",
+    "name": "Regirock",
+    "number": "28",
+    "setId": "ex13",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889108",
+        "reverse-holo": "889219"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$47.01",
+                "grade9": "$22.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.25",
+                "psa10": "$159.07",
+                "grade9": "$43.00"
+            }
+        }
+    }
+}

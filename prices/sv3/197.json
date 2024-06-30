@@ -1,0 +1,25 @@
+{
+    "id": "sv3-197",
+    "name": "Vengeful Punch",
+    "number": "197",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605715",
+        "reverse-holo": "5610387"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$36.71",
+                "grade9": "$12.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$37.20",
+                "grade9": "$12.24"
+            }
+        }
+    }
+}

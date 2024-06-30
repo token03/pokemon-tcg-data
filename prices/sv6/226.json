@@ -1,0 +1,19 @@
+{
+    "id": "sv6-226",
+    "name": "Luminous Energy",
+    "number": "226",
+    "setId": "sv6",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "6769705"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.99",
+                "psa10": "$79.07",
+                "grade9": "$22.79"
+            }
+        }
+    }
+}

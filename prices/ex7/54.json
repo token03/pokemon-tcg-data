@@ -1,0 +1,25 @@
+{
+    "id": "ex7-54",
+    "name": "Drowzee",
+    "number": "54",
+    "setId": "ex7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886388",
+        "reverse-holo": "886499"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "$11.80",
+                "grade9": "$10.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.85",
+                "psa10": "$123.47",
+                "grade9": "$26.71"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "hgss1-78",
+    "name": "Pikachu",
+    "number": "78",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806189",
+        "pokemon-day": "4334533",
+        "reverse-holo": "806296"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.30",
+                "psa10": "$74.93",
+                "grade9": "$24.97"
+            },
+            "pokemon-day": {
+                "ungraded": "$88.17",
+                "psa10": "",
+                "grade9": "$63.47"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.82",
+                "psa10": "$182.47",
+                "grade9": "$92.16"
+            }
+        }
+    }
+}

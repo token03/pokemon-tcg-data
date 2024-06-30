@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-23",
+    "name": "Pidgeot",
+    "number": "23",
+    "setId": "ecard1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842439",
+        "reverse-holo": "2266878"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$43.97",
+                "psa10": "$557.94",
+                "grade9": "$99.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.95",
+                "psa10": "$116.25",
+                "grade9": "$44.65"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-182",
+    "name": "Sneasel",
+    "number": "182",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277101"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.78",
+                "psa10": "$23.81",
+                "grade9": "$7.65"
+            }
+        }
+    }
+}

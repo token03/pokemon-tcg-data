@@ -1,0 +1,25 @@
+{
+    "id": "sm9-88",
+    "name": "Absol",
+    "number": "88",
+    "setId": "sm9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "962886",
+        "reverse-holo": "963074"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.91",
+                "psa10": "$37.80",
+                "grade9": "$12.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.30",
+                "psa10": "$39.00",
+                "grade9": "$15.27"
+            }
+        }
+    }
+}

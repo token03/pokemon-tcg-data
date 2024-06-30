@@ -1,0 +1,25 @@
+{
+    "id": "sm8-11",
+    "name": "Hoppip",
+    "number": "11",
+    "setId": "sm8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962399",
+        "reverse-holo": "962635"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

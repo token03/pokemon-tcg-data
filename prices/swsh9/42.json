@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-42",
+    "name": "Cubchoo",
+    "number": "42",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188267",
+        "reverse-holo": "3219403"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.62",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "$34.01",
+                "grade9": "$11.65"
+            }
+        }
+    }
+}

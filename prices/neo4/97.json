@@ -1,0 +1,25 @@
+{
+    "id": "neo4-97",
+    "name": "Counterattack Claws",
+    "number": "97",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762555",
+        "1st-edition": "2183296"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$29.16",
+                "grade9": "$18.59"
+            },
+            "1st-edition": {
+                "ungraded": "$4.50",
+                "psa10": "$132.33",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

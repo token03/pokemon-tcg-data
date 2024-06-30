@@ -1,0 +1,19 @@
+{
+    "id": "dp1-122",
+    "name": "Torterra LV.X",
+    "number": "122",
+    "setId": "dp1",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "4230473"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.50",
+                "psa10": "$800.00",
+                "grade9": "$118.00"
+            }
+        }
+    }
+}

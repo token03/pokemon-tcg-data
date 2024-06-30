@@ -1,0 +1,25 @@
+{
+    "id": "dp1-36",
+    "name": "Purugly",
+    "number": "36",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763072",
+        "reverse-holo": "763194"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "$57.50",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.14",
+                "psa10": "$82.87",
+                "grade9": "$29.28"
+            }
+        }
+    }
+}

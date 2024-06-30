@@ -1,0 +1,19 @@
+{
+    "id": "pop4-17",
+    "name": "Deoxys ex",
+    "number": "17",
+    "setId": "pop4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762753"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$162.97",
+                "psa10": "$360.88",
+                "grade9": "$211.37"
+            }
+        }
+    }
+}

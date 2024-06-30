@@ -1,0 +1,31 @@
+{
+    "id": "swsh6-32",
+    "name": "Delibird",
+    "number": "32",
+    "setId": "swsh6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2253838",
+        "reverse-holo": "2254063",
+        "snowflake-stamp": "4441263"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$32.00",
+                "grade9": "$26.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$36.23",
+                "grade9": "$12.86"
+            },
+            "snowflake-stamp": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv6-50",
+    "name": "Milotic",
+    "number": "50",
+    "setId": "sv6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6769530",
+        "reverse-holo": "6769752"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$36.38",
+                "grade9": "$11.67"
+            }
+        }
+    }
+}

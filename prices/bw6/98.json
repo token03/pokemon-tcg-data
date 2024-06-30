@@ -1,0 +1,31 @@
+{
+    "id": "bw6-98",
+    "name": "Hydreigon",
+    "number": "98",
+    "setId": "bw6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956352",
+        "cracked-ice-holo": "4565990",
+        "reverse-holo": "956473"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.33",
+                "psa10": "$41.22",
+                "grade9": "$39.00"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

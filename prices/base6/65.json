@@ -1,0 +1,25 @@
+{
+    "id": "base6-65",
+    "name": "Tauros",
+    "number": "65",
+    "setId": "base6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842371",
+        "reverse-holo": "2253748"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.66",
+                "psa10": "$39.00",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$36.13",
+                "psa10": "$392.74",
+                "grade9": "$113.38"
+            }
+        }
+    }
+}

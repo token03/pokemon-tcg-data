@@ -1,0 +1,19 @@
+{
+    "id": "sm3-147",
+    "name": "Wicke",
+    "number": "147",
+    "setId": "sm3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960931"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.99",
+                "psa10": "$365.61",
+                "grade9": "$63.40"
+            }
+        }
+    }
+}

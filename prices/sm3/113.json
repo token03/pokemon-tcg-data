@@ -1,0 +1,37 @@
+{
+    "id": "sm3-113",
+    "name": "Bodybuilding Dumbbells",
+    "number": "113",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960897",
+        "league-staff": "5529192",
+        "league": "5515067",
+        "reverse-holo": "961054"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.38",
+                "grade9": "$12.64"
+            },
+            "league-staff": {
+                "ungraded": "$11.73",
+                "psa10": "",
+                "grade9": ""
+            },
+            "league": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.05",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

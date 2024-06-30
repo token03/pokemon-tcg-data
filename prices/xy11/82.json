@@ -1,0 +1,19 @@
+{
+    "id": "xy11-82",
+    "name": "Xerneas BREAK",
+    "number": "82",
+    "setId": "xy11",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "960161"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.70",
+                "psa10": "$33.05",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

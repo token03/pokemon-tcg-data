@@ -1,0 +1,19 @@
+{
+    "id": "sm6-117",
+    "name": "Beast Energy \u25c7",
+    "number": "117",
+    "setId": "sm6",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "961780"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$15.50",
+                "grade9": "$14.77"
+            }
+        }
+    }
+}

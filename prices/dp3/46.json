@@ -1,0 +1,25 @@
+{
+    "id": "dp3-46",
+    "name": "Charmeleon",
+    "number": "46",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920936",
+        "reverse-holo": "921068"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$68.60",
+                "grade9": "$60.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.63",
+                "psa10": "$103.15",
+                "grade9": "$60.00"
+            }
+        }
+    }
+}

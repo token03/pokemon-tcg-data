@@ -1,0 +1,19 @@
+{
+    "id": "bw4-101",
+    "name": "Chandelure",
+    "number": "101",
+    "setId": "bw4",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "955953"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$61.00",
+                "psa10": "$1,400.51",
+                "grade9": "$189.21"
+            }
+        }
+    }
+}

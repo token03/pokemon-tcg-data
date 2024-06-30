@@ -1,0 +1,25 @@
+{
+    "id": "base2-38",
+    "name": "Lickitung",
+    "number": "38",
+    "setId": "base2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643314",
+        "1st-edition": "643362"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$25.75",
+                "grade9": "$18.98"
+            },
+            "1st-edition": {
+                "ungraded": "$2.25",
+                "psa10": "$75.00",
+                "grade9": "$27.90"
+            }
+        }
+    }
+}

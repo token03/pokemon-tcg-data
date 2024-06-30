@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-95",
+    "name": "Galarian Sirfetch'd",
+    "number": "95",
+    "setId": "swsh2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886824",
+        "reverse-holo": "887013"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$18.00",
+                "grade9": "$15.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.04",
+                "psa10": "$37.76",
+                "grade9": "$8.45"
+            }
+        }
+    }
+}

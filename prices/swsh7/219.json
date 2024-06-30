@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-219",
+    "name": "Duraludon VMAX",
+    "number": "219",
+    "setId": "swsh7",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2513028"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.87",
+                "psa10": "$30.13",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

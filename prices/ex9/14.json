@@ -1,0 +1,31 @@
+{
+    "id": "ex9-14",
+    "name": "Groudon",
+    "number": "14",
+    "setId": "ex9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888239",
+        "reverse-holo": "888346",
+        "stamped": "2514239"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.19",
+                "psa10": "$53.02",
+                "grade9": "$16.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$16.20",
+                "psa10": "$522.59",
+                "grade9": "$97.50"
+            },
+            "stamped": {
+                "ungraded": "$26.27",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

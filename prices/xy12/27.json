@@ -1,0 +1,19 @@
+{
+    "id": "xy12-27",
+    "name": "M Slowbro-EX",
+    "number": "27",
+    "setId": "xy12",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "960315"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.17",
+                "psa10": "$35.44",
+                "grade9": "$14.17"
+            }
+        }
+    }
+}

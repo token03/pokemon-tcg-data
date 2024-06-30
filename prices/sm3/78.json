@@ -1,0 +1,25 @@
+{
+    "id": "sm3-78",
+    "name": "Mudsdale",
+    "number": "78",
+    "setId": "sm3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960862",
+        "reverse-holo": "961024"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$35.36",
+                "grade9": "$13.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$38.86",
+                "grade9": "$15.34"
+            }
+        }
+    }
+}

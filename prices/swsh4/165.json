@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-165",
+    "name": "Wash Water Energy",
+    "number": "165",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887704",
+        "reverse-holo": "887876"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$35.41",
+                "grade9": "$12.69"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$34.76",
+                "grade9": "$12.37"
+            }
+        }
+    }
+}

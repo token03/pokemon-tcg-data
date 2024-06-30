@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-160",
+    "name": "Leafy Camo Poncho",
+    "number": "160",
+    "setId": "swsh12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4277281",
+        "reverse-holo": "4293880"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$34.73",
+                "grade9": "$11.71"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.28",
+                "grade9": "$11.90"
+            }
+        }
+    }
+}

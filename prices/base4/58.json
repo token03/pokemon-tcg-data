@@ -1,0 +1,19 @@
+{
+    "id": "base4-58",
+    "name": "Raticate",
+    "number": "58",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641861"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$49.95",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-14",
+    "name": "Charcadet",
+    "number": "14",
+    "setId": "sv4pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6276933",
+        "reverse-holo": "6277177"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "$35.53",
+                "grade9": "$11.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "$36.24",
+                "grade9": "$11.75"
+            }
+        }
+    }
+}

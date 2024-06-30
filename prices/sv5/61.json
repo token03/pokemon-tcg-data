@@ -1,0 +1,25 @@
+{
+    "id": "sv5-61",
+    "name": "Iron Hands",
+    "number": "61",
+    "setId": "sv5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6495521",
+        "reverse-holo": "6495733"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$35.43",
+                "grade9": "$11.47"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$29.99",
+                "grade9": "$11.30"
+            }
+        }
+    }
+}

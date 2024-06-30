@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-36",
+    "name": "Sudowoodo",
+    "number": "36",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842563",
+        "reverse-holo": "2293927"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.71",
+                "psa10": "$63.00",
+                "grade9": "$48.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.58",
+                "psa10": "$435.66",
+                "grade9": "$48.99"
+            }
+        }
+    }
+}

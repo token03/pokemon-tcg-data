@@ -1,0 +1,25 @@
+{
+    "id": "bw3-14",
+    "name": "Victini",
+    "number": "14",
+    "setId": "bw3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955669",
+        "reverse-holo": "955771"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.13",
+                "psa10": "$375.00",
+                "grade9": "$90.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.28",
+                "psa10": "$51.44",
+                "grade9": "$20.33"
+            }
+        }
+    }
+}

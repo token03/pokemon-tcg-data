@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-106",
+    "name": "Mudsdale",
+    "number": "106",
+    "setId": "swsh1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "807185",
+        "reverse-holo": "807186"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.76",
+                "grade9": "$12.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.90",
+                "psa10": "$37.24",
+                "grade9": "$13.91"
+            }
+        }
+    }
+}

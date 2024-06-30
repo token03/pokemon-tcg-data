@@ -1,0 +1,25 @@
+{
+    "id": "xy10-15",
+    "name": "Seel",
+    "number": "15",
+    "setId": "xy10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959872",
+        "reverse-holo": "959996"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$35.05",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

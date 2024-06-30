@@ -1,0 +1,19 @@
+{
+    "id": "g1-29",
+    "name": "Zapdos",
+    "number": "29",
+    "setId": "g1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959741"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.65",
+                "psa10": "$149.79",
+                "grade9": "$35.98"
+            }
+        }
+    }
+}

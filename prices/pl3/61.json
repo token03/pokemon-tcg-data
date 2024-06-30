@@ -1,0 +1,25 @@
+{
+    "id": "pl3-61",
+    "name": "Hippopotas",
+    "number": "61",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287108",
+        "reverse-holo": "1287262"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

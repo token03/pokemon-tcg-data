@@ -1,0 +1,19 @@
+{
+    "id": "sm35-29",
+    "name": "Raichu-GX",
+    "number": "29",
+    "setId": "sm35",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961098"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$43.29",
+                "grade9": "$19.29"
+            }
+        }
+    }
+}

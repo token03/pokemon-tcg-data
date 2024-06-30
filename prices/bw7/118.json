@@ -1,0 +1,25 @@
+{
+    "id": "bw7-118",
+    "name": "Patrat",
+    "number": "118",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956633",
+        "reverse-holo": "956777"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.54",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.72",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

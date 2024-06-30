@@ -1,0 +1,25 @@
+{
+    "id": "sm6-91",
+    "name": "Goomy",
+    "number": "91",
+    "setId": "sm6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961754",
+        "reverse-holo": "961891"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.91",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw1-14",
+    "name": "Sawsbuck",
+    "number": "14",
+    "setId": "bw1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806335",
+        "reverse-holo": "806422"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$49.53",
+                "grade9": "$19.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "$108.00",
+                "grade9": "$89.99"
+            }
+        }
+    }
+}

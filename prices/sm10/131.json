@@ -1,0 +1,25 @@
+{
+    "id": "sm10-131",
+    "name": "Cleffa",
+    "number": "131",
+    "setId": "sm10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963287",
+        "reverse-holo": "963510"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$36.34",
+                "grade9": "$13.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.63",
+                "psa10": "$44.22",
+                "grade9": "$18.18"
+            }
+        }
+    }
+}

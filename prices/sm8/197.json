@@ -1,0 +1,19 @@
+{
+    "id": "sm8-197",
+    "name": "Virizion-GX",
+    "number": "197",
+    "setId": "sm8",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962585"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$37.47",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

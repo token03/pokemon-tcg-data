@@ -1,0 +1,25 @@
+{
+    "id": "xy6-55",
+    "name": "Bagon",
+    "number": "55",
+    "setId": "xy6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958878",
+        "reverse-holo": "958985"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.82",
+                "psa10": "",
+                "grade9": "$4.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.33",
+                "psa10": "$37.70",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

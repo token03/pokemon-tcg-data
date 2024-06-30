@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-174",
+    "name": "Pok\u00e9gear 3.0",
+    "number": "174",
+    "setId": "swsh1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "807213",
+        "reverse-holo": "807214"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$12.00",
+                "grade9": "$9.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$35.22",
+                "grade9": "$12.82"
+            }
+        }
+    }
+}

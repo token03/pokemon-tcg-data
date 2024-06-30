@@ -1,0 +1,25 @@
+{
+    "id": "sm10-8",
+    "name": "Vileplume",
+    "number": "8",
+    "setId": "sm10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963164",
+        "reverse-holo": "963397"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.46",
+                "psa10": "$51.00",
+                "grade9": "$15.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "$37.40",
+                "grade9": "$14.25"
+            }
+        }
+    }
+}

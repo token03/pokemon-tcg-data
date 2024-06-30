@@ -1,0 +1,19 @@
+{
+    "id": "sm6-96",
+    "name": "Arceus \u25c7",
+    "number": "96",
+    "setId": "sm6",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "961759"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.94",
+                "psa10": "$153.26",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

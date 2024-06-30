@@ -1,0 +1,19 @@
+{
+    "id": "sm1-145",
+    "name": "Gumshoos-GX",
+    "number": "145",
+    "setId": "sm1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2396879"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.94",
+                "psa10": "$27.07",
+                "grade9": "$8.00"
+            }
+        }
+    }
+}

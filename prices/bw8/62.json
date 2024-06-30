@@ -1,0 +1,31 @@
+{
+    "id": "bw8-62",
+    "name": "Giratina",
+    "number": "62",
+    "setId": "bw8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956860",
+        "cracked-ice-holo": "4565759",
+        "reverse-holo": "956993"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.79",
+                "psa10": "$75.00",
+                "grade9": "$42.99"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$3.89",
+                "psa10": "",
+                "grade9": "$132.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.13",
+                "psa10": "$477.34",
+                "grade9": "$34.38"
+            }
+        }
+    }
+}

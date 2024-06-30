@@ -1,0 +1,25 @@
+{
+    "id": "ex3-100",
+    "name": "Charizard",
+    "number": "100",
+    "setId": "ex3",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "849479",
+        "national-championships": "3365586"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$244.57",
+                "psa10": "$1,699.99",
+                "grade9": "$505.00"
+            },
+            "national-championships": {
+                "ungraded": "$809.10",
+                "psa10": "$2,102.93",
+                "grade9": "$1,054.00"
+            }
+        }
+    }
+}

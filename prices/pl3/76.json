@@ -1,0 +1,25 @@
+{
+    "id": "pl3-76",
+    "name": "Plusle",
+    "number": "76",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287123",
+        "reverse-holo": "1287277"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$63.12",
+                "grade9": "$24.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.63",
+                "psa10": "$75.87",
+                "grade9": "$18.52"
+            }
+        }
+    }
+}

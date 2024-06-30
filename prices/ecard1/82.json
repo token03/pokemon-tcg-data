@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-82",
+    "name": "Ivysaur",
+    "number": "82",
+    "setId": "ecard1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842460",
+        "reverse-holo": "2266935"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.68",
+                "psa10": "$57.59",
+                "grade9": "$21.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.64",
+                "psa10": "$176.00",
+                "grade9": "$60.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv6-197",
+    "name": "Scream Tail ex",
+    "number": "197",
+    "setId": "sv6",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6775714"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.01",
+                "psa10": "$49.20",
+                "grade9": "$15.01"
+            }
+        }
+    }
+}

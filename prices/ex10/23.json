@@ -1,0 +1,25 @@
+{
+    "id": "ex10-23",
+    "name": "Elekid",
+    "number": "23",
+    "setId": "ex10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888443",
+        "reverse-holo": "888585"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$22.50",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.99",
+                "psa10": "$166.39",
+                "grade9": "$28.25"
+            }
+        }
+    }
+}

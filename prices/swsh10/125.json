@@ -1,0 +1,31 @@
+{
+    "id": "swsh10-125",
+    "name": "Stantler",
+    "number": "125",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489624",
+        "reverse-holo": "3489820",
+        "snowflake-stamp": "5810877"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$32.52",
+                "grade9": "$4.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.41",
+                "psa10": "$35.75",
+                "grade9": "$12.26"
+            },
+            "snowflake-stamp": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

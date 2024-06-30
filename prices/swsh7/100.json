@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-100",
+    "name": "Garbodor V",
+    "number": "100",
+    "setId": "swsh7",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2512912"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$29.75",
+                "grade9": "$11.25"
+            }
+        }
+    }
+}

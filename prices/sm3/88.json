@@ -1,0 +1,19 @@
+{
+    "id": "sm3-88",
+    "name": "Darkrai-GX",
+    "number": "88",
+    "setId": "sm3",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "960872"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.28",
+                "psa10": "$40.88",
+                "grade9": "$23.74"
+            }
+        }
+    }
+}

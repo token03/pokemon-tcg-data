@@ -1,0 +1,25 @@
+{
+    "id": "sm35-24",
+    "name": "Palkia",
+    "number": "24",
+    "setId": "sm35",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961093",
+        "reverse-holo": "2358151"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$23.97",
+                "grade9": "$14.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.13",
+                "psa10": "$17.50",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

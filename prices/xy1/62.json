@@ -1,0 +1,25 @@
+{
+    "id": "xy1-62",
+    "name": "Rhyperior",
+    "number": "62",
+    "setId": "xy1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "806560",
+        "reverse-holo": "806684"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.69",
+                "psa10": "$41.60",
+                "grade9": "$16.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

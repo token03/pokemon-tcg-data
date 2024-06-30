@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-119",
+    "name": "Darkness Cube 01",
+    "number": "119",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842635",
+        "reverse-holo": "2294010"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.70",
+                "psa10": "$38.74",
+                "grade9": "$33.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.23",
+                "psa10": "$169.47",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

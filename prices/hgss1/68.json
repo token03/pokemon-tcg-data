@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-68",
+    "name": "Jigglypuff",
+    "number": "68",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806180",
+        "reverse-holo": "806286"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.22",
+                "psa10": "$56.39",
+                "grade9": "$21.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.74",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

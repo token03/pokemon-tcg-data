@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-41",
+    "name": "Vaporeon",
+    "number": "41",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925928",
+        "reverse-holo": "926019"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.15",
+                "psa10": "$57.66",
+                "grade9": "$49.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.93",
+                "psa10": "$174.33",
+                "grade9": "$74.98"
+            }
+        }
+    }
+}

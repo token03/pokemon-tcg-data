@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-86",
+    "name": "Totodile",
+    "number": "86",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806197",
+        "reverse-holo": "806304"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.89",
+                "psa10": "$57.25",
+                "grade9": "$19.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.38",
+                "psa10": "",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

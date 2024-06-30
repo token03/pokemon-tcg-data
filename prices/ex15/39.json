@@ -1,0 +1,25 @@
+{
+    "id": "ex15-39",
+    "name": "Smeargle \u03b4",
+    "number": "39",
+    "setId": "ex15",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889513",
+        "reverse-holo": "889614"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.68",
+                "psa10": "$243.00",
+                "grade9": "$12.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.57",
+                "psa10": "$113.85",
+                "grade9": "$49.95"
+            }
+        }
+    }
+}

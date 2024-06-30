@@ -1,0 +1,25 @@
+{
+    "id": "sm4-76",
+    "name": "Hakamo-o",
+    "number": "76",
+    "setId": "sm4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961222",
+        "reverse-holo": "961339"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.31",
+                "grade9": "$12.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.88",
+                "psa10": "$38.19",
+                "grade9": "$14.93"
+            }
+        }
+    }
+}

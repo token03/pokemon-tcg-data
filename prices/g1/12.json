@@ -1,0 +1,19 @@
+{
+    "id": "g1-12",
+    "name": "M Charizard-EX",
+    "number": "12",
+    "setId": "g1",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959724"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$32.21",
+                "psa10": "$491.27",
+                "grade9": "$95.00"
+            }
+        }
+    }
+}

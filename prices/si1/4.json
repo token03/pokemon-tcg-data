@@ -1,0 +1,19 @@
+{
+    "id": "si1-4",
+    "name": "Togepi",
+    "number": "4",
+    "setId": "si1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762486"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.00",
+                "psa10": "$550.52",
+                "grade9": "$99.99"
+            }
+        }
+    }
+}

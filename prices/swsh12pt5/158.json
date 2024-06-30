@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-158",
+    "name": "Darkness Energy",
+    "number": "158",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "holo": "4637054"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$3.35",
+                "psa10": "$20.82",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

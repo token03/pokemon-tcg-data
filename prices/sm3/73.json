@@ -1,0 +1,25 @@
+{
+    "id": "sm3-73",
+    "name": "Crabrawler",
+    "number": "73",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960857",
+        "reverse-holo": "961019"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.93",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

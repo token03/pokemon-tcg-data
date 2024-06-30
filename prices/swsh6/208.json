@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-208",
+    "name": "Metagross VMAX",
+    "number": "208",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254012"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.99",
+                "psa10": "$57.50",
+                "grade9": "$29.95"
+            }
+        }
+    }
+}

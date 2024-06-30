@@ -1,0 +1,25 @@
+{
+    "id": "sv1-106",
+    "name": "Houndstone",
+    "number": "106",
+    "setId": "sv1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "4933881",
+        "reverse-holo": "4934131"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$0.97",
+                "psa10": "$33.80",
+                "grade9": "$11.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.34",
+                "psa10": "$35.86",
+                "grade9": "$11.96"
+            }
+        }
+    }
+}

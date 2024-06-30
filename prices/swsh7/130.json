@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-130",
+    "name": "Vigoroth",
+    "number": "130",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512941",
+        "reverse-holo": "2513144"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.02",
+                "psa10": "$33.98",
+                "grade9": "$1.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex10-39",
+    "name": "Granbull",
+    "number": "39",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888459",
+        "reverse-holo": "888601"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$67.17",
+                "grade9": "$29.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.50",
+                "psa10": "$72.31",
+                "grade9": "$35.32"
+            }
+        }
+    }
+}

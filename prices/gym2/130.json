@@ -1,0 +1,25 @@
+{
+    "id": "gym2-130",
+    "name": "Lightning Energy",
+    "number": "130",
+    "setId": "gym2",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "2381923",
+        "1st-edition": "2414194"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$29.99",
+                "grade9": ""
+            },
+            "1st-edition": {
+                "ungraded": "$3.58",
+                "psa10": "$65.00",
+                "grade9": "$17.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl1-34",
+    "name": "Ludicolo",
+    "number": "34",
+    "setId": "pl1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "805996",
+        "reverse-holo": "805997"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$59.46",
+                "grade9": "$43.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.53",
+                "psa10": "",
+                "grade9": "$16.66"
+            }
+        }
+    }
+}

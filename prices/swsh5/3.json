@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-3",
+    "name": "Victreebel",
+    "number": "3",
+    "setId": "swsh5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1673184",
+        "reverse-holo": "1724992"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.76",
+                "grade9": "$12.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$35.45",
+                "grade9": "$12.59"
+            }
+        }
+    }
+}

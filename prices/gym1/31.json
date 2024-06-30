@@ -1,0 +1,25 @@
+{
+    "id": "gym1-31",
+    "name": "Misty's Poliwrath",
+    "number": "31",
+    "setId": "gym1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762150",
+        "1st-edition": "2156464"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.61",
+                "psa10": "$46.09",
+                "grade9": "$21.49"
+            },
+            "1st-edition": {
+                "ungraded": "$14.99",
+                "psa10": "$90.68",
+                "grade9": "$21.50"
+            }
+        }
+    }
+}

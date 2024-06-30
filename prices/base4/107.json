@@ -1,0 +1,19 @@
+{
+    "id": "base4-107",
+    "name": "Scoop Up",
+    "number": "107",
+    "setId": "base4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "641909"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.95",
+                "psa10": "$51.64",
+                "grade9": "$18.75"
+            }
+        }
+    }
+}

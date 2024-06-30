@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-204",
+    "name": "Arezu",
+    "number": "204",
+    "setId": "swsh11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "4050121"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.74",
+                "psa10": "$31.18",
+                "grade9": "$20.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm11-254",
+    "name": "Tag Switch",
+    "number": "254",
+    "setId": "sm11",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "963820"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.07",
+                "psa10": "$49.75",
+                "grade9": "$13.45"
+            }
+        }
+    }
+}

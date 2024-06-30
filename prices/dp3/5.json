@@ -1,0 +1,25 @@
+{
+    "id": "dp3-5",
+    "name": "Flygon",
+    "number": "5",
+    "setId": "dp3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920899",
+        "reverse-holo": "921027"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$499.99",
+                "grade9": "$47.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.98",
+                "psa10": "$77.07",
+                "grade9": "$35.36"
+            }
+        }
+    }
+}

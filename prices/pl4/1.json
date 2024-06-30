@@ -1,0 +1,31 @@
+{
+    "id": "pl4-1",
+    "name": "Charizard",
+    "number": "1",
+    "setId": "pl4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925620",
+        "cracked-ice": "5551260",
+        "reverse-holo": "925731"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.51",
+                "psa10": "$1,175.00",
+                "grade9": "$103.08"
+            },
+            "cracked-ice": {
+                "ungraded": "$15.25",
+                "psa10": "$1,234.00",
+                "grade9": "$109.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$18.00",
+                "psa10": "$369.00",
+                "grade9": "$307.50"
+            }
+        }
+    }
+}

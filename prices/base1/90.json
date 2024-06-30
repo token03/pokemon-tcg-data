@@ -1,0 +1,37 @@
+{
+    "id": "base1-90",
+    "name": "Super Potion",
+    "number": "90",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630503",
+        "1st-edition": "715679",
+        "shadowless": "4645359",
+        "trainer-deck-a": "2386895"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$52.29",
+                "grade9": "$26.77"
+            },
+            "1st-edition": {
+                "ungraded": "$12.99",
+                "psa10": "$202.50",
+                "grade9": "$45.00"
+            },
+            "shadowless": {
+                "ungraded": "$2.22",
+                "psa10": "$49.87",
+                "grade9": "$23.72"
+            },
+            "trainer-deck-a": {
+                "ungraded": "$2.49",
+                "psa10": "$107.50",
+                "grade9": ""
+            }
+        }
+    }
+}

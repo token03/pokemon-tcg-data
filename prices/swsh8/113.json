@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-113",
+    "name": "Mew V",
+    "number": "113",
+    "setId": "swsh8",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2771142",
+        "prize-pack": "6782121"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$29.95",
+                "grade9": "$12.02"
+            },
+            "prize-pack": {
+                "ungraded": "$12.59",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

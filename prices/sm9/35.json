@@ -1,0 +1,25 @@
+{
+    "id": "sm9-35",
+    "name": "Alolan Geodude",
+    "number": "35",
+    "setId": "sm9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962833",
+        "reverse-holo": "963026"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$34.38",
+                "grade9": "$12.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$35.88",
+                "grade9": "$13.41"
+            }
+        }
+    }
+}

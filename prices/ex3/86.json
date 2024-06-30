@@ -1,0 +1,25 @@
+{
+    "id": "ex3-86",
+    "name": "Low Pressure System",
+    "number": "86",
+    "setId": "ex3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849465",
+        "reverse-holo": "849565"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$69.17",
+                "grade9": "$23.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.83",
+                "psa10": "",
+                "grade9": "$19.70"
+            }
+        }
+    }
+}

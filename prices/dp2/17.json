@@ -1,0 +1,25 @@
+{
+    "id": "dp2-17",
+    "name": "Tyranitar",
+    "number": "17",
+    "setId": "dp2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920640",
+        "reverse-holo": "920765"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.97",
+                "psa10": "$850.00",
+                "grade9": "$65.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.92",
+                "psa10": "$110.81",
+                "grade9": "$39.36"
+            }
+        }
+    }
+}

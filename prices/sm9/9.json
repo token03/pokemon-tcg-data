@@ -1,0 +1,25 @@
+{
+    "id": "sm9-9",
+    "name": "Pinsir",
+    "number": "9",
+    "setId": "sm9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962807",
+        "reverse-holo": "963002"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.91",
+                "grade9": "$12.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

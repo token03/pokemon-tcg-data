@@ -1,0 +1,25 @@
+{
+    "id": "bw10-68",
+    "name": "Fraxure",
+    "number": "68",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957370",
+        "reverse-holo": "957469"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.64",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

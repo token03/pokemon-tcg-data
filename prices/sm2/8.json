@@ -1,0 +1,25 @@
+{
+    "id": "sm2-8",
+    "name": "Wimpod",
+    "number": "8",
+    "setId": "sm2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960505",
+        "reverse-holo": "960674"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$36.36",
+                "grade9": "$13.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

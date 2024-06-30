@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-112",
+    "name": "Venonat",
+    "number": "112",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842764",
+        "reverse-holo": "2252712"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.44",
+                "psa10": "$45.92",
+                "grade9": "$12.39"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.49",
+                "psa10": "$120.10",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

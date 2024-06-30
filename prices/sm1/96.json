@@ -1,0 +1,31 @@
+{
+    "id": "sm1-96",
+    "name": "Dragonite",
+    "number": "96",
+    "setId": "sm1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806840",
+        "cosmos-holo": "6390605",
+        "reverse-holo": "806971"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.92",
+                "psa10": "$39.28",
+                "grade9": "$13.40"
+            },
+            "cosmos-holo": {
+                "ungraded": "$2.03",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.44",
+                "psa10": "$45.63",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

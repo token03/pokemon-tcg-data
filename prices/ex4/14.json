@@ -1,0 +1,25 @@
+{
+    "id": "ex4-14",
+    "name": "Team Aqua's Crawdaunt",
+    "number": "14",
+    "setId": "ex4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849583",
+        "reverse-holo": "849680"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.41",
+                "psa10": "$110.78",
+                "grade9": "$37.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "",
+                "grade9": "$36.36"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw11-30",
+    "name": "Magikarp",
+    "number": "30",
+    "setId": "bw11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957524",
+        "reverse-holo": "957662"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$99.99",
+                "grade9": "$20.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.00",
+                "psa10": "$78.63",
+                "grade9": "$36.02"
+            }
+        }
+    }
+}

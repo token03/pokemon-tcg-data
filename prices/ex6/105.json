@@ -1,0 +1,19 @@
+{
+    "id": "ex6-105",
+    "name": "Charizard ex",
+    "number": "105",
+    "setId": "ex6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "850072"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$350.00",
+                "psa10": "$4,537.17",
+                "grade9": "$1,115.00"
+            }
+        }
+    }
+}

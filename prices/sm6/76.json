@@ -1,0 +1,25 @@
+{
+    "id": "sm6-76",
+    "name": "Lycanroc",
+    "number": "76",
+    "setId": "sm6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961739",
+        "reverse-holo": "961879"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$20.50",
+                "grade9": "$16.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.34",
+                "psa10": "$39.71",
+                "grade9": "$15.79"
+            }
+        }
+    }
+}

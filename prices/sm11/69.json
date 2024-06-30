@@ -1,0 +1,25 @@
+{
+    "id": "sm11-69",
+    "name": "Tapu Koko",
+    "number": "69",
+    "setId": "sm11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963635",
+        "reverse-holo": "963888"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.89",
+                "psa10": "$24.49",
+                "grade9": "$14.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$37.68",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

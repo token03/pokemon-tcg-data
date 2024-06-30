@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-42",
+    "name": "Glalie",
+    "number": "42",
+    "setId": "swsh12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4277162",
+        "reverse-holo": "4293786"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.18",
+                "grade9": "$11.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.04",
+                "psa10": "$34.39",
+                "grade9": "$11.59"
+            }
+        }
+    }
+}

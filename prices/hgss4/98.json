@@ -1,0 +1,19 @@
+{
+    "id": "hgss4-98",
+    "name": "Yanmega",
+    "number": "98",
+    "setId": "hgss4",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "926155"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.43",
+                "psa10": "$146.76",
+                "grade9": "$33.36"
+            }
+        }
+    }
+}

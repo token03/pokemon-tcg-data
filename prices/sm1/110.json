@@ -1,0 +1,19 @@
+{
+    "id": "sm1-110",
+    "name": "Gumshoos-GX",
+    "number": "110",
+    "setId": "sm1",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "806854"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$17.10",
+                "grade9": "$4.64"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-59",
+    "name": "Azumarill",
+    "number": "59",
+    "setId": "swsh8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2771088",
+        "reverse-holo": "2771358"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.03",
+                "psa10": "$34.46",
+                "grade9": "$11.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$35.91",
+                "grade9": "$12.55"
+            }
+        }
+    }
+}

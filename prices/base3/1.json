@@ -1,0 +1,31 @@
+{
+    "id": "base3-1",
+    "name": "Aerodactyl",
+    "number": "1",
+    "setId": "base3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643396",
+        "1st-edition": "1099495",
+        "prerelease": "2386781"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.93",
+                "psa10": "$280.00",
+                "grade9": "$75.00"
+            },
+            "1st-edition": {
+                "ungraded": "$23.00",
+                "psa10": "$999.99",
+                "grade9": "$122.13"
+            },
+            "prerelease": {
+                "ungraded": "$31.89",
+                "psa10": "$1,499.95",
+                "grade9": "$116.84"
+            }
+        }
+    }
+}

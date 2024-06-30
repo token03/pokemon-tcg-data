@@ -1,0 +1,25 @@
+{
+    "id": "pl1-48",
+    "name": "Flaaffy",
+    "number": "48",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "805946",
+        "reverse-holo": "805947"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.33",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

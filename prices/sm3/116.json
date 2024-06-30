@@ -1,0 +1,25 @@
+{
+    "id": "sm3-116",
+    "name": "Kiawe",
+    "number": "116",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960900",
+        "reverse-holo": "961057"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$35.22",
+                "grade9": "$13.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.54",
+                "psa10": "$36.82",
+                "grade9": "$14.11"
+            }
+        }
+    }
+}

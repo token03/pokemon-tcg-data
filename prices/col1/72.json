@@ -1,0 +1,25 @@
+{
+    "id": "col1-72",
+    "name": "Tangela",
+    "number": "72",
+    "setId": "col1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "926323",
+        "reverse-holo": "926429"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.76",
+                "psa10": "$48.32",
+                "grade9": "$16.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.77",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

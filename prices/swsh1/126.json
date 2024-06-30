@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-126",
+    "name": "Thievul",
+    "number": "126",
+    "setId": "swsh1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "807295",
+        "reverse-holo": "807296"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$20.67",
+                "grade9": "$12.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$36.06",
+                "grade9": "$6.27"
+            }
+        }
+    }
+}

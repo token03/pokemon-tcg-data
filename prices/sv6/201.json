@@ -1,0 +1,19 @@
+{
+    "id": "sv6-201",
+    "name": "Blissey ex",
+    "number": "201",
+    "setId": "sv6",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6775718"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$55.79",
+                "grade9": "$16.73"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex5-22",
+    "name": "Ninetales",
+    "number": "22",
+    "setId": "ex5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849795",
+        "reverse-holo": "849897"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$39.00",
+                "grade9": "$32.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$15.99",
+                "psa10": "$242.50",
+                "grade9": "$54.07"
+            }
+        }
+    }
+}

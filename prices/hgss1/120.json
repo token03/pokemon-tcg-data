@@ -1,0 +1,19 @@
+{
+    "id": "hgss1-120",
+    "name": "Fighting Energy",
+    "number": "120",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2368691"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.00",
+                "psa10": "",
+                "grade9": "$19.00"
+            }
+        }
+    }
+}

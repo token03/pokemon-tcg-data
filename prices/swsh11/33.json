@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-33",
+    "name": "Seel",
+    "number": "33",
+    "setId": "swsh11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4049950",
+        "reverse-holo": "4050166"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$38.28",
+                "grade9": "$13.09"
+            }
+        }
+    }
+}

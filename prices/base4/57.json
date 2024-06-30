@@ -1,0 +1,19 @@
+{
+    "id": "base4-57",
+    "name": "Poliwhirl",
+    "number": "57",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641860"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$58.18",
+                "grade9": "$25.73"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh45-38",
+    "name": "Morpeko VMAX",
+    "number": "38",
+    "setId": "swsh45",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "1341515"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$16.12",
+                "grade9": "$11.25"
+            }
+        }
+    }
+}

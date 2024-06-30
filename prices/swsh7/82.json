@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-82",
+    "name": "Galarian Zapdos",
+    "number": "82",
+    "setId": "swsh7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "2512893",
+        "reverse-holo": "2513107"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.25",
+                "psa10": "$36.00",
+                "grade9": "$10.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$55.00",
+                "grade9": "$17.06"
+            }
+        }
+    }
+}

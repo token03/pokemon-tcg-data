@@ -1,0 +1,19 @@
+{
+    "id": "sv1-212",
+    "name": "Kirlia",
+    "number": "212",
+    "setId": "sv1",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "4933986"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.66",
+                "psa10": "$140.00",
+                "grade9": "$28.56"
+            }
+        }
+    }
+}

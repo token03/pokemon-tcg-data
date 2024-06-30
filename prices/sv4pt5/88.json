@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-88",
+    "name": "Professor's Research",
+    "number": "88",
+    "setId": "sv4pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6277166",
+        "reverse-holo": "6277244"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$36.05",
+                "grade9": "$11.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "$36.20",
+                "grade9": "$11.74"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm6-95",
+    "name": "Ultra Necrozma-GX",
+    "number": "95",
+    "setId": "sm6",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961758"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.19",
+                "psa10": "$49.67",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

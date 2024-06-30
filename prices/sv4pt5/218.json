@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-218",
+    "name": "Glimmora ex",
+    "number": "218",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6277137"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$17.00",
+                "grade9": "$6.73"
+            }
+        }
+    }
+}

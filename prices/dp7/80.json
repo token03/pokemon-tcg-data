@@ -1,0 +1,25 @@
+{
+    "id": "dp7-80",
+    "name": "Voltorb",
+    "number": "80",
+    "setId": "dp7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925286",
+        "reverse-holo": "925379"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$50.54",
+                "grade9": "$13.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.18",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

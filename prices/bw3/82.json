@@ -1,0 +1,25 @@
+{
+    "id": "bw3-82",
+    "name": "Bisharp",
+    "number": "82",
+    "setId": "bw3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955737",
+        "reverse-holo": "955839"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.30",
+                "psa10": "$48.18",
+                "grade9": "$21.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.14",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-21",
+    "name": "Spearow",
+    "number": "21",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809401",
+        "reverse-holo": "5809609"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.74",
+                "grade9": "$11.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.87",
+                "psa10": "$38.59",
+                "grade9": "$3.25"
+            }
+        }
+    }
+}

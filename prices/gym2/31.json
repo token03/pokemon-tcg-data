@@ -1,0 +1,25 @@
+{
+    "id": "gym2-31",
+    "name": "Blaine's Charmeleon",
+    "number": "31",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762237",
+        "1st-edition": "1450225"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$65.29",
+                "grade9": "$34.97"
+            },
+            "1st-edition": {
+                "ungraded": "$11.30",
+                "psa10": "$122.49",
+                "grade9": "$38.11"
+            }
+        }
+    }
+}

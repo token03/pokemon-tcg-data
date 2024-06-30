@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-44",
+    "name": "Electabuzz",
+    "number": "44",
+    "setId": "swsh5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1673225",
+        "reverse-holo": "1725027"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$34.49",
+                "grade9": "$12.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$34.57",
+                "grade9": "$12.17"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw5-48",
+    "name": "Espeon",
+    "number": "48",
+    "setId": "bw5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956094",
+        "reverse-holo": "956203"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.96",
+                "psa10": "$341.00",
+                "grade9": "$284.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.94",
+                "psa10": "$143.38",
+                "grade9": "$39.28"
+            }
+        }
+    }
+}

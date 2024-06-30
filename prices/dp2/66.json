@@ -1,0 +1,25 @@
+{
+    "id": "dp2-66",
+    "name": "Unown [M]",
+    "number": "66",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920689",
+        "reverse-holo": "920813"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$54.77",
+                "grade9": "$19.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.56",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

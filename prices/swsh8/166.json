@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-166",
+    "name": "Toxicroak",
+    "number": "166",
+    "setId": "swsh8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2771195",
+        "reverse-holo": "2771452"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$34.54",
+                "grade9": "$11.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "$36.23",
+                "grade9": "$6.00"
+            }
+        }
+    }
+}

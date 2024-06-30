@@ -1,0 +1,25 @@
+{
+    "id": "sv3-3",
+    "name": "Bellossom",
+    "number": "3",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605521",
+        "reverse-holo": "5605760"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.67",
+                "grade9": "$11.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$34.53",
+                "grade9": "$11.41"
+            }
+        }
+    }
+}

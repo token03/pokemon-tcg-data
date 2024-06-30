@@ -1,0 +1,25 @@
+{
+    "id": "ex13-91",
+    "name": "Claw Fossil",
+    "number": "91",
+    "setId": "ex13",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889171",
+        "reverse-holo": "889280"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$40.88",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.13",
+                "psa10": "$90.08",
+                "grade9": "$18.65"
+            }
+        }
+    }
+}

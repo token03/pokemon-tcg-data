@@ -1,0 +1,25 @@
+{
+    "id": "dp3-82",
+    "name": "Charmander",
+    "number": "82",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920972",
+        "reverse-holo": "921103"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$143.75",
+                "grade9": "$34.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.00",
+                "psa10": "$187.91",
+                "grade9": "$82.05"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex4-35",
+    "name": "Team Magma's Houndour",
+    "number": "35",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849604",
+        "reverse-holo": "849701"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$182.51",
+                "grade9": "$22.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.75",
+                "psa10": "$237.34",
+                "grade9": "$79.74"
+            }
+        }
+    }
+}

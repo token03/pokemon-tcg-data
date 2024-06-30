@@ -1,0 +1,19 @@
+{
+    "id": "xy11-115",
+    "name": "Volcanion-EX",
+    "number": "115",
+    "setId": "xy11",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960194"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$105.00",
+                "grade9": "$41.25"
+            }
+        }
+    }
+}

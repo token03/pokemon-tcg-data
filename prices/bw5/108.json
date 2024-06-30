@@ -1,0 +1,19 @@
+{
+    "id": "bw5-108",
+    "name": "Tornadus-EX",
+    "number": "108",
+    "setId": "bw5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956155"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$28.72",
+                "psa10": "$283.09",
+                "grade9": "$79.99"
+            }
+        }
+    }
+}

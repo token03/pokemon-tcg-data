@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-199",
+    "name": "Aroma Lady",
+    "number": "199",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2513008"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.99",
+                "psa10": "$49.60",
+                "grade9": "$13.89"
+            }
+        }
+    }
+}

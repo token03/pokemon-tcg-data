@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-55",
+    "name": "Mareep",
+    "number": "55",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887141",
+        "reverse-holo": "887325"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$49.99",
+                "grade9": "$11.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$24.99",
+                "grade9": "$12.39"
+            }
+        }
+    }
+}

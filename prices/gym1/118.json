@@ -1,0 +1,25 @@
+{
+    "id": "gym1-118",
+    "name": "Secret Mission",
+    "number": "118",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762117",
+        "1st-edition": "2156428"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.12",
+                "psa10": "$39.41",
+                "grade9": "$16.01"
+            },
+            "1st-edition": {
+                "ungraded": "$3.99",
+                "psa10": "$72.49",
+                "grade9": "$13.74"
+            }
+        }
+    }
+}

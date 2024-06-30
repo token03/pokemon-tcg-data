@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-120",
+    "name": "Energy Switch",
+    "number": "120",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842636",
+        "reverse-holo": "2294011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$189.90",
+                "grade9": "$19.67"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.97",
+                "psa10": "$296.58",
+                "grade9": "$48.00"
+            }
+        }
+    }
+}

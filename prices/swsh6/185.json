@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-185",
+    "name": "Tornadus V",
+    "number": "185",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253989"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.25",
+                "psa10": "$69.28",
+                "grade9": "$27.92"
+            }
+        }
+    }
+}

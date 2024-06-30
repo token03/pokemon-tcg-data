@@ -1,0 +1,25 @@
+{
+    "id": "dp2-69",
+    "name": "Abra",
+    "number": "69",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920692",
+        "reverse-holo": "920816"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$29.00",
+                "grade9": "$13.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.84",
+                "psa10": "$84.24",
+                "grade9": "$29.44"
+            }
+        }
+    }
+}

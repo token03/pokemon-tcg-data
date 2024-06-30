@@ -1,0 +1,25 @@
+{
+    "id": "xy10-89",
+    "name": "Cinccino",
+    "number": "89",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959946",
+        "reverse-holo": "960053"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$35.04",
+                "grade9": "$12.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$35.70",
+                "grade9": "$13.38"
+            }
+        }
+    }
+}

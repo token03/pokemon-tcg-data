@@ -1,0 +1,25 @@
+{
+    "id": "sm12-67",
+    "name": "Raichu",
+    "number": "67",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964305",
+        "reverse-holo": "964569"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.45",
+                "psa10": "$70.00",
+                "grade9": "$28.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$22.50",
+                "grade9": "$18.57"
+            }
+        }
+    }
+}

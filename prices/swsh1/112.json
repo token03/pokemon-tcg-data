@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-112",
+    "name": "Clobbopus",
+    "number": "112",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1431223",
+        "reverse-holo": "1431238"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.14",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

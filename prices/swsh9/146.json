@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-146",
+    "name": "Pot Helmet",
+    "number": "146",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188370",
+        "reverse-holo": "3219491"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.01",
+                "grade9": "$12.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.07",
+                "psa10": "$34.25",
+                "grade9": "$11.75"
+            }
+        }
+    }
+}

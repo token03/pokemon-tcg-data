@@ -1,0 +1,25 @@
+{
+    "id": "sm12-138",
+    "name": "Alolan Sandslash",
+    "number": "138",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964376",
+        "reverse-holo": "964636"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$39.99",
+                "grade9": "$12.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.04",
+                "psa10": "$34.20",
+                "grade9": "$12.35"
+            }
+        }
+    }
+}

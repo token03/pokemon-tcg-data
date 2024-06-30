@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-113",
+    "name": "Chansey",
+    "number": "113",
+    "setId": "sv3pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5809494",
+        "reverse-holo": "5809696"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$13.50",
+                "grade9": "$8.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.16",
+                "psa10": "$40.05",
+                "grade9": "$13.04"
+            }
+        }
+    }
+}

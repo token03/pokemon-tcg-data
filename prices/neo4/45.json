@@ -1,0 +1,25 @@
+{
+    "id": "neo4-45",
+    "name": "Light Dewgong",
+    "number": "45",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762603",
+        "1st-edition": "2183343"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.28",
+                "psa10": "$42.00",
+                "grade9": "$21.49"
+            },
+            "1st-edition": {
+                "ungraded": "$6.50",
+                "psa10": "$62.54",
+                "grade9": "$15.53"
+            }
+        }
+    }
+}

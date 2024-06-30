@@ -1,0 +1,19 @@
+{
+    "id": "bw8-93",
+    "name": "Cobalion-EX",
+    "number": "93",
+    "setId": "bw8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956890"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$150.99",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

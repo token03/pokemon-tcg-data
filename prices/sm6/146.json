@@ -1,0 +1,19 @@
+{
+    "id": "sm6-146",
+    "name": "Unit Energy FightingDarknessFairy",
+    "number": "146",
+    "setId": "sm6",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "961809"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.27",
+                "psa10": "$100.00",
+                "grade9": "$50.00"
+            }
+        }
+    }
+}

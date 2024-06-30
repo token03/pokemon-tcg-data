@@ -1,0 +1,31 @@
+{
+    "id": "sv1-5",
+    "name": "Cacnea",
+    "number": "5",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933783",
+        "holo": "5917676",
+        "reverse-holo": "4934037"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.74",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.23",
+                "psa10": "$10.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.33",
+                "grade9": "$11.45"
+            }
+        }
+    }
+}

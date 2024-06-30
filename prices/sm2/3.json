@@ -1,0 +1,25 @@
+{
+    "id": "sm2-3",
+    "name": "Victreebel",
+    "number": "3",
+    "setId": "sm2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960500",
+        "reverse-holo": "960669"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$25.00",
+                "grade9": "$12.71"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$38.58",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

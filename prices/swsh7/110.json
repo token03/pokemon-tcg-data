@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-110",
+    "name": "Rayquaza V",
+    "number": "110",
+    "setId": "swsh7",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2512922",
+        "series-1": "4658548"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "$32.25",
+                "grade9": "$10.49"
+            },
+            "series-1": {
+                "ungraded": "$13.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

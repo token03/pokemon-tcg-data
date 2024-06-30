@@ -1,0 +1,25 @@
+{
+    "id": "sm9-78",
+    "name": "Kabutops",
+    "number": "78",
+    "setId": "sm9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962876",
+        "reverse-holo": "963065"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.79",
+                "psa10": "$37.06",
+                "grade9": "$14.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.49",
+                "psa10": "$47.73",
+                "grade9": "$20.28"
+            }
+        }
+    }
+}

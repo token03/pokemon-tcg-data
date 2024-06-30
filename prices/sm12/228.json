@@ -1,0 +1,19 @@
+{
+    "id": "sm12-228",
+    "name": "Cynthia & Caitlin",
+    "number": "228",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964466"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$99.99",
+                "psa10": "$176.47",
+                "grade9": "$96.40"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-143",
+    "name": "Cyclone Energy",
+    "number": "143",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842788",
+        "reverse-holo": "2252742"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$38.00",
+                "grade9": "$32.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.55",
+                "psa10": "",
+                "grade9": "$37.20"
+            }
+        }
+    }
+}

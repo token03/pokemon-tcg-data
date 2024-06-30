@@ -1,0 +1,25 @@
+{
+    "id": "sv6-110",
+    "name": "Ting-Lu",
+    "number": "110",
+    "setId": "sv6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6769590",
+        "reverse-holo": "6769807"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$36.19",
+                "grade9": "$11.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$37.08",
+                "grade9": "$11.85"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-174",
+    "name": "Galarian Sirfetch'd V",
+    "number": "174",
+    "setId": "swsh4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "25438"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.23",
+                "psa10": "$23.50",
+                "grade9": "$14.56"
+            }
+        }
+    }
+}

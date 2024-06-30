@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-25",
+    "name": "Lunatone",
+    "number": "25",
+    "setId": "hgss4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926083",
+        "reverse-holo": "926185"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.30",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

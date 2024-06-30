@@ -1,0 +1,19 @@
+{
+    "id": "sm4-49",
+    "name": "Nihilego-GX",
+    "number": "49",
+    "setId": "sm4",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961196"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.72",
+                "psa10": "$20.11",
+                "grade9": "$9.95"
+            }
+        }
+    }
+}

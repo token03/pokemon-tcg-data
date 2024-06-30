@@ -1,0 +1,25 @@
+{
+    "id": "ex5-34",
+    "name": "Glalie",
+    "number": "34",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849807",
+        "reverse-holo": "849909"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.85",
+                "psa10": "$95.82",
+                "grade9": "$14.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$128.00",
+                "grade9": "$18.52"
+            }
+        }
+    }
+}

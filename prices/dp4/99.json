@@ -1,0 +1,25 @@
+{
+    "id": "dp4-99",
+    "name": "Leftovers",
+    "number": "99",
+    "setId": "dp4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921253",
+        "reverse-holo": "921359"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.96",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.38",
+                "psa10": "$111.90",
+                "grade9": ""
+            }
+        }
+    }
+}

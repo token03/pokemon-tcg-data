@@ -1,0 +1,25 @@
+{
+    "id": "base2-41",
+    "name": "Parasect",
+    "number": "41",
+    "setId": "base2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643324",
+        "1st-edition": "643372"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$47.49",
+                "grade9": "$18.75"
+            },
+            "1st-edition": {
+                "ungraded": "$2.21",
+                "psa10": "$61.88",
+                "grade9": "$17.24"
+            }
+        }
+    }
+}

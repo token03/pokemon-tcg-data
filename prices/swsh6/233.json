@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-233",
+    "name": "Fighting Energy",
+    "number": "233",
+    "setId": "swsh6",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2982516"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.95",
+                "psa10": "$26.89",
+                "grade9": "$10.82"
+            }
+        }
+    }
+}

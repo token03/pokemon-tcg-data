@@ -1,0 +1,19 @@
+{
+    "id": "mcd19-10",
+    "name": "Alolan Meowth",
+    "number": "10",
+    "setId": "mcd19",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180061"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.94",
+                "psa10": "$41.28",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

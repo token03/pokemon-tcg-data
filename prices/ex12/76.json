@@ -1,0 +1,25 @@
+{
+    "id": "ex12-76",
+    "name": "Power Tree",
+    "number": "76",
+    "setId": "ex12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888958",
+        "reverse-holo": "889051"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "",
+                "grade9": "$7.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.38",
+                "psa10": "$98.30",
+                "grade9": "$35.30"
+            }
+        }
+    }
+}

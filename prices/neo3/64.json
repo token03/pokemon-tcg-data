@@ -1,0 +1,25 @@
+{
+    "id": "neo3-64",
+    "name": "Old Rod",
+    "number": "64",
+    "setId": "neo3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762521",
+        "1st-edition": "2427425"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$27.00",
+                "grade9": "$10.74"
+            },
+            "1st-edition": {
+                "ungraded": "$1.34",
+                "psa10": "$39.99",
+                "grade9": "$31.00"
+            }
+        }
+    }
+}

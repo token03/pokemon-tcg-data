@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-169",
+    "name": "Marnie",
+    "number": "169",
+    "setId": "swsh1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "807172",
+        "reverse-holo": "807173"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.36",
+                "psa10": "$14.50",
+                "grade9": "$9.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.57",
+                "psa10": "$15.50",
+                "grade9": "$10.14"
+            }
+        }
+    }
+}

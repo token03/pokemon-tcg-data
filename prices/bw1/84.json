@@ -1,0 +1,25 @@
+{
+    "id": "bw1-84",
+    "name": "Pidove",
+    "number": "84",
+    "setId": "bw1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806391",
+        "reverse-holo": "806478"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": "$1.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.57",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

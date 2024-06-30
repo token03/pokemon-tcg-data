@@ -1,0 +1,25 @@
+{
+    "id": "xy9-98",
+    "name": "Delinquent",
+    "number": "98",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959589",
+        "reverse-holo": "959697"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$37.80",
+                "grade9": "$14.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.19",
+                "psa10": "$41.38",
+                "grade9": "$6.05"
+            }
+        }
+    }
+}

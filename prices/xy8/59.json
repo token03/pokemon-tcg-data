@@ -1,0 +1,25 @@
+{
+    "id": "xy8-59",
+    "name": "Haunter",
+    "number": "59",
+    "setId": "xy8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959248",
+        "reverse-holo": "959406"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "$38.50",
+                "grade9": "$13.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.51",
+                "psa10": "$43.60",
+                "grade9": "$4.25"
+            }
+        }
+    }
+}

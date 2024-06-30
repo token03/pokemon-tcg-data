@@ -1,0 +1,25 @@
+{
+    "id": "base6-29",
+    "name": "Mewtwo",
+    "number": "29",
+    "setId": "base6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842336",
+        "reverse-holo": "2253712"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.58",
+                "psa10": "$155.79",
+                "grade9": "$47.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$158.75",
+                "psa10": "$3,100.00",
+                "grade9": "$523.51"
+            }
+        }
+    }
+}

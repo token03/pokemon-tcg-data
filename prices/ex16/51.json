@@ -1,0 +1,31 @@
+{
+    "id": "ex16-51",
+    "name": "Kabuto",
+    "number": "51",
+    "setId": "ex16",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889715",
+        "reverse-holo": "889822",
+        "stamped": "4916995"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "",
+                "grade9": "$50.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.75",
+                "psa10": "$126.88",
+                "grade9": "$29.02"
+            },
+            "stamped": {
+                "ungraded": "$5.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

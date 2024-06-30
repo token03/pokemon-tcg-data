@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-196",
+    "name": "Nessa",
+    "number": "196",
+    "setId": "swsh4",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "887733"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.75",
+                "psa10": "$37.00",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl1-37",
+    "name": "Palkia",
+    "number": "37",
+    "setId": "pl1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806023",
+        "reverse-holo": "806024"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$132.00",
+                "grade9": "$110.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.06",
+                "psa10": "$71.36",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

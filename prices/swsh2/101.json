@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-101",
+    "name": "Galarian Yamask",
+    "number": "101",
+    "setId": "swsh2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886829",
+        "reverse-holo": "887019"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.76",
+                "grade9": "$11.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex3-1",
+    "name": "Absol",
+    "number": "1",
+    "setId": "ex3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "6331560",
+        "reverse-holo": "849480"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$29.90",
+                "psa10": "$471.88",
+                "grade9": "$57.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.65",
+                "psa10": "$340.43",
+                "grade9": "$67.99"
+            }
+        }
+    }
+}

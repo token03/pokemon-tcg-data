@@ -1,0 +1,25 @@
+{
+    "id": "sv3-189",
+    "name": "Letter of Encouragement",
+    "number": "189",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605707",
+        "reverse-holo": "5642338"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$35.62",
+                "grade9": "$11.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

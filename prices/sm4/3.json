@@ -1,0 +1,25 @@
+{
+    "id": "sm4-3",
+    "name": "Beedrill",
+    "number": "3",
+    "setId": "sm4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961150",
+        "reverse-holo": "961273"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$34.58",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.53",
+                "psa10": "$35.20",
+                "grade9": "$7.50"
+            }
+        }
+    }
+}

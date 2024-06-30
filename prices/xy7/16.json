@@ -1,0 +1,25 @@
+{
+    "id": "xy7-16",
+    "name": "Larvesta",
+    "number": "16",
+    "setId": "xy7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959035",
+        "reverse-holo": "959132"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.97",
+                "psa10": "$35.41",
+                "grade9": "$13.14"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw10-58",
+    "name": "Lairon",
+    "number": "58",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957360",
+        "reverse-holo": "957462"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.68",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

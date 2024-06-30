@@ -1,0 +1,25 @@
+{
+    "id": "sm11-190",
+    "name": "Channeler",
+    "number": "190",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963756",
+        "reverse-holo": "963997"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

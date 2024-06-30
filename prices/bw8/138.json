@@ -1,0 +1,19 @@
+{
+    "id": "bw8-138",
+    "name": "Random Receiver",
+    "number": "138",
+    "setId": "bw8",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "956935"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

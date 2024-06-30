@@ -1,0 +1,25 @@
+{
+    "id": "bw5-22",
+    "name": "Volcarona",
+    "number": "22",
+    "setId": "bw5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956068",
+        "reverse-holo": "956179"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.96",
+                "psa10": "$55.93",
+                "grade9": "$25.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

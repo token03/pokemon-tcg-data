@@ -1,0 +1,25 @@
+{
+    "id": "dv1-11",
+    "name": "Rayquaza",
+    "number": "11",
+    "setId": "dv1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956504",
+        "stamped": "5811201"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.40",
+                "psa10": "$450.00",
+                "grade9": "$53.63"
+            },
+            "stamped": {
+                "ungraded": "$10.49",
+                "psa10": "",
+                "grade9": "$81.00"
+            }
+        }
+    }
+}

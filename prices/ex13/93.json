@@ -1,0 +1,25 @@
+{
+    "id": "ex13-93",
+    "name": "Root Fossil",
+    "number": "93",
+    "setId": "ex13",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889173",
+        "reverse-holo": "889282"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.73",
+                "psa10": "$50.36",
+                "grade9": "$17.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$87.40",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

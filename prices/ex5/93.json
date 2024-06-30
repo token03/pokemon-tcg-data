@@ -1,0 +1,19 @@
+{
+    "id": "ex5-93",
+    "name": "Groudon ex",
+    "number": "93",
+    "setId": "ex5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849866"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$31.00",
+                "psa10": "$365.16",
+                "grade9": "$112.98"
+            }
+        }
+    }
+}

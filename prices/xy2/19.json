@@ -1,0 +1,25 @@
+{
+    "id": "xy2-19",
+    "name": "Litleo",
+    "number": "19",
+    "setId": "xy2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957766",
+        "reverse-holo": "957872"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.68",
+                "psa10": "",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.14",
+                "psa10": "$37.73",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

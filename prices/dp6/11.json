@@ -1,0 +1,25 @@
+{
+    "id": "dp6-11",
+    "name": "Mewtwo",
+    "number": "11",
+    "setId": "dp6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "924942",
+        "reverse-holo": "925088"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.87",
+                "psa10": "$750.00",
+                "grade9": "$119.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.25",
+                "psa10": "$205.64",
+                "grade9": "$77.08"
+            }
+        }
+    }
+}

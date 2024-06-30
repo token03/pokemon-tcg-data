@@ -1,0 +1,25 @@
+{
+    "id": "xy5-17",
+    "name": "Volbeat",
+    "number": "17",
+    "setId": "xy5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958474",
+        "reverse-holo": "958637"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$16.46",
+                "grade9": "$14.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "$39.87",
+                "grade9": "$15.60"
+            }
+        }
+    }
+}

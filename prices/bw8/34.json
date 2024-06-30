@@ -1,0 +1,25 @@
+{
+    "id": "bw8-34",
+    "name": "Manaphy",
+    "number": "34",
+    "setId": "bw8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956832",
+        "reverse-holo": "956966"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "$102.51",
+                "grade9": "$18.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.08",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

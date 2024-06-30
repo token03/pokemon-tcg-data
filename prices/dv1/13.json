@@ -1,0 +1,19 @@
+{
+    "id": "dv1-13",
+    "name": "Axew",
+    "number": "13",
+    "setId": "dv1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956506"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.31",
+                "psa10": "$112.00",
+                "grade9": "$22.01"
+            }
+        }
+    }
+}

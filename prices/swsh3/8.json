@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-8",
+    "name": "Karrablast",
+    "number": "8",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887094",
+        "reverse-holo": "887283"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$35.89",
+                "grade9": "$1.76"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-107",
+    "name": "Scovillain",
+    "number": "107",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277025"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.78",
+                "psa10": "$34.95",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "bw9-119",
+    "name": "Garbodor",
+    "number": "119",
+    "setId": "bw9",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "957173"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$56.23",
+                "psa10": "$1,272.32",
+                "grade9": "$170.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm10-141",
+    "name": "Spritzee",
+    "number": "141",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963297",
+        "reverse-holo": "963519"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$34.11",
+                "grade9": "$12.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$35.68",
+                "grade9": "$3.67"
+            }
+        }
+    }
+}

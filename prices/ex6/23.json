@@ -1,0 +1,25 @@
+{
+    "id": "ex6-23",
+    "name": "Farfetch'd",
+    "number": "23",
+    "setId": "ex6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849990",
+        "reverse-holo": "850186"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.17",
+                "psa10": "$101.62",
+                "grade9": "$34.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.70",
+                "psa10": "$175.00",
+                "grade9": "$34.00"
+            }
+        }
+    }
+}

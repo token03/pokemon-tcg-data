@@ -1,0 +1,19 @@
+{
+    "id": "sv6-196",
+    "name": "Iron Thorns ex",
+    "number": "196",
+    "setId": "sv6",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6775713"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.59",
+                "psa10": "$59.90",
+                "grade9": "$17.80"
+            }
+        }
+    }
+}

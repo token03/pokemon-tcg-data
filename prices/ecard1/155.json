@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-155",
+    "name": "Moo-Moo Milk",
+    "number": "155",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842527",
+        "reverse-holo": "2267008"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$31.12",
+                "grade9": "$13.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.56",
+                "psa10": "$94.81",
+                "grade9": "$32.66"
+            }
+        }
+    }
+}

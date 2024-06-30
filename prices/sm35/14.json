@@ -1,0 +1,25 @@
+{
+    "id": "sm35-14",
+    "name": "Reshiram",
+    "number": "14",
+    "setId": "sm35",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961083",
+        "reverse-holo": "2430890"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$46.87",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.78",
+                "psa10": "$52.47",
+                "grade9": "$6.00"
+            }
+        }
+    }
+}

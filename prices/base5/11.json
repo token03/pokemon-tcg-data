@@ -1,0 +1,25 @@
+{
+    "id": "base5-11",
+    "name": "Dark Magneton",
+    "number": "11",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643466",
+        "1st-edition": "1341353"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.62",
+                "psa10": "$598.02",
+                "grade9": "$72.50"
+            },
+            "1st-edition": {
+                "ungraded": "$29.97",
+                "psa10": "$6,936.05",
+                "grade9": "$166.25"
+            }
+        }
+    }
+}

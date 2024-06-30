@@ -1,0 +1,37 @@
+{
+    "id": "dp7-46",
+    "name": "Piloswine",
+    "number": "46",
+    "setId": "dp7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925259",
+        "prerelease-staff": "4916946",
+        "prerelease": "3322147",
+        "reverse-holo": "925345"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": "$93.89"
+            },
+            "prerelease-staff": {
+                "ungraded": "$32.43",
+                "psa10": "",
+                "grade9": "$120.35"
+            },
+            "prerelease": {
+                "ungraded": "$9.17",
+                "psa10": "",
+                "grade9": "$40.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.36",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

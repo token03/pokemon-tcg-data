@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-8",
+    "name": "Wartortle",
+    "number": "8",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809388",
+        "reverse-holo": "5809597"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.03",
+                "psa10": "$34.73",
+                "grade9": "$11.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$26.55",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

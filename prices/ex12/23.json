@@ -1,0 +1,25 @@
+{
+    "id": "ex12-23",
+    "name": "Omastar",
+    "number": "23",
+    "setId": "ex12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888905",
+        "reverse-holo": "888998"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.73",
+                "psa10": "$51.00",
+                "grade9": "$42.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.99",
+                "psa10": "$179.61",
+                "grade9": "$61.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-108",
+    "name": "Swinub",
+    "number": "108",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887980",
+        "reverse-holo": "2252707"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.80",
+                "psa10": "$74.21",
+                "grade9": "$17.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.14",
+                "psa10": "$171.50",
+                "grade9": "$32.16"
+            }
+        }
+    }
+}

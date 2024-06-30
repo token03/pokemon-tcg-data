@@ -1,0 +1,25 @@
+{
+    "id": "pl4-21",
+    "name": "Lopunny",
+    "number": "21",
+    "setId": "pl4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925640",
+        "reverse-holo": "925751"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.39",
+                "psa10": "",
+                "grade9": "$18.57"
+            }
+        }
+    }
+}

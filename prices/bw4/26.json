@@ -1,0 +1,25 @@
+{
+    "id": "bw4-26",
+    "name": "Lapras",
+    "number": "26",
+    "setId": "bw4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955878",
+        "reverse-holo": "955979"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$240.00",
+                "grade9": "$18.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.55",
+                "psa10": "$53.14",
+                "grade9": "$21.28"
+            }
+        }
+    }
+}

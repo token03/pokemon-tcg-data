@@ -1,0 +1,19 @@
+{
+    "id": "bw8-48",
+    "name": "Zapdos-EX",
+    "number": "48",
+    "setId": "bw8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956846"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$82.00",
+                "grade9": "$68.00"
+            }
+        }
+    }
+}

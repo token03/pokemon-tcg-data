@@ -1,0 +1,25 @@
+{
+    "id": "sm4-54",
+    "name": "Gastrodon",
+    "number": "54",
+    "setId": "sm4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961201",
+        "reverse-holo": "961321"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$34.97",
+                "grade9": "$12.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "$34.35",
+                "grade9": "$12.62"
+            }
+        }
+    }
+}

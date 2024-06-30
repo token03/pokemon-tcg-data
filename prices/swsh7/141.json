@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-141",
+    "name": "Aroma Lady",
+    "number": "141",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512952",
+        "reverse-holo": "2513155"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$33.90",
+                "grade9": "$11.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$34.49",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

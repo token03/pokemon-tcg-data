@@ -1,0 +1,31 @@
+{
+    "id": "pl3-27",
+    "name": "Empoleon FB",
+    "number": "27",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287074",
+        "pokemon-league": "6045117",
+        "reverse-holo": "1287228"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$33.00",
+                "grade9": "$27.46"
+            },
+            "pokemon-league": {
+                "ungraded": "$5.50",
+                "psa10": "",
+                "grade9": "$10.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.24",
+                "psa10": "$58.31",
+                "grade9": "$22.11"
+            }
+        }
+    }
+}

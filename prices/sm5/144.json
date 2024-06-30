@@ -1,0 +1,19 @@
+{
+    "id": "sm5-144",
+    "name": "Celesteela-GX",
+    "number": "144",
+    "setId": "sm5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961507"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.05",
+                "psa10": "$43.99",
+                "grade9": "$18.69"
+            }
+        }
+    }
+}

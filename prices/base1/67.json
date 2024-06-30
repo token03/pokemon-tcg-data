@@ -1,0 +1,31 @@
+{
+    "id": "base1-67",
+    "name": "Voltorb",
+    "number": "67",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630480",
+        "1st-edition": "715656",
+        "shadowless": "715758"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$54.99",
+                "grade9": "$23.74"
+            },
+            "1st-edition": {
+                "ungraded": "$12.75",
+                "psa10": "$167.30",
+                "grade9": "$30.99"
+            },
+            "shadowless": {
+                "ungraded": "$2.95",
+                "psa10": "$72.82",
+                "grade9": "$25.45"
+            }
+        }
+    }
+}

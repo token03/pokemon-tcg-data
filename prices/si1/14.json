@@ -1,0 +1,19 @@
+{
+    "id": "si1-14",
+    "name": "Slowking",
+    "number": "14",
+    "setId": "si1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762479"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.99",
+                "psa10": "$862.50",
+                "grade9": "$101.24"
+            }
+        }
+    }
+}

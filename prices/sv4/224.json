@@ -1,0 +1,19 @@
+{
+    "id": "sv4-224",
+    "name": "Cofagrigus ex",
+    "number": "224",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953063"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.98",
+                "psa10": "$24.99",
+                "grade9": "$7.46"
+            }
+        }
+    }
+}

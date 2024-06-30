@@ -1,0 +1,25 @@
+{
+    "id": "ex10-45",
+    "name": "Quilava",
+    "number": "45",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888465",
+        "reverse-holo": "888607"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.90",
+                "psa10": "$16.50",
+                "grade9": "$12.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.47",
+                "psa10": "$121.68",
+                "grade9": "$39.00"
+            }
+        }
+    }
+}

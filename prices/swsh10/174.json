@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-174",
+    "name": "Hisuian Sneasler V",
+    "number": "174",
+    "setId": "swsh10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3489673"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.13",
+                "psa10": "$22.98",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-127",
+    "name": "Hyper Potion",
+    "number": "127",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842777",
+        "reverse-holo": "2252726"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.24",
+                "psa10": "$22.38",
+                "grade9": "$6.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.09",
+                "psa10": "$57.72",
+                "grade9": "$32.99"
+            }
+        }
+    }
+}

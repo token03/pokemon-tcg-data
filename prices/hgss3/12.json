@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-12",
+    "name": "Drifblim",
+    "number": "12",
+    "setId": "hgss3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925899",
+        "reverse-holo": "925990"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$31.00",
+                "grade9": "$14.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "",
+                "grade9": "$18.17"
+            }
+        }
+    }
+}

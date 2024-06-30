@@ -1,0 +1,25 @@
+{
+    "id": "sv3-10",
+    "name": "Amoonguss",
+    "number": "10",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605528",
+        "reverse-holo": "5605767"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$34.53",
+                "grade9": "$11.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.22",
+                "psa10": "$35.49",
+                "grade9": "$11.70"
+            }
+        }
+    }
+}

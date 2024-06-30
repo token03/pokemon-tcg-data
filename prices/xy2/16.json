@@ -1,0 +1,25 @@
+{
+    "id": "xy2-16",
+    "name": "Torkoal",
+    "number": "16",
+    "setId": "xy2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957763",
+        "reverse-holo": "957869"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.03",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "",
+                "grade9": "$8.25"
+            }
+        }
+    }
+}

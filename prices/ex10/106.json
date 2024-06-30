@@ -1,0 +1,19 @@
+{
+    "id": "ex10-106",
+    "name": "Meganium ex",
+    "number": "106",
+    "setId": "ex10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888526"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.12",
+                "psa10": "$580.79",
+                "grade9": "$115.00"
+            }
+        }
+    }
+}

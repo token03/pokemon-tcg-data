@@ -1,0 +1,19 @@
+{
+    "id": "ex16-105",
+    "name": "Water Energy",
+    "number": "105",
+    "setId": "ex16",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "889769"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$5.40",
+                "psa10": "$42.75",
+                "grade9": "$15.85"
+            }
+        }
+    }
+}

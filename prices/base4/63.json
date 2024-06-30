@@ -1,0 +1,25 @@
+{
+    "id": "base4-63",
+    "name": "Wartortle",
+    "number": "63",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641866",
+        "w-stamp": "2336220"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$49.00",
+                "grade9": "$20.99"
+            },
+            "w-stamp": {
+                "ungraded": "$12.63",
+                "psa10": "$705.00",
+                "grade9": "$78.25"
+            }
+        }
+    }
+}

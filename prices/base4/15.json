@@ -1,0 +1,19 @@
+{
+    "id": "base4-15",
+    "name": "Poliwrath",
+    "number": "15",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641818"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.24",
+                "psa10": "$232.75",
+                "grade9": "$57.90"
+            }
+        }
+    }
+}

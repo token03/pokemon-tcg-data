@@ -1,0 +1,25 @@
+{
+    "id": "neo1-27",
+    "name": "Ariados",
+    "number": "27",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762346",
+        "1st-edition": "2324839"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$69.00",
+                "grade9": "$33.00"
+            },
+            "1st-edition": {
+                "ungraded": "$2.07",
+                "psa10": "$44.99",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

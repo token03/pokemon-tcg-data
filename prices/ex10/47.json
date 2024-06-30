@@ -1,0 +1,25 @@
+{
+    "id": "ex10-47",
+    "name": "Shuckle",
+    "number": "47",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888467",
+        "reverse-holo": "888609"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.55",
+                "psa10": "$250.00",
+                "grade9": "$6.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.50",
+                "psa10": "$89.99",
+                "grade9": "$50.00"
+            }
+        }
+    }
+}

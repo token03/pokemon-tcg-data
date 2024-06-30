@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-18",
+    "name": "Rillaboom VMAX",
+    "number": "18",
+    "setId": "swsh2",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "886751"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.53",
+                "psa10": "$31.73",
+                "grade9": "$11.79"
+            }
+        }
+    }
+}

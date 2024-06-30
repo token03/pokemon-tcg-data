@@ -1,0 +1,25 @@
+{
+    "id": "bw3-88",
+    "name": "Haxorus",
+    "number": "88",
+    "setId": "bw3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955743",
+        "reverse-holo": "955845"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.32",
+                "psa10": "$51.73",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.14",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

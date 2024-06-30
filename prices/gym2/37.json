@@ -1,0 +1,31 @@
+{
+    "id": "gym2-37",
+    "name": "Brock's Vulpix",
+    "number": "37",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762243",
+        "1st-edition": "1450231",
+        "w-stamp": "2336218"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.23",
+                "psa10": "$50.94",
+                "grade9": "$27.54"
+            },
+            "1st-edition": {
+                "ungraded": "$7.50",
+                "psa10": "$73.95",
+                "grade9": "$31.44"
+            },
+            "w-stamp": {
+                "ungraded": "$8.87",
+                "psa10": "$93.59",
+                "grade9": "$28.49"
+            }
+        }
+    }
+}

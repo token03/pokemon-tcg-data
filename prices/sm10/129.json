@@ -1,0 +1,31 @@
+{
+    "id": "sm10-129",
+    "name": "Melmetal",
+    "number": "129",
+    "setId": "sm10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963285",
+        "reverse-holo": "963509",
+        "stamped": "5732834"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.07",
+                "psa10": "$66.00",
+                "grade9": "$14.71"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.35",
+                "psa10": "$35.29",
+                "grade9": "$13.04"
+            },
+            "stamped": {
+                "ungraded": "$3.79",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

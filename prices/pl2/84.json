@@ -1,0 +1,25 @@
+{
+    "id": "pl2-84",
+    "name": "Trapinch",
+    "number": "84",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925480",
+        "reverse-holo": "925599"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.86",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

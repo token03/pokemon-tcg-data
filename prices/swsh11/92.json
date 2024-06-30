@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-92",
+    "name": "Aerodactyl V",
+    "number": "92",
+    "setId": "swsh11",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4050009"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "$19.18",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo1-67",
+    "name": "Natu",
+    "number": "67",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762381",
+        "1st-edition": "2324897"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$26.61",
+                "grade9": "$14.38"
+            },
+            "1st-edition": {
+                "ungraded": "$2.04",
+                "psa10": "$34.50",
+                "grade9": "$11.98"
+            }
+        }
+    }
+}

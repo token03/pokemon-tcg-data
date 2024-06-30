@@ -1,0 +1,25 @@
+{
+    "id": "xy2-21",
+    "name": "Qwilfish",
+    "number": "21",
+    "setId": "xy2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957768",
+        "reverse-holo": "957874"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$17.50",
+                "grade9": "$9.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

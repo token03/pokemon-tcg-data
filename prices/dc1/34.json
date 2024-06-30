@@ -1,0 +1,25 @@
+{
+    "id": "dc1-34",
+    "name": "Double Magma Energy",
+    "number": "34",
+    "setId": "dc1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958787",
+        "reverse-holo": "2978740"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.73",
+                "psa10": "$40.17",
+                "grade9": "$12.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

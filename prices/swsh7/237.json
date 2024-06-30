@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-237",
+    "name": "Metal Energy",
+    "number": "237",
+    "setId": "swsh7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2513046"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.27",
+                "psa10": "$63.52",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

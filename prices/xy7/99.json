@@ -1,0 +1,19 @@
+{
+    "id": "xy7-99",
+    "name": "Energy Retrieval",
+    "number": "99",
+    "setId": "xy7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "959117"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.24",
+                "psa10": "$59.11",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

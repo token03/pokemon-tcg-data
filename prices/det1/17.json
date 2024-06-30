@@ -1,0 +1,19 @@
+{
+    "id": "det1-17",
+    "name": "Ditto",
+    "number": "17",
+    "setId": "det1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963154"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$48.45",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

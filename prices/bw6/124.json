@@ -1,0 +1,19 @@
+{
+    "id": "bw6-124",
+    "name": "Giratina-EX",
+    "number": "124",
+    "setId": "bw6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956378"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$72.76",
+                "psa10": "$636.81",
+                "grade9": "$226.71"
+            }
+        }
+    }
+}

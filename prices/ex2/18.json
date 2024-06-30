@@ -1,0 +1,25 @@
+{
+    "id": "ex2-18",
+    "name": "Kecleon",
+    "number": "18",
+    "setId": "ex2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849207",
+        "reverse-holo": "849306"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.15",
+                "psa10": "$33.00",
+                "grade9": "$27.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "$194.99",
+                "grade9": "$18.01"
+            }
+        }
+    }
+}

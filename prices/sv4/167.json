@@ -1,0 +1,25 @@
+{
+    "id": "sv4-167",
+    "name": "Mela",
+    "number": "167",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5953005",
+        "reverse-holo": "5953252"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$35.52",
+                "grade9": "$11.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$40.75",
+                "grade9": "$7.52"
+            }
+        }
+    }
+}

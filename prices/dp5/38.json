@@ -1,0 +1,25 @@
+{
+    "id": "dp5-38",
+    "name": "Kangaskhan",
+    "number": "38",
+    "setId": "dp5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921400",
+        "reverse-holo": "921500"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.64",
+                "psa10": "$68.72",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

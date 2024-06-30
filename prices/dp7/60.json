@@ -1,0 +1,25 @@
+{
+    "id": "dp7-60",
+    "name": "Duskull",
+    "number": "60",
+    "setId": "dp7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925271",
+        "reverse-holo": "925359"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$52.64",
+                "grade9": "$19.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.49",
+                "psa10": "$78.78",
+                "grade9": "$30.04"
+            }
+        }
+    }
+}

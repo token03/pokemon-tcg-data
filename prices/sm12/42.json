@@ -1,0 +1,25 @@
+{
+    "id": "sm12-42",
+    "name": "Vaporeon",
+    "number": "42",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964280",
+        "reverse-holo": "964702"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$55.20",
+                "grade9": "$11.40"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.97",
+                "psa10": "$59.99",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

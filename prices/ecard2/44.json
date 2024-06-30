@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-44",
+    "name": "Zapdos",
+    "number": "44",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842571",
+        "reverse-holo": "2293935"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.00",
+                "psa10": "$93.25",
+                "grade9": "$32.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$29.25",
+                "psa10": "$679.03",
+                "grade9": "$96.36"
+            }
+        }
+    }
+}

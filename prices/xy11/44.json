@@ -1,0 +1,25 @@
+{
+    "id": "xy11-44",
+    "name": "Nidorino",
+    "number": "44",
+    "setId": "xy11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960123",
+        "reverse-holo": "960234"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.89",
+                "grade9": "$12.91"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "$34.91",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

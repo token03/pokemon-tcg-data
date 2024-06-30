@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-176",
+    "name": "Galarian Moltres V",
+    "number": "176",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253980"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.60",
+                "psa10": "$40.46",
+                "grade9": "$18.66"
+            }
+        }
+    }
+}

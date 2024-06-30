@@ -1,0 +1,25 @@
+{
+    "id": "sv3-187",
+    "name": "Brassius",
+    "number": "187",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605705",
+        "reverse-holo": "5629744"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$36.21",
+                "grade9": "$11.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$8.50",
+                "grade9": ""
+            }
+        }
+    }
+}

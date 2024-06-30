@@ -1,0 +1,25 @@
+{
+    "id": "xy4-85",
+    "name": "Exploud",
+    "number": "85",
+    "setId": "xy4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958278",
+        "reverse-holo": "958392"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.78",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

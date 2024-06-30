@@ -1,0 +1,25 @@
+{
+    "id": "ex16-62",
+    "name": "Skitty",
+    "number": "62",
+    "setId": "ex16",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889726",
+        "reverse-holo": "889833"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$47.04",
+                "grade9": "$16.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$86.82",
+                "grade9": "$15.51"
+            }
+        }
+    }
+}

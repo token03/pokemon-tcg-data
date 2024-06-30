@@ -1,0 +1,31 @@
+{
+    "id": "swsh1-140",
+    "name": "Snorlax",
+    "number": "140",
+    "setId": "swsh1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "807277",
+        "cosmos-holo": "4768557",
+        "reverse-holo": "807278"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$37.42",
+                "grade9": "$26.48"
+            },
+            "cosmos-holo": {
+                "ungraded": "$2.21",
+                "psa10": "",
+                "grade9": "$15.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.44",
+                "psa10": "$180.50",
+                "grade9": "$17.99"
+            }
+        }
+    }
+}

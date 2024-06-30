@@ -1,0 +1,25 @@
+{
+    "id": "pl1-24",
+    "name": "Dugtrio",
+    "number": "24",
+    "setId": "pl1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "805933",
+        "reverse-holo": "805934"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$56.86",
+                "grade9": "$21.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.64",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "gym2-32",
+    "name": "Blaine's Dodrio",
+    "number": "32",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762238",
+        "1st-edition": "1450226"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.19",
+                "psa10": "$35.99",
+                "grade9": "$23.64"
+            },
+            "1st-edition": {
+                "ungraded": "$4.95",
+                "psa10": "$41.95",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

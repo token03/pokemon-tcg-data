@@ -1,0 +1,19 @@
+{
+    "id": "sm12-75",
+    "name": "Solgaleo & Lunala-GX",
+    "number": "75",
+    "setId": "sm12",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964313"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.01",
+                "psa10": "$53.20",
+                "grade9": "$22.22"
+            }
+        }
+    }
+}

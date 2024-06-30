@@ -1,0 +1,25 @@
+{
+    "id": "neo4-12",
+    "name": "Light Arcanine",
+    "number": "12",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762601",
+        "1st-edition": "2183341"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$63.56",
+                "psa10": "$939.93",
+                "grade9": "$214.61"
+            },
+            "1st-edition": {
+                "ungraded": "$297.50",
+                "psa10": "$2,300.00",
+                "grade9": "$405.00"
+            }
+        }
+    }
+}

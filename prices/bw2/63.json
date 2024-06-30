@@ -1,0 +1,25 @@
+{
+    "id": "bw2-63",
+    "name": "Terrakion",
+    "number": "63",
+    "setId": "bw2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955489",
+        "reverse-holo": "955586"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.29",
+                "psa10": "$51.05",
+                "grade9": "$12.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.04",
+                "psa10": "",
+                "grade9": "$11.78"
+            }
+        }
+    }
+}

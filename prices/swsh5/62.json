@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-62",
+    "name": "Mimikyu V",
+    "number": "62",
+    "setId": "swsh5",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "1673241"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$36.36",
+                "grade9": "$10.01"
+            }
+        }
+    }
+}

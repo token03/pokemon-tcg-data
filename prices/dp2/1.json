@@ -1,0 +1,25 @@
+{
+    "id": "dp2-1",
+    "name": "Aggron",
+    "number": "1",
+    "setId": "dp2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920624",
+        "reverse-holo": "920749"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$90.11",
+                "grade9": "$38.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.25",
+                "psa10": "$66.44",
+                "grade9": "$33.28"
+            }
+        }
+    }
+}

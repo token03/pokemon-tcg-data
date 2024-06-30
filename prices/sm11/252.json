@@ -1,0 +1,19 @@
+{
+    "id": "sm11-252",
+    "name": "Karate Belt",
+    "number": "252",
+    "setId": "sm11",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "963818"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.75",
+                "psa10": "$37.17",
+                "grade9": "$31.00"
+            }
+        }
+    }
+}

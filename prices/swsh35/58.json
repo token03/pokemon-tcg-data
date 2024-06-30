@@ -1,0 +1,25 @@
+{
+    "id": "swsh35-58",
+    "name": "Piers",
+    "number": "58",
+    "setId": "swsh35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887485",
+        "reverse-holo": "887548"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "$11.86",
+                "grade9": "$8.08"
+            }
+        }
+    }
+}

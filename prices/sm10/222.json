@@ -1,0 +1,19 @@
+{
+    "id": "sm10-222",
+    "name": "Greninja & Zoroark-GX",
+    "number": "222",
+    "setId": "sm10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963378"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.33",
+                "psa10": "$84.29",
+                "grade9": "$32.00"
+            }
+        }
+    }
+}

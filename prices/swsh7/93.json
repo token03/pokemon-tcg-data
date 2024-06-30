@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-93",
+    "name": "Galarian Moltres",
+    "number": "93",
+    "setId": "swsh7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "2512905",
+        "reverse-holo": "2513116"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.37",
+                "psa10": "$34.99",
+                "grade9": "$17.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.94",
+                "psa10": "$38.12",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

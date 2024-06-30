@@ -1,0 +1,25 @@
+{
+    "id": "sm11-177",
+    "name": "Audino",
+    "number": "177",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963743",
+        "reverse-holo": "963984"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.32",
+                "grade9": "$12.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "$36.72",
+                "grade9": "$13.78"
+            }
+        }
+    }
+}

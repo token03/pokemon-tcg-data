@@ -1,0 +1,37 @@
+{
+    "id": "base1-102",
+    "name": "Water Energy",
+    "number": "102",
+    "setId": "base1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "630515",
+        "1st-edition": "715691",
+        "shadowless": "4016336",
+        "trainer-deck-b": "2365263"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.01",
+                "psa10": "$42.48",
+                "grade9": "$20.00"
+            },
+            "1st-edition": {
+                "ungraded": "$7.99",
+                "psa10": "$140.18",
+                "grade9": "$36.78"
+            },
+            "shadowless": {
+                "ungraded": "$1.97",
+                "psa10": "$45.65",
+                "grade9": "$20.98"
+            },
+            "trainer-deck-b": {
+                "ungraded": "$30.00",
+                "psa10": "$133.85",
+                "grade9": "$46.00"
+            }
+        }
+    }
+}

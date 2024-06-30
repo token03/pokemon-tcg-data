@@ -1,0 +1,25 @@
+{
+    "id": "sm3-38",
+    "name": "Bruxish",
+    "number": "38",
+    "setId": "sm3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960822",
+        "reverse-holo": "960987"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$35.45",
+                "grade9": "$4.80"
+            }
+        }
+    }
+}

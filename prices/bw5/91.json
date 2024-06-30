@@ -1,0 +1,25 @@
+{
+    "id": "bw5-91",
+    "name": "Cheren",
+    "number": "91",
+    "setId": "bw5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956137",
+        "reverse-holo": "956243"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.71",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

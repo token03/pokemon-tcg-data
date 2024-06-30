@@ -1,0 +1,25 @@
+{
+    "id": "xy3-37",
+    "name": "Jynx",
+    "number": "37",
+    "setId": "xy3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958020",
+        "reverse-holo": "958130"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$37.60",
+                "grade9": "$14.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$38.68",
+                "grade9": "$14.82"
+            }
+        }
+    }
+}

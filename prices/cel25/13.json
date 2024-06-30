@@ -1,0 +1,19 @@
+{
+    "id": "cel25-13",
+    "name": "Cosmog",
+    "number": "13",
+    "setId": "cel25",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2618158"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.99",
+                "grade9": "$6.50"
+            }
+        }
+    }
+}

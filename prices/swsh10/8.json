@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-8",
+    "name": "Heracross",
+    "number": "8",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489506",
+        "reverse-holo": "3489722"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$34.44",
+                "grade9": "$11.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.04",
+                "psa10": "$37.95",
+                "grade9": "$11.67"
+            }
+        }
+    }
+}

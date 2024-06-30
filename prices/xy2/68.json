@@ -1,0 +1,25 @@
+{
+    "id": "xy2-68",
+    "name": "Carbink",
+    "number": "68",
+    "setId": "xy2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "957815",
+        "reverse-holo": "957918"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.42",
+                "psa10": "$39.56",
+                "grade9": "$9.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": "$4.99"
+            }
+        }
+    }
+}

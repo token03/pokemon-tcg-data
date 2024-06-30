@@ -1,0 +1,25 @@
+{
+    "id": "bw11-72",
+    "name": "Gothitelle",
+    "number": "72",
+    "setId": "bw11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957566",
+        "reverse-holo": "957700"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.42",
+                "psa10": "$199.99",
+                "grade9": "$35.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.81",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

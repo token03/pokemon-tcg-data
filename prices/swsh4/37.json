@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-37",
+    "name": "Galarian Darmanitan VMAX",
+    "number": "37",
+    "setId": "swsh4",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "887593"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$15.35",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

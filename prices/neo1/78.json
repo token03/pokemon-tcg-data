@@ -1,0 +1,25 @@
+{
+    "id": "neo1-78",
+    "name": "Sunkern",
+    "number": "78",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762392",
+        "1st-edition": "2324928"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$38.17",
+                "grade9": "$15.63"
+            },
+            "1st-edition": {
+                "ungraded": "$2.50",
+                "psa10": "$35.34",
+                "grade9": "$15.37"
+            }
+        }
+    }
+}

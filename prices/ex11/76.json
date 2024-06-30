@@ -1,0 +1,25 @@
+{
+    "id": "ex11-76",
+    "name": "Marill",
+    "number": "76",
+    "setId": "ex11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888738",
+        "reverse-holo": "888852"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.73",
+                "psa10": "$62.47",
+                "grade9": "$24.40"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.65",
+                "psa10": "$207.50",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

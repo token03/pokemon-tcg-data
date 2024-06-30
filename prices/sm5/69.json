@@ -1,0 +1,25 @@
+{
+    "id": "sm5-69",
+    "name": "Hippowdon",
+    "number": "69",
+    "setId": "sm5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961432",
+        "reverse-holo": "961601"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$14.51",
+                "grade9": ""
+            }
+        }
+    }
+}

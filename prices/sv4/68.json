@@ -1,0 +1,19 @@
+{
+    "id": "sv4-68",
+    "name": "Tapu Koko ex",
+    "number": "68",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952905"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.58",
+                "psa10": "$38.60",
+                "grade9": "$12.54"
+            }
+        }
+    }
+}

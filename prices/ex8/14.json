@@ -1,0 +1,25 @@
+{
+    "id": "ex8-14",
+    "name": "Shedinja",
+    "number": "14",
+    "setId": "ex8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888035",
+        "reverse-holo": "888142"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.24",
+                "psa10": "$477.28",
+                "grade9": "$39.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.06",
+                "psa10": "$233.54",
+                "grade9": "$57.39"
+            }
+        }
+    }
+}

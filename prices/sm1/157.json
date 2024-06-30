@@ -1,0 +1,19 @@
+{
+    "id": "sm1-157",
+    "name": "Gumshoos-GX",
+    "number": "157",
+    "setId": "sm1",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "secret-rare": "2092681"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "secret-rare": {
+                "ungraded": "$5.77",
+                "psa10": "$65.37",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-221",
+    "name": "Pidgeot ex",
+    "number": "221",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6277140"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.91",
+                "psa10": "$32.50",
+                "grade9": "$10.56"
+            }
+        }
+    }
+}

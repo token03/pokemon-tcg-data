@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-232",
+    "name": "Dancer",
+    "number": "232",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771258",
+        "reverse-holo": "2771514"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.81",
+                "psa10": "$33.19",
+                "grade9": "$11.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "$35.48",
+                "grade9": "$12.36"
+            }
+        }
+    }
+}

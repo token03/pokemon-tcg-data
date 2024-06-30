@@ -1,0 +1,25 @@
+{
+    "id": "sm4-83",
+    "name": "Staraptor",
+    "number": "83",
+    "setId": "sm4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961229",
+        "reverse-holo": "961346"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$35.53",
+                "grade9": "$12.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$34.79",
+                "grade9": "$12.88"
+            }
+        }
+    }
+}

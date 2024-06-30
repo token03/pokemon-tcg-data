@@ -1,0 +1,31 @@
+{
+    "id": "swsh10-150",
+    "name": "Roxanne",
+    "number": "150",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489649",
+        "regional-championships": "4135462",
+        "reverse-holo": "3489843"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.56",
+                "grade9": "$11.80"
+            },
+            "regional-championships": {
+                "ungraded": "$7.61",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.71",
+                "psa10": "$36.97",
+                "grade9": "$12.74"
+            }
+        }
+    }
+}

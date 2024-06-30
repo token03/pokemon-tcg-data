@@ -1,0 +1,25 @@
+{
+    "id": "xy9-111",
+    "name": "Scizor Spirit Link",
+    "number": "111",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959602",
+        "reverse-holo": "959710"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.98",
+                "psa10": "$40.30",
+                "grade9": "$16.08"
+            }
+        }
+    }
+}

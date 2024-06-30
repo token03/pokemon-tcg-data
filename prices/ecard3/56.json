@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-56",
+    "name": "Forretress",
+    "number": "56",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887973",
+        "reverse-holo": "2252654"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.12",
+                "psa10": "$29.64",
+                "grade9": "$27.34"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.28",
+                "psa10": "$105.00",
+                "grade9": "$36.86"
+            }
+        }
+    }
+}

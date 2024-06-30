@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-169",
+    "name": "Volo",
+    "number": "169",
+    "setId": "swsh11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4050086",
+        "reverse-holo": "4050287"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.36",
+                "psa10": "$35.54",
+                "grade9": "$9.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$36.25",
+                "grade9": "$12.33"
+            }
+        }
+    }
+}

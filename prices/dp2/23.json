@@ -1,0 +1,25 @@
+{
+    "id": "dp2-23",
+    "name": "Crobat",
+    "number": "23",
+    "setId": "dp2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920646",
+        "reverse-holo": "920770"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$62.20",
+                "grade9": "$44.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.66",
+                "psa10": "$89.27",
+                "grade9": "$34.31"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm11-38",
+    "name": "Froslass",
+    "number": "38",
+    "setId": "sm11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963604",
+        "reverse-holo": "963859"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$72.00",
+                "grade9": "$14.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$35.99",
+                "grade9": "$13.37"
+            }
+        }
+    }
+}

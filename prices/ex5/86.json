@@ -1,0 +1,25 @@
+{
+    "id": "ex5-86",
+    "name": "Ancient Technical Machine [Steel]",
+    "number": "86",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "steel": "849859",
+        "steel]-[reverse-holo": "849961"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "steel": {
+                "ungraded": "$3.58",
+                "psa10": "$34.01",
+                "grade9": ""
+            },
+            "steel]-[reverse-holo": {
+                "ungraded": "$2.75",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

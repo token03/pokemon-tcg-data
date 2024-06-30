@@ -1,0 +1,25 @@
+{
+    "id": "ex3-78",
+    "name": "Trapinch",
+    "number": "78",
+    "setId": "ex3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849457",
+        "reverse-holo": "849558"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$64.50",
+                "grade9": "$21.47"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.49",
+                "psa10": "$115.34",
+                "grade9": "$22.50"
+            }
+        }
+    }
+}

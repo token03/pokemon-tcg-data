@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-43",
+    "name": "Milotic V",
+    "number": "43",
+    "setId": "swsh2",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "836259"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.87",
+                "psa10": "$30.00",
+                "grade9": "$24.99"
+            }
+        }
+    }
+}

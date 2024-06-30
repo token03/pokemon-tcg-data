@@ -1,0 +1,19 @@
+{
+    "id": "sv5-190",
+    "name": "Wugtrio ex",
+    "number": "190",
+    "setId": "sv5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6495650"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$26.86",
+                "grade9": "$7.66"
+            }
+        }
+    }
+}

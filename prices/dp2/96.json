@@ -1,0 +1,25 @@
+{
+    "id": "dp2-96",
+    "name": "Sandshrew",
+    "number": "96",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920720",
+        "reverse-holo": "920843"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$52.04",
+                "grade9": "$18.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.63",
+                "psa10": "",
+                "grade9": "$18.36"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sm5-9",
+    "name": "Torterra",
+    "number": "9",
+    "setId": "sm5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961371",
+        "league": "5705717",
+        "reverse-holo": "961544"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$19.99",
+                "grade9": "$9.80"
+            },
+            "league": {
+                "ungraded": "$1.93",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.93",
+                "psa10": "$57.00",
+                "grade9": "$47.45"
+            }
+        }
+    }
+}

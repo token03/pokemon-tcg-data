@@ -1,0 +1,25 @@
+{
+    "id": "dp1-94",
+    "name": "Ponyta",
+    "number": "94",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763130",
+        "reverse-holo": "763252"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$49.52",
+                "grade9": "$17.98"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.14",
+                "psa10": "$82.36",
+                "grade9": "$30.09"
+            }
+        }
+    }
+}

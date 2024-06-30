@@ -1,0 +1,31 @@
+{
+    "id": "sm9-19",
+    "name": "Moltres",
+    "number": "19",
+    "setId": "sm9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962817",
+        "reverse-holo": "963011",
+        "stamped": "5698777"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.80",
+                "psa10": "$42.70",
+                "grade9": "$14.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.95",
+                "psa10": "$30.00",
+                "grade9": "$26.95"
+            },
+            "stamped": {
+                "ungraded": "$8.92",
+                "psa10": "$63.22",
+                "grade9": "$10.07"
+            }
+        }
+    }
+}

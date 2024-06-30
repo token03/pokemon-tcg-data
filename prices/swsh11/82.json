@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-82",
+    "name": "Enamorus V",
+    "number": "82",
+    "setId": "swsh11",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4049999"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$11.83",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

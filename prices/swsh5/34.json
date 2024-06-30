@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-34",
+    "name": "Galarian Mr. Mime",
+    "number": "34",
+    "setId": "swsh5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1673215",
+        "reverse-holo": "1725018"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$35.95",
+                "grade9": "$12.82"
+            }
+        }
+    }
+}

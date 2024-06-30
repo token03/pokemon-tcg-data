@@ -1,0 +1,31 @@
+{
+    "id": "xy9-107",
+    "name": "Professor Sycamore",
+    "number": "107",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959598",
+        "reverse-holo": "959706",
+        "shintaro-ito": "5172628"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$35.93",
+                "grade9": "$13.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.83",
+                "psa10": "$30.00",
+                "grade9": "$15.61"
+            },
+            "shintaro-ito": {
+                "ungraded": "$0.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

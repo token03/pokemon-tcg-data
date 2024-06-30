@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-88",
+    "name": "Gigalith",
+    "number": "88",
+    "setId": "swsh7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2512899",
+        "reverse-holo": "2513113"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$35.04",
+                "grade9": "$12.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "$34.68",
+                "grade9": "$12.09"
+            }
+        }
+    }
+}

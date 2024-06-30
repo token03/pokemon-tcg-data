@@ -1,0 +1,25 @@
+{
+    "id": "dp2-33",
+    "name": "Rampardos",
+    "number": "33",
+    "setId": "dp2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920656",
+        "reverse-holo": "920780"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.37",
+                "psa10": "$58.51",
+                "grade9": "$36.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.69",
+                "psa10": "",
+                "grade9": "$23.00"
+            }
+        }
+    }
+}

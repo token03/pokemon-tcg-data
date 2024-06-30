@@ -1,0 +1,25 @@
+{
+    "id": "bw1-69",
+    "name": "Scrafty",
+    "number": "69",
+    "setId": "bw1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806378",
+        "reverse-holo": "806465"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.04",
+                "psa10": "$24.59",
+                "grade9": ""
+            }
+        }
+    }
+}

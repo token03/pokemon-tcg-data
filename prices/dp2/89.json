@@ -1,0 +1,25 @@
+{
+    "id": "dp2-89",
+    "name": "Magikarp",
+    "number": "89",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920712",
+        "reverse-holo": "920836"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.47",
+                "psa10": "$69.99",
+                "grade9": "$38.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.11",
+                "psa10": "$128.88",
+                "grade9": "$27.47"
+            }
+        }
+    }
+}

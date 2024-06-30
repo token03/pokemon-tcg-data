@@ -1,0 +1,25 @@
+{
+    "id": "sm11-4",
+    "name": "Celebi",
+    "number": "4",
+    "setId": "sm11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963570",
+        "reverse-holo": "963826"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.90",
+                "psa10": "$45.05",
+                "grade9": "$17.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.25",
+                "psa10": "$38.69",
+                "grade9": "$19.76"
+            }
+        }
+    }
+}

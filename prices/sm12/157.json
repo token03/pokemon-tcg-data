@@ -1,0 +1,19 @@
+{
+    "id": "sm12-157",
+    "name": "Reshiram & Zekrom-GX",
+    "number": "157",
+    "setId": "sm12",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964395"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.31",
+                "psa10": "$63.17",
+                "grade9": "$29.13"
+            }
+        }
+    }
+}

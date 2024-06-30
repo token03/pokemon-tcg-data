@@ -1,0 +1,19 @@
+{
+    "id": "xy10-62",
+    "name": "Bronzong BREAK",
+    "number": "62",
+    "setId": "xy10",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "959919"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.15",
+                "psa10": "$32.49",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

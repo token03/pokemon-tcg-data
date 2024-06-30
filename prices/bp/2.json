@@ -1,0 +1,31 @@
+{
+    "id": "bp-2",
+    "name": "Hitmonchan",
+    "number": "2",
+    "setId": "bp",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "2978634",
+        "jumbo-winner": "5790812",
+        "winner": "2978635"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.53",
+                "psa10": "$200.00",
+                "grade9": "$36.00"
+            },
+            "jumbo-winner": {
+                "ungraded": "$39.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "winner": {
+                "ungraded": "$27.31",
+                "psa10": "$738.05",
+                "grade9": "$52.06"
+            }
+        }
+    }
+}

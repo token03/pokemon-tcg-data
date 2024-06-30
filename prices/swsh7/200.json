@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-200",
+    "name": "Copycat",
+    "number": "200",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2513009"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.82",
+                "psa10": "$34.97",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

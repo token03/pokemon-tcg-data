@@ -1,0 +1,25 @@
+{
+    "id": "sm115-17",
+    "name": "Lapras",
+    "number": "17",
+    "setId": "sm115",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964037",
+        "reverse-holo": "964196"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$26.23",
+                "grade9": "$16.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "$56.99",
+                "grade9": "$9.10"
+            }
+        }
+    }
+}

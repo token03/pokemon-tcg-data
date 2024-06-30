@@ -1,0 +1,25 @@
+{
+    "id": "ex6-34",
+    "name": "Haunter",
+    "number": "34",
+    "setId": "ex6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "850001",
+        "reverse-holo": "850116"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.63",
+                "psa10": "$135.36",
+                "grade9": "$44.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.36",
+                "psa10": "$299.61",
+                "grade9": "$59.99"
+            }
+        }
+    }
+}

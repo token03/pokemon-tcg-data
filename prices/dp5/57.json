@@ -1,0 +1,25 @@
+{
+    "id": "dp5-57",
+    "name": "Chimchar",
+    "number": "57",
+    "setId": "dp5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921419",
+        "reverse-holo": "921519"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "",
+                "grade9": "$26.00"
+            }
+        }
+    }
+}

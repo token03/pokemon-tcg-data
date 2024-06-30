@@ -1,0 +1,25 @@
+{
+    "id": "sm10-190",
+    "name": "Triple Acceleration Energy",
+    "number": "190",
+    "setId": "sm10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963346",
+        "reverse-holo": "963566"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$14.51",
+                "grade9": "$12.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.61",
+                "psa10": "$40.22",
+                "grade9": "$15.88"
+            }
+        }
+    }
+}

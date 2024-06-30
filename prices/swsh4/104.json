@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-104",
+    "name": "Mightyena",
+    "number": "104",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887652",
+        "reverse-holo": "887824"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "$12.50",
+                "grade9": "$12.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "$30.34",
+                "grade9": "$7.88"
+            }
+        }
+    }
+}

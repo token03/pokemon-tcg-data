@@ -1,0 +1,25 @@
+{
+    "id": "dp3-34",
+    "name": "Nidoking",
+    "number": "34",
+    "setId": "dp3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920924",
+        "reverse-holo": "921056"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.60",
+                "psa10": "$71.21",
+                "grade9": "$26.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.65",
+                "psa10": "$78.18",
+                "grade9": "$28.87"
+            }
+        }
+    }
+}

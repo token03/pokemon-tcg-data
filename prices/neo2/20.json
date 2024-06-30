@@ -1,0 +1,25 @@
+{
+    "id": "neo2-20",
+    "name": "Espeon",
+    "number": "20",
+    "setId": "neo2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762424",
+        "1st-edition": "2158436"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.85",
+                "psa10": "$83.59",
+                "grade9": "$25.21"
+            },
+            "1st-edition": {
+                "ungraded": "$37.90",
+                "psa10": "$165.57",
+                "grade9": "$67.55"
+            }
+        }
+    }
+}

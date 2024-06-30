@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-94",
+    "name": "Hisuian Sneasler V",
+    "number": "94",
+    "setId": "swsh10",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3489592"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$31.50",
+                "grade9": "$6.16"
+            }
+        }
+    }
+}

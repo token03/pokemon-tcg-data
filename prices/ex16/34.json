@@ -1,0 +1,25 @@
+{
+    "id": "ex16-34",
+    "name": "Medicham",
+    "number": "34",
+    "setId": "ex16",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889698",
+        "reverse-holo": "889806"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.79",
+                "psa10": "$60.80",
+                "grade9": "$21.67"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.69",
+                "psa10": "$93.02",
+                "grade9": "$22.46"
+            }
+        }
+    }
+}

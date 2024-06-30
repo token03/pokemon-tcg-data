@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-110",
+    "name": "Sneasel",
+    "number": "110",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842629",
+        "reverse-holo": "2294001"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.90",
+                "psa10": "$58.16",
+                "grade9": "$34.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.99",
+                "psa10": "$158.38",
+                "grade9": "$35.95"
+            }
+        }
+    }
+}

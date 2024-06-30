@@ -1,0 +1,19 @@
+{
+    "id": "cel25-22",
+    "name": "Lugia",
+    "number": "22",
+    "setId": "cel25",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2618167"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$41.78",
+                "grade9": "$8.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm11-232",
+    "name": "Channeler",
+    "number": "232",
+    "setId": "sm11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963798"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.89",
+                "psa10": "$41.00",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

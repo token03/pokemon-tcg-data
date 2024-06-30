@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-5",
+    "name": "Parasect",
+    "number": "5",
+    "setId": "swsh11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4049922",
+        "reverse-holo": "4050140"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$35.29",
+                "grade9": "$11.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.16",
+                "grade9": "$11.93"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm11-257",
+    "name": "Recycle Energy",
+    "number": "257",
+    "setId": "sm11",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "963823"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.18",
+                "psa10": "$47.18",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

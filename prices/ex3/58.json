@@ -1,0 +1,25 @@
+{
+    "id": "ex3-58",
+    "name": "Horsea",
+    "number": "58",
+    "setId": "ex3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849438",
+        "reverse-holo": "849537"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$66.72",
+                "grade9": "$22.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.98",
+                "psa10": "$102.86",
+                "grade9": "$30.41"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy7-80",
+    "name": "Sceptile Spirit Link",
+    "number": "80",
+    "setId": "xy7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959098",
+        "reverse-holo": "959186"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$39.55",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

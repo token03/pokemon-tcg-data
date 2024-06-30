@@ -1,0 +1,31 @@
+{
+    "id": "sm35-32",
+    "name": "Raikou",
+    "number": "32",
+    "setId": "sm35",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961101",
+        "cracked-ice-holo": "5101312",
+        "reverse-holo": "2432215"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.86",
+                "psa10": "$30.95",
+                "grade9": "$11.75"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$1.91",
+                "psa10": "$24.50",
+                "grade9": "$13.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

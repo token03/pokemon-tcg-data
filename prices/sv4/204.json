@@ -1,0 +1,19 @@
+{
+    "id": "sv4-204",
+    "name": "Garbodor",
+    "number": "204",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953042"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.73",
+                "psa10": "$44.99",
+                "grade9": "$15.29"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy8-92",
+    "name": "Zoroark BREAK",
+    "number": "92",
+    "setId": "xy8",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "959281"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.34",
+                "psa10": "$44.00",
+                "grade9": "$13.26"
+            }
+        }
+    }
+}

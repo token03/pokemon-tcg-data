@@ -1,0 +1,25 @@
+{
+    "id": "sm11-212",
+    "name": "Recycle Energy",
+    "number": "212",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963778",
+        "reverse-holo": "964019"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "$34.94",
+                "grade9": "$12.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$39.30",
+                "grade9": "$15.23"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp4-17",
+    "name": "Exploud",
+    "number": "17",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921171",
+        "reverse-holo": "921277"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.79",
+                "psa10": "$56.58",
+                "grade9": "$20.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.48",
+                "psa10": "$99.31",
+                "grade9": ""
+            }
+        }
+    }
+}

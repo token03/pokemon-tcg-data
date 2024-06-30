@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-192",
+    "name": "Origin Forme Palkia VSTAR",
+    "number": "192",
+    "setId": "swsh10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3489691"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.90",
+                "psa10": "$40.87",
+                "grade9": "$23.25"
+            }
+        }
+    }
+}

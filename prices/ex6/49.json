@@ -1,0 +1,25 @@
+{
+    "id": "ex6-49",
+    "name": "Venomoth",
+    "number": "49",
+    "setId": "ex6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "850016",
+        "reverse-holo": "850131"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.81",
+                "psa10": "$93.45",
+                "grade9": "$31.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.31",
+                "psa10": "$71.00",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

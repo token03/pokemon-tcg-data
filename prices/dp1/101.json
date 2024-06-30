@@ -1,0 +1,25 @@
+{
+    "id": "dp1-101",
+    "name": "Starly",
+    "number": "101",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763137",
+        "reverse-holo": "763259"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.31",
+                "psa10": "$59.50",
+                "grade9": "$21.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

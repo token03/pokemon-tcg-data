@@ -1,0 +1,25 @@
+{
+    "id": "col1-44",
+    "name": "Flareon",
+    "number": "44",
+    "setId": "col1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926295",
+        "reverse-holo": "926401"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$58.88",
+                "grade9": "$25.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.00",
+                "psa10": "$113.22",
+                "grade9": "$41.08"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm4-113",
+    "name": "Alolan Golem-GX",
+    "number": "113",
+    "setId": "sm4",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961261"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.47",
+                "psa10": "$36.50",
+                "grade9": "$21.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-75",
+    "name": "Squawkabilly ex",
+    "number": "75",
+    "setId": "sv4pt5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "6276994"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.77",
+                "psa10": "$39.39",
+                "grade9": "$12.63"
+            }
+        }
+    }
+}

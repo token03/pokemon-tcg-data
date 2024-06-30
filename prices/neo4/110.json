@@ -1,0 +1,25 @@
+{
+    "id": "neo4-110",
+    "name": "Shining Noctowl",
+    "number": "110",
+    "setId": "neo4",
+    "rarity": "Rare Shining",
+    "priceChartingIds": {
+        "normal": "762641",
+        "1st-edition": "2183381"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$111.99",
+                "psa10": "$458.92",
+                "grade9": "$257.42"
+            },
+            "1st-edition": {
+                "ungraded": "$206.87",
+                "psa10": "$1,120.01",
+                "grade9": "$515.00"
+            }
+        }
+    }
+}

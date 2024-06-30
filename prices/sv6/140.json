@@ -1,0 +1,25 @@
+{
+    "id": "sv6-140",
+    "name": "Swanna",
+    "number": "140",
+    "setId": "sv6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6769620",
+        "reverse-holo": "6769834"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$35.45",
+                "grade9": "$11.42"
+            }
+        }
+    }
+}

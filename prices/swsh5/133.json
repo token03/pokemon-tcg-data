@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-133",
+    "name": "Single Strike Scroll of Scorn",
+    "number": "133",
+    "setId": "swsh5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1673313",
+        "reverse-holo": "1725102"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.36",
+                "psa10": "$35.22",
+                "grade9": "$12.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

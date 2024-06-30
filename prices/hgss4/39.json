@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-39",
+    "name": "Luvdisc",
+    "number": "39",
+    "setId": "hgss4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926097",
+        "reverse-holo": "926199"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$25.04",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

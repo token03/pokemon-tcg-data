@@ -1,0 +1,19 @@
+{
+    "id": "ex16-98",
+    "name": "Skarmory ex",
+    "number": "98",
+    "setId": "ex16",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889762"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.03",
+                "psa10": "$338.00",
+                "grade9": "$72.28"
+            }
+        }
+    }
+}

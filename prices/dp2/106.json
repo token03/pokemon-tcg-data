@@ -1,0 +1,25 @@
+{
+    "id": "dp2-106",
+    "name": "Totodile",
+    "number": "106",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920730",
+        "reverse-holo": "920853"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$65.60",
+                "grade9": "$19.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.63",
+                "psa10": "$88.78",
+                "grade9": "$38.09"
+            }
+        }
+    }
+}

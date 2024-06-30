@@ -1,0 +1,25 @@
+{
+    "id": "sv4-101",
+    "name": "Nacli",
+    "number": "101",
+    "setId": "sv4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5952939",
+        "reverse-holo": "5953194"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$35.62",
+                "grade9": "$11.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.60",
+                "grade9": "$11.36"
+            }
+        }
+    }
+}

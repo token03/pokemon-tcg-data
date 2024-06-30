@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-73",
+    "name": "Energy Exchanger",
+    "number": "73",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925960",
+        "reverse-holo": "926051"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

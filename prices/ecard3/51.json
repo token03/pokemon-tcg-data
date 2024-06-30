@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-51",
+    "name": "Ditto",
+    "number": "51",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842711",
+        "reverse-holo": "2252649"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.00",
+                "psa10": "$105.09",
+                "grade9": "$38.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$59.50",
+                "psa10": "$349.39",
+                "grade9": "$135.00"
+            }
+        }
+    }
+}

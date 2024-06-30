@@ -1,0 +1,25 @@
+{
+    "id": "ex10-25",
+    "name": "Hitmonlee",
+    "number": "25",
+    "setId": "ex10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888445",
+        "reverse-holo": "888587"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.54",
+                "psa10": "$59.00",
+                "grade9": "$49.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.87",
+                "psa10": "$144.42",
+                "grade9": "$34.69"
+            }
+        }
+    }
+}

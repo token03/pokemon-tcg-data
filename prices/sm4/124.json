@@ -1,0 +1,19 @@
+{
+    "id": "sm4-124",
+    "name": "Water Energy",
+    "number": "124",
+    "setId": "sm4",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "961270"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.53",
+                "psa10": "$53.50",
+                "grade9": "$14.42"
+            }
+        }
+    }
+}

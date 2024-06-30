@@ -1,0 +1,25 @@
+{
+    "id": "sm12-81",
+    "name": "Kirlia",
+    "number": "81",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964319",
+        "reverse-holo": "964582"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "$36.74",
+                "grade9": "$13.78"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex14-8",
+    "name": "Manectric",
+    "number": "8",
+    "setId": "ex14",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889295",
+        "reverse-holo": "889395"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$116.78",
+                "grade9": "$29.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.00",
+                "psa10": "$131.48",
+                "grade9": "$28.72"
+            }
+        }
+    }
+}

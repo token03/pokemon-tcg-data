@@ -1,0 +1,25 @@
+{
+    "id": "ex5-67",
+    "name": "Minun",
+    "number": "67",
+    "setId": "ex5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849840",
+        "reverse-holo": "849942"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.83",
+                "psa10": "$29.01",
+                "grade9": "$21.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.49",
+                "psa10": "$433.82",
+                "grade9": "$44.08"
+            }
+        }
+    }
+}

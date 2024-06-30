@@ -1,0 +1,19 @@
+{
+    "id": "pl3-150",
+    "name": "Zapdos",
+    "number": "150",
+    "setId": "pl3",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "1287198"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$49.00",
+                "psa10": "$1,034.83",
+                "grade9": "$196.27"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex15-101",
+    "name": "Mew \u2605 \u03b4",
+    "number": "101",
+    "setId": "ex15",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star-world-champs": "5067445",
+        "gold-star": "889575"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star-world-champs": {
+                "ungraded": "$37.05",
+                "psa10": "$1,791.89",
+                "grade9": ""
+            },
+            "gold-star": {
+                "ungraded": "$403.65",
+                "psa10": "$5,425.49",
+                "grade9": "$1,429.32"
+            }
+        }
+    }
+}

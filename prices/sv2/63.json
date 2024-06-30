@@ -1,0 +1,19 @@
+{
+    "id": "sv2-63",
+    "name": "Pikachu ex",
+    "number": "63",
+    "setId": "sv2",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5287352"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.93",
+                "psa10": "$39.95",
+                "grade9": "$15.73"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "g1-73",
+    "name": "Team Flare Grunt",
+    "number": "73",
+    "setId": "g1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959785",
+        "reverse-holo": "2674765"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

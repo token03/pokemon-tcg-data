@@ -1,0 +1,19 @@
+{
+    "id": "col1-91",
+    "name": "Lightning Energy",
+    "number": "91",
+    "setId": "col1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "926342"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.29",
+                "psa10": "$69.50",
+                "grade9": "$40.25"
+            }
+        }
+    }
+}

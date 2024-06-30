@@ -1,0 +1,25 @@
+{
+    "id": "ex8-31",
+    "name": "Golbat",
+    "number": "31",
+    "setId": "ex8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888051",
+        "reverse-holo": "888159"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.10",
+                "psa10": "$41.00",
+                "grade9": "$33.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.00",
+                "psa10": "$146.13",
+                "grade9": "$50.47"
+            }
+        }
+    }
+}

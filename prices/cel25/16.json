@@ -1,0 +1,19 @@
+{
+    "id": "cel25-16",
+    "name": "Zacian V",
+    "number": "16",
+    "setId": "cel25",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2618161"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$16.50",
+                "grade9": "$8.52"
+            }
+        }
+    }
+}

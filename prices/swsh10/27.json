@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-27",
+    "name": "Radiant Heatran",
+    "number": "27",
+    "setId": "swsh10",
+    "rarity": "Radiant Rare",
+    "priceChartingIds": {
+        "normal": "3489525",
+        "reverse-holo": "4135443"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$27.49",
+                "grade9": "$6.34"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "$34.00",
+                "grade9": ""
+            }
+        }
+    }
+}

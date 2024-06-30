@@ -1,0 +1,25 @@
+{
+    "id": "pl2-37",
+    "name": "Yanmega E4",
+    "number": "37",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925433",
+        "reverse-holo": "925552"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

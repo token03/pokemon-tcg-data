@@ -1,0 +1,25 @@
+{
+    "id": "sm2-89",
+    "name": "Clefable",
+    "number": "89",
+    "setId": "sm2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960586",
+        "reverse-holo": "960746"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "$35.90",
+                "grade9": "$13.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$50.00",
+                "grade9": "$15.17"
+            }
+        }
+    }
+}

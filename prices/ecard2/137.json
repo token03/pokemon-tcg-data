@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-137",
+    "name": "Traveling Salesman",
+    "number": "137",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842653",
+        "reverse-holo": "2294028"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.21",
+                "psa10": "$30.00",
+                "grade9": "$29.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.79",
+                "psa10": "$237.36",
+                "grade9": "$45.00"
+            }
+        }
+    }
+}

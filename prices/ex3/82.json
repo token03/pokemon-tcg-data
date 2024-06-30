@@ -1,0 +1,25 @@
+{
+    "id": "ex3-82",
+    "name": "Balloon Berry",
+    "number": "82",
+    "setId": "ex3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849461",
+        "reverse-holo": "849561"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.38",
+                "psa10": "$88.23",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

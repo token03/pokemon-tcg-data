@@ -1,0 +1,25 @@
+{
+    "id": "sm3-71",
+    "name": "Lucario",
+    "number": "71",
+    "setId": "sm3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "960855",
+        "reverse-holo": "961017"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "$30.00",
+                "grade9": "$7.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$27.57",
+                "grade9": "$14.27"
+            }
+        }
+    }
+}

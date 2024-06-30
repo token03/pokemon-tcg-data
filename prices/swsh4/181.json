@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-181",
+    "name": "Beauty",
+    "number": "181",
+    "setId": "swsh4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887719"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.12",
+                "psa10": "$25.50",
+                "grade9": "$12.89"
+            }
+        }
+    }
+}

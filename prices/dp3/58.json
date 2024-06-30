@@ -1,0 +1,25 @@
+{
+    "id": "dp3-58",
+    "name": "Pidgeotto",
+    "number": "58",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920948",
+        "reverse-holo": "921079"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.89",
+                "psa10": "$55.56",
+                "grade9": "$20.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.73",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

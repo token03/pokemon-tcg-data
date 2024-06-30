@@ -1,0 +1,31 @@
+{
+    "id": "hgss2-58",
+    "name": "Poliwag",
+    "number": "58",
+    "setId": "hgss2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287404",
+        "city-championship": "6138816",
+        "reverse-holo": "1287496"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$51.06",
+                "grade9": "$26.60"
+            },
+            "city-championship": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.09",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

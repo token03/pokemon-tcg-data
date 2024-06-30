@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-66",
+    "name": "Raichu",
+    "number": "66",
+    "setId": "swsh1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "807231",
+        "reverse-holo": "807232"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$18.22",
+                "grade9": "$12.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.07",
+                "psa10": "$60.90",
+                "grade9": "$12.75"
+            }
+        }
+    }
+}

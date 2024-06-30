@@ -1,0 +1,25 @@
+{
+    "id": "xy2-45",
+    "name": "Geodude",
+    "number": "45",
+    "setId": "xy2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957792",
+        "reverse-holo": "957895"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

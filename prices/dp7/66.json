@@ -1,0 +1,25 @@
+{
+    "id": "dp7-66",
+    "name": "Magnemite",
+    "number": "66",
+    "setId": "dp7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925275",
+        "reverse-holo": "925365"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.79",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-88",
+    "name": "Hisuian Qwilfish",
+    "number": "88",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489586",
+        "reverse-holo": "3489789"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.09",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

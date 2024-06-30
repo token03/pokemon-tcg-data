@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-10",
+    "name": "Accelgor",
+    "number": "10",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887096",
+        "reverse-holo": "887285"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$34.71",
+                "grade9": "$6.75"
+            }
+        }
+    }
+}

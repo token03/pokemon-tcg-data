@@ -1,0 +1,31 @@
+{
+    "id": "sv1-38",
+    "name": "Skeledirge",
+    "number": "38",
+    "setId": "sv1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "cosmos-holo": "6021777",
+        "holo": "5205678",
+        "reverse-holo": "4934068"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "cosmos-holo": {
+                "ungraded": "$0.76",
+                "psa10": "$33.54",
+                "grade9": "$11.04"
+            },
+            "holo": {
+                "ungraded": "$1.06",
+                "psa10": "$19.38",
+                "grade9": "$12.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$36.25",
+                "grade9": "$12.09"
+            }
+        }
+    }
+}

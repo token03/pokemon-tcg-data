@@ -1,0 +1,25 @@
+{
+    "id": "sm12-161",
+    "name": "Jangmo-o",
+    "number": "161",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964399",
+        "reverse-holo": "964655"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$35.59",
+                "grade9": "$13.13"
+            }
+        }
+    }
+}

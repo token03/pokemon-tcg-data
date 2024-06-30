@@ -1,0 +1,25 @@
+{
+    "id": "base5-65",
+    "name": "Psyduck",
+    "number": "65",
+    "setId": "base5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643500",
+        "1st-edition": "1341406"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$55.00",
+                "grade9": "$28.00"
+            },
+            "1st-edition": {
+                "ungraded": "$2.87",
+                "psa10": "$62.56",
+                "grade9": "$24.37"
+            }
+        }
+    }
+}

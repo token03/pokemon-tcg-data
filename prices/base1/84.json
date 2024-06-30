@@ -1,0 +1,31 @@
+{
+    "id": "base1-84",
+    "name": "PlusPower",
+    "number": "84",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630497",
+        "1st-edition": "715673",
+        "shadowless": "3839430"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$48.25",
+                "grade9": "$18.63"
+            },
+            "1st-edition": {
+                "ungraded": "$12.66",
+                "psa10": "$186.00",
+                "grade9": "$48.57"
+            },
+            "shadowless": {
+                "ungraded": "$2.16",
+                "psa10": "$54.05",
+                "grade9": "$33.57"
+            }
+        }
+    }
+}

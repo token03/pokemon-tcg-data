@@ -1,0 +1,25 @@
+{
+    "id": "ex9-76",
+    "name": "Double Full Heal",
+    "number": "76",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888301",
+        "reverse-holo": "888408"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.66",
+                "psa10": "$15.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.54",
+                "psa10": "",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

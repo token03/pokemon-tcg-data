@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-57",
+    "name": "Primeape",
+    "number": "57",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809438",
+        "reverse-holo": "5809642"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.07",
+                "psa10": "$34.91",
+                "grade9": "$11.49"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv4-24",
+    "name": "Crocalor",
+    "number": "24",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5952862",
+        "reverse-holo": "5953128"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "$34.64",
+                "grade9": "$11.37"
+            }
+        }
+    }
+}

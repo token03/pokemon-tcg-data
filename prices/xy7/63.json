@@ -1,0 +1,25 @@
+{
+    "id": "xy7-63",
+    "name": "Eevee",
+    "number": "63",
+    "setId": "xy7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959081",
+        "reverse-holo": "959170"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$51.45",
+                "grade9": "$13.98"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.46",
+                "psa10": "$75.00",
+                "grade9": "$11.18"
+            }
+        }
+    }
+}

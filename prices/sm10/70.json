@@ -1,0 +1,25 @@
+{
+    "id": "sm10-70",
+    "name": "Gengar",
+    "number": "70",
+    "setId": "sm10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963226",
+        "reverse-holo": "963454"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.27",
+                "psa10": "$98.01",
+                "grade9": "$14.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.17",
+                "psa10": "$117.57",
+                "grade9": "$44.99"
+            }
+        }
+    }
+}

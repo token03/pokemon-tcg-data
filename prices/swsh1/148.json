@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-148",
+    "name": "Oranguru",
+    "number": "148",
+    "setId": "swsh1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "807197",
+        "reverse-holo": "807198"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.91",
+                "psa10": "$14.50",
+                "grade9": "$10.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "$37.32",
+                "grade9": "$10.51"
+            }
+        }
+    }
+}

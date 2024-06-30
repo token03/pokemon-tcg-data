@@ -1,0 +1,25 @@
+{
+    "id": "sv4-129",
+    "name": "Durant",
+    "number": "129",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5952967",
+        "reverse-holo": "5953220"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.60",
+                "grade9": "$11.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$35.11",
+                "grade9": "$11.51"
+            }
+        }
+    }
+}

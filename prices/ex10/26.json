@@ -1,0 +1,25 @@
+{
+    "id": "ex10-26",
+    "name": "Hitmontop",
+    "number": "26",
+    "setId": "ex10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888446",
+        "reverse-holo": "888588"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.97",
+                "psa10": "$21.75",
+                "grade9": "$14.67"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.63",
+                "psa10": "$225.00",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

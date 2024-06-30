@@ -1,0 +1,25 @@
+{
+    "id": "ex16-19",
+    "name": "Ninetales",
+    "number": "19",
+    "setId": "ex16",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889683",
+        "reverse-holo": "889791"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.24",
+                "psa10": "$87.75",
+                "grade9": "$51.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.99",
+                "psa10": "$275.82",
+                "grade9": "$61.22"
+            }
+        }
+    }
+}

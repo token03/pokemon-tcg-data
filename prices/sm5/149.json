@@ -1,0 +1,19 @@
+{
+    "id": "sm5-149",
+    "name": "Gardenia",
+    "number": "149",
+    "setId": "sm5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961512"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$45.00",
+                "psa10": "$125.50",
+                "grade9": "$52.05"
+            }
+        }
+    }
+}

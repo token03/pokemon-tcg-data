@@ -1,0 +1,25 @@
+{
+    "id": "base3-46",
+    "name": "Ekans",
+    "number": "46",
+    "setId": "base3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643402",
+        "1st-edition": "1099540"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$30.53",
+                "grade9": "$7.50"
+            },
+            "1st-edition": {
+                "ungraded": "$2.42",
+                "psa10": "$45.53",
+                "grade9": "$12.81"
+            }
+        }
+    }
+}

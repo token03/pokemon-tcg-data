@@ -1,0 +1,25 @@
+{
+    "id": "ex10-80",
+    "name": "Curse Powder",
+    "number": "80",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888500",
+        "reverse-holo": "888642"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.74",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "",
+                "grade9": "$20.44"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex2-3",
+    "name": "Cradily",
+    "number": "3",
+    "setId": "ex2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849192",
+        "reverse-holo": "849291"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.51",
+                "psa10": "$80.36",
+                "grade9": "$27.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.62",
+                "psa10": "$129.74",
+                "grade9": "$21.26"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-167",
+    "name": "Barry",
+    "number": "167",
+    "setId": "swsh9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3188391"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$21.00",
+                "grade9": "$9.03"
+            }
+        }
+    }
+}

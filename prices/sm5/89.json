@@ -1,0 +1,19 @@
+{
+    "id": "sm5-89",
+    "name": "Solgaleo \u25c7",
+    "number": "89",
+    "setId": "sm5",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "961452"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$140.39",
+                "grade9": "$21.67"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ex14-92",
+    "name": "Exploud ex",
+    "number": "92",
+    "setId": "ex14",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889379"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.28",
+                "psa10": "$325.77",
+                "grade9": "$56.13"
+            }
+        }
+    }
+}
