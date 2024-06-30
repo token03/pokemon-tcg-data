@@ -3,5 +3,17 @@
     "name": "Starmie V",
     "number": "TG13",
     "setId": "swsh10tg",
-    "rarity": "Rare Holo V"
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3508405"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$59.99",
+                "psa10": "$201.25",
+                "grade9": "$65.38"
+            }
+        }
+    }
 }

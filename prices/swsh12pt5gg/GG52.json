@@ -3,5 +3,17 @@
     "name": "Hisuian Samurott VSTAR",
     "number": "GG52",
     "setId": "swsh12pt5gg",
-    "rarity": "Rare Holo VSTAR"
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4637108"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.01",
+                "psa10": "$32.52",
+                "grade9": "$14.70"
+            }
+        }
+    }
 }

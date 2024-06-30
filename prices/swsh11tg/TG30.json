@@ -3,5 +3,17 @@
     "name": "Mew VMAX",
     "number": "TG30",
     "setId": "swsh11tg",
-    "rarity": "Rare Secret"
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "4080782"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$44.99",
+                "grade9": "$17.61"
+            }
+        }
+    }
 }

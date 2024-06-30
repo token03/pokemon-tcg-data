@@ -3,5 +3,17 @@
     "name": "Ice Rider Calyrex VMAX",
     "number": "TG15",
     "setId": "swsh10tg",
-    "rarity": "Rare Holo VMAX"
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "3508407"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.25",
+                "psa10": "$27.45",
+                "grade9": "$16.00"
+            }
+        }
+    }
 }

@@ -3,5 +3,17 @@
     "name": "Irida",
     "number": "GG63",
     "setId": "swsh12pt5gg",
-    "rarity": "Rare Ultra"
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4637119"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$11.50",
+                "psa10": "$37.67",
+                "grade9": "$17.43"
+            }
+        }
+    }
 }

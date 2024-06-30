@@ -3,5 +3,17 @@
     "name": "Zamazenta V",
     "number": "GG54",
     "setId": "swsh12pt5gg",
-    "rarity": "Rare Holo V"
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4637110"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$8.50",
+                "psa10": "$52.55",
+                "grade9": "$20.24"
+            }
+        }
+    }
 }

@@ -3,5 +3,17 @@
     "name": "Lumineon V",
     "number": "GG39",
     "setId": "swsh12pt5gg",
-    "rarity": "Rare Holo V"
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4637095"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$10.32",
+                "psa10": "$46.03",
+                "grade9": "$15.00"
+            }
+        }
+    }
 }

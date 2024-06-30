@@ -3,5 +3,17 @@
     "name": "Opal",
     "number": "TG28",
     "setId": "swsh11tg",
-    "rarity": "Rare Ultra"
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4080780"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.07",
+                "psa10": "$26.48",
+                "grade9": "$10.00"
+            }
+        }
+    }
 }
