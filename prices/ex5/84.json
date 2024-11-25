@@ -1,0 +1,25 @@
+{
+    "id": "ex5-84",
+    "name": "Ancient Technical Machine [Ice]",
+    "number": "84",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "ice": "849857",
+        "ice]-[reverse-holo": "849959"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "ice": {
+                "ungraded": "$2.56",
+                "psa10": "$108.09",
+                "grade9": "$36.51"
+            },
+            "ice]-[reverse-holo": {
+                "ungraded": "$2.21",
+                "psa10": "$81.05",
+                "grade9": "$27.33"
+            }
+        }
+    }
+}

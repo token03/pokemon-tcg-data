@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG17",
+    "name": "Shadow Rider Calyrex V",
+    "number": "TG17",
+    "setId": "swsh10tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3508409"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$31.21",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

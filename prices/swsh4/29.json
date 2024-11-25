@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-29",
+    "name": "Talonflame V",
+    "number": "29",
+    "setId": "swsh4",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "842024"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "$24.00",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-56",
+    "name": "Onix",
+    "number": "56",
+    "setId": "hgss2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287398",
+        "reverse-holo": "1287494"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$45.88",
+                "grade9": "$17.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.83",
+                "psa10": "",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp5-19",
+    "name": "Flareon",
+    "number": "19",
+    "setId": "dp5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921381",
+        "reverse-holo": "921481"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.67",
+                "psa10": "$80.37",
+                "grade9": "$27.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.86",
+                "psa10": "$132.01",
+                "grade9": "$39.00"
+            }
+        }
+    }
+}

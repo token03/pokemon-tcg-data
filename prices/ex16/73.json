@@ -1,0 +1,25 @@
+{
+    "id": "ex16-73",
+    "name": "Energy Recycle System",
+    "number": "73",
+    "setId": "ex16",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889737",
+        "reverse-holo": "889844"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.70",
+                "psa10": "$110.92",
+                "grade9": "$40.66"
+            }
+        }
+    }
+}

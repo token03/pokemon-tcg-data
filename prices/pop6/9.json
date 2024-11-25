@@ -1,0 +1,37 @@
+{
+    "id": "pop6-9",
+    "name": "Pikachu",
+    "number": "9",
+    "setId": "pop6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762791",
+        "holo": "762803",
+        "pokemon-day": "6009622",
+        "stamped": "4925874"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.16",
+                "psa10": "$333.00",
+                "grade9": "$164.29"
+            },
+            "holo": {
+                "ungraded": "$18.95",
+                "psa10": "$335.88",
+                "grade9": "$130.85"
+            },
+            "pokemon-day": {
+                "ungraded": "$62.00",
+                "psa10": "",
+                "grade9": "$95.33"
+            },
+            "stamped": {
+                "ungraded": "$79.95",
+                "psa10": "$464.59",
+                "grade9": "$75.63"
+            }
+        }
+    }
+}

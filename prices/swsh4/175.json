@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-175",
+    "name": "Drapion V",
+    "number": "175",
+    "setId": "swsh4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887713"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.04",
+                "psa10": "$21.69",
+                "grade9": "$11.27"
+            }
+        }
+    }
+}

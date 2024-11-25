@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-87",
+    "name": "Metapod",
+    "number": "87",
+    "setId": "ecard1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842465",
+        "reverse-holo": "2266940"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.08",
+                "psa10": "$37.93",
+                "grade9": "$14.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.14",
+                "psa10": "$202.88",
+                "grade9": "$19.37"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-203",
+    "name": "Ice Rider Calyrex VMAX",
+    "number": "203",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254009"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$49.26",
+                "psa10": "$86.00",
+                "grade9": "$55.00"
+            }
+        }
+    }
+}

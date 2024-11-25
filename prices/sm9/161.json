@@ -1,0 +1,19 @@
+{
+    "id": "sm9-161",
+    "name": "Magikarp & Wailord-GX",
+    "number": "161",
+    "setId": "sm9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962959"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$186.88",
+                "psa10": "$548.30",
+                "grade9": "$281.26"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw10-77",
+    "name": "Chatot",
+    "number": "77",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957379",
+        "reverse-holo": "957478"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "$37.70",
+                "grade9": "$14.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

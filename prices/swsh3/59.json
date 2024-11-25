@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-59",
+    "name": "Manectric",
+    "number": "59",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887145",
+        "reverse-holo": "887329"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$50.00",
+                "grade9": "$12.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "$36.92",
+                "grade9": "$13.54"
+            }
+        }
+    }
+}

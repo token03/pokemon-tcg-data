@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-106",
+    "name": "Flygon V",
+    "number": "106",
+    "setId": "swsh9",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3188330"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$63.83",
+                "grade9": "$47.00"
+            }
+        }
+    }
+}

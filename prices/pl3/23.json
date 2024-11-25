@@ -1,0 +1,25 @@
+{
+    "id": "pl3-23",
+    "name": "Crawdaunt G",
+    "number": "23",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287070",
+        "reverse-holo": "1287224"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.09",
+                "psa10": "",
+                "grade9": "$14.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.92",
+                "psa10": "",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm8-204",
+    "name": "Genesect-GX",
+    "number": "204",
+    "setId": "sm8",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962592"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.89",
+                "psa10": "$26.22",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

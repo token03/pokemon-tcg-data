@@ -1,0 +1,19 @@
+{
+    "id": "bw5-13",
+    "name": "Entei-EX",
+    "number": "13",
+    "setId": "bw5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956059"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.24",
+                "psa10": "$102.50",
+                "grade9": "$55.00"
+            }
+        }
+    }
+}

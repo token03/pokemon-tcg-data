@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-110",
+    "name": "Lairon",
+    "number": "110",
+    "setId": "swsh6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2253915",
+        "reverse-holo": "2254127"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.83",
+                "grade9": "$11.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.08",
+                "psa10": "$34.18",
+                "grade9": "$11.92"
+            }
+        }
+    }
+}

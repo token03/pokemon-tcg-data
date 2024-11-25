@@ -1,0 +1,25 @@
+{
+    "id": "pop2-3",
+    "name": "Raikou",
+    "number": "3",
+    "setId": "pop2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762691",
+        "holo": "762708"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.50",
+                "psa10": "$149.50",
+                "grade9": "$59.00"
+            },
+            "holo": {
+                "ungraded": "$7.63",
+                "psa10": "$774.73",
+                "grade9": "$51.00"
+            }
+        }
+    }
+}

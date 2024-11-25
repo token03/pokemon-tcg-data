@@ -1,0 +1,25 @@
+{
+    "id": "dp2-115",
+    "name": "Team Galactic's Wager",
+    "number": "115",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920739",
+        "reverse-holo": "920862"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.94",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

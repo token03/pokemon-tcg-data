@@ -1,0 +1,25 @@
+{
+    "id": "dp6-25",
+    "name": "Deoxys Defense Forme",
+    "number": "25",
+    "setId": "dp6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "defense-reverse-holo": "925102",
+        "defense": "924956"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "defense-reverse-holo": {
+                "ungraded": "$3.38",
+                "psa10": "$78.36",
+                "grade9": "$29.67"
+            },
+            "defense": {
+                "ungraded": "$2.72",
+                "psa10": "$62.02",
+                "grade9": "$23.02"
+            }
+        }
+    }
+}

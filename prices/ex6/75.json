@@ -1,0 +1,25 @@
+{
+    "id": "ex6-75",
+    "name": "Poliwag",
+    "number": "75",
+    "setId": "ex6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "850042",
+        "reverse-holo": "850157"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$109.78",
+                "grade9": "$34.20"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.00",
+                "psa10": "$64.85",
+                "grade9": "$28.25"
+            }
+        }
+    }
+}

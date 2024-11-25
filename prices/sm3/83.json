@@ -1,0 +1,25 @@
+{
+    "id": "sm3-83",
+    "name": "Alolan Grimer",
+    "number": "83",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960867",
+        "reverse-holo": "961028"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.39",
+                "grade9": "$12.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "$35.71",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm10-4",
+    "name": "Butterfree",
+    "number": "4",
+    "setId": "sm10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963160",
+        "reverse-holo": "963393"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$99.99",
+                "grade9": "$15.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "$39.79",
+                "grade9": "$15.63"
+            }
+        }
+    }
+}

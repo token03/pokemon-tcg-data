@@ -1,0 +1,25 @@
+{
+    "id": "bw10-41",
+    "name": "Sigilyph",
+    "number": "41",
+    "setId": "bw10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957343",
+        "reverse-holo": "957446"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$41.37",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

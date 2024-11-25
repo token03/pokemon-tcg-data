@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-48",
+    "name": "Cleffa",
+    "number": "48",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842708",
+        "reverse-holo": "2252646"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.12",
+                "psa10": "$52.00",
+                "grade9": "$43.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$18.54",
+                "psa10": "$180.11",
+                "grade9": "$44.45"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "basep-26",
+    "name": "Pikachu",
+    "number": "26",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5298579"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.30",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

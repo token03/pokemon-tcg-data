@@ -1,0 +1,25 @@
+{
+    "id": "ex14-69",
+    "name": "Whismur",
+    "number": "69",
+    "setId": "ex14",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889356",
+        "reverse-holo": "889455"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.77",
+                "psa10": "$62.13",
+                "grade9": "$18.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$70.68",
+                "grade9": "$19.25"
+            }
+        }
+    }
+}

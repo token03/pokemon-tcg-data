@@ -1,0 +1,25 @@
+{
+    "id": "bw9-5",
+    "name": "Exeggutor",
+    "number": "5",
+    "setId": "bw9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957060",
+        "reverse-holo": "957180"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.37",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

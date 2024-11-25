@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-142",
+    "name": "Mary's Impulse",
+    "number": "142",
+    "setId": "ecard1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842514",
+        "reverse-holo": "2266995"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$98.82",
+                "grade9": "$23.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.23",
+                "psa10": "$165.80",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv2-196",
+    "name": "Sprigatito",
+    "number": "196",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287485"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.89",
+                "psa10": "$106.37",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

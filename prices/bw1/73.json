@@ -1,0 +1,25 @@
+{
+    "id": "bw1-73",
+    "name": "Mandibuzz",
+    "number": "73",
+    "setId": "bw1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806382",
+        "reverse-holo": "806469"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$50.13",
+                "grade9": "$15.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.64",
+                "psa10": "",
+                "grade9": "$12.51"
+            }
+        }
+    }
+}

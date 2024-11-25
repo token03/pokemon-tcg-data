@@ -1,0 +1,25 @@
+{
+    "id": "neo3-62",
+    "name": "Pok\u00e9mon Breeder Fields",
+    "number": "62",
+    "setId": "neo3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762525",
+        "1st-edition": "2427429"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$55.00",
+                "grade9": "$24.94"
+            },
+            "1st-edition": {
+                "ungraded": "$2.75",
+                "psa10": "$65.92",
+                "grade9": "$25.75"
+            }
+        }
+    }
+}

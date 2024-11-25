@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-33",
+    "name": "Castform Rainy Form",
+    "number": "33",
+    "setId": "swsh6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2253839",
+        "reverse-holo": "2254064"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "$34.03",
+                "grade9": "$11.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.53",
+                "psa10": "$35.93",
+                "grade9": "$12.71"
+            }
+        }
+    }
+}

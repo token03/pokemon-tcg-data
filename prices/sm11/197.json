@@ -1,0 +1,25 @@
+{
+    "id": "sm11-197",
+    "name": "Giant Hearth",
+    "number": "197",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963763",
+        "reverse-holo": "964004"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$34.90",
+                "grade9": "$12.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.72",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

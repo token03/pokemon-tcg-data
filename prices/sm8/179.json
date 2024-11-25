@@ -1,0 +1,25 @@
+{
+    "id": "sm8-179",
+    "name": "Kahili",
+    "number": "179",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962567",
+        "reverse-holo": "962785"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.96",
+                "grade9": "$12.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.53",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

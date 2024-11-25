@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-212",
+    "name": "Zamazenta V",
+    "number": "212",
+    "setId": "swsh1",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2336174"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.99",
+                "psa10": "$38.68",
+                "grade9": "$14.97"
+            }
+        }
+    }
+}

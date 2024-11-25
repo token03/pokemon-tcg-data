@@ -1,0 +1,19 @@
+{
+    "id": "si1-6",
+    "name": "Raticate",
+    "number": "6",
+    "setId": "si1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762488"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.47",
+                "psa10": "$51.90",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

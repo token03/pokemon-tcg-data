@@ -1,0 +1,19 @@
+{
+    "id": "sm11-243",
+    "name": "Latios-GX",
+    "number": "243",
+    "setId": "sm11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963809"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.00",
+                "psa10": "$86.49",
+                "grade9": "$28.82"
+            }
+        }
+    }
+}

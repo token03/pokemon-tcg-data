@@ -1,0 +1,25 @@
+{
+    "id": "neo4-107",
+    "name": "Shining Charizard",
+    "number": "107",
+    "setId": "neo4",
+    "rarity": "Rare Shining",
+    "priceChartingIds": {
+        "normal": "762638",
+        "1st-edition": "2183378"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$650.00",
+                "psa10": "$3,658.00",
+                "grade9": "$1,576.45"
+            },
+            "1st-edition": {
+                "ungraded": "$1,251.52",
+                "psa10": "$10,817.41",
+                "grade9": "$3,485.18"
+            }
+        }
+    }
+}

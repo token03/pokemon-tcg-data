@@ -1,0 +1,19 @@
+{
+    "id": "hgss1-108",
+    "name": "Feraligatr",
+    "number": "108",
+    "setId": "hgss1",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "886673"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.56",
+                "psa10": "$562.50",
+                "grade9": "$82.37"
+            }
+        }
+    }
+}

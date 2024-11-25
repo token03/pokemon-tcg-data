@@ -1,0 +1,37 @@
+{
+    "id": "base1-94",
+    "name": "Potion",
+    "number": "94",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630507",
+        "1st-edition": "715683",
+        "shadowless": "3978639",
+        "trainer-deck-a": "2386896"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.35",
+                "psa10": "$32.32",
+                "grade9": "$24.99"
+            },
+            "1st-edition": {
+                "ungraded": "$9.99",
+                "psa10": "$133.49",
+                "grade9": "$35.46"
+            },
+            "shadowless": {
+                "ungraded": "$2.12",
+                "psa10": "$37.06",
+                "grade9": "$17.25"
+            },
+            "trainer-deck-a": {
+                "ungraded": "$69.44",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

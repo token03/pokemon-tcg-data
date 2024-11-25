@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-198",
+    "name": "Siebold",
+    "number": "198",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2254002"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.82",
+                "psa10": "$28.64",
+                "grade9": "$16.24"
+            }
+        }
+    }
+}

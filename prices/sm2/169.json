@@ -1,0 +1,19 @@
+{
+    "id": "sm2-169",
+    "name": "Fighting Energy",
+    "number": "169",
+    "setId": "sm2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960666"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.45",
+                "psa10": "$46.99",
+                "grade9": "$32.41"
+            }
+        }
+    }
+}

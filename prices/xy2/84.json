@@ -1,0 +1,25 @@
+{
+    "id": "xy2-84",
+    "name": "Buneary",
+    "number": "84",
+    "setId": "xy2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957831",
+        "reverse-holo": "957932"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$36.71",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy5-100",
+    "name": "Aegislash",
+    "number": "100",
+    "setId": "xy5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958557",
+        "reverse-holo": "958710"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$69.95",
+                "grade9": "$8.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

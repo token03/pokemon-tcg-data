@@ -1,0 +1,19 @@
+{
+    "id": "xy3-113",
+    "name": "M Lucario-EX",
+    "number": "113",
+    "setId": "xy3",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "958096"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.07",
+                "psa10": "$256.00",
+                "grade9": "$46.00"
+            }
+        }
+    }
+}

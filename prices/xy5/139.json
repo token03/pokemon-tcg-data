@@ -1,0 +1,25 @@
+{
+    "id": "xy5-139",
+    "name": "Shrine of Memories",
+    "number": "139",
+    "setId": "xy5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958596",
+        "reverse-holo": "958747"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.11",
+                "psa10": "$42.61",
+                "grade9": "$17.16"
+            }
+        }
+    }
+}

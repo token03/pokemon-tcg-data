@@ -1,0 +1,19 @@
+{
+    "id": "swsh45-55",
+    "name": "Cramorant VMAX",
+    "number": "55",
+    "setId": "swsh45",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "1341532"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.19",
+                "psa10": "$16.00",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

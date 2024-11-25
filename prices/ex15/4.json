@@ -1,0 +1,25 @@
+{
+    "id": "ex15-4",
+    "name": "Meganium \u03b4",
+    "number": "4",
+    "setId": "ex15",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889478",
+        "reverse-holo": "889579"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.77",
+                "psa10": "$155.00",
+                "grade9": "$41.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.25",
+                "psa10": "$189.99",
+                "grade9": "$47.41"
+            }
+        }
+    }
+}

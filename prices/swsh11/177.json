@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-177",
+    "name": "Rotom V",
+    "number": "177",
+    "setId": "swsh11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4050094"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$35.34",
+                "psa10": "$70.00",
+                "grade9": "$33.30"
+            }
+        }
+    }
+}

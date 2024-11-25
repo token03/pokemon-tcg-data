@@ -1,0 +1,25 @@
+{
+    "id": "bw9-61",
+    "name": "Onix",
+    "number": "61",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957115",
+        "reverse-holo": "957234"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$42.73",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw1-29",
+    "name": "Dewott",
+    "number": "29",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806345",
+        "reverse-holo": "806432"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$60.00",
+                "grade9": "$49.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

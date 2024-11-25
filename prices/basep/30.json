@@ -1,0 +1,25 @@
+{
+    "id": "basep-30",
+    "name": "Togepi",
+    "number": "30",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "staff": "3978550",
+        "normal": "643550"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "staff": {
+                "ungraded": "$119.03",
+                "psa10": "",
+                "grade9": "$56.57"
+            },
+            "normal": {
+                "ungraded": "$6.02",
+                "psa10": "$85.00",
+                "grade9": "$21.46"
+            }
+        }
+    }
+}

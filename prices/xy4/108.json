@@ -1,0 +1,25 @@
+{
+    "id": "xy4-108",
+    "name": "Trick Coin",
+    "number": "108",
+    "setId": "xy4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958301",
+        "reverse-holo": "958415"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$36.13",
+                "grade9": "$13.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

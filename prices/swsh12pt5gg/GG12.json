@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG12",
+    "name": "Deoxys",
+    "number": "GG12",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637068"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$40.00",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

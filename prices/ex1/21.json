@@ -1,0 +1,25 @@
+{
+    "id": "ex1-21",
+    "name": "Seaking",
+    "number": "21",
+    "setId": "ex1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762899",
+        "reverse-holo": "762981"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$21.04",
+                "grade9": "$16.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.67",
+                "psa10": "$49.40",
+                "grade9": "$24.26"
+            }
+        }
+    }
+}

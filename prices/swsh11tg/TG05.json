@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG05",
+    "name": "Pikachu",
+    "number": "TG05",
+    "setId": "swsh11tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4080757"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$5.15",
+                "psa10": "$70.00",
+                "grade9": "$17.50"
+            }
+        }
+    }
+}

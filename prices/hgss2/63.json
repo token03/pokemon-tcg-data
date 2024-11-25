@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-63",
+    "name": "Squirtle",
+    "number": "63",
+    "setId": "hgss2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287405",
+        "reverse-holo": "1287501"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.34",
+                "psa10": "$58.33",
+                "grade9": "$27.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.58",
+                "psa10": "$128.64",
+                "grade9": "$70.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "bw5-109",
+    "name": "Gardevoir",
+    "number": "109",
+    "setId": "bw5",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "956156"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$309.61",
+                "psa10": "$3,019.76",
+                "grade9": "$404.09"
+            }
+        }
+    }
+}

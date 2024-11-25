@@ -1,0 +1,19 @@
+{
+    "id": "sv4-208",
+    "name": "Steelix",
+    "number": "208",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953046"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.03",
+                "psa10": "$83.09",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

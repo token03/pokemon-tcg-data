@@ -1,0 +1,25 @@
+{
+    "id": "dp2-120",
+    "name": "Metal Energy",
+    "number": "120",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920744",
+        "reverse-holo": "920865"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.34",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

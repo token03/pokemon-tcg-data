@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG18",
+    "name": "Corviknight V",
+    "number": "TG18",
+    "setId": "swsh12tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277106"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$33.58",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

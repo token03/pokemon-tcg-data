@@ -1,0 +1,31 @@
+{
+    "id": "base1-87",
+    "name": "Pok\u00e9dex",
+    "number": "87",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630500",
+        "1st-edition": "715676",
+        "shadowless": "5836058"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$69.00",
+                "grade9": "$23.99"
+            },
+            "1st-edition": {
+                "ungraded": "$16.58",
+                "psa10": "$224.05",
+                "grade9": "$36.67"
+            },
+            "shadowless": {
+                "ungraded": "$2.85",
+                "psa10": "$64.38",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

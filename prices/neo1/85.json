@@ -1,0 +1,25 @@
+{
+    "id": "neo1-85",
+    "name": "Energy Charge",
+    "number": "85",
+    "setId": "neo1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762398",
+        "1st-edition": "2324861"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.79",
+                "psa10": "$24.73",
+                "grade9": "$14.15"
+            },
+            "1st-edition": {
+                "ungraded": "$3.99",
+                "psa10": "$24.49",
+                "grade9": "$11.63"
+            }
+        }
+    }
+}

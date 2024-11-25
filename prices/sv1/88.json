@@ -1,0 +1,19 @@
+{
+    "id": "sv1-88",
+    "name": "Banette ex",
+    "number": "88",
+    "setId": "sv1",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "4933864"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.30",
+                "psa10": "$26.24",
+                "grade9": "$7.19"
+            }
+        }
+    }
+}

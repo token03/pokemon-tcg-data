@@ -1,0 +1,19 @@
+{
+    "id": "swsh45-18",
+    "name": "Cinderace V",
+    "number": "18",
+    "setId": "swsh45",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "1341495"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.71",
+                "psa10": "$18.27",
+                "grade9": "$10.61"
+            }
+        }
+    }
+}

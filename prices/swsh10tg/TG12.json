@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG12",
+    "name": "Hoothoot",
+    "number": "TG12",
+    "setId": "swsh10tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3508404"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.22",
+                "psa10": "$75.16",
+                "grade9": "$12.87"
+            }
+        }
+    }
+}

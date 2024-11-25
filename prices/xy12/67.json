@@ -1,0 +1,25 @@
+{
+    "id": "xy12-67",
+    "name": "Raticate",
+    "number": "67",
+    "setId": "xy12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960355",
+        "reverse-holo": "960444"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$19.02",
+                "grade9": "$9.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$47.45",
+                "grade9": "$10.25"
+            }
+        }
+    }
+}

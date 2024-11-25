@@ -1,0 +1,25 @@
+{
+    "id": "dp1-108",
+    "name": "Night Pok\u00e9mon Center",
+    "number": "108",
+    "setId": "dp1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "763144",
+        "reverse-holo": "763266"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

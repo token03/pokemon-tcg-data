@@ -1,0 +1,25 @@
+{
+    "id": "dp4-12",
+    "name": "Altaria",
+    "number": "12",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921166",
+        "reverse-holo": "921272"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.24",
+                "psa10": "$64.22",
+                "grade9": "$23.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.24",
+                "psa10": "",
+                "grade9": "$22.35"
+            }
+        }
+    }
+}

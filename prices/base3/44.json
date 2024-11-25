@@ -1,0 +1,25 @@
+{
+    "id": "base3-44",
+    "name": "Tentacruel",
+    "number": "44",
+    "setId": "base3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643439",
+        "1st-edition": "1099538"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "$31.50",
+                "grade9": "$24.50"
+            },
+            "1st-edition": {
+                "ungraded": "$3.92",
+                "psa10": "$62.61",
+                "grade9": "$18.97"
+            }
+        }
+    }
+}

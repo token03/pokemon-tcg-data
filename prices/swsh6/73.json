@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-73",
+    "name": "Hatterene",
+    "number": "73",
+    "setId": "swsh6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2253878",
+        "reverse-holo": "2254100"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$34.69",
+                "grade9": "$12.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$36.55",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

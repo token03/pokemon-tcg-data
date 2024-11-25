@@ -1,0 +1,31 @@
+{
+    "id": "hgss3-5",
+    "name": "Houndoom",
+    "number": "5",
+    "setId": "hgss3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925892",
+        "reverse-holo-league": "5430046",
+        "reverse-holo": "925983"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.06",
+                "psa10": "$108.07",
+                "grade9": "$18.93"
+            },
+            "reverse-holo-league": {
+                "ungraded": "$7.06",
+                "psa10": "$99.99",
+                "grade9": "$19.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.71",
+                "psa10": "$82.65",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

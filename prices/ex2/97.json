@@ -1,0 +1,19 @@
+{
+    "id": "ex2-97",
+    "name": "Kabutops ex",
+    "number": "97",
+    "setId": "ex2",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849285"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.00",
+                "psa10": "$342.69",
+                "grade9": "$93.66"
+            }
+        }
+    }
+}

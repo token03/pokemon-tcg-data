@@ -1,0 +1,25 @@
+{
+    "id": "dp5-84",
+    "name": "Old Amber",
+    "number": "84",
+    "setId": "dp5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921446",
+        "reverse-holo": "921546"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.94",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

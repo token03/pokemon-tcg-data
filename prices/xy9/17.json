@@ -1,0 +1,25 @@
+{
+    "id": "xy9-17",
+    "name": "Golduck",
+    "number": "17",
+    "setId": "xy9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959508",
+        "reverse-holo": "959630"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$35.72",
+                "grade9": "$13.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.51",
+                "psa10": "$60.00",
+                "grade9": "$49.64"
+            }
+        }
+    }
+}

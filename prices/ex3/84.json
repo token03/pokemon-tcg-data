@@ -1,0 +1,25 @@
+{
+    "id": "ex3-84",
+    "name": "Energy Recycle System",
+    "number": "84",
+    "setId": "ex3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849463",
+        "reverse-holo": "849563"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$24.00",
+                "grade9": "$20.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.49",
+                "psa10": "",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

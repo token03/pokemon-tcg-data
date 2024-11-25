@@ -1,0 +1,25 @@
+{
+    "id": "bw3-36",
+    "name": "Zebstrika",
+    "number": "36",
+    "setId": "bw3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955691",
+        "reverse-holo": "955793"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.78",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "gym1-119",
+    "name": "Tickling Machine",
+    "number": "119",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762118",
+        "1st-edition": "2156429"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$91.00",
+                "grade9": "$10.75"
+            },
+            "1st-edition": {
+                "ungraded": "$5.41",
+                "psa10": "$42.97",
+                "grade9": "$7.50"
+            }
+        }
+    }
+}

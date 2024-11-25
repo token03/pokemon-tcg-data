@@ -1,0 +1,25 @@
+{
+    "id": "pl4-19",
+    "name": "Golem",
+    "number": "19",
+    "setId": "pl4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925638",
+        "reverse-holo": "925749"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.90",
+                "psa10": "",
+                "grade9": "$20.43"
+            }
+        }
+    }
+}

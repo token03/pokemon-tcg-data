@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-12",
+    "name": "Maractus",
+    "number": "12",
+    "setId": "swsh8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2771041",
+        "reverse-holo": "2771321"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.90",
+                "grade9": "$11.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "$36.03",
+                "grade9": "$12.60"
+            }
+        }
+    }
+}

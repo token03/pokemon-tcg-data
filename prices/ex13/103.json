@@ -1,0 +1,19 @@
+{
+    "id": "ex13-103",
+    "name": "Mewtwo \u2605",
+    "number": "103",
+    "setId": "ex13",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "889183"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$320.00",
+                "psa10": "$4,681.15",
+                "grade9": "$1,966.95"
+            }
+        }
+    }
+}

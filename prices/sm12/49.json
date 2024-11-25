@@ -1,0 +1,25 @@
+{
+    "id": "sm12-49",
+    "name": "Spheal",
+    "number": "49",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964287",
+        "reverse-holo": "964552"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$34.35",
+                "grade9": "$12.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.46",
+                "psa10": "$36.82",
+                "grade9": "$13.82"
+            }
+        }
+    }
+}

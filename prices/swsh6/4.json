@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-4",
+    "name": "Ledyba",
+    "number": "4",
+    "setId": "swsh6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2253810",
+        "reverse-holo": "2254040"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.28",
+                "psa10": "$42.70",
+                "grade9": "$15.82"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-91",
+    "name": "Magnemite",
+    "number": "91",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887930",
+        "reverse-holo": "2293982"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.15",
+                "psa10": "$41.79",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.00",
+                "psa10": "$150.00",
+                "grade9": "$27.71"
+            }
+        }
+    }
+}

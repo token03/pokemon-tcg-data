@@ -1,0 +1,31 @@
+{
+    "id": "bw4-46",
+    "name": "Luxray",
+    "number": "46",
+    "setId": "bw4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955898",
+        "cracked-ice-holo": "5428269",
+        "reverse-holo": "955998"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.93",
+                "psa10": "$189.96",
+                "grade9": "$33.00"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$19.99",
+                "psa10": "",
+                "grade9": "$28.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

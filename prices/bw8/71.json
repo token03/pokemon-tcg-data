@@ -1,0 +1,25 @@
+{
+    "id": "bw8-71",
+    "name": "Phanpy",
+    "number": "71",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957055",
+        "reverse-holo": "957002"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

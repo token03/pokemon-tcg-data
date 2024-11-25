@@ -1,0 +1,25 @@
+{
+    "id": "xy12-69",
+    "name": "Doduo",
+    "number": "69",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960357",
+        "reverse-holo": "960446"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.85",
+                "psa10": "$61.00",
+                "grade9": "$13.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.78",
+                "psa10": "$31.25",
+                "grade9": "$8.71"
+            }
+        }
+    }
+}

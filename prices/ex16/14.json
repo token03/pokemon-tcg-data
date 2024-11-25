@@ -1,0 +1,25 @@
+{
+    "id": "ex16-14",
+    "name": "Dusclops",
+    "number": "14",
+    "setId": "ex16",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889678",
+        "reverse-holo": "889786"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.51",
+                "psa10": "$84.77",
+                "grade9": "$20.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.28",
+                "psa10": "",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm11-244",
+    "name": "Aerodactyl-GX",
+    "number": "244",
+    "setId": "sm11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963810"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.28",
+                "psa10": "$46.00",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "sm5-122",
+    "name": "Escape Board",
+    "number": "122",
+    "setId": "sm5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961485",
+        "league-cup-staff": "6226362",
+        "reverse-foil-league-cup": "5076784",
+        "reverse-holo": "961647"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "$34.89",
+                "grade9": "$12.93"
+            },
+            "league-cup-staff": {
+                "ungraded": "$8.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-foil-league-cup": {
+                "ungraded": "$1.95",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

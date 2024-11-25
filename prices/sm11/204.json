@@ -1,0 +1,25 @@
+{
+    "id": "sm11-204",
+    "name": "Pok\u00e9 Maniac",
+    "number": "204",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963770",
+        "reverse-holo": "964011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.51",
+                "psa10": "",
+                "grade9": "$4.64"
+            }
+        }
+    }
+}

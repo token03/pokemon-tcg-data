@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-9",
+    "name": "Burmy",
+    "number": "9",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188234",
+        "reverse-holo": "3219380"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.44",
+                "psa10": "$31.76",
+                "grade9": "$10.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.08",
+                "psa10": "$34.29",
+                "grade9": "$11.76"
+            }
+        }
+    }
+}

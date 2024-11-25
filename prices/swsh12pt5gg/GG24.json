@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG24",
+    "name": "Miltank",
+    "number": "GG24",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637080"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.68",
+                "psa10": "$48.19",
+                "grade9": "$11.76"
+            }
+        }
+    }
+}

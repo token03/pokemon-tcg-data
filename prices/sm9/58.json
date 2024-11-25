@@ -1,0 +1,25 @@
+{
+    "id": "sm9-58",
+    "name": "Nidorino",
+    "number": "58",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962856",
+        "reverse-holo": "963046"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$34.34",
+                "grade9": "$12.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

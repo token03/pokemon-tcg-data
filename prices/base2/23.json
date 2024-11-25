@@ -1,0 +1,25 @@
+{
+    "id": "base2-23",
+    "name": "Nidoqueen",
+    "number": "23",
+    "setId": "base2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1099563",
+        "1st-edition": "1099579"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.71",
+                "psa10": "$41.00",
+                "grade9": "$20.86"
+            },
+            "1st-edition": {
+                "ungraded": "$7.94",
+                "psa10": "$125.57",
+                "grade9": "$34.00"
+            }
+        }
+    }
+}

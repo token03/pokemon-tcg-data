@@ -1,0 +1,25 @@
+{
+    "id": "xy12-33",
+    "name": "Magikarp",
+    "number": "33",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960321",
+        "reverse-holo": "960415"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$72.01",
+                "grade9": "$11.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$70.00",
+                "grade9": "$14.04"
+            }
+        }
+    }
+}

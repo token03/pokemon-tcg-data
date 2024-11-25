@@ -1,0 +1,19 @@
+{
+    "id": "pop2-7",
+    "name": "Ivysaur",
+    "number": "7",
+    "setId": "pop2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762695"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.98",
+                "psa10": "$78.00",
+                "grade9": "$65.03"
+            }
+        }
+    }
+}

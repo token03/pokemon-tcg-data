@@ -1,0 +1,25 @@
+{
+    "id": "dp1-29",
+    "name": "Hippowdon",
+    "number": "29",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763065",
+        "reverse-holo": "763187"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$102.00",
+                "grade9": "$85.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.03",
+                "psa10": "$63.36",
+                "grade9": "$14.39"
+            }
+        }
+    }
+}

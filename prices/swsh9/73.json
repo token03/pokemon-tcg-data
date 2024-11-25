@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-73",
+    "name": "Nosepass",
+    "number": "73",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188297",
+        "reverse-holo": "3219427"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.01",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "$35.78",
+                "grade9": "$12.37"
+            }
+        }
+    }
+}

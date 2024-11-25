@@ -1,0 +1,19 @@
+{
+    "id": "ex7-107",
+    "name": "Mudkip \u2605",
+    "number": "107",
+    "setId": "ex7",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "886441"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$645.50",
+                "psa10": "$5,700.16",
+                "grade9": "$2,013.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo1-69",
+    "name": "Onix",
+    "number": "69",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762383",
+        "1st-edition": "2324901"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.33",
+                "psa10": "$34.61",
+                "grade9": "$21.32"
+            },
+            "1st-edition": {
+                "ungraded": "$3.49",
+                "psa10": "$44.47",
+                "grade9": "$24.99"
+            }
+        }
+    }
+}

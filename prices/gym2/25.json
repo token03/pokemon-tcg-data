@@ -1,0 +1,25 @@
+{
+    "id": "gym2-25",
+    "name": "Koga's Arbok",
+    "number": "25",
+    "setId": "gym2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762231",
+        "1st-edition": "1450219"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.61",
+                "psa10": "$36.55",
+                "grade9": "$19.50"
+            },
+            "1st-edition": {
+                "ungraded": "$8.25",
+                "psa10": "$68.00",
+                "grade9": "$26.43"
+            }
+        }
+    }
+}

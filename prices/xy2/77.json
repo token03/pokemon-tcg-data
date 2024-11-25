@@ -1,0 +1,25 @@
+{
+    "id": "xy2-77",
+    "name": "Pidgeot",
+    "number": "77",
+    "setId": "xy2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957824",
+        "reverse-holo": "957926"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.06",
+                "psa10": "$43.99",
+                "grade9": "$11.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.54",
+                "psa10": "$47.22",
+                "grade9": "$19.37"
+            }
+        }
+    }
+}

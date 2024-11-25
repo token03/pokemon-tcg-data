@@ -1,0 +1,25 @@
+{
+    "id": "ex3-7",
+    "name": "Minun",
+    "number": "7",
+    "setId": "ex3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849387",
+        "reverse-holo": "849486"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.97",
+                "psa10": "$182.50",
+                "grade9": "$46.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.71",
+                "psa10": "$267.44",
+                "grade9": "$46.81"
+            }
+        }
+    }
+}

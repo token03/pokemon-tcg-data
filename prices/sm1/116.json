@@ -1,0 +1,25 @@
+{
+    "id": "sm1-116",
+    "name": "Energy Retrieval",
+    "number": "116",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806860",
+        "reverse-holo": "806989"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "$34.85",
+                "grade9": "$12.91"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$35.64",
+                "grade9": "$13.39"
+            }
+        }
+    }
+}

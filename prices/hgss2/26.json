@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-26",
+    "name": "Tyranitar",
+    "number": "26",
+    "setId": "hgss2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287368",
+        "reverse-holo": "1287464"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.66",
+                "psa10": "$167.50",
+                "grade9": "$62.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.70",
+                "psa10": "$153.11",
+                "grade9": "$103.00"
+            }
+        }
+    }
+}

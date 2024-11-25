@@ -1,0 +1,25 @@
+{
+    "id": "sm8-186",
+    "name": "Morty",
+    "number": "186",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962574",
+        "reverse-holo": "962790"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

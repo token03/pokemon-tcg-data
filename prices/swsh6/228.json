@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-228",
+    "name": "Rugged Helmet",
+    "number": "228",
+    "setId": "swsh6",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2254032"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$28.83",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy12-111",
+    "name": "Surfing Pikachu",
+    "number": "111",
+    "setId": "xy12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960390"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$49.09",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

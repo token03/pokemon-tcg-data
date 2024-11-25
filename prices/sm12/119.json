@@ -1,0 +1,25 @@
+{
+    "id": "sm12-119",
+    "name": "Pancham",
+    "number": "119",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964357",
+        "reverse-holo": "964618"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$34.74",
+                "grade9": "$12.65"
+            }
+        }
+    }
+}

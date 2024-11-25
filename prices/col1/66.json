@@ -1,0 +1,25 @@
+{
+    "id": "col1-66",
+    "name": "Phanpy",
+    "number": "66",
+    "setId": "col1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "926317",
+        "reverse-holo": "926423"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$47.27",
+                "grade9": "$16.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.77",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

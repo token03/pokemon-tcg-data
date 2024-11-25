@@ -1,0 +1,19 @@
+{
+    "id": "sm35-53",
+    "name": "Zoroark-GX",
+    "number": "53",
+    "setId": "sm35",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961122"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$20.88",
+                "grade9": "$13.50"
+            }
+        }
+    }
+}

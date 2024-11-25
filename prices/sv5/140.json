@@ -1,0 +1,25 @@
+{
+    "id": "sv5-140",
+    "name": "Ancient Booster Energy Capsule",
+    "number": "140",
+    "setId": "sv5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6495600",
+        "reverse-holo": "6495804"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$35.28",
+                "grade9": "$11.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$37.27",
+                "grade9": "$11.97"
+            }
+        }
+    }
+}

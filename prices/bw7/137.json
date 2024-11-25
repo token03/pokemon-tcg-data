@@ -1,0 +1,19 @@
+{
+    "id": "bw7-137",
+    "name": "Computer Search",
+    "number": "137",
+    "setId": "bw7",
+    "rarity": "Rare ACE",
+    "priceChartingIds": {
+        "normal": "956652"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.10",
+                "psa10": "$123.34",
+                "grade9": "$30.11"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm4-118",
+    "name": "Alolan Exeggutor-GX",
+    "number": "118",
+    "setId": "sm4",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961264"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.98",
+                "psa10": "$45.50",
+                "grade9": "$17.98"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "base4-124",
+    "name": "Double Colorless Energy",
+    "number": "124",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641926"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.01",
+                "psa10": "$101.34",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

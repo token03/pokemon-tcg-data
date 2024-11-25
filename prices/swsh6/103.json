@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-103",
+    "name": "Spiritomb",
+    "number": "103",
+    "setId": "swsh6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2253909",
+        "reverse-holo": "2254121"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$34.92",
+                "grade9": "$12.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "$34.53",
+                "grade9": "$12.08"
+            }
+        }
+    }
+}

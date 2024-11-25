@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-92",
+    "name": "Terrakion",
+    "number": "92",
+    "setId": "swsh4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887642",
+        "reverse-holo": "887815"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.27",
+                "grade9": "$12.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$8.00",
+                "grade9": "$6.38"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy5-27",
+    "name": "Combusken",
+    "number": "27",
+    "setId": "xy5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958484",
+        "reverse-holo": "958646"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$35.92",
+                "grade9": "$13.36"
+            }
+        }
+    }
+}

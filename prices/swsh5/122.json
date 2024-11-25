@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-122",
+    "name": "Camping Gear",
+    "number": "122",
+    "setId": "swsh5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1673302",
+        "reverse-holo": "1725091"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.80",
+                "grade9": "$11.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$34.72",
+                "grade9": "$12.24"
+            }
+        }
+    }
+}

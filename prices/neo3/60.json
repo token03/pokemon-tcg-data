@@ -1,0 +1,25 @@
+{
+    "id": "neo3-60",
+    "name": "Balloon Berry",
+    "number": "60",
+    "setId": "neo3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762495",
+        "1st-edition": "2427396"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$71.45",
+                "grade9": "$24.99"
+            },
+            "1st-edition": {
+                "ungraded": "$2.25",
+                "psa10": "$31.02",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

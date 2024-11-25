@@ -1,0 +1,31 @@
+{
+    "id": "swsh6-10",
+    "name": "Abomasnow",
+    "number": "10",
+    "setId": "swsh6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2253816",
+        "reverse-holo": "2254044",
+        "snowflake-stamp": "4476211"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.71",
+                "psa10": "$36.62",
+                "grade9": "$13.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$36.51",
+                "grade9": "$12.98"
+            },
+            "snowflake-stamp": {
+                "ungraded": "$1.97",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

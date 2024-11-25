@@ -1,0 +1,19 @@
+{
+    "id": "xy9-32",
+    "name": "Manaphy-EX",
+    "number": "32",
+    "setId": "xy9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959523"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$22.70",
+                "grade9": "$10.96"
+            }
+        }
+    }
+}

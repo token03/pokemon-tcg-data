@@ -1,0 +1,25 @@
+{
+    "id": "sv3-20",
+    "name": "Dolliv",
+    "number": "20",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605538",
+        "reverse-holo": "5605776"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$35.71",
+                "grade9": "$11.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.85",
+                "grade9": "$11.81"
+            }
+        }
+    }
+}

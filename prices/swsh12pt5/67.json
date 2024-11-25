@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-67",
+    "name": "Enamorus",
+    "number": "67",
+    "setId": "swsh12pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4636963",
+        "reverse-holo": "4637177"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$35.46",
+                "grade9": "$11.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.97",
+                "psa10": "$38.42",
+                "grade9": "$12.93"
+            }
+        }
+    }
+}

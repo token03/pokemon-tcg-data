@@ -1,0 +1,19 @@
+{
+    "id": "ex3-90",
+    "name": "Dragonite ex",
+    "number": "90",
+    "setId": "ex3",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849469"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$64.24",
+                "psa10": "$1,074.76",
+                "grade9": "$278.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm10-157",
+    "name": "Porygon-Z",
+    "number": "157",
+    "setId": "sm10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963313",
+        "reverse-holo": "963534"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.76",
+                "psa10": "$30.00",
+                "grade9": "$16.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.15",
+                "psa10": "$42.33",
+                "grade9": "$17.09"
+            }
+        }
+    }
+}

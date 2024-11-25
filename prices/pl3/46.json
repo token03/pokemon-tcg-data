@@ -1,0 +1,25 @@
+{
+    "id": "pl3-46",
+    "name": "Spinda",
+    "number": "46",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287093",
+        "reverse-holo": "1287247"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.13",
+                "psa10": "$49.99",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

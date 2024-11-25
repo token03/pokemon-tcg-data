@@ -1,0 +1,25 @@
+{
+    "id": "pl1-108",
+    "name": "Life Herb",
+    "number": "108",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "805986",
+        "reverse-holo": "805987"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

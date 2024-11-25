@@ -1,0 +1,25 @@
+{
+    "id": "ex6-103",
+    "name": "Multi Energy",
+    "number": "103",
+    "setId": "ex6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "850070",
+        "reverse-holo": "850185"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.07",
+                "psa10": "",
+                "grade9": "$12.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.14",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

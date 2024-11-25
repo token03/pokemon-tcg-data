@@ -1,0 +1,25 @@
+{
+    "id": "xy8-152",
+    "name": "Rainbow Energy",
+    "number": "152",
+    "setId": "xy8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959342",
+        "reverse-holo": "959491"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$38.07",
+                "grade9": "$14.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.90",
+                "psa10": "$45.72",
+                "grade9": "$19.18"
+            }
+        }
+    }
+}

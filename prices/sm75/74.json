@@ -1,0 +1,19 @@
+{
+    "id": "sm75-74",
+    "name": "White Kyurem-GX",
+    "number": "74",
+    "setId": "sm75",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "962308"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.80",
+                "psa10": "$103.30",
+                "grade9": "$31.41"
+            }
+        }
+    }
+}

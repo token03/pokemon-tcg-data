@@ -1,0 +1,25 @@
+{
+    "id": "col1-37",
+    "name": "Ursaring",
+    "number": "37",
+    "setId": "col1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926288",
+        "reverse-holo": "926394"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "$46.76",
+                "grade9": "$17.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.74",
+                "psa10": "$68.94",
+                "grade9": "$27.99"
+            }
+        }
+    }
+}

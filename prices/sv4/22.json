@@ -1,0 +1,25 @@
+{
+    "id": "sv4-22",
+    "name": "Volcanion",
+    "number": "22",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5952860",
+        "reverse-holo": "5953126"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.09",
+                "psa10": "$39.42",
+                "grade9": "$9.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.02",
+                "psa10": "$34.74",
+                "grade9": "$11.40"
+            }
+        }
+    }
+}

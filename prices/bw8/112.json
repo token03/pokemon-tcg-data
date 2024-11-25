@@ -1,0 +1,25 @@
+{
+    "id": "bw8-112",
+    "name": "Watchog",
+    "number": "112",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956909",
+        "reverse-holo": "957038"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

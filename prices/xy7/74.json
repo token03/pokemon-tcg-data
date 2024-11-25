@@ -1,0 +1,25 @@
+{
+    "id": "xy7-74",
+    "name": "Forest of Giant Plants",
+    "number": "74",
+    "setId": "xy7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959092",
+        "reverse-holo": "959180"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$36.99",
+                "grade9": "$14.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$40.56",
+                "grade9": "$16.11"
+            }
+        }
+    }
+}

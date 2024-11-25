@@ -1,0 +1,19 @@
+{
+    "id": "sv6-106",
+    "name": "Greninja ex",
+    "number": "106",
+    "setId": "sv6",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "6769586"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$45.15",
+                "grade9": "$13.95"
+            }
+        }
+    }
+}

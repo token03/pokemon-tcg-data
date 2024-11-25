@@ -1,0 +1,25 @@
+{
+    "id": "sv2-188",
+    "name": "Super Rod",
+    "number": "188",
+    "setId": "sv2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5287477",
+        "reverse-holo": "5287739"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.31",
+                "psa10": "$40.55",
+                "grade9": "$13.39"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.94",
+                "psa10": "$41.24",
+                "grade9": "$13.60"
+            }
+        }
+    }
+}

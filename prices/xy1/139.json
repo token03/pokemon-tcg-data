@@ -1,0 +1,19 @@
+{
+    "id": "xy1-139",
+    "name": "Metal Energy",
+    "number": "139",
+    "setId": "xy1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2775124"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

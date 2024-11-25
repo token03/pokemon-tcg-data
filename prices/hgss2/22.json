@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-22",
+    "name": "Primeape",
+    "number": "22",
+    "setId": "hgss2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287364",
+        "reverse-holo": "1287460"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.73",
+                "psa10": "",
+                "grade9": "$21.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.54",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-24",
+    "name": "Lapras",
+    "number": "24",
+    "setId": "hgss1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806137",
+        "reverse-holo": "806243"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$32.89",
+                "grade9": "$22.96"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.46",
+                "psa10": "$83.03",
+                "grade9": "$33.23"
+            }
+        }
+    }
+}

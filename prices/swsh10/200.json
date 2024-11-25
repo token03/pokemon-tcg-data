@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-200",
+    "name": "Choy",
+    "number": "200",
+    "setId": "swsh10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3489700"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.49",
+                "psa10": "$19.75",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

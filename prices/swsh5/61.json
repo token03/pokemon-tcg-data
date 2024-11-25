@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-61",
+    "name": "Meowstic",
+    "number": "61",
+    "setId": "swsh5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1673242",
+        "reverse-holo": "1725042"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "$36.22",
+                "grade9": "$12.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.46",
+                "psa10": "$36.18",
+                "grade9": "$12.94"
+            }
+        }
+    }
+}

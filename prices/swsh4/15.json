@@ -1,0 +1,37 @@
+{
+    "id": "swsh4-15",
+    "name": "Shaymin",
+    "number": "15",
+    "setId": "swsh4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "887571",
+        "cosmos-holo": "6814342",
+        "holo": "6837671",
+        "reverse-holo": "887751"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$18.78",
+                "grade9": "$12.00"
+            },
+            "cosmos-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$30.48",
+                "grade9": "$5.51"
+            }
+        }
+    }
+}

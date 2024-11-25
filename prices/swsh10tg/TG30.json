@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG30",
+    "name": "Shadow Rider Calyrex VMAX",
+    "number": "TG30",
+    "setId": "swsh10tg",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "3508973"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.79",
+                "psa10": "$21.28",
+                "grade9": "$18.57"
+            }
+        }
+    }
+}

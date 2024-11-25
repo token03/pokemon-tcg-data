@@ -1,0 +1,25 @@
+{
+    "id": "dp4-27",
+    "name": "Primeape",
+    "number": "27",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921181",
+        "reverse-holo": "921287"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$59.36",
+                "grade9": "$21.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$49.94",
+                "grade9": ""
+            }
+        }
+    }
+}

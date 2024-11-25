@@ -1,0 +1,25 @@
+{
+    "id": "sm11-176",
+    "name": "Unfezant",
+    "number": "176",
+    "setId": "sm11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963742",
+        "reverse-holo": "963983"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$34.82",
+                "grade9": "$12.71"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-72",
+    "name": "Meditite",
+    "number": "72",
+    "setId": "swsh12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4277193",
+        "reverse-holo": "4293806"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.68",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$40.52",
+                "grade9": "$13.80"
+            }
+        }
+    }
+}

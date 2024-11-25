@@ -1,0 +1,25 @@
+{
+    "id": "sm6-69",
+    "name": "Tyrantrum",
+    "number": "69",
+    "setId": "sm6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961732",
+        "reverse-holo": "961874"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.97",
+                "psa10": "$51.25",
+                "grade9": "$22.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.31",
+                "psa10": "$52.01",
+                "grade9": "$23.13"
+            }
+        }
+    }
+}

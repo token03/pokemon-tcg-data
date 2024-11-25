@@ -1,0 +1,25 @@
+{
+    "id": "neo3-66",
+    "name": "Shining Magikarp",
+    "number": "66",
+    "setId": "neo3",
+    "rarity": "Rare Shining",
+    "priceChartingIds": {
+        "normal": "762535",
+        "1st-edition": "2427440"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$130.78",
+                "psa10": "$2,208.16",
+                "grade9": "$347.50"
+            },
+            "1st-edition": {
+                "ungraded": "$337.48",
+                "psa10": "$3,449.92",
+                "grade9": "$658.01"
+            }
+        }
+    }
+}

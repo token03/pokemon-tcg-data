@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-183",
+    "name": "Regidrago V",
+    "number": "183",
+    "setId": "swsh12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277304"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.08",
+                "psa10": "$19.99",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

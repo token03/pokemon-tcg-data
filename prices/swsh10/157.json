@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-157",
+    "name": "Unidentified Fossil",
+    "number": "157",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489656",
+        "reverse-holo": "3489850"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.03",
+                "grade9": "$11.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.04",
+                "grade9": "$11.59"
+            }
+        }
+    }
+}

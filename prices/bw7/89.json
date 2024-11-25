@@ -1,0 +1,19 @@
+{
+    "id": "bw7-89",
+    "name": "Landorus-EX",
+    "number": "89",
+    "setId": "bw7",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956604"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.14",
+                "psa10": "$40.15",
+                "grade9": "$37.65"
+            }
+        }
+    }
+}

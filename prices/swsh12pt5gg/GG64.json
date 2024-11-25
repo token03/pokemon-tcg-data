@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG64",
+    "name": "Melony",
+    "number": "GG64",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4637120"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.02",
+                "psa10": "$34.50",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

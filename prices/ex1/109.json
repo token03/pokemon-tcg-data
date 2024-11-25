@@ -1,0 +1,25 @@
+{
+    "id": "ex1-109",
+    "name": "Lightning Energy",
+    "number": "109",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762962",
+        "reverse-holo": "763036"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": "$24.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.09",
+                "psa10": "$45.68",
+                "grade9": "$18.23"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-205",
+    "name": "Stonjourner VMAX",
+    "number": "205",
+    "setId": "swsh1",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2336168"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$25.26",
+                "grade9": "$20.49"
+            }
+        }
+    }
+}

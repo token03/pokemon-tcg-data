@@ -1,0 +1,25 @@
+{
+    "id": "sv1-188",
+    "name": "Potion",
+    "number": "188",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933962",
+        "reverse-holo": "4934208"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.89",
+                "grade9": "$11.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.03",
+                "psa10": "$34.50",
+                "grade9": "$11.51"
+            }
+        }
+    }
+}

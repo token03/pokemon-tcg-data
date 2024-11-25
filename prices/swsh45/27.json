@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-27",
+    "name": "Drednaw",
+    "number": "27",
+    "setId": "swsh45",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341504",
+        "reverse-holo": "1341694"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$59.99",
+                "grade9": "$2.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$10.50",
+                "grade9": "$4.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy4-109",
+    "name": "VS Seeker",
+    "number": "109",
+    "setId": "xy4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958302",
+        "reverse-holo": "958416"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.78",
+                "psa10": "$52.68",
+                "grade9": "$22.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.59",
+                "psa10": "$53.22",
+                "grade9": "$6.00"
+            }
+        }
+    }
+}

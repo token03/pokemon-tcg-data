@@ -1,0 +1,25 @@
+{
+    "id": "ex3-34",
+    "name": "Houndoom",
+    "number": "34",
+    "setId": "ex3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849414",
+        "reverse-holo": "849513"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.78",
+                "psa10": "$74.24",
+                "grade9": "$22.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.00",
+                "psa10": "$396.00",
+                "grade9": "$51.00"
+            }
+        }
+    }
+}

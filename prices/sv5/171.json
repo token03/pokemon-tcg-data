@@ -1,0 +1,19 @@
+{
+    "id": "sv5-171",
+    "name": "Reuniclus",
+    "number": "171",
+    "setId": "sv5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6495631"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$63.71",
+                "grade9": "$12.31"
+            }
+        }
+    }
+}

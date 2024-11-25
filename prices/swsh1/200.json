@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-200",
+    "name": "Marnie",
+    "number": "200",
+    "setId": "swsh1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2336163"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$31.34",
+                "psa10": "$87.50",
+                "grade9": "$43.00"
+            }
+        }
+    }
+}

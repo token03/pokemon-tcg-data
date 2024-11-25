@@ -1,0 +1,19 @@
+{
+    "id": "sm10-219",
+    "name": "Dedenne-GX",
+    "number": "219",
+    "setId": "sm10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963375"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.23",
+                "psa10": "$45.00",
+                "grade9": "$19.25"
+            }
+        }
+    }
+}

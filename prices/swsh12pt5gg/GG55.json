@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG55",
+    "name": "Regigigas VSTAR",
+    "number": "GG55",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4637111"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$7.76",
+                "psa10": "$43.68",
+                "grade9": "$21.84"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy12-107",
+    "name": "Brock's Grit",
+    "number": "107",
+    "setId": "xy12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960386"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.01",
+                "psa10": "$40.25",
+                "grade9": "$16.50"
+            }
+        }
+    }
+}

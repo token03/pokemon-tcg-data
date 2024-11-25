@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-70",
+    "name": "Togepi",
+    "number": "70",
+    "setId": "hgss3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925957",
+        "reverse-holo": "926048"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "$79.99",
+                "grade9": "$30.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.43",
+                "psa10": "$68.06",
+                "grade9": "$15.58"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-1",
+    "name": "Yanma",
+    "number": "1",
+    "setId": "swsh45",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1341477",
+        "reverse-holo": "1341672"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$36.25",
+                "grade9": "$4.17"
+            }
+        }
+    }
+}

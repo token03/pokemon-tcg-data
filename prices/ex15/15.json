@@ -1,0 +1,25 @@
+{
+    "id": "ex15-15",
+    "name": "Dewgong \u03b4",
+    "number": "15",
+    "setId": "ex15",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889489",
+        "reverse-holo": "889590"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$41.00",
+                "grade9": "$16.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.81",
+                "psa10": "$89.51",
+                "grade9": "$38.15"
+            }
+        }
+    }
+}

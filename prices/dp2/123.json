@@ -1,0 +1,19 @@
+{
+    "id": "dp2-123",
+    "name": "Magmortar LV.X",
+    "number": "123",
+    "setId": "dp2",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "920747"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.65",
+                "psa10": "$218.66",
+                "grade9": "$102.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy10-30",
+    "name": "Spoink",
+    "number": "30",
+    "setId": "xy10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959887",
+        "reverse-holo": "960007"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.18",
+                "psa10": "$36.01",
+                "grade9": "$13.56"
+            }
+        }
+    }
+}

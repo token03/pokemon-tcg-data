@@ -1,0 +1,25 @@
+{
+    "id": "xy12-73",
+    "name": "Blastoise Spirit Link",
+    "number": "73",
+    "setId": "xy12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960361",
+        "reverse-holo": "960449"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$214.00",
+                "grade9": "$11.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.15",
+                "psa10": "$311.20",
+                "grade9": "$14.26"
+            }
+        }
+    }
+}

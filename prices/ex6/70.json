@@ -1,0 +1,25 @@
+{
+    "id": "ex6-70",
+    "name": "Nidoran \u2640",
+    "number": "70",
+    "setId": "ex6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "f": "850037",
+        "f]-[reverse-holo": "850152"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "f": {
+                "ungraded": "$3.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "f]-[reverse-holo": {
+                "ungraded": "$8.74",
+                "psa10": "",
+                "grade9": "$22.09"
+            }
+        }
+    }
+}

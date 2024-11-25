@@ -1,0 +1,25 @@
+{
+    "id": "basep-9",
+    "name": "Mew",
+    "number": "9",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "national-championships-staff": "4768896",
+        "normal": "4956114"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "national-championships-staff": {
+                "ungraded": "$225.00",
+                "psa10": "$1,999.99",
+                "grade9": ""
+            },
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-28",
+    "name": "Gyarados V",
+    "number": "28",
+    "setId": "swsh7",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2512839"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.53",
+                "psa10": "$30.30",
+                "grade9": "$11.76"
+            }
+        }
+    }
+}

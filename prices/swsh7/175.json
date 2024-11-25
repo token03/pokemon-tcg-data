@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-175",
+    "name": "Glaceon V",
+    "number": "175",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2512986"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$85.00",
+                "psa10": "$182.50",
+                "grade9": "$84.98"
+            }
+        }
+    }
+}

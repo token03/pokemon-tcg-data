@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-70",
+    "name": "Malamar",
+    "number": "70",
+    "setId": "swsh6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2253875",
+        "reverse-holo": "2254097"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$36.54",
+                "grade9": "$13.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$36.62",
+                "grade9": "$6.50"
+            }
+        }
+    }
+}

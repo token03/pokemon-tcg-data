@@ -1,0 +1,25 @@
+{
+    "id": "ex15-8",
+    "name": "Ninetales \u03b4",
+    "number": "8",
+    "setId": "ex15",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889482",
+        "reverse-holo": "889583"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.03",
+                "psa10": "$394.20",
+                "grade9": "$87.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$33.32",
+                "psa10": "$700.00",
+                "grade9": "$129.50"
+            }
+        }
+    }
+}

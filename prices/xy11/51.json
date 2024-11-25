@@ -1,0 +1,25 @@
+{
+    "id": "xy11-51",
+    "name": "Hoopa",
+    "number": "51",
+    "setId": "xy11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960130",
+        "reverse-holo": "960241"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.54",
+                "psa10": "$18.50",
+                "grade9": "$8.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.12",
+                "psa10": "$40.47",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

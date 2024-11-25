@@ -1,0 +1,25 @@
+{
+    "id": "sm2-23",
+    "name": "Tentacool",
+    "number": "23",
+    "setId": "sm2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960520",
+        "reverse-holo": "960687"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$36.18",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

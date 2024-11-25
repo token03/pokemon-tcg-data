@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-19",
+    "name": "Raichu",
+    "number": "19",
+    "setId": "sv4pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6276938",
+        "reverse-holo": "6277182"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$20.50",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.17",
+                "psa10": "$37.77",
+                "grade9": "$13.06"
+            }
+        }
+    }
+}

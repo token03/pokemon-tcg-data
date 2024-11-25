@@ -1,0 +1,31 @@
+{
+    "id": "swsh1-15",
+    "name": "Rillaboom",
+    "number": "15",
+    "setId": "swsh1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1431203",
+        "cracked-ice": "3399984",
+        "reverse-holo": "1431204"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.52",
+                "psa10": "$77.84",
+                "grade9": "$15.58"
+            },
+            "cracked-ice": {
+                "ungraded": "$1.95",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$18.50",
+                "grade9": ""
+            }
+        }
+    }
+}

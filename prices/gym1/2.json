@@ -1,0 +1,25 @@
+{
+    "id": "gym1-2",
+    "name": "Brock's Rhydon",
+    "number": "2",
+    "setId": "gym1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762137",
+        "1st-edition": "2156451"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.78",
+                "psa10": "$212.50",
+                "grade9": "$51.52"
+            },
+            "1st-edition": {
+                "ungraded": "$50.65",
+                "psa10": "$639.92",
+                "grade9": "$131.36"
+            }
+        }
+    }
+}

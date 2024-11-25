@@ -1,0 +1,25 @@
+{
+    "id": "sv2-92",
+    "name": "Gothitelle",
+    "number": "92",
+    "setId": "sv2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5287381",
+        "reverse-holo": "5287650"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$34.41",
+                "grade9": "$11.42"
+            }
+        }
+    }
+}

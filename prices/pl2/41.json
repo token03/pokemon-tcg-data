@@ -1,0 +1,25 @@
+{
+    "id": "pl2-41",
+    "name": "Glaceon",
+    "number": "41",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925437",
+        "reverse-holo": "925556"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.90",
+                "psa10": "$67.93",
+                "grade9": "$31.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.75",
+                "psa10": "$119.19",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

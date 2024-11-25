@@ -1,0 +1,25 @@
+{
+    "id": "ex14-81",
+    "name": "Mysterious Shard",
+    "number": "81",
+    "setId": "ex14",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889368",
+        "reverse-holo": "889467"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.91",
+                "psa10": "$83.14",
+                "grade9": "$29.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.47",
+                "psa10": "$59.99",
+                "grade9": "$17.01"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "ex12-6",
+    "name": "Golem",
+    "number": "6",
+    "setId": "ex12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888889",
+        "regional-championships": "6377807",
+        "reverse-holo": "888981"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.02",
+                "psa10": "$122.10",
+                "grade9": "$24.82"
+            },
+            "regional-championships": {
+                "ungraded": "$19.99",
+                "psa10": "",
+                "grade9": "$40.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.73",
+                "psa10": "$124.36",
+                "grade9": "$36.62"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-160",
+    "name": "Celebi V",
+    "number": "160",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253964"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$24.71",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

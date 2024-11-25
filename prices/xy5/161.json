@@ -1,0 +1,19 @@
+{
+    "id": "xy5-161",
+    "name": "Dive Ball",
+    "number": "161",
+    "setId": "xy5",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "958618"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.98",
+                "psa10": "$89.65",
+                "grade9": "$51.95"
+            }
+        }
+    }
+}

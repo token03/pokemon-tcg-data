@@ -1,0 +1,19 @@
+{
+    "id": "sv4-266",
+    "name": "Reversal Energy",
+    "number": "266",
+    "setId": "sv4",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5953105"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.99",
+                "psa10": "$28.00",
+                "grade9": "$7.32"
+            }
+        }
+    }
+}

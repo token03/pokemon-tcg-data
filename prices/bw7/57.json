@@ -1,0 +1,25 @@
+{
+    "id": "bw7-57",
+    "name": "Zebstrika",
+    "number": "57",
+    "setId": "bw7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956572",
+        "reverse-holo": "956722"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.55",
+                "psa10": "$119.95",
+                "grade9": "$52.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$42.45",
+                "grade9": ""
+            }
+        }
+    }
+}

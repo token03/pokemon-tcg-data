@@ -1,0 +1,25 @@
+{
+    "id": "sm115-8",
+    "name": "Charmeleon",
+    "number": "8",
+    "setId": "sm115",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964028",
+        "reverse-holo": "964190"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$24.99",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.10",
+                "psa10": "$28.65",
+                "grade9": "$11.77"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sm4-56",
+    "name": "Bewear",
+    "number": "56",
+    "setId": "sm4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "5691819",
+        "holo": "961203",
+        "reverse-holo": "961323"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.64",
+                "psa10": "$18.50",
+                "grade9": "$5.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.31",
+                "grade9": "$12.59"
+            }
+        }
+    }
+}

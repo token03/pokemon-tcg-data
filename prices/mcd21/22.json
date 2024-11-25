@@ -1,0 +1,25 @@
+{
+    "id": "mcd21-22",
+    "name": "Froakie",
+    "number": "22",
+    "setId": "mcd21",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1317313",
+        "holo": "1317338"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.76",
+                "psa10": "$9.74",
+                "grade9": "$9.00"
+            },
+            "holo": {
+                "ungraded": "$1.99",
+                "psa10": "$26.65",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

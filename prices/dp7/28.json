@@ -1,0 +1,25 @@
+{
+    "id": "dp7-28",
+    "name": "Steelix",
+    "number": "28",
+    "setId": "dp7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925241",
+        "reverse-holo": "925328"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$85.71",
+                "grade9": "$32.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.60",
+                "psa10": "$94.20",
+                "grade9": "$36.40"
+            }
+        }
+    }
+}

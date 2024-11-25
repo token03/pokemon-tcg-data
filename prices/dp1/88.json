@@ -1,0 +1,25 @@
+{
+    "id": "dp1-88",
+    "name": "Marill",
+    "number": "88",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763124",
+        "reverse-holo": "763246"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$57.52",
+                "grade9": "$20.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.54",
+                "psa10": "$79.85",
+                "grade9": "$29.12"
+            }
+        }
+    }
+}

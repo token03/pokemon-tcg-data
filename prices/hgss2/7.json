@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-7",
+    "name": "Politoed",
+    "number": "7",
+    "setId": "hgss2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1287349",
+        "reverse-holo": "1287445"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.66",
+                "psa10": "$117.50",
+                "grade9": "$27.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.24",
+                "psa10": "$90.88",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

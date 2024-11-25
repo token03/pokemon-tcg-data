@@ -1,0 +1,25 @@
+{
+    "id": "sm5-110",
+    "name": "Fan Rotom",
+    "number": "110",
+    "setId": "sm5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961473",
+        "reverse-holo": "961637"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.15",
+                "psa10": "$39.07",
+                "grade9": "$15.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$42.67",
+                "grade9": "$17.59"
+            }
+        }
+    }
+}

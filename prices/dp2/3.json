@@ -1,0 +1,25 @@
+{
+    "id": "dp2-3",
+    "name": "Ambipom",
+    "number": "3",
+    "setId": "dp2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920625",
+        "reverse-holo": "920751"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.08",
+                "psa10": "$63.19",
+                "grade9": "$26.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "$56.08",
+                "grade9": "$20.12"
+            }
+        }
+    }
+}

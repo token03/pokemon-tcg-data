@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG53",
+    "name": "Hoopa V",
+    "number": "GG53",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4637109"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$5.72",
+                "psa10": "$37.20",
+                "grade9": "$15.26"
+            }
+        }
+    }
+}

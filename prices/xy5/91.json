@@ -1,0 +1,19 @@
+{
+    "id": "xy5-91",
+    "name": "Sharpedo-EX",
+    "number": "91",
+    "setId": "xy5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958548"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.76",
+                "psa10": "$31.76",
+                "grade9": "$14.75"
+            }
+        }
+    }
+}

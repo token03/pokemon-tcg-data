@@ -1,0 +1,25 @@
+{
+    "id": "sm12-186",
+    "name": "Bellelba & Brycen-Man",
+    "number": "186",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964424",
+        "reverse-holo": "964678"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$36.01",
+                "grade9": "$13.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$37.51",
+                "grade9": "$14.21"
+            }
+        }
+    }
+}

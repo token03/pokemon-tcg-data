@@ -1,0 +1,19 @@
+{
+    "id": "si1-2",
+    "name": "Pidgeot",
+    "number": "2",
+    "setId": "si1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762484"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.97",
+                "psa10": "$70.00",
+                "grade9": "$28.00"
+            }
+        }
+    }
+}

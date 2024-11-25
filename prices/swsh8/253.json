@@ -1,0 +1,19 @@
+{
+    "id": "swsh8-253",
+    "name": "Hoopa V",
+    "number": "253",
+    "setId": "swsh8",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2771279"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.93",
+                "psa10": "$28.93",
+                "grade9": "$10.33"
+            }
+        }
+    }
+}

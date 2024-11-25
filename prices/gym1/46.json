@@ -1,0 +1,25 @@
+{
+    "id": "gym1-46",
+    "name": "Erika's Gloom",
+    "number": "46",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886544",
+        "1st-edition": "2156481"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.82",
+                "psa10": "$55.50",
+                "grade9": "$17.50"
+            },
+            "1st-edition": {
+                "ungraded": "$7.93",
+                "psa10": "$72.37",
+                "grade9": "$30.38"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp2-34",
+    "name": "Slaking",
+    "number": "34",
+    "setId": "dp2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920657",
+        "reverse-holo": "920781"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$56.06",
+                "grade9": "$20.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "ex1-94",
+    "name": "Metal Energy",
+    "number": "94",
+    "setId": "ex1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762947",
+        "reverse-holo": "763029",
+        "winner": "6303786"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.38",
+                "psa10": "$84.00",
+                "grade9": "$70.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.47",
+                "psa10": "$48.53",
+                "grade9": "$10.50"
+            },
+            "winner": {
+                "ungraded": "$18.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

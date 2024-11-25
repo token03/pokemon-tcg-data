@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-77",
+    "name": "Gourgeist",
+    "number": "77",
+    "setId": "swsh7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2512888",
+        "reverse-holo": "2513102"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$56.99",
+                "grade9": "$12.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "$35.54",
+                "grade9": "$5.00"
+            }
+        }
+    }
+}

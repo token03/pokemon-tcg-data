@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-139",
+    "name": "Dark Patch",
+    "number": "139",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489638",
+        "reverse-holo": "3489832"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$34.97",
+                "grade9": "$11.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$35.91",
+                "grade9": "$12.32"
+            }
+        }
+    }
+}

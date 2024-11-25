@@ -1,0 +1,25 @@
+{
+    "id": "sm115-39",
+    "name": "Clefairy",
+    "number": "39",
+    "setId": "sm115",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964059",
+        "reverse-holo": "964215"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$25.85",
+                "grade9": "$11.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.41",
+                "psa10": "$42.04",
+                "grade9": "$12.73"
+            }
+        }
+    }
+}

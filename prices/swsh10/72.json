@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-72",
+    "name": "Machamp V",
+    "number": "72",
+    "setId": "swsh10",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3489570"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$20.11",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

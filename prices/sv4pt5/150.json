@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-150",
+    "name": "Cleffa",
+    "number": "150",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277069"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.66",
+                "psa10": "$21.50",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

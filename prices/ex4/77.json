@@ -1,0 +1,25 @@
+{
+    "id": "ex4-77",
+    "name": "Team Aqua Conspirator",
+    "number": "77",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849646",
+        "reverse-holo": "849743"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": "$41.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.64",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

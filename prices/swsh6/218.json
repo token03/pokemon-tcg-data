@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-218",
+    "name": "Melony",
+    "number": "218",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254022"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.05",
+                "psa10": "$36.86",
+                "grade9": "$12.86"
+            }
+        }
+    }
+}

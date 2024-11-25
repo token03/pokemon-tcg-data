@@ -1,0 +1,19 @@
+{
+    "id": "swsh45-72",
+    "name": "Skyla",
+    "number": "72",
+    "setId": "swsh45",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "1341549"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.75",
+                "psa10": "$46.16",
+                "grade9": "$17.47"
+            }
+        }
+    }
+}

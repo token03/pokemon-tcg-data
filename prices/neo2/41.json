@@ -1,0 +1,25 @@
+{
+    "id": "neo2-41",
+    "name": "Kakuna",
+    "number": "41",
+    "setId": "neo2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762435",
+        "1st-edition": "2158453"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$30.00",
+                "grade9": "$9.25"
+            },
+            "1st-edition": {
+                "ungraded": "$2.55",
+                "psa10": "$37.71",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

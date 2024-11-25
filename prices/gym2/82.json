@@ -1,0 +1,25 @@
+{
+    "id": "gym2-82",
+    "name": "Koga's Weedle",
+    "number": "82",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762284",
+        "1st-edition": "1450276"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$35.15",
+                "grade9": "$17.70"
+            },
+            "1st-edition": {
+                "ungraded": "$3.85",
+                "psa10": "$37.00",
+                "grade9": "$30.43"
+            }
+        }
+    }
+}

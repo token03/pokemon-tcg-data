@@ -1,0 +1,19 @@
+{
+    "id": "base4-29",
+    "name": "Pinsir",
+    "number": "29",
+    "setId": "base4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "641832"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.77",
+                "psa10": "$37.32",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

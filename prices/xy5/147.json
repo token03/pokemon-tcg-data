@@ -1,0 +1,19 @@
+{
+    "id": "xy5-147",
+    "name": "Wailord-EX",
+    "number": "147",
+    "setId": "xy5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958604"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.32",
+                "psa10": "$96.50",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

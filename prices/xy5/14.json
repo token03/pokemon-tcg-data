@@ -1,0 +1,25 @@
+{
+    "id": "xy5-14",
+    "name": "Masquerain",
+    "number": "14",
+    "setId": "xy5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958471",
+        "reverse-holo": "958634"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

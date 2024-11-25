@@ -1,0 +1,25 @@
+{
+    "id": "base3-26",
+    "name": "Magneton",
+    "number": "26",
+    "setId": "base3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341274",
+        "1st-edition": "1099520"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.09",
+                "psa10": "$44.09",
+                "grade9": "$26.09"
+            },
+            "1st-edition": {
+                "ungraded": "$7.00",
+                "psa10": "$108.99",
+                "grade9": "$25.05"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy2-20",
+    "name": "Pyroar",
+    "number": "20",
+    "setId": "xy2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "957767",
+        "reverse-holo": "957873"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.99",
+                "psa10": "$43.50",
+                "grade9": "$17.35"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.90",
+                "psa10": "$42.88",
+                "grade9": "$17.01"
+            }
+        }
+    }
+}

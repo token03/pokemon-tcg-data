@@ -1,0 +1,19 @@
+{
+    "id": "pl1-125",
+    "name": "Palkia G LV.X",
+    "number": "125",
+    "setId": "pl1",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "806027"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.99",
+                "psa10": "$565.00",
+                "grade9": "$86.91"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-95",
+    "name": "Lycanroc",
+    "number": "95",
+    "setId": "swsh4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887645",
+        "reverse-holo": "887818"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.75",
+                "psa10": "$17.12",
+                "grade9": "$5.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.54",
+                "psa10": "$25.00",
+                "grade9": "$20.61"
+            }
+        }
+    }
+}

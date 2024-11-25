@@ -1,0 +1,25 @@
+{
+    "id": "dp5-20",
+    "name": "Glaceon",
+    "number": "20",
+    "setId": "dp5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921382",
+        "reverse-holo": "921482"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.06",
+                "psa10": "$234.41",
+                "grade9": "$59.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.86",
+                "psa10": "$140.11",
+                "grade9": "$55.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm6-51",
+    "name": "Malamar",
+    "number": "51",
+    "setId": "sm6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961714",
+        "reverse-holo": "961857"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.42",
+                "psa10": "$38.87",
+                "grade9": "$15.98"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "$40.36",
+                "grade9": "$16.18"
+            }
+        }
+    }
+}

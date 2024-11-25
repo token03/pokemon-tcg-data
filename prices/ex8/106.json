@@ -1,0 +1,19 @@
+{
+    "id": "ex8-106",
+    "name": "Latios \u2605",
+    "number": "106",
+    "setId": "ex8",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "888126"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$510.41",
+                "psa10": "$4,070.72",
+                "grade9": "$2,261.79"
+            }
+        }
+    }
+}

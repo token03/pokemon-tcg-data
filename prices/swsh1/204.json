@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-204",
+    "name": "Morpeko VMAX",
+    "number": "204",
+    "setId": "swsh1",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2336167"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.72",
+                "psa10": "$34.99",
+                "grade9": "$19.13"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "dp4-105",
+    "name": "Dialga LV.X",
+    "number": "105",
+    "setId": "dp4",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "921259"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$41.94",
+                "psa10": "$1,899.12",
+                "grade9": "$202.50"
+            }
+        }
+    }
+}

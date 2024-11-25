@@ -1,0 +1,25 @@
+{
+    "id": "gym2-126",
+    "name": "Warp Point",
+    "number": "126",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762322",
+        "1st-edition": "1450320"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$85.30",
+                "grade9": "$9.50"
+            },
+            "1st-edition": {
+                "ungraded": "$2.99",
+                "psa10": "$34.07",
+                "grade9": "$17.69"
+            }
+        }
+    }
+}

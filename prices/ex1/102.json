@@ -1,0 +1,19 @@
+{
+    "id": "ex1-102",
+    "name": "Scyther ex",
+    "number": "102",
+    "setId": "ex1",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "762955"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$33.99",
+                "psa10": "$557.81",
+                "grade9": "$91.34"
+            }
+        }
+    }
+}

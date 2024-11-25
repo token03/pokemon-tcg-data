@@ -1,0 +1,31 @@
+{
+    "id": "xy5-20",
+    "name": "Vulpix",
+    "number": "20",
+    "setId": "xy5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958477",
+        "build-a-bear": "5122320",
+        "reverse-holo": "958639"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$37.60",
+                "grade9": "$14.31"
+            },
+            "build-a-bear": {
+                "ungraded": "$12.62",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$44.91",
+                "grade9": "$18.46"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG09",
+    "name": "Mightyena",
+    "number": "TG09",
+    "setId": "swsh10tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3508401"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "$36.84",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

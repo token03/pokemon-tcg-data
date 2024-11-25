@@ -1,0 +1,31 @@
+{
+    "id": "basep-13",
+    "name": "Venusaur",
+    "number": "13",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "643552",
+        "pokemon-center": "5834279",
+        "play": "6682665"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$54.97",
+                "psa10": "$1,566.88",
+                "grade9": "$305.80"
+            },
+            "pokemon-center": {
+                "ungraded": "$25.75",
+                "psa10": "$61.31",
+                "grade9": "$49.00"
+            },
+            "play": {
+                "ungraded": "$200.25",
+                "psa10": "$560.00",
+                "grade9": "$250.00"
+            }
+        }
+    }
+}

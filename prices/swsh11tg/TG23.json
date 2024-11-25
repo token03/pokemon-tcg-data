@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG23",
+    "name": "Adventurer's Discovery",
+    "number": "TG23",
+    "setId": "swsh11tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4080775"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$27.42",
+                "grade9": "$10.16"
+            }
+        }
+    }
+}

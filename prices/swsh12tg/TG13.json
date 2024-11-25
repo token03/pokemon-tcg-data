@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG13",
+    "name": "Serperior V",
+    "number": "TG13",
+    "setId": "swsh12tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277101"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$9.99",
+                "psa10": "$44.28",
+                "grade9": "$16.79"
+            }
+        }
+    }
+}

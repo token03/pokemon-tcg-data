@@ -1,0 +1,25 @@
+{
+    "id": "dp1-55",
+    "name": "Mantyke",
+    "number": "55",
+    "setId": "dp1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "763091",
+        "reverse-holo": "763213"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.68",
+                "psa10": "$108.49",
+                "grade9": "$17.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.98",
+                "psa10": "$246.64",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

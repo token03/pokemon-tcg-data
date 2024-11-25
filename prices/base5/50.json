@@ -1,0 +1,25 @@
+{
+    "id": "base5-50",
+    "name": "Charmander",
+    "number": "50",
+    "setId": "base5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643446",
+        "1st-edition": "1341391"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.79",
+                "psa10": "$55.12",
+                "grade9": "$17.00"
+            },
+            "1st-edition": {
+                "ungraded": "$6.14",
+                "psa10": "$89.99",
+                "grade9": "$26.63"
+            }
+        }
+    }
+}

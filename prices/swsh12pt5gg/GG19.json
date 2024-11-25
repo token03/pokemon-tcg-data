@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG19",
+    "name": "Altaria",
+    "number": "GG19",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637075"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$38.17",
+                "grade9": "$12.68"
+            }
+        }
+    }
+}

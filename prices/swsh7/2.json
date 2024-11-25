@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-2",
+    "name": "Hoppip",
+    "number": "2",
+    "setId": "swsh7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2512812",
+        "reverse-holo": "2513048"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.13",
+                "psa10": "$34.41",
+                "grade9": "$11.97"
+            }
+        }
+    }
+}

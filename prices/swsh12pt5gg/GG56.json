@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG56",
+    "name": "Hisuian Zoroark VSTAR",
+    "number": "GG56",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4637112"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$13.54",
+                "psa10": "$55.00",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

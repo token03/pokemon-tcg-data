@@ -1,0 +1,25 @@
+{
+    "id": "ex4-87",
+    "name": "Magma Energy",
+    "number": "87",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849656",
+        "reverse-holo": "849753"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$124.86",
+                "grade9": "$41.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.85",
+                "psa10": "",
+                "grade9": "$15.29"
+            }
+        }
+    }
+}

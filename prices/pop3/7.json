@@ -1,0 +1,19 @@
+{
+    "id": "pop3-7",
+    "name": "Combusken",
+    "number": "7",
+    "setId": "pop3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762719"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.99",
+                "psa10": "$143.85",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

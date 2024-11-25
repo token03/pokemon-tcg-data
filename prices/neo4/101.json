@@ -1,0 +1,25 @@
+{
+    "id": "neo4-101",
+    "name": "Magnifier",
+    "number": "101",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762623",
+        "1st-edition": "2183363"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.07",
+                "psa10": "$39.00",
+                "grade9": "$12.99"
+            },
+            "1st-edition": {
+                "ungraded": "$3.00",
+                "psa10": "$35.76",
+                "grade9": "$7.14"
+            }
+        }
+    }
+}

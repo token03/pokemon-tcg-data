@@ -1,0 +1,25 @@
+{
+    "id": "ex14-86",
+    "name": "Energy Search",
+    "number": "86",
+    "setId": "ex14",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889373",
+        "reverse-holo": "889472"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.88",
+                "psa10": "$82.26",
+                "grade9": "$12.51"
+            }
+        }
+    }
+}

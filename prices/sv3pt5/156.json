@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-156",
+    "name": "Bill's Transfer",
+    "number": "156",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809545",
+        "reverse-holo": "5809735"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$36.01",
+                "grade9": "$11.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "$39.13",
+                "grade9": "$12.76"
+            }
+        }
+    }
+}

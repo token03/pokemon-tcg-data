@@ -1,0 +1,25 @@
+{
+    "id": "ex10-88",
+    "name": "Pok\u00e9mon Reversal",
+    "number": "88",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888508",
+        "reverse-holo": "888650"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "",
+                "grade9": "$22.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.50",
+                "psa10": "$67.94",
+                "grade9": "$17.17"
+            }
+        }
+    }
+}

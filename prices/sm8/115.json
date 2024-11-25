@@ -1,0 +1,25 @@
+{
+    "id": "sm8-115",
+    "name": "Larvitar",
+    "number": "115",
+    "setId": "sm8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962503",
+        "reverse-holo": "962729"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

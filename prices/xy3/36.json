@@ -1,0 +1,25 @@
+{
+    "id": "xy3-36",
+    "name": "Hypno",
+    "number": "36",
+    "setId": "xy3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958019",
+        "reverse-holo": "958129"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$39.52",
+                "grade9": "$15.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$40.16",
+                "grade9": "$15.64"
+            }
+        }
+    }
+}

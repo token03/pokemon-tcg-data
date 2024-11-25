@@ -1,0 +1,25 @@
+{
+    "id": "xy5-30",
+    "name": "Horsea",
+    "number": "30",
+    "setId": "xy5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958487",
+        "reverse-holo": "958648"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$36.75",
+                "grade9": "$13.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

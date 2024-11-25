@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-90",
+    "name": "Rescue Energy",
+    "number": "90",
+    "setId": "hgss4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926147",
+        "reverse-holo": "926250"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$51.26",
+                "grade9": "$19.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.56",
+                "psa10": "",
+                "grade9": "$39.95"
+            }
+        }
+    }
+}

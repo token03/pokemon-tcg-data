@@ -1,0 +1,25 @@
+{
+    "id": "dp5-82",
+    "name": "Fossil Excavator",
+    "number": "82",
+    "setId": "dp5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921444",
+        "reverse-holo": "921544"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.42",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

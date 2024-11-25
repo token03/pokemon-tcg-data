@@ -1,0 +1,25 @@
+{
+    "id": "base6-88",
+    "name": "Psyduck",
+    "number": "88",
+    "setId": "base6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842393",
+        "reverse-holo": "2253768"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$88.00",
+                "grade9": "$73.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$65.00",
+                "psa10": "$771.75",
+                "grade9": "$177.66"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv2-229",
+    "name": "Dudunsparce",
+    "number": "229",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287518"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.10",
+                "psa10": "$32.00",
+                "grade9": "$16.51"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4-137",
+    "name": "Skeledirge ex",
+    "number": "137",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952975"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.03",
+                "psa10": "$15.00",
+                "grade9": "$12.63"
+            }
+        }
+    }
+}

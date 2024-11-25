@@ -1,0 +1,25 @@
+{
+    "id": "gym1-110",
+    "name": "Erika's Perfume",
+    "number": "110",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762109",
+        "1st-edition": "2156420"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$40.87",
+                "grade9": "$6.52"
+            },
+            "1st-edition": {
+                "ungraded": "$4.50",
+                "psa10": "$75.00",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-70",
+    "name": "Toxtricity V",
+    "number": "70",
+    "setId": "swsh2",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "886799"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.84",
+                "psa10": "$26.00",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

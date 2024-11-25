@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-80",
+    "name": "Haunter",
+    "number": "80",
+    "setId": "ecard1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842458",
+        "reverse-holo": "2266933"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.37",
+                "psa10": "$59.99",
+                "grade9": "$35.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.93",
+                "psa10": "$244.00",
+                "grade9": "$64.38"
+            }
+        }
+    }
+}

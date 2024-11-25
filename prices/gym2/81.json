@@ -1,0 +1,25 @@
+{
+    "id": "gym2-81",
+    "name": "Koga's Tangela",
+    "number": "81",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762283",
+        "1st-edition": "1450275"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$30.09",
+                "grade9": "$17.51"
+            },
+            "1st-edition": {
+                "ungraded": "$3.00",
+                "psa10": "$45.00",
+                "grade9": "$18.17"
+            }
+        }
+    }
+}

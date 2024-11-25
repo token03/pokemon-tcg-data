@@ -1,0 +1,25 @@
+{
+    "id": "bw5-20",
+    "name": "Larvesta",
+    "number": "20",
+    "setId": "bw5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956066",
+        "reverse-holo": "956177"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

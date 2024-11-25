@@ -1,0 +1,25 @@
+{
+    "id": "sm12-182",
+    "name": "Bewear",
+    "number": "182",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964420",
+        "reverse-holo": "964675"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$35.09",
+                "grade9": "$12.85"
+            }
+        }
+    }
+}

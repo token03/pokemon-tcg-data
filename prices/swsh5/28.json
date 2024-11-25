@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-28",
+    "name": "Salazzle",
+    "number": "28",
+    "setId": "swsh5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1673209",
+        "reverse-holo": "1725012"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$34.57",
+                "grade9": "$12.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$35.72",
+                "grade9": "$12.72"
+            }
+        }
+    }
+}

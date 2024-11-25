@@ -1,0 +1,25 @@
+{
+    "id": "ex15-21",
+    "name": "Quagsire \u03b4",
+    "number": "21",
+    "setId": "ex15",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889495",
+        "reverse-holo": "889596"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$83.84",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.80",
+                "psa10": "$200.00",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

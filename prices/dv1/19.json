@@ -1,0 +1,19 @@
+{
+    "id": "dv1-19",
+    "name": "First Ticket",
+    "number": "19",
+    "setId": "dv1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "956512"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.82",
+                "psa10": "$53.74",
+                "grade9": "$30.63"
+            }
+        }
+    }
+}

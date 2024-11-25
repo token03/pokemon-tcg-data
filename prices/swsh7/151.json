@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-151",
+    "name": "Moon & Sun Badge",
+    "number": "151",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512962",
+        "reverse-holo": "2513165"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$34.84",
+                "grade9": "$12.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "$36.09",
+                "grade9": "$12.71"
+            }
+        }
+    }
+}

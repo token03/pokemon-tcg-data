@@ -1,0 +1,25 @@
+{
+    "id": "neo3-34",
+    "name": "Octillery",
+    "number": "34",
+    "setId": "neo3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762520",
+        "1st-edition": "2427424"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$41.95",
+                "grade9": "$35.22"
+            },
+            "1st-edition": {
+                "ungraded": "$3.49",
+                "psa10": "$51.00",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

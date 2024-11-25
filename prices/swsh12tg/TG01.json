@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG01",
+    "name": "Braixen",
+    "number": "TG01",
+    "setId": "swsh12tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4277089"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$38.13",
+                "grade9": "$11.85"
+            }
+        }
+    }
+}

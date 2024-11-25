@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-97",
+    "name": "Eelektross",
+    "number": "97",
+    "setId": "swsh8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2771126",
+        "reverse-holo": "2771391"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "$34.18",
+                "grade9": "$11.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.64",
+                "psa10": "$36.94",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

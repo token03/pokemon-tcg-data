@@ -1,0 +1,25 @@
+{
+    "id": "pl3-125",
+    "name": "Seel",
+    "number": "125",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287172",
+        "reverse-holo": "1287326"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.38",
+                "psa10": "",
+                "grade9": "$22.70"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw9-97",
+    "name": "Staraptor",
+    "number": "97",
+    "setId": "bw9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957151",
+        "reverse-holo": "957267"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

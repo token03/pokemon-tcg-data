@@ -1,0 +1,25 @@
+{
+    "id": "xy9-56",
+    "name": "Trubbish",
+    "number": "56",
+    "setId": "xy9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959547",
+        "reverse-holo": "959662"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$36.09",
+                "grade9": "$13.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.51",
+                "psa10": "$37.85",
+                "grade9": "$14.63"
+            }
+        }
+    }
+}

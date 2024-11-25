@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-5",
+    "name": "Mamoswine",
+    "number": "5",
+    "setId": "hgss4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "926063",
+        "reverse-holo": "926165"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.27",
+                "psa10": "$89.99",
+                "grade9": "$25.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.28",
+                "psa10": "$67.40",
+                "grade9": "$27.04"
+            }
+        }
+    }
+}

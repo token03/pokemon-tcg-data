@@ -1,0 +1,19 @@
+{
+    "id": "sv1-241",
+    "name": "Professor's Research (Professor Turo)",
+    "number": "241",
+    "setId": "sv1",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "4934015"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.52",
+                "psa10": "$20.50",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

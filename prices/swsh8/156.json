@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-156",
+    "name": "Gengar V",
+    "number": "156",
+    "setId": "swsh8",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2771185",
+        "prize-pack": "6781821"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$45.98",
+                "grade9": "$22.00"
+            },
+            "prize-pack": {
+                "ungraded": "$12.43",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

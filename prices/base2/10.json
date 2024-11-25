@@ -1,0 +1,31 @@
+{
+    "id": "base2-10",
+    "name": "Scyther",
+    "number": "10",
+    "setId": "base2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643334",
+        "1st-edition": "643382",
+        "no-symbol": "3179680"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.96",
+                "psa10": "$403.00",
+                "grade9": "$66.66"
+            },
+            "1st-edition": {
+                "ungraded": "$38.79",
+                "psa10": "$1,275.96",
+                "grade9": "$201.27"
+            },
+            "no-symbol": {
+                "ungraded": "$29.24",
+                "psa10": "$930.90",
+                "grade9": "$100.00"
+            }
+        }
+    }
+}

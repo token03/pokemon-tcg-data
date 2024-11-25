@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG29",
+    "name": "Pikachu VMAX",
+    "number": "TG29",
+    "setId": "swsh11tg",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "4080781"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.25",
+                "psa10": "$38.37",
+                "grade9": "$16.50"
+            }
+        }
+    }
+}

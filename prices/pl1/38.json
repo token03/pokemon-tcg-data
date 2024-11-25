@@ -1,0 +1,25 @@
+{
+    "id": "pl1-38",
+    "name": "Shaymin",
+    "number": "38",
+    "setId": "pl1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886663",
+        "reverse-holo": "806066"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$169.90",
+                "grade9": "$159.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$70.37",
+                "grade9": "$26.82"
+            }
+        }
+    }
+}

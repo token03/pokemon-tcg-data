@@ -1,0 +1,25 @@
+{
+    "id": "neo4-111",
+    "name": "Shining Raichu",
+    "number": "111",
+    "setId": "neo4",
+    "rarity": "Rare Shining",
+    "priceChartingIds": {
+        "normal": "762642",
+        "1st-edition": "2183382"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$201.36",
+                "psa10": "$747.50",
+                "grade9": "$400.00"
+            },
+            "1st-edition": {
+                "ungraded": "$417.50",
+                "psa10": "$2,201.50",
+                "grade9": "$758.88"
+            }
+        }
+    }
+}

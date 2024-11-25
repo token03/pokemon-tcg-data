@@ -1,0 +1,19 @@
+{
+    "id": "sm12-255",
+    "name": "Oricorio-GX",
+    "number": "255",
+    "setId": "sm12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "964493"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.74",
+                "psa10": "$32.53",
+                "grade9": "$19.00"
+            }
+        }
+    }
+}

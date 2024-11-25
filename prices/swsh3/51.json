@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-51",
+    "name": "Mareanie",
+    "number": "51",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887137",
+        "reverse-holo": "887321"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$15.96",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.18",
+                "psa10": "$34.49",
+                "grade9": "$12.29"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex15-54",
+    "name": "Mareep \u03b4",
+    "number": "54",
+    "setId": "ex15",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889528",
+        "reverse-holo": "889629"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$70.15",
+                "grade9": "$9.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.74",
+                "psa10": "$90.00",
+                "grade9": "$22.26"
+            }
+        }
+    }
+}

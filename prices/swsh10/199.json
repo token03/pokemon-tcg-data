@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-199",
+    "name": "Adaman",
+    "number": "199",
+    "setId": "swsh10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3489699"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.44",
+                "psa10": "$26.36",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

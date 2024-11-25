@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-75",
+    "name": "Shadow Rider Calyrex VMAX",
+    "number": "75",
+    "setId": "swsh6",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "2253880"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$26.73",
+                "grade9": "$10.25"
+            }
+        }
+    }
+}

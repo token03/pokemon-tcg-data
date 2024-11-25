@@ -1,0 +1,25 @@
+{
+    "id": "sm3-29",
+    "name": "Horsea",
+    "number": "29",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960813",
+        "reverse-holo": "960978"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.39",
+                "grade9": "$12.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$25.00",
+                "grade9": "$2.25"
+            }
+        }
+    }
+}

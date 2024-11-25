@@ -1,0 +1,19 @@
+{
+    "id": "sm10-57",
+    "name": "Dedenne-GX",
+    "number": "57",
+    "setId": "sm10",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963213"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$31.51",
+                "grade9": "$19.00"
+            }
+        }
+    }
+}

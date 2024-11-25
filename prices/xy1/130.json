@@ -1,0 +1,25 @@
+{
+    "id": "xy1-130",
+    "name": "Double Colorless Energy",
+    "number": "130",
+    "setId": "xy1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806623",
+        "reverse-holo": "806747"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.44",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

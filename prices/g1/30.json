@@ -1,0 +1,25 @@
+{
+    "id": "g1-30",
+    "name": "Zubat",
+    "number": "30",
+    "setId": "g1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959742",
+        "reverse-holo": "2975523"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$16.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "$30.00",
+                "grade9": ""
+            }
+        }
+    }
+}

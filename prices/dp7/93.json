@@ -1,0 +1,25 @@
+{
+    "id": "dp7-93",
+    "name": "Switch",
+    "number": "93",
+    "setId": "dp7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925878",
+        "reverse-holo": "925392"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.53",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

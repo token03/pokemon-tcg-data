@@ -1,0 +1,25 @@
+{
+    "id": "gym2-60",
+    "name": "Blaine's Charmander",
+    "number": "60",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762266",
+        "1st-edition": "1450254"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.69",
+                "psa10": "$41.36",
+                "grade9": "$20.99"
+            },
+            "1st-edition": {
+                "ungraded": "$10.36",
+                "psa10": "$99.50",
+                "grade9": "$43.66"
+            }
+        }
+    }
+}

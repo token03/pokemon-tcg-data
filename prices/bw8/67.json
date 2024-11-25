@@ -1,0 +1,25 @@
+{
+    "id": "bw8-67",
+    "name": "Garbodor",
+    "number": "67",
+    "setId": "bw8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956866",
+        "reverse-holo": "956998"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.40",
+                "psa10": "$48.95",
+                "grade9": "$19.75"
+            }
+        }
+    }
+}

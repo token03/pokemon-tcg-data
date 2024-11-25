@@ -1,0 +1,25 @@
+{
+    "id": "sm115-33",
+    "name": "Geodude",
+    "number": "33",
+    "setId": "sm115",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964053",
+        "reverse-holo": "964210"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.88",
+                "psa10": "$15.74",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$19.38",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

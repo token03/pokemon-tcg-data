@@ -1,0 +1,25 @@
+{
+    "id": "dp7-23",
+    "name": "Roserade",
+    "number": "23",
+    "setId": "dp7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925236",
+        "reverse-holo": "925324"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.80",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

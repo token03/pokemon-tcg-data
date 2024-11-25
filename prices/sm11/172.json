@@ -1,0 +1,25 @@
+{
+    "id": "sm11-172",
+    "name": "Bibarel",
+    "number": "172",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963738",
+        "reverse-holo": "963979"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.98",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

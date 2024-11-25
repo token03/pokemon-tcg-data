@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-126",
+    "name": "Ponyta",
+    "number": "126",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842500",
+        "reverse-holo": "2266979"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.70",
+                "psa10": "$22.19",
+                "grade9": "$16.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.00",
+                "psa10": "$95.75",
+                "grade9": "$43.52"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-94",
+    "name": "Moomoo Milk",
+    "number": "94",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806205",
+        "reverse-holo": "806312"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$52.76",
+                "grade9": "$19.98"
+            }
+        }
+    }
+}

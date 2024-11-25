@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-54",
+    "name": "Meganium",
+    "number": "54",
+    "setId": "ecard1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887899",
+        "reverse-holo": "2266907"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.93",
+                "psa10": "$52.92",
+                "grade9": "$29.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.52",
+                "psa10": "$164.05",
+                "grade9": "$44.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-155",
+    "name": "Big Air Balloon",
+    "number": "155",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809536",
+        "reverse-holo": "5809734"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$35.78",
+                "grade9": "$11.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.83",
+                "psa10": "$36.93",
+                "grade9": "$12.10"
+            }
+        }
+    }
+}

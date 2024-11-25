@@ -1,0 +1,19 @@
+{
+    "id": "hgss1-110",
+    "name": "Typhlosion",
+    "number": "110",
+    "setId": "hgss1",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "886675"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.09",
+                "psa10": "$176.00",
+                "grade9": "$72.44"
+            }
+        }
+    }
+}

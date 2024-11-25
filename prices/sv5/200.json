@@ -1,0 +1,19 @@
+{
+    "id": "sv5-200",
+    "name": "Explorer's Guidance",
+    "number": "200",
+    "setId": "sv5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6495660"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.75",
+                "psa10": "$60.25",
+                "grade9": "$7.99"
+            }
+        }
+    }
+}

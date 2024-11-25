@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-57",
+    "name": "Magnezone VSTAR",
+    "number": "57",
+    "setId": "swsh11",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4049974"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$20.38",
+                "grade9": "$9.58"
+            }
+        }
+    }
+}

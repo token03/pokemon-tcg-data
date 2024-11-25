@@ -1,0 +1,25 @@
+{
+    "id": "neo4-55",
+    "name": "Scyther",
+    "number": "55",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762635",
+        "1st-edition": "2183375"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.73",
+                "psa10": "$83.25",
+                "grade9": "$19.01"
+            },
+            "1st-edition": {
+                "ungraded": "$10.75",
+                "psa10": "$81.00",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

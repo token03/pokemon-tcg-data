@@ -1,0 +1,19 @@
+{
+    "id": "sv3-82",
+    "name": "Clefable ex",
+    "number": "82",
+    "setId": "sv3",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5605600"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.21",
+                "psa10": "$18.96",
+                "grade9": "$8.55"
+            }
+        }
+    }
+}

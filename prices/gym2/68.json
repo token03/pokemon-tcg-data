@@ -1,0 +1,25 @@
+{
+    "id": "gym2-68",
+    "name": "Brock's Geodude",
+    "number": "68",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762274",
+        "1st-edition": "1450262"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$33.15",
+                "grade9": "$14.09"
+            },
+            "1st-edition": {
+                "ungraded": "$3.63",
+                "psa10": "$42.60",
+                "grade9": "$18.50"
+            }
+        }
+    }
+}

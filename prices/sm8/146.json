@@ -1,0 +1,25 @@
+{
+    "id": "sm8-146",
+    "name": "Ribombee",
+    "number": "146",
+    "setId": "sm8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962534",
+        "reverse-holo": "962756"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$19.99",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.04",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

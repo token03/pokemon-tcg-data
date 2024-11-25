@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-26",
+    "name": "Rapidash",
+    "number": "26",
+    "setId": "ecard1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842442",
+        "reverse-holo": "2266881"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$31.00",
+                "psa10": "$410.52",
+                "grade9": "$81.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$16.38",
+                "psa10": "$206.25",
+                "grade9": "$31.57"
+            }
+        }
+    }
+}

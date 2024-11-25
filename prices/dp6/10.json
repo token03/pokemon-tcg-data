@@ -1,0 +1,25 @@
+{
+    "id": "dp6-10",
+    "name": "Metagross",
+    "number": "10",
+    "setId": "dp6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "924941",
+        "reverse-holo": "925087"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.98",
+                "psa10": "$80.10",
+                "grade9": "$67.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.18",
+                "psa10": "$104.79",
+                "grade9": "$40.41"
+            }
+        }
+    }
+}

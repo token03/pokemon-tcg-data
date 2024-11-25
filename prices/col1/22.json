@@ -1,0 +1,25 @@
+{
+    "id": "col1-22",
+    "name": "Umbreon",
+    "number": "22",
+    "setId": "col1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "926273",
+        "reverse-holo": "926379"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.00",
+                "psa10": "$2,482.99",
+                "grade9": "$180.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$26.75",
+                "psa10": "$798.00",
+                "grade9": "$94.15"
+            }
+        }
+    }
+}

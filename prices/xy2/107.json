@@ -1,0 +1,19 @@
+{
+    "id": "xy2-107",
+    "name": "M Charizard-EX",
+    "number": "107",
+    "setId": "xy2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "957854"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$40.14",
+                "psa10": "$1,362.21",
+                "grade9": "$169.39"
+            }
+        }
+    }
+}

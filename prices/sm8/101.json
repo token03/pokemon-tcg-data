@@ -1,0 +1,25 @@
+{
+    "id": "sm8-101",
+    "name": "Litwick",
+    "number": "101",
+    "setId": "sm8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962489",
+        "reverse-holo": "962715"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.00",
+                "grade9": "$12.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

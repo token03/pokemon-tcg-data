@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-34",
+    "name": "Slowking",
+    "number": "34",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842561",
+        "reverse-holo": "2293925"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.89",
+                "psa10": "$59.99",
+                "grade9": "$38.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.73",
+                "psa10": "$436.38",
+                "grade9": "$49.49"
+            }
+        }
+    }
+}

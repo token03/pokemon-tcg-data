@@ -1,0 +1,25 @@
+{
+    "id": "sm11-182",
+    "name": "Oranguru",
+    "number": "182",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963748",
+        "reverse-holo": "963989"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

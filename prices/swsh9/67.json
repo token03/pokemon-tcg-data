@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-67",
+    "name": "Dedenne",
+    "number": "67",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188291",
+        "reverse-holo": "3219423"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.49",
+                "grade9": "$11.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.97",
+                "grade9": "$11.63"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-19",
+    "name": "Lucario",
+    "number": "19",
+    "setId": "hgss2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287361",
+        "reverse-holo": "1287457"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$89.95",
+                "grade9": "$20.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.10",
+                "psa10": "$192.13",
+                "grade9": "$65.00"
+            }
+        }
+    }
+}

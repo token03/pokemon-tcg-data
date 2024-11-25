@@ -1,0 +1,25 @@
+{
+    "id": "dp3-29",
+    "name": "Golem",
+    "number": "29",
+    "setId": "dp3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920919",
+        "reverse-holo": "921051"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.17",
+                "psa10": "$64.25",
+                "grade9": "$23.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.11",
+                "psa10": "$110.73",
+                "grade9": "$17.20"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex11-71",
+    "name": "Holon's Voltorb",
+    "number": "71",
+    "setId": "ex11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888733",
+        "reverse-holo": "888847"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$62.00",
+                "grade9": "$51.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.89",
+                "psa10": "$179.66",
+                "grade9": "$28.49"
+            }
+        }
+    }
+}

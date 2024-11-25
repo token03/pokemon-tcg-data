@@ -1,0 +1,19 @@
+{
+    "id": "bw1-113",
+    "name": "Reshiram",
+    "number": "113",
+    "setId": "bw1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "886698"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.80",
+                "psa10": "$431.73",
+                "grade9": "$71.59"
+            }
+        }
+    }
+}

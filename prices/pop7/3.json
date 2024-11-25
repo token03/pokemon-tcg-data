@@ -1,0 +1,25 @@
+{
+    "id": "pop7-3",
+    "name": "Latias",
+    "number": "3",
+    "setId": "pop7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762809",
+        "holo": "762826"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.36",
+                "psa10": "$117.50",
+                "grade9": "$40.05"
+            },
+            "holo": {
+                "ungraded": "$6.70",
+                "psa10": "$1,750.00",
+                "grade9": "$76.27"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv3-136",
+    "name": "Darkrai",
+    "number": "136",
+    "setId": "sv3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5605654",
+        "reverse-holo": "5605877"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.79",
+                "psa10": "$37.03",
+                "grade9": "$9.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "$35.44",
+                "grade9": "$11.69"
+            }
+        }
+    }
+}

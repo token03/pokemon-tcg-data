@@ -1,0 +1,25 @@
+{
+    "id": "gym1-67",
+    "name": "Brock's Mankey",
+    "number": "67",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762183",
+        "1st-edition": "2156503"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$33.00",
+                "grade9": "$8.93"
+            },
+            "1st-edition": {
+                "ungraded": "$2.78",
+                "psa10": "$30.98",
+                "grade9": "$15.47"
+            }
+        }
+    }
+}

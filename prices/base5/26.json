@@ -1,0 +1,25 @@
+{
+    "id": "base5-26",
+    "name": "Dark Hypno",
+    "number": "26",
+    "setId": "base5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341831",
+        "1st-edition": "1341368"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.53",
+                "psa10": "$51.83",
+                "grade9": "$45.26"
+            },
+            "1st-edition": {
+                "ungraded": "$9.23",
+                "psa10": "$83.98",
+                "grade9": "$32.97"
+            }
+        }
+    }
+}

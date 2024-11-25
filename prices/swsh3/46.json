@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-46",
+    "name": "Vanillish",
+    "number": "46",
+    "setId": "swsh3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887132",
+        "reverse-holo": "887316"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.51",
+                "psa10": "$35.74",
+                "grade9": "$12.94"
+            }
+        }
+    }
+}

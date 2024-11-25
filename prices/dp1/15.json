@@ -1,0 +1,25 @@
+{
+    "id": "dp1-15",
+    "name": "Skuntank",
+    "number": "15",
+    "setId": "dp1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "763051",
+        "reverse-holo": "763173"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.57",
+                "psa10": "$41.00",
+                "grade9": "$33.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.10",
+                "psa10": "$49.99",
+                "grade9": "$18.44"
+            }
+        }
+    }
+}

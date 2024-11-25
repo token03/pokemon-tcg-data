@@ -1,0 +1,25 @@
+{
+    "id": "pl3-81",
+    "name": "Roserade",
+    "number": "81",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287128",
+        "reverse-holo": "1287282"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.80",
+                "psa10": "",
+                "grade9": "$18.52"
+            }
+        }
+    }
+}

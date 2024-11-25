@@ -1,0 +1,25 @@
+{
+    "id": "dp7-34",
+    "name": "Dusclops",
+    "number": "34",
+    "setId": "dp7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925247",
+        "reverse-holo": "925334"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.35",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.08",
+                "psa10": "",
+                "grade9": "$54.88"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4-140",
+    "name": "Altaria ex",
+    "number": "140",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952978"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.99",
+                "psa10": "$38.04",
+                "grade9": "$12.37"
+            }
+        }
+    }
+}

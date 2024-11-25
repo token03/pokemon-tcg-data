@@ -1,0 +1,25 @@
+{
+    "id": "ex11-84",
+    "name": "Staryu",
+    "number": "84",
+    "setId": "ex11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888746",
+        "reverse-holo": "888860"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$49.00",
+                "grade9": "$24.71"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.80",
+                "psa10": "$183.50",
+                "grade9": "$29.02"
+            }
+        }
+    }
+}

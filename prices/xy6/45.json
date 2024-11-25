@@ -1,0 +1,25 @@
+{
+    "id": "xy6-45",
+    "name": "Togekiss",
+    "number": "45",
+    "setId": "xy6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958868",
+        "reverse-holo": "958975"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.84",
+                "psa10": "$40.77",
+                "grade9": "$16.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$41.51",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

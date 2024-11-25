@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-74",
+    "name": "Trapinch",
+    "number": "74",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188298",
+        "reverse-holo": "3219428"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.53",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.53",
+                "psa10": "$36.17",
+                "grade9": "$17.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy3-54",
+    "name": "Lucario-EX",
+    "number": "54",
+    "setId": "xy3",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958037"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.30",
+                "psa10": "$70.69",
+                "grade9": "$43.00"
+            }
+        }
+    }
+}

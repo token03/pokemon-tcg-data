@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-142",
+    "name": "Snorlax VMAX",
+    "number": "142",
+    "setId": "swsh1",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "jumbo": "6009634",
+        "normal": "807280"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "jumbo": {
+                "ungraded": "$9.07",
+                "psa10": "$15.00",
+                "grade9": ""
+            },
+            "normal": {
+                "ungraded": "$13.58",
+                "psa10": "$59.97",
+                "grade9": "$30.70"
+            }
+        }
+    }
+}

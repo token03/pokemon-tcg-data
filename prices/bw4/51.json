@@ -1,0 +1,25 @@
+{
+    "id": "bw4-51",
+    "name": "Zekrom-EX",
+    "number": "51",
+    "setId": "bw4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "955903",
+        "reverse-holo": "956003"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.96",
+                "psa10": "$87.05",
+                "grade9": "$22.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.31",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv4-60",
+    "name": "Plusle",
+    "number": "60",
+    "setId": "sv4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5952897",
+        "reverse-holo": "5953159"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$35.25",
+                "grade9": "$11.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$34.74",
+                "grade9": "$7.50"
+            }
+        }
+    }
+}

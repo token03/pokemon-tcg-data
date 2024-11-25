@@ -1,0 +1,19 @@
+{
+    "id": "dp2-121",
+    "name": "Electivire LV.X",
+    "number": "121",
+    "setId": "dp2",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "920745"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.99",
+                "psa10": "$353.64",
+                "grade9": "$180.63"
+            }
+        }
+    }
+}

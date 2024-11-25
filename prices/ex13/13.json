@@ -1,0 +1,25 @@
+{
+    "id": "ex13-13",
+    "name": "Omastar \u03b4",
+    "number": "13",
+    "setId": "ex13",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889093",
+        "reverse-holo": "889204"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.48",
+                "psa10": "$120.00",
+                "grade9": "$22.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.88",
+                "psa10": "$161.73",
+                "grade9": "$39.96"
+            }
+        }
+    }
+}

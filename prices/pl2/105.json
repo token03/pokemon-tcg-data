@@ -1,0 +1,19 @@
+{
+    "id": "pl2-105",
+    "name": "Flygon LV.X",
+    "number": "105",
+    "setId": "pl2",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925501"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$28.39",
+                "psa10": "$2,392.48",
+                "grade9": "$123.99"
+            }
+        }
+    }
+}

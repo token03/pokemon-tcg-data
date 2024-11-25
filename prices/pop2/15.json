@@ -1,0 +1,19 @@
+{
+    "id": "pop2-15",
+    "name": "Phanpy",
+    "number": "15",
+    "setId": "pop2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762703"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$34.00",
+                "grade9": "$28.24"
+            }
+        }
+    }
+}

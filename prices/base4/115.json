@@ -1,0 +1,19 @@
+{
+    "id": "base4-115",
+    "name": "Pok\u00e9dex",
+    "number": "115",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641917"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$25.53",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

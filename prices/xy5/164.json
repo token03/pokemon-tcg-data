@@ -1,0 +1,19 @@
+{
+    "id": "xy5-164",
+    "name": "Weakness Policy",
+    "number": "164",
+    "setId": "xy5",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "958621"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.64",
+                "psa10": "$217.50",
+                "grade9": "$18.81"
+            }
+        }
+    }
+}

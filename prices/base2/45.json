@@ -1,0 +1,25 @@
+{
+    "id": "base2-45",
+    "name": "Rhydon",
+    "number": "45",
+    "setId": "base2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643332",
+        "1st-edition": "643380"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "$58.69",
+                "grade9": "$19.95"
+            },
+            "1st-edition": {
+                "ungraded": "$3.50",
+                "psa10": "$94.67",
+                "grade9": "$24.78"
+            }
+        }
+    }
+}

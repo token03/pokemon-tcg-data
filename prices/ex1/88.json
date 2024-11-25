@@ -1,0 +1,25 @@
+{
+    "id": "ex1-88",
+    "name": "Pok\u00e9Nav",
+    "number": "88",
+    "setId": "ex1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762941",
+        "reverse-holo": "763023"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "",
+                "grade9": "$2.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.37",
+                "psa10": "$134.00",
+                "grade9": "$111.29"
+            }
+        }
+    }
+}

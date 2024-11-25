@@ -1,0 +1,25 @@
+{
+    "id": "ex10-36",
+    "name": "Clefable",
+    "number": "36",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888456",
+        "reverse-holo": "888598"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.51",
+                "psa10": "$125.35",
+                "grade9": "$20.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.04",
+                "psa10": "$99.99",
+                "grade9": "$32.60"
+            }
+        }
+    }
+}

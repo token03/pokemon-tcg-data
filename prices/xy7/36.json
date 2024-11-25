@@ -1,0 +1,19 @@
+{
+    "id": "xy7-36",
+    "name": "Hoopa-EX",
+    "number": "36",
+    "setId": "xy7",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959055"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.13",
+                "psa10": "$29.41",
+                "grade9": "$22.34"
+            }
+        }
+    }
+}

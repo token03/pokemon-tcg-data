@@ -1,0 +1,19 @@
+{
+    "id": "swsh35-72",
+    "name": "Grapploct V",
+    "number": "72",
+    "setId": "swsh35",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887499"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$16.52",
+                "grade9": "$15.62"
+            }
+        }
+    }
+}

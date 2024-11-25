@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-88",
+    "name": "Wooper",
+    "number": "88",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806199",
+        "reverse-holo": "806306"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$49.62",
+                "grade9": "$18.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.40",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

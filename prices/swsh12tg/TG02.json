@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG02",
+    "name": "Milotic",
+    "number": "TG02",
+    "setId": "swsh12tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4277090"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$42.50",
+                "grade9": "$12.23"
+            }
+        }
+    }
+}

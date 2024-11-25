@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-103",
+    "name": "Dolliv",
+    "number": "103",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277021"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.81",
+                "psa10": "$13.05",
+                "grade9": "$8.05"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp3-116",
+    "name": "Venonat",
+    "number": "116",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921006",
+        "reverse-holo": "921138"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

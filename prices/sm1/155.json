@@ -1,0 +1,19 @@
+{
+    "id": "sm1-155",
+    "name": "Solgaleo-GX",
+    "number": "155",
+    "setId": "sm1",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2573464"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.90",
+                "psa10": "$54.61",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

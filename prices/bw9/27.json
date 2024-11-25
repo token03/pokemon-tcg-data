@@ -1,0 +1,25 @@
+{
+    "id": "bw9-27",
+    "name": "Vanillite",
+    "number": "27",
+    "setId": "bw9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957082",
+        "reverse-holo": "957201"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

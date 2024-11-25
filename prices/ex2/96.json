@@ -1,0 +1,19 @@
+{
+    "id": "ex2-96",
+    "name": "Gardevoir ex",
+    "number": "96",
+    "setId": "ex2",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849284"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$35.82",
+                "psa10": "$700.00",
+                "grade9": "$125.00"
+            }
+        }
+    }
+}

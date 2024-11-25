@@ -1,0 +1,25 @@
+{
+    "id": "xy12-17",
+    "name": "Growlithe",
+    "number": "17",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960305",
+        "reverse-holo": "960404"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.33",
+                "psa10": "$81.69",
+                "grade9": "$18.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$35.00",
+                "grade9": "$12.77"
+            }
+        }
+    }
+}

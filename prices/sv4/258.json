@@ -1,0 +1,19 @@
+{
+    "id": "sv4-258",
+    "name": "Rika",
+    "number": "258",
+    "setId": "sv4",
+    "rarity": "Special Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953097"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.97",
+                "psa10": "$41.36",
+                "grade9": "$11.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm5-62",
+    "name": "Lunala \u25c7",
+    "number": "62",
+    "setId": "sm5",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "961425"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.78",
+                "psa10": "$42.66",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

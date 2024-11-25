@@ -1,0 +1,25 @@
+{
+    "id": "sm2-129",
+    "name": "Multi Switch",
+    "number": "129",
+    "setId": "sm2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960626",
+        "reverse-holo": "960783"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.01",
+                "psa10": "$34.49",
+                "grade9": "$12.71"
+            }
+        }
+    }
+}

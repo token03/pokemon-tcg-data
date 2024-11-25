@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-151",
+    "name": "Natu",
+    "number": "151",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277070"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.09",
+                "psa10": "$34.45",
+                "grade9": "$10.36"
+            }
+        }
+    }
+}

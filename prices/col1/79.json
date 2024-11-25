@@ -1,0 +1,25 @@
+{
+    "id": "col1-79",
+    "name": "Interviewer's Questions",
+    "number": "79",
+    "setId": "col1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926330",
+        "reverse-holo": "926436"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$61.23",
+                "grade9": "$24.42"
+            }
+        }
+    }
+}

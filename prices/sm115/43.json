@@ -1,0 +1,25 @@
+{
+    "id": "sm115-43",
+    "name": "Mr. Mime",
+    "number": "43",
+    "setId": "sm115",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964063",
+        "reverse-holo": "964218"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$26.67",
+                "grade9": "$13.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "$24.99",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

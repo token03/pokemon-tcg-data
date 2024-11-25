@@ -1,0 +1,25 @@
+{
+    "id": "sv3-19",
+    "name": "Smoliv",
+    "number": "19",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605537",
+        "reverse-holo": "5605775"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.47",
+                "psa10": "$32.26",
+                "grade9": "$10.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.91",
+                "psa10": "$38.16",
+                "grade9": "$12.53"
+            }
+        }
+    }
+}

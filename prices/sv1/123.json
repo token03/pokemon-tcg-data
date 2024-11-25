@@ -1,0 +1,25 @@
+{
+    "id": "sv1-123",
+    "name": "Great Tusk ex",
+    "number": "123",
+    "setId": "sv1",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "play": "5732823",
+        "normal": "4933898"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "play": {
+                "ungraded": "$9.24",
+                "psa10": "",
+                "grade9": ""
+            },
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$13.51",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

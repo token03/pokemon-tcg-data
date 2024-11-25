@@ -1,0 +1,25 @@
+{
+    "id": "xy3-62",
+    "name": "Tyrantrum",
+    "number": "62",
+    "setId": "xy3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958045",
+        "reverse-holo": "958153"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$54.40",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "$71.00",
+                "grade9": "$24.20"
+            }
+        }
+    }
+}

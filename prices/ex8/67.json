@@ -1,0 +1,25 @@
+{
+    "id": "ex8-67",
+    "name": "Nincada",
+    "number": "67",
+    "setId": "ex8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888087",
+        "reverse-holo": "888195"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.71",
+                "psa10": "$66.34",
+                "grade9": "$11.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.61",
+                "psa10": "$129.21",
+                "grade9": "$34.93"
+            }
+        }
+    }
+}

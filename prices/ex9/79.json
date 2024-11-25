@@ -1,0 +1,25 @@
+{
+    "id": "ex9-79",
+    "name": "Mr. Stone's Project",
+    "number": "79",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888304",
+        "reverse-holo": "888411"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.39",
+                "psa10": "",
+                "grade9": "$35.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.49",
+                "psa10": "$114.00",
+                "grade9": "$94.99"
+            }
+        }
+    }
+}

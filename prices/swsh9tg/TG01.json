@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG01",
+    "name": "Flareon",
+    "number": "TG01",
+    "setId": "swsh9tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3216311"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.96",
+                "psa10": "$80.00",
+                "grade9": "$11.80"
+            }
+        }
+    }
+}

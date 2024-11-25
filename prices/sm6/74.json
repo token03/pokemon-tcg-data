@@ -1,0 +1,19 @@
+{
+    "id": "sm6-74",
+    "name": "Diancie \u25c7",
+    "number": "74",
+    "setId": "sm6",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "961737"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.80",
+                "psa10": "$32.50",
+                "grade9": "$16.66"
+            }
+        }
+    }
+}

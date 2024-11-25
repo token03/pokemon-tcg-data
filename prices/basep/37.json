@@ -1,0 +1,25 @@
+{
+    "id": "basep-37",
+    "name": "Hitmontop",
+    "number": "37",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "845039",
+        "staff": "4653875"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.10",
+                "psa10": "$987.42",
+                "grade9": "$99.88"
+            },
+            "staff": {
+                "ungraded": "$138.58",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

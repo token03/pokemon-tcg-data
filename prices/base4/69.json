@@ -1,0 +1,19 @@
+{
+    "id": "base4-69",
+    "name": "Charmander",
+    "number": "69",
+    "setId": "base4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "641872"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "$60.00",
+                "grade9": "$17.38"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw8-80",
+    "name": "Gurdurr",
+    "number": "80",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956877",
+        "reverse-holo": "957011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.27",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex15-41",
+    "name": "Togepi \u03b4",
+    "number": "41",
+    "setId": "ex15",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889515",
+        "reverse-holo": "889616"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.21",
+                "psa10": "$171.00",
+                "grade9": "$23.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.36",
+                "psa10": "$132.99",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

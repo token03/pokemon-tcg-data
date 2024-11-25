@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG57",
+    "name": "Adaman",
+    "number": "GG57",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4637113"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$29.64",
+                "grade9": "$12.74"
+            }
+        }
+    }
+}

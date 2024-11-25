@@ -1,0 +1,25 @@
+{
+    "id": "bw8-75",
+    "name": "Riolu",
+    "number": "75",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956872",
+        "reverse-holo": "957006"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.41",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

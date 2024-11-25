@@ -1,0 +1,31 @@
+{
+    "id": "swsh9-141",
+    "name": "Gloria",
+    "number": "141",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188365",
+        "holo-prize-pack-stamp": "6115086",
+        "reverse-holo": "3219486"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.97",
+                "grade9": "$11.63"
+            },
+            "holo-prize-pack-stamp": {
+                "ungraded": "$2.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$36.09",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

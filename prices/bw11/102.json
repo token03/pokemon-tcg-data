@@ -1,0 +1,25 @@
+{
+    "id": "bw11-102",
+    "name": "Lugia-EX",
+    "number": "102",
+    "setId": "bw11",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "957596",
+        "reverse-holo": "957725"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.37",
+                "psa10": "$315.00",
+                "grade9": "$31.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.07",
+                "psa10": "$80.22",
+                "grade9": "$59.00"
+            }
+        }
+    }
+}

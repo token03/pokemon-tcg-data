@@ -1,0 +1,19 @@
+{
+    "id": "ex4-97",
+    "name": "Jirachi",
+    "number": "97",
+    "setId": "ex4",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "849666"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$32.93",
+                "psa10": "$399.99",
+                "grade9": "$92.95"
+            }
+        }
+    }
+}

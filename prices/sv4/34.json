@@ -1,0 +1,25 @@
+{
+    "id": "sv4-34",
+    "name": "Octillery",
+    "number": "34",
+    "setId": "sv4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5952872",
+        "reverse-holo": "5953137"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$35.25",
+                "grade9": "$11.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.13",
+                "psa10": "$23.50",
+                "grade9": "$5.53"
+            }
+        }
+    }
+}

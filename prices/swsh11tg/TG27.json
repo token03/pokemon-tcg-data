@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG27",
+    "name": "Nessa",
+    "number": "TG27",
+    "setId": "swsh11tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4080779"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.53",
+                "psa10": "$46.63",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

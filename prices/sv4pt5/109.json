@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-109",
+    "name": "Charmander",
+    "number": "109",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277027"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.66",
+                "psa10": "$58.78",
+                "grade9": "$24.50"
+            }
+        }
+    }
+}

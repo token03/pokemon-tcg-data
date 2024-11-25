@@ -1,0 +1,19 @@
+{
+    "id": "sm9-165",
+    "name": "Gengar & Mimikyu-GX",
+    "number": "165",
+    "setId": "sm9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962963"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$266.41",
+                "psa10": "$770.00",
+                "grade9": "$344.00"
+            }
+        }
+    }
+}

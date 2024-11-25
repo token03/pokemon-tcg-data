@@ -1,0 +1,25 @@
+{
+    "id": "ex5-11",
+    "name": "Metagross",
+    "number": "11",
+    "setId": "ex5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849784",
+        "reverse-holo": "849886"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.63",
+                "psa10": "$140.70",
+                "grade9": "$31.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.00",
+                "psa10": "$88.48",
+                "grade9": "$39.88"
+            }
+        }
+    }
+}

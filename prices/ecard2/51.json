@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-51",
+    "name": "Growlithe",
+    "number": "51",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842578",
+        "reverse-holo": "2293942"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.96",
+                "psa10": "$46.00",
+                "grade9": "$35.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$24.83",
+                "psa10": "$694.54",
+                "grade9": "$65.50"
+            }
+        }
+    }
+}

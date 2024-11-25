@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-231",
+    "name": "Crossceiver",
+    "number": "231",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771257",
+        "reverse-holo": "2771513"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.13",
+                "psa10": "$34.46",
+                "grade9": "$11.92"
+            }
+        }
+    }
+}

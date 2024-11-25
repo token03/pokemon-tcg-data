@@ -1,0 +1,25 @@
+{
+    "id": "bw7-109",
+    "name": "Snorlax",
+    "number": "109",
+    "setId": "bw7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956624",
+        "reverse-holo": "956768"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.47",
+                "psa10": "$53.97",
+                "grade9": "$17.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.00",
+                "psa10": "$509.38",
+                "grade9": "$19.09"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw2-60",
+    "name": "Sandile",
+    "number": "60",
+    "setId": "bw2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955486",
+        "reverse-holo": "955583"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "",
+                "grade9": "$11.15"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw7-121",
+    "name": "Herdier",
+    "number": "121",
+    "setId": "bw7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956636",
+        "reverse-holo": "956780"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

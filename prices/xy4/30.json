@@ -1,0 +1,25 @@
+{
+    "id": "xy4-30",
+    "name": "Heliolisk",
+    "number": "30",
+    "setId": "xy4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958223",
+        "reverse-holo": "958343"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.36",
+                "psa10": "$38.42",
+                "grade9": "$14.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

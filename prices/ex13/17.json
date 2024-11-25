@@ -1,0 +1,25 @@
+{
+    "id": "ex13-17",
+    "name": "Vileplume \u03b4",
+    "number": "17",
+    "setId": "ex13",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889097",
+        "reverse-holo": "889208"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.25",
+                "psa10": "$145.29",
+                "grade9": "$29.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.27",
+                "psa10": "$164.88",
+                "grade9": "$60.53"
+            }
+        }
+    }
+}

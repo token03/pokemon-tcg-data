@@ -1,0 +1,25 @@
+{
+    "id": "swsh35-60",
+    "name": "Pok\u00e9mon Center Lady",
+    "number": "60",
+    "setId": "swsh35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887487",
+        "reverse-holo": "887550"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.31",
+                "psa10": "$9.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "$21.50",
+                "grade9": "$7.01"
+            }
+        }
+    }
+}

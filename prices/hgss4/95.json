@@ -1,0 +1,19 @@
+{
+    "id": "hgss4-95",
+    "name": "Machamp",
+    "number": "95",
+    "setId": "hgss4",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "926152"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.79",
+                "psa10": "$207.74",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

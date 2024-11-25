@@ -1,0 +1,25 @@
+{
+    "id": "bw10-24",
+    "name": "Relicanth",
+    "number": "24",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957326",
+        "reverse-holo": "957430"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.08",
+                "psa10": "$46.44",
+                "grade9": "$18.70"
+            }
+        }
+    }
+}

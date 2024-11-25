@@ -1,0 +1,25 @@
+{
+    "id": "g1-80",
+    "name": "Fighting Energy",
+    "number": "80",
+    "setId": "g1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2775141",
+        "reverse-holo": "2775142"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.24",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

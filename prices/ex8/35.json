@@ -1,0 +1,25 @@
+{
+    "id": "ex8-35",
+    "name": "Lotad",
+    "number": "35",
+    "setId": "ex8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888055",
+        "reverse-holo": "888163"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.01",
+                "psa10": "$73.69",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$6.50",
+                "psa10": "$175.21",
+                "grade9": "$47.54"
+            }
+        }
+    }
+}

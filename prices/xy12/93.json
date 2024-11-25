@@ -1,0 +1,25 @@
+{
+    "id": "xy12-93",
+    "name": "Water Energy",
+    "number": "93",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2158340",
+        "reverse-holo": "2775143"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "",
+                "grade9": "$20.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.92",
+                "psa10": "$96.59",
+                "grade9": "$10.37"
+            }
+        }
+    }
+}

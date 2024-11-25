@@ -1,0 +1,25 @@
+{
+    "id": "bw9-92",
+    "name": "Noctowl",
+    "number": "92",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957146",
+        "reverse-holo": "957262"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.19",
+                "psa10": "",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

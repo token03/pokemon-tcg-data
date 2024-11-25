@@ -1,0 +1,19 @@
+{
+    "id": "bw10-99",
+    "name": "Dialga-EX",
+    "number": "99",
+    "setId": "bw10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "957401"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$34.39",
+                "psa10": "$819.88",
+                "grade9": "$155.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-175",
+    "name": "Sandaconda V",
+    "number": "175",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253979"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$17.16",
+                "grade9": "$12.04"
+            }
+        }
+    }
+}

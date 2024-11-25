@@ -1,0 +1,25 @@
+{
+    "id": "sm10-22",
+    "name": "Arcanine",
+    "number": "22",
+    "setId": "sm10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963178",
+        "reverse-holo": "963409"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.36",
+                "psa10": "$89.05",
+                "grade9": "$20.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.24",
+                "psa10": "$63.00",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

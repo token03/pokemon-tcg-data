@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG26",
+    "name": "Melony",
+    "number": "TG26",
+    "setId": "swsh10tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3508418"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.50",
+                "psa10": "$33.98",
+                "grade9": "$14.62"
+            }
+        }
+    }
+}

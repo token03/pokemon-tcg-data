@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-99",
+    "name": "Heliolisk",
+    "number": "99",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771128",
+        "reverse-holo": "2771393"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.08",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

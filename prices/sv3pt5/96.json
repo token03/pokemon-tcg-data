@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-96",
+    "name": "Drowzee",
+    "number": "96",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809477",
+        "reverse-holo": "5809679"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$35.09",
+                "grade9": "$11.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$34.81",
+                "grade9": "$11.46"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ex10-113",
+    "name": "Entei \u2605",
+    "number": "113",
+    "setId": "ex10",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "888532"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$172.50",
+                "psa10": "$1,039.03",
+                "grade9": "$362.50"
+            }
+        }
+    }
+}

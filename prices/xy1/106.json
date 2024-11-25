@@ -1,0 +1,25 @@
+{
+    "id": "xy1-106",
+    "name": "Bidoof",
+    "number": "106",
+    "setId": "xy1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806599",
+        "reverse-holo": "806723"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

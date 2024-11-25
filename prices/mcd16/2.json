@@ -1,0 +1,19 @@
+{
+    "id": "mcd16-2",
+    "name": "Torchic",
+    "number": "2",
+    "setId": "mcd16",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180017"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

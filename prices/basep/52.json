@@ -1,0 +1,31 @@
+{
+    "id": "basep-52",
+    "name": "Ho-oh",
+    "number": "52",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5862199",
+        "pokemon-center-ny": "5830380",
+        "prerelease-staff": "4135767"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.26",
+                "psa10": "$55.99",
+                "grade9": "$16.00"
+            },
+            "pokemon-center-ny": {
+                "ungraded": "$29.99",
+                "psa10": "$95.55",
+                "grade9": "$33.55"
+            },
+            "prerelease-staff": {
+                "ungraded": "$84.53",
+                "psa10": "",
+                "grade9": "$119.99"
+            }
+        }
+    }
+}

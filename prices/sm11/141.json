@@ -1,0 +1,19 @@
+{
+    "id": "sm11-141",
+    "name": "Mawile-GX",
+    "number": "141",
+    "setId": "sm11",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963707"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "$32.10",
+                "grade9": "$7.63"
+            }
+        }
+    }
+}

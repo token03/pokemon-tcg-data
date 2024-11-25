@@ -1,0 +1,25 @@
+{
+    "id": "sm2-128",
+    "name": "Max Potion",
+    "number": "128",
+    "setId": "sm2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960625",
+        "reverse-holo": "960782"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.08",
+                "psa10": "$34.91",
+                "grade9": "$12.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "$37.54",
+                "grade9": "$14.54"
+            }
+        }
+    }
+}

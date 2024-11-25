@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-85",
+    "name": "Sunkern",
+    "number": "85",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806196",
+        "reverse-holo": "806303"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.73",
+                "psa10": "$50.55",
+                "grade9": "$19.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.88",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

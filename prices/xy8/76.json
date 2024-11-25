@@ -1,0 +1,25 @@
+{
+    "id": "xy8-76",
+    "name": "Sandslash",
+    "number": "76",
+    "setId": "xy8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959265",
+        "reverse-holo": "959419"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$36.44",
+                "grade9": "$13.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$38.02",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo4-109",
+    "name": "Shining Mewtwo",
+    "number": "109",
+    "setId": "neo4",
+    "rarity": "Rare Shining",
+    "priceChartingIds": {
+        "normal": "762640",
+        "1st-edition": "2183380"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$255.00",
+                "psa10": "$1,338.87",
+                "grade9": "$662.50"
+            },
+            "1st-edition": {
+                "ungraded": "$700.00",
+                "psa10": "$3,421.90",
+                "grade9": "$1,352.50"
+            }
+        }
+    }
+}

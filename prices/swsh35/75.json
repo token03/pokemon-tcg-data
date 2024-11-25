@@ -1,0 +1,19 @@
+{
+    "id": "swsh35-75",
+    "name": "Drednaw VMAX",
+    "number": "75",
+    "setId": "swsh35",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "887501"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.59",
+                "psa10": "$23.37",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "g1-50",
+    "name": "Clefairy",
+    "number": "50",
+    "setId": "g1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959762",
+        "20th-anniversary": "5205169",
+        "reverse-holo": "2978690",
+        "toys-r-us": "3179767"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.76",
+                "psa10": "$25.56",
+                "grade9": "$14.00"
+            },
+            "20th-anniversary": {
+                "ungraded": "$4.45",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.24",
+                "psa10": "$40.75",
+                "grade9": "$16.34"
+            },
+            "toys-r-us": {
+                "ungraded": "$7.00",
+                "psa10": "$56.26",
+                "grade9": "$14.99"
+            }
+        }
+    }
+}

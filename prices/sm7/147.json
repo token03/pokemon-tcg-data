@@ -1,0 +1,25 @@
+{
+    "id": "sm7-147",
+    "name": "Switch",
+    "number": "147",
+    "setId": "sm7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962060",
+        "reverse-holo": "962228"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sv1-122",
+    "name": "Klawf",
+    "number": "122",
+    "setId": "sv1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "cosmos": "6179699",
+        "holo": "4933897",
+        "reverse-holo": "4934147"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "cosmos": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.00",
+                "psa10": "$34.37",
+                "grade9": "$11.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$35.55",
+                "grade9": "$11.86"
+            }
+        }
+    }
+}

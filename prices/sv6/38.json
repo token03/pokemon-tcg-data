@@ -1,0 +1,25 @@
+{
+    "id": "sv6-38",
+    "name": "Chandelure",
+    "number": "38",
+    "setId": "sv6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6769518",
+        "reverse-holo": "6769741"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$36.24",
+                "grade9": "$11.63"
+            }
+        }
+    }
+}

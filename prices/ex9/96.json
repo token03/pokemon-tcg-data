@@ -1,0 +1,19 @@
+{
+    "id": "ex9-96",
+    "name": "Milotic ex",
+    "number": "96",
+    "setId": "ex9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888321"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$100.00",
+                "psa10": "$3,925.00",
+                "grade9": "$400.00"
+            }
+        }
+    }
+}

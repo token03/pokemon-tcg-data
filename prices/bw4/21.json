@@ -1,0 +1,25 @@
+{
+    "id": "bw4-21",
+    "name": "Reshiram",
+    "number": "21",
+    "setId": "bw4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955873",
+        "reverse-holo": "955975"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "$48.53",
+                "grade9": "$19.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.53",
+                "psa10": "$62.34",
+                "grade9": "$25.76"
+            }
+        }
+    }
+}

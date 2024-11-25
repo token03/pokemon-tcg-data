@@ -1,0 +1,25 @@
+{
+    "id": "bw1-92",
+    "name": "Energy Retrieval",
+    "number": "92",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806398",
+        "reverse-holo": "806485"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$40.83",
+                "grade9": "$1.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.33",
+                "psa10": "$20.35",
+                "grade9": ""
+            }
+        }
+    }
+}

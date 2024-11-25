@@ -1,0 +1,19 @@
+{
+    "id": "sm115-14",
+    "name": "Starmie-GX",
+    "number": "14",
+    "setId": "sm115",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964034"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$26.06",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

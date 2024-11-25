@@ -1,0 +1,31 @@
+{
+    "id": "bw2-53",
+    "name": "Gigalith",
+    "number": "53",
+    "setId": "bw2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955479",
+        "prerelease-staff": "5575751",
+        "reverse-holo": "955576"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.75",
+                "psa10": "$85.42",
+                "grade9": "$6.00"
+            },
+            "prerelease-staff": {
+                "ungraded": "$44.77",
+                "psa10": "",
+                "grade9": "$39.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

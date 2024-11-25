@@ -1,0 +1,19 @@
+{
+    "id": "dp5-99",
+    "name": "Leafeon LV.X",
+    "number": "99",
+    "setId": "dp5",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "921461"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$82.00",
+                "psa10": "$1,242.72",
+                "grade9": "$899.85"
+            }
+        }
+    }
+}

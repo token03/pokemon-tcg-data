@@ -1,0 +1,25 @@
+{
+    "id": "xy9-30",
+    "name": "Suicune",
+    "number": "30",
+    "setId": "xy9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959521",
+        "reverse-holo": "959640"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$87.51",
+                "grade9": "$22.96"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.12",
+                "psa10": "$210.00",
+                "grade9": "$37.31"
+            }
+        }
+    }
+}

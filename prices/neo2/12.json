@@ -1,0 +1,25 @@
+{
+    "id": "neo2-12",
+    "name": "Tyranitar",
+    "number": "12",
+    "setId": "neo2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762456",
+        "1st-edition": "2158479"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$51.49",
+                "psa10": "$383.71",
+                "grade9": "$142.50"
+            },
+            "1st-edition": {
+                "ungraded": "$102.09",
+                "psa10": "$1,650.00",
+                "grade9": "$356.50"
+            }
+        }
+    }
+}

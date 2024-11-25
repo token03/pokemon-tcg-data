@@ -1,0 +1,25 @@
+{
+    "id": "xy6-89",
+    "name": "Sky Field",
+    "number": "89",
+    "setId": "xy6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958912",
+        "reverse-holo": "959011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "$38.57",
+                "grade9": "$14.91"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.27",
+                "psa10": "$42.96",
+                "grade9": "$17.43"
+            }
+        }
+    }
+}

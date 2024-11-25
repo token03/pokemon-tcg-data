@@ -1,0 +1,19 @@
+{
+    "id": "sm8-235",
+    "name": "Spell Tag",
+    "number": "235",
+    "setId": "sm8",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "962623"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.15",
+                "psa10": "$25.30",
+                "grade9": "$14.75"
+            }
+        }
+    }
+}

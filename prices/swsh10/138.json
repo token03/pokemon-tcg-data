@@ -1,0 +1,31 @@
+{
+    "id": "swsh10-138",
+    "name": "Cyllene",
+    "number": "138",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489637",
+        "league-stamp": "6658428",
+        "reverse-holo": "3489831"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$35.22",
+                "grade9": "$12.05"
+            },
+            "league-stamp": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "$34.93",
+                "grade9": "$11.94"
+            }
+        }
+    }
+}

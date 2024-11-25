@@ -1,0 +1,25 @@
+{
+    "id": "base3-9",
+    "name": "Kabutops",
+    "number": "9",
+    "setId": "base3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643418",
+        "1st-edition": "1099503"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.75",
+                "psa10": "$415.09",
+                "grade9": "$63.24"
+            },
+            "1st-edition": {
+                "ungraded": "$31.61",
+                "psa10": "$640.00",
+                "grade9": "$123.32"
+            }
+        }
+    }
+}

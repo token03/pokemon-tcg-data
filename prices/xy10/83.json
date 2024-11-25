@@ -1,0 +1,19 @@
+{
+    "id": "xy10-83",
+    "name": "Altaria-EX",
+    "number": "83",
+    "setId": "xy10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959940"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.34",
+                "psa10": "$40.66",
+                "grade9": "$12.25"
+            }
+        }
+    }
+}

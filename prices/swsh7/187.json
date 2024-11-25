@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-187",
+    "name": "Lycanroc V",
+    "number": "187",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2512997"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.64",
+                "psa10": "$25.95",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG20",
+    "name": "Rapid Strike Urshifu V",
+    "number": "TG20",
+    "setId": "swsh9tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3216321"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.87",
+                "psa10": "$26.82",
+                "grade9": "$18.49"
+            }
+        }
+    }
+}

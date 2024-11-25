@@ -1,0 +1,19 @@
+{
+    "id": "pop4-1",
+    "name": "Chimecho \u03b4",
+    "number": "1",
+    "setId": "pop4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762737"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$300.00",
+                "psa10": "$499.99",
+                "grade9": "$288.28"
+            }
+        }
+    }
+}

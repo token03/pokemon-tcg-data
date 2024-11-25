@@ -1,0 +1,25 @@
+{
+    "id": "sv3-54",
+    "name": "Beartic",
+    "number": "54",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605572",
+        "reverse-holo": "5605807"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.03",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$35.22",
+                "grade9": "$11.62"
+            }
+        }
+    }
+}

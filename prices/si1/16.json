@@ -1,0 +1,19 @@
+{
+    "id": "si1-16",
+    "name": "Lickitung",
+    "number": "16",
+    "setId": "si1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762481"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.25",
+                "psa10": "$60.00",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

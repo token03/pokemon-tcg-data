@@ -1,0 +1,25 @@
+{
+    "id": "xy3-56",
+    "name": "Mienfoo",
+    "number": "56",
+    "setId": "xy3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958039",
+        "reverse-holo": "958147"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.03",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.46",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

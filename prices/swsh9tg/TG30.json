@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG30",
+    "name": "Rapid Strike Urshifu VMAX",
+    "number": "TG30",
+    "setId": "swsh9tg",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "3216329"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$25.50",
+                "grade9": "$12.95"
+            }
+        }
+    }
+}

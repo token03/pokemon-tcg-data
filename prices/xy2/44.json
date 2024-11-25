@@ -1,0 +1,25 @@
+{
+    "id": "xy2-44",
+    "name": "Skrelp",
+    "number": "44",
+    "setId": "xy2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957791",
+        "reverse-holo": "957894"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": "$6.47"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "",
+                "grade9": "$13.50"
+            }
+        }
+    }
+}

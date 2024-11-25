@@ -1,0 +1,31 @@
+{
+    "id": "sm8-47",
+    "name": "Entei",
+    "number": "47",
+    "setId": "sm8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962435",
+        "cracked-ice": "6636078",
+        "reverse-holo": "962666"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.12",
+                "psa10": "$65.93",
+                "grade9": "$32.00"
+            },
+            "cracked-ice": {
+                "ungraded": "$9.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.87",
+                "psa10": "$94.19",
+                "grade9": "$34.95"
+            }
+        }
+    }
+}

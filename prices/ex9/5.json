@@ -1,0 +1,25 @@
+{
+    "id": "ex9-5",
+    "name": "Groudon",
+    "number": "5",
+    "setId": "ex9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888230",
+        "reverse-holo": "888337"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.99",
+                "psa10": "$213.50",
+                "grade9": "$32.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.00",
+                "psa10": "$393.88",
+                "grade9": "$84.99"
+            }
+        }
+    }
+}

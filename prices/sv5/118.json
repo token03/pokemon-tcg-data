@@ -1,0 +1,25 @@
+{
+    "id": "sv5-118",
+    "name": "Iron Treads",
+    "number": "118",
+    "setId": "sv5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6495578",
+        "reverse-holo": "6495785"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$36.01",
+                "grade9": "$11.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$37.23",
+                "grade9": "$11.96"
+            }
+        }
+    }
+}

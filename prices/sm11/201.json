@@ -1,0 +1,25 @@
+{
+    "id": "sm11-201",
+    "name": "Karate Belt",
+    "number": "201",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963767",
+        "reverse-holo": "964008"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "$8.53",
+                "grade9": ""
+            }
+        }
+    }
+}

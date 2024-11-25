@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-28",
+    "name": "Litleo",
+    "number": "28",
+    "setId": "swsh11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4049945",
+        "reverse-holo": "4050161"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "$36.41",
+                "grade9": "$12.39"
+            }
+        }
+    }
+}

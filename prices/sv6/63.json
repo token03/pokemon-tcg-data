@@ -1,0 +1,25 @@
+{
+    "id": "sv6-63",
+    "name": "Walking Wake",
+    "number": "63",
+    "setId": "sv6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6769543",
+        "reverse-holo": "6769765"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "$34.90",
+                "grade9": "$11.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$36.68",
+                "grade9": "$11.74"
+            }
+        }
+    }
+}

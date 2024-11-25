@@ -1,0 +1,19 @@
+{
+    "id": "sm35-77",
+    "name": "Zoroark-GX",
+    "number": "77",
+    "setId": "sm35",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961146"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.94",
+                "psa10": "$51.78",
+                "grade9": "$20.54"
+            }
+        }
+    }
+}

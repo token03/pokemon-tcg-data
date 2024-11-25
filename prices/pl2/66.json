@@ -1,0 +1,25 @@
+{
+    "id": "pl2-66",
+    "name": "Kakuna",
+    "number": "66",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925462",
+        "reverse-holo": "925581"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

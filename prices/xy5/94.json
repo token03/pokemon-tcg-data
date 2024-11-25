@@ -1,0 +1,19 @@
+{
+    "id": "xy5-94",
+    "name": "M Aggron-EX",
+    "number": "94",
+    "setId": "xy5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958551"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.18",
+                "psa10": "$69.02",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

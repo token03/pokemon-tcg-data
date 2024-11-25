@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-198",
+    "name": "Regieleki VMAX",
+    "number": "198",
+    "setId": "swsh12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "4277319"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.74",
+                "psa10": "$22.94",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

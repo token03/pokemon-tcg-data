@@ -1,0 +1,19 @@
+{
+    "id": "sm10-120",
+    "name": "Lucario & Melmetal-GX",
+    "number": "120",
+    "setId": "sm10",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963276"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.21",
+                "psa10": "$44.23",
+                "grade9": "$21.57"
+            }
+        }
+    }
+}

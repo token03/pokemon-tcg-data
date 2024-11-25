@@ -1,0 +1,19 @@
+{
+    "id": "bw6-85",
+    "name": "Rayquaza-EX",
+    "number": "85",
+    "setId": "bw6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956339"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$77.39",
+                "grade9": "$25.50"
+            }
+        }
+    }
+}

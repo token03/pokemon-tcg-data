@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-23",
+    "name": "Cyndaquil",
+    "number": "23",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489521",
+        "reverse-holo": "3489736"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$34.48",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "$35.30",
+                "grade9": "$20.73"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw9-36",
+    "name": "Lanturn",
+    "number": "36",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957091",
+        "reverse-holo": "957211"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

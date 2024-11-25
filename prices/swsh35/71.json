@@ -1,0 +1,19 @@
+{
+    "id": "swsh35-71",
+    "name": "Galarian Cursola V",
+    "number": "71",
+    "setId": "swsh35",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887498"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "$16.40",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

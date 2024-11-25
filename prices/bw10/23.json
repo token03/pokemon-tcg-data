@@ -1,0 +1,25 @@
+{
+    "id": "bw10-23",
+    "name": "Froslass",
+    "number": "23",
+    "setId": "bw10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957325",
+        "reverse-holo": "957429"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "$39.39",
+                "grade9": "$14.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.07",
+                "psa10": "$45.18",
+                "grade9": "$28.00"
+            }
+        }
+    }
+}

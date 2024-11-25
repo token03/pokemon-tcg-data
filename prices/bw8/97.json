@@ -1,0 +1,25 @@
+{
+    "id": "bw8-97",
+    "name": "Clefairy",
+    "number": "97",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956894",
+        "reverse-holo": "957025"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

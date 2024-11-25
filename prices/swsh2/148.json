@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-148",
+    "name": "Hawlucha",
+    "number": "148",
+    "setId": "swsh2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886874",
+        "reverse-holo": "887061"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.95",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$34.90",
+                "grade9": "$12.59"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-170",
+    "name": "Jirachi V",
+    "number": "170",
+    "setId": "swsh10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3489669"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.15",
+                "psa10": "$40.00",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

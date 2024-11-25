@@ -1,0 +1,25 @@
+{
+    "id": "pl1-109",
+    "name": "Looker's Investigation",
+    "number": "109",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "805990",
+        "reverse-holo": "805991"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.93",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

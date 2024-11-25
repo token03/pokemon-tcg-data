@@ -1,0 +1,25 @@
+{
+    "id": "ex9-33",
+    "name": "Kirlia",
+    "number": "33",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888258",
+        "reverse-holo": "888365"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$15.00",
+                "psa10": "$311.53",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

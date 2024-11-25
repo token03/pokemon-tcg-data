@@ -1,0 +1,25 @@
+{
+    "id": "pl3-48",
+    "name": "Zapdos",
+    "number": "48",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287095",
+        "reverse-holo": "1287249"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$70.94",
+                "grade9": "$27.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.01",
+                "psa10": "$299.99",
+                "grade9": "$74.17"
+            }
+        }
+    }
+}

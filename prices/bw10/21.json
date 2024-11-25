@@ -1,0 +1,25 @@
+{
+    "id": "bw10-21",
+    "name": "Snorunt",
+    "number": "21",
+    "setId": "bw10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957323",
+        "reverse-holo": "957427"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

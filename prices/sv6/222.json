@@ -1,0 +1,19 @@
+{
+    "id": "sv6-222",
+    "name": "Bloodmoon Ursaluna ex",
+    "number": "222",
+    "setId": "sv6",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "6769701"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.72",
+                "psa10": "$32.69",
+                "grade9": "$29.37"
+            }
+        }
+    }
+}

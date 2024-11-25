@@ -1,0 +1,25 @@
+{
+    "id": "ex16-28",
+    "name": "Charmeleon",
+    "number": "28",
+    "setId": "ex16",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889692",
+        "reverse-holo": "889800"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.19",
+                "psa10": "$89.29",
+                "grade9": "$34.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.52",
+                "psa10": "$143.34",
+                "grade9": "$40.99"
+            }
+        }
+    }
+}

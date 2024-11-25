@@ -1,0 +1,19 @@
+{
+    "id": "sv1-213",
+    "name": "Fidough",
+    "number": "213",
+    "setId": "sv1",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "4933987"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.88",
+                "psa10": "$43.69",
+                "grade9": "$13.88"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dc1-16",
+    "name": "Team Aqua's Poochyena",
+    "number": "16",
+    "setId": "dc1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958769",
+        "reverse-holo": "2775151"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "$38.40",
+                "grade9": "$14.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.37",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

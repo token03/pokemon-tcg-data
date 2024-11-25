@@ -1,0 +1,25 @@
+{
+    "id": "sm2-116",
+    "name": "Aether Paradise Conservation Area",
+    "number": "116",
+    "setId": "sm2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960613",
+        "reverse-holo": "960770"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

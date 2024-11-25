@@ -1,0 +1,25 @@
+{
+    "id": "pl4-11",
+    "name": "Toxicroak",
+    "number": "11",
+    "setId": "pl4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925630",
+        "reverse-holo": "925741"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$56.84",
+                "grade9": "$21.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

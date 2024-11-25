@@ -1,0 +1,31 @@
+{
+    "id": "dp4-15",
+    "name": "Claydol",
+    "number": "15",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921169",
+        "crosshatch-holo": "6339995",
+        "reverse-holo": "921275"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.07",
+                "psa10": "$15.50",
+                "grade9": "$8.02"
+            },
+            "crosshatch-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "$47.79",
+                "grade9": "$6.65"
+            }
+        }
+    }
+}

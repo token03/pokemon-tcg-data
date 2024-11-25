@@ -1,0 +1,19 @@
+{
+    "id": "hgss4-100",
+    "name": "Darkrai & Cresselia LEGEND",
+    "number": "100",
+    "setId": "hgss4",
+    "rarity": "LEGEND",
+    "priceChartingIds": {
+        "normal": "926157"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$33.32",
+                "psa10": "$310.11",
+                "grade9": "$99.95"
+            }
+        }
+    }
+}

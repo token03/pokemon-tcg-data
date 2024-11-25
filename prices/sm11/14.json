@@ -1,0 +1,25 @@
+{
+    "id": "sm11-14",
+    "name": "Amoonguss",
+    "number": "14",
+    "setId": "sm11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963580",
+        "reverse-holo": "963837"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$35.41",
+                "grade9": "$13.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.03",
+                "psa10": "$15.11",
+                "grade9": ""
+            }
+        }
+    }
+}

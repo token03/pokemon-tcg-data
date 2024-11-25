@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-46",
+    "name": "Radiant Greninja",
+    "number": "46",
+    "setId": "swsh10",
+    "rarity": "Radiant Rare",
+    "priceChartingIds": {
+        "normal": "3489544",
+        "prize-pack": "6166529"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.68",
+                "psa10": "$28.66",
+                "grade9": "$11.97"
+            },
+            "prize-pack": {
+                "ungraded": "$59.53",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

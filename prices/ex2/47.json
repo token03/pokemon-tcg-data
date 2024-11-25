@@ -1,0 +1,25 @@
+{
+    "id": "ex2-47",
+    "name": "Murkrow",
+    "number": "47",
+    "setId": "ex2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849235",
+        "reverse-holo": "849335"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$68.14",
+                "grade9": "$39.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.78",
+                "psa10": "$134.94",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

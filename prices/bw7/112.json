@@ -1,0 +1,25 @@
+{
+    "id": "bw7-112",
+    "name": "Taillow",
+    "number": "112",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956627",
+        "reverse-holo": "956771"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.97",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

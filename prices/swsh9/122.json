@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-122",
+    "name": "Arceus V",
+    "number": "122",
+    "setId": "swsh9",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3188346",
+        "premium-collection": "4286298"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$19.01",
+                "grade9": "$9.00"
+            },
+            "premium-collection": {
+                "ungraded": "$17.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

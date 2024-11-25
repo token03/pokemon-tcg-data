@@ -1,0 +1,25 @@
+{
+    "id": "xy1-119",
+    "name": "Hard Charm",
+    "number": "119",
+    "setId": "xy1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806612",
+        "reverse-holo": "806736"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

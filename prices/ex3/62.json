@@ -1,0 +1,25 @@
+{
+    "id": "ex3-62",
+    "name": "Magnemite",
+    "number": "62",
+    "setId": "ex3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849442",
+        "reverse-holo": "849541"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$51.00",
+                "grade9": "$20.33"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.95",
+                "psa10": "$92.00",
+                "grade9": "$21.00"
+            }
+        }
+    }
+}

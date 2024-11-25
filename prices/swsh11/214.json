@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-214",
+    "name": "Box of Disaster",
+    "number": "214",
+    "setId": "swsh11",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "4050131"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.24",
+                "psa10": "$31.50",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm11-240",
+    "name": "Keldeo-GX",
+    "number": "240",
+    "setId": "sm11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963806"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.99",
+                "psa10": "$45.03",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

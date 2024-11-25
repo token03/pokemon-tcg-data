@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-134",
+    "name": "Hisuian Goodra",
+    "number": "134",
+    "setId": "swsh11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4050051",
+        "reverse-holo": "4050254"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$19.24",
+                "grade9": "$12.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "$36.16",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

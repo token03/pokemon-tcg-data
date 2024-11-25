@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-15",
+    "name": "Armarouge",
+    "number": "15",
+    "setId": "sv4pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6276934",
+        "reverse-holo": "6277178"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$38.29",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.95",
+                "grade9": "$11.67"
+            }
+        }
+    }
+}

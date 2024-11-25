@@ -1,0 +1,25 @@
+{
+    "id": "neo1-13",
+    "name": "Skarmory",
+    "number": "13",
+    "setId": "neo1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762333",
+        "1st-edition": "2324916"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.50",
+                "psa10": "$320.00",
+                "grade9": "$45.00"
+            },
+            "1st-edition": {
+                "ungraded": "$33.99",
+                "psa10": "$554.45",
+                "grade9": "$92.04"
+            }
+        }
+    }
+}

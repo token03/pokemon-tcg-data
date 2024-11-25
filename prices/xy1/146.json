@@ -1,0 +1,19 @@
+{
+    "id": "xy1-146",
+    "name": "Xerneas-EX",
+    "number": "146",
+    "setId": "xy1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "886728"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.75",
+                "psa10": "$72.56",
+                "grade9": "$66.22"
+            }
+        }
+    }
+}

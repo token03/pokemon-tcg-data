@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-1",
+    "name": "Venonat",
+    "number": "1",
+    "setId": "swsh12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4277119",
+        "reverse-holo": "4293754"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$34.22",
+                "grade9": "$11.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "$34.94",
+                "grade9": "$11.78"
+            }
+        }
+    }
+}

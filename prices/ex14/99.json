@@ -1,0 +1,19 @@
+{
+    "id": "ex14-99",
+    "name": "Alakazam \u2605",
+    "number": "99",
+    "setId": "ex14",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "889386"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$294.64",
+                "psa10": "$2,998.67",
+                "grade9": "$994.01"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-116",
+    "name": "Stonjourner VMAX",
+    "number": "116",
+    "setId": "swsh1",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "807286"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$19.89",
+                "grade9": "$14.62"
+            }
+        }
+    }
+}

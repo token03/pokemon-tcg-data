@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-26",
+    "name": "Octillery",
+    "number": "26",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842553",
+        "reverse-holo": "2293917"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.29",
+                "psa10": "$96.00",
+                "grade9": "$80.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.43",
+                "psa10": "$91.00",
+                "grade9": "$28.25"
+            }
+        }
+    }
+}

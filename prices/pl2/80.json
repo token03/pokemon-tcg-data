@@ -1,0 +1,25 @@
+{
+    "id": "pl2-80",
+    "name": "Shellos West Sea",
+    "number": "80",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925476",
+        "reverse-holo": "925595"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.11",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

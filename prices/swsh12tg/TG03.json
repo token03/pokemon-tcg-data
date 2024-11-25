@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG03",
+    "name": "Flaaffy",
+    "number": "TG03",
+    "setId": "swsh12tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4277091"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.78",
+                "psa10": "$27.88",
+                "grade9": "$9.76"
+            }
+        }
+    }
+}

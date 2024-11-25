@@ -1,0 +1,25 @@
+{
+    "id": "sm2-119",
+    "name": "Aqua Patch",
+    "number": "119",
+    "setId": "sm2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960616",
+        "reverse-holo": "960773"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.07",
+                "psa10": "$37.22",
+                "grade9": "$14.35"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "$37.35",
+                "grade9": "$14.43"
+            }
+        }
+    }
+}

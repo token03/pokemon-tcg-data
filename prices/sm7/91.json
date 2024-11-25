@@ -1,0 +1,25 @@
+{
+    "id": "sm7-91",
+    "name": "Mawile",
+    "number": "91",
+    "setId": "sm7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962005",
+        "reverse-holo": "962177"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

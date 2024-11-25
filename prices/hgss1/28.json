@@ -1,0 +1,37 @@
+{
+    "id": "hgss1-28",
+    "name": "Pichu",
+    "number": "28",
+    "setId": "hgss1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806141",
+        "prerelease-staff": "3964451",
+        "prerelease": "4928114",
+        "reverse-holo": "806247"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.81",
+                "psa10": "$71.07",
+                "grade9": "$31.15"
+            },
+            "prerelease-staff": {
+                "ungraded": "$82.88",
+                "psa10": "",
+                "grade9": ""
+            },
+            "prerelease": {
+                "ungraded": "$23.59",
+                "psa10": "$450.00",
+                "grade9": "$43.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.26",
+                "psa10": "$104.34",
+                "grade9": "$42.58"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv3-33",
+    "name": "Victini ex",
+    "number": "33",
+    "setId": "sv3",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5605551"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.38",
+                "psa10": "$26.24",
+                "grade9": "$13.06"
+            }
+        }
+    }
+}

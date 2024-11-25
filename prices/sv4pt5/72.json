@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-72",
+    "name": "Oinkologne",
+    "number": "72",
+    "setId": "sv4pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6276991",
+        "reverse-holo": "6277229"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "$35.57",
+                "grade9": "$11.56"
+            }
+        }
+    }
+}

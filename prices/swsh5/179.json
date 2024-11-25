@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-179",
+    "name": "Houndoom",
+    "number": "179",
+    "setId": "swsh5",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "1673359"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.01",
+                "psa10": "$64.61",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-97",
+    "name": "Rhyhorn",
+    "number": "97",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1431220",
+        "reverse-holo": "1431234"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.91",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.04",
+                "psa10": "",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

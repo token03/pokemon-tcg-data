@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG12",
+    "name": "Orbeetle V",
+    "number": "TG12",
+    "setId": "swsh11tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4080764"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$26.99",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

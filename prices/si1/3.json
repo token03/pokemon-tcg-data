@@ -1,0 +1,19 @@
+{
+    "id": "si1-3",
+    "name": "Onix",
+    "number": "3",
+    "setId": "si1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762485"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.64",
+                "psa10": "$69.93",
+                "grade9": "$32.81"
+            }
+        }
+    }
+}

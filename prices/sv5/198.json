@@ -1,0 +1,19 @@
+{
+    "id": "sv5-198",
+    "name": "Ciphermaniac's Codebreaking",
+    "number": "198",
+    "setId": "sv5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6495658"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$46.00",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

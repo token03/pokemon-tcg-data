@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-187",
+    "name": "Copperajah V",
+    "number": "187",
+    "setId": "swsh2",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "886913"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.96",
+                "psa10": "$19.80",
+                "grade9": "$16.19"
+            }
+        }
+    }
+}

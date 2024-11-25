@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-64",
+    "name": "Tapu Lele",
+    "number": "64",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4636960",
+        "reverse-holo": "4637176"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.80",
+                "psa10": "$37.73",
+                "grade9": "$12.69"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$38.12",
+                "grade9": "$12.82"
+            }
+        }
+    }
+}

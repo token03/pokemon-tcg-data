@@ -1,0 +1,19 @@
+{
+    "id": "xy2-13",
+    "name": "M Charizard-EX",
+    "number": "13",
+    "setId": "xy2",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "957760"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.44",
+                "psa10": "$185.61",
+                "grade9": "$77.23"
+            }
+        }
+    }
+}

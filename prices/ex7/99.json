@@ -1,0 +1,19 @@
+{
+    "id": "ex7-99",
+    "name": "Rocket's Mewtwo ex",
+    "number": "99",
+    "setId": "ex7",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "886433"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$179.32",
+                "psa10": "$1,966.26",
+                "grade9": "$807.12"
+            }
+        }
+    }
+}

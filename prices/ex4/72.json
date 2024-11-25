@@ -1,0 +1,25 @@
+{
+    "id": "ex4-72",
+    "name": "Dual Ball",
+    "number": "72",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849641",
+        "reverse-holo": "849737"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$99.99",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.88",
+                "psa10": "$74.58",
+                "grade9": "$24.99"
+            }
+        }
+    }
+}

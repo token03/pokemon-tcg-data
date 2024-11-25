@@ -1,0 +1,25 @@
+{
+    "id": "bw7-63",
+    "name": "Dusknoir",
+    "number": "63",
+    "setId": "bw7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956578",
+        "reverse-holo": "956728"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.54",
+                "psa10": "$50.77",
+                "grade9": "$24.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.43",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

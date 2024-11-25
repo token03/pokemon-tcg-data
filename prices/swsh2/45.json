@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-45",
+    "name": "Palpitoad",
+    "number": "45",
+    "setId": "swsh2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886776",
+        "reverse-holo": "886972"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

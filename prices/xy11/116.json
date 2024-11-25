@@ -1,0 +1,19 @@
+{
+    "id": "xy11-116",
+    "name": "Gardevoir-EX",
+    "number": "116",
+    "setId": "xy11",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960195"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.23",
+                "psa10": "$207.48",
+                "grade9": "$52.28"
+            }
+        }
+    }
+}

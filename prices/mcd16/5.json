@@ -1,0 +1,19 @@
+{
+    "id": "mcd16-5",
+    "name": "Totodile",
+    "number": "5",
+    "setId": "mcd16",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180020"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.17",
+                "psa10": "$113.53",
+                "grade9": "$59.85"
+            }
+        }
+    }
+}

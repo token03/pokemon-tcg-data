@@ -1,0 +1,31 @@
+{
+    "id": "dp2-94",
+    "name": "Pikachu",
+    "number": "94",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920718",
+        "reverse-holo": "920841",
+        "stamped": "6133914"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$79.97",
+                "grade9": "$37.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.84",
+                "psa10": "$205.55",
+                "grade9": "$82.00"
+            },
+            "stamped": {
+                "ungraded": "$10.74",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

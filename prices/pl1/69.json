@@ -1,0 +1,25 @@
+{
+    "id": "pl1-69",
+    "name": "Chansey",
+    "number": "69",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "805909",
+        "reverse-holo": "805910"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$49.44",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.70",
+                "psa10": "$147.35",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "g1-63",
+    "name": "Imakuni?",
+    "number": "63",
+    "setId": "g1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959775",
+        "reverse-holo": "2978701"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.63",
+                "psa10": "$43.77",
+                "grade9": "$35.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.97",
+                "psa10": "$287.50",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "base3-25",
+    "name": "Lapras",
+    "number": "25",
+    "setId": "base3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341273",
+        "1st-edition": "1099519"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.64",
+                "psa10": "$119.00",
+                "grade9": "$21.57"
+            },
+            "1st-edition": {
+                "ungraded": "$6.31",
+                "psa10": "$127.79",
+                "grade9": "$34.93"
+            }
+        }
+    }
+}

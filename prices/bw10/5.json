@@ -1,0 +1,37 @@
+{
+    "id": "bw10-5",
+    "name": "Tropius",
+    "number": "5",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957307",
+        "national-championships-stafff": "6715205",
+        "national-championships": "6469321",
+        "reverse-holo": "957412"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.33",
+                "psa10": "",
+                "grade9": ""
+            },
+            "national-championships-stafff": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "national-championships": {
+                "ungraded": "$11.28",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

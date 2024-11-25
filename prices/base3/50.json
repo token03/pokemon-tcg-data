@@ -1,0 +1,31 @@
+{
+    "id": "base3-50",
+    "name": "Kabuto",
+    "number": "50",
+    "setId": "base3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643417",
+        "1st-edition": "1099544",
+        "w-stamp": "2336235"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$35.55",
+                "grade9": "$15.97"
+            },
+            "1st-edition": {
+                "ungraded": "$1.49",
+                "psa10": "$48.00",
+                "grade9": "$18.50"
+            },
+            "w-stamp": {
+                "ungraded": "$6.45",
+                "psa10": "$275.00",
+                "grade9": "$55.00"
+            }
+        }
+    }
+}

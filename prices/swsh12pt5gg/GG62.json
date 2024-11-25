@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG62",
+    "name": "Grant",
+    "number": "GG62",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4637118"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.82",
+                "psa10": "$22.71",
+                "grade9": "$10.25"
+            }
+        }
+    }
+}

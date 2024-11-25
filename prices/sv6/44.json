@@ -1,0 +1,25 @@
+{
+    "id": "sv6-44",
+    "name": "Goldeen",
+    "number": "44",
+    "setId": "sv6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6769524",
+        "reverse-holo": "6769746"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$35.20",
+                "grade9": "$11.36"
+            }
+        }
+    }
+}

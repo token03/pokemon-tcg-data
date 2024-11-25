@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG07",
+    "name": "Keldeo",
+    "number": "GG07",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637063"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.76",
+                "psa10": "$43.99",
+                "grade9": "$20.03"
+            }
+        }
+    }
+}

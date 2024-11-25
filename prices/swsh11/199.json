@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-199",
+    "name": "Aerodactyl VSTAR",
+    "number": "199",
+    "setId": "swsh11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "4050116"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.00",
+                "psa10": "$50.49",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

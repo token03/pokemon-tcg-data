@@ -1,0 +1,25 @@
+{
+    "id": "ex9-66",
+    "name": "Spoink",
+    "number": "66",
+    "setId": "ex9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888291",
+        "reverse-holo": "888399"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$9.25",
+                "psa10": "$224.26",
+                "grade9": "$52.46"
+            }
+        }
+    }
+}

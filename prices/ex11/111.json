@@ -1,0 +1,19 @@
+{
+    "id": "ex11-111",
+    "name": "Groudon \u2605",
+    "number": "111",
+    "setId": "ex11",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "888773"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$299.99",
+                "psa10": "$4,250.00",
+                "grade9": "$1,299.99"
+            }
+        }
+    }
+}

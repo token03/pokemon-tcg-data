@@ -1,0 +1,31 @@
+{
+    "id": "swsh11-124",
+    "name": "Radiant Steelix",
+    "number": "124",
+    "setId": "swsh11",
+    "rarity": "Radiant Rare",
+    "priceChartingIds": {
+        "normal": "4050041",
+        "play": "5768350",
+        "reverse-holo": "4050247"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$29.99",
+                "grade9": "$12.84"
+            },
+            "play": {
+                "ungraded": "$12.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.19",
+                "psa10": "$39.12",
+                "grade9": "$25.05"
+            }
+        }
+    }
+}

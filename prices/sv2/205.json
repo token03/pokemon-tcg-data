@@ -1,0 +1,19 @@
+{
+    "id": "sv2-205",
+    "name": "Eiscue",
+    "number": "205",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287494"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.36",
+                "psa10": "$65.01",
+                "grade9": "$16.95"
+            }
+        }
+    }
+}

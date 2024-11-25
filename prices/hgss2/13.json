@@ -1,0 +1,43 @@
+{
+    "id": "hgss2-13",
+    "name": "Blastoise",
+    "number": "13",
+    "setId": "hgss2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287355",
+        "cracked-ice": "6206434",
+        "pre-release": "3923236",
+        "prerelease-staff": "5700097",
+        "reverse-holo": "1287451"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.97",
+                "psa10": "$301.25",
+                "grade9": "$63.00"
+            },
+            "cracked-ice": {
+                "ungraded": "$10.23",
+                "psa10": "",
+                "grade9": "$44.00"
+            },
+            "pre-release": {
+                "ungraded": "$29.99",
+                "psa10": "$296.41",
+                "grade9": "$60.00"
+            },
+            "prerelease-staff": {
+                "ungraded": "$209.75",
+                "psa10": "",
+                "grade9": "$329.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.34",
+                "psa10": "$148.85",
+                "grade9": "$30.87"
+            }
+        }
+    }
+}

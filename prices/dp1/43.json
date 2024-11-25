@@ -1,0 +1,25 @@
+{
+    "id": "dp1-43",
+    "name": "Budew",
+    "number": "43",
+    "setId": "dp1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "763079",
+        "reverse-holo": "763201"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.13",
+                "psa10": "$98.92",
+                "grade9": "$36.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.64",
+                "psa10": "$155.13",
+                "grade9": "$83.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv6-146",
+    "name": "Community Center",
+    "number": "146",
+    "setId": "sv6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6769626",
+        "reverse-holo": "6769839"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$35.59",
+                "grade9": "$11.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$36.18",
+                "grade9": "$11.62"
+            }
+        }
+    }
+}

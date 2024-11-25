@@ -1,0 +1,19 @@
+{
+    "id": "sv5-177",
+    "name": "Gastly",
+    "number": "177",
+    "setId": "sv5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6495636"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.32",
+                "psa10": "$167.25",
+                "grade9": "$36.73"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-191",
+    "name": "Heatran VMAX",
+    "number": "191",
+    "setId": "swsh10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3489690"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.12",
+                "psa10": "$40.00",
+                "grade9": "$8.16"
+            }
+        }
+    }
+}

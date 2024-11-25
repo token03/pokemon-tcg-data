@@ -1,0 +1,25 @@
+{
+    "id": "bw9-4",
+    "name": "Exeggcute",
+    "number": "4",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957059",
+        "reverse-holo": "957181"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.83",
+                "psa10": "$51.56",
+                "grade9": "$22.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

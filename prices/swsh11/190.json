@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-190",
+    "name": "Colress's Experiment",
+    "number": "190",
+    "setId": "swsh11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4050107"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.21",
+                "psa10": "$24.91",
+                "grade9": "$8.02"
+            }
+        }
+    }
+}

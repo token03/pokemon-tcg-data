@@ -1,0 +1,25 @@
+{
+    "id": "xy8-86",
+    "name": "Pancham",
+    "number": "86",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959275",
+        "reverse-holo": "959428"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$35.36",
+                "grade9": "$13.13"
+            }
+        }
+    }
+}

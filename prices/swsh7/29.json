@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-29",
+    "name": "Gyarados VMAX",
+    "number": "29",
+    "setId": "swsh7",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "2512840"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$36.40",
+                "grade9": "$21.99"
+            }
+        }
+    }
+}

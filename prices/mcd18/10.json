@@ -1,0 +1,19 @@
+{
+    "id": "mcd18-10",
+    "name": "Chansey",
+    "number": "10",
+    "setId": "mcd18",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180049"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.27",
+                "psa10": "$40.19",
+                "grade9": "$18.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm4-104",
+    "name": "Buzzwole-GX",
+    "number": "104",
+    "setId": "sm4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961250"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.68",
+                "psa10": "$25.39",
+                "grade9": "$23.00"
+            }
+        }
+    }
+}

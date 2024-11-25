@@ -1,0 +1,31 @@
+{
+    "id": "ex14-34",
+    "name": "Ivysaur",
+    "number": "34",
+    "setId": "ex14",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889321",
+        "reverse-holo": "889421",
+        "stamped": "4894839"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.60",
+                "psa10": "$72.99",
+                "grade9": "$21.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$16.17",
+                "psa10": "$162.51",
+                "grade9": "$40.14"
+            },
+            "stamped": {
+                "ungraded": "$7.57",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

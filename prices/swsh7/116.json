@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-116",
+    "name": "Kyurem",
+    "number": "116",
+    "setId": "swsh7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2512928",
+        "reverse-holo": "2513133"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$21.76",
+                "grade9": "$13.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.78",
+                "psa10": "$36.95",
+                "grade9": "$13.10"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "basep-41",
+    "name": "Lucky Stadium",
+    "number": "41",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "prerelease": "4127317",
+        "normal": "5609115"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "prerelease": {
+                "ungraded": "$31.24",
+                "psa10": "",
+                "grade9": ""
+            },
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-207",
+    "name": "Zisu",
+    "number": "207",
+    "setId": "swsh10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3489707"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.92",
+                "psa10": "$32.64",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

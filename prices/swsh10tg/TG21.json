@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG21",
+    "name": "Zacian V",
+    "number": "TG21",
+    "setId": "swsh10tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3508413"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$9.50",
+                "psa10": "$44.99",
+                "grade9": "$17.80"
+            }
+        }
+    }
+}

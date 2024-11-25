@@ -1,0 +1,19 @@
+{
+    "id": "sv2-265",
+    "name": "Boss's Orders (Ghetsis)",
+    "number": "265",
+    "setId": "sv2",
+    "rarity": "Special Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287554"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.50",
+                "psa10": "$80.62",
+                "grade9": "$26.26"
+            }
+        }
+    }
+}

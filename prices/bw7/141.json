@@ -1,0 +1,19 @@
+{
+    "id": "bw7-141",
+    "name": "Celebi-EX",
+    "number": "141",
+    "setId": "bw7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956656"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.53",
+                "psa10": "$1,048.01",
+                "grade9": "$72.96"
+            }
+        }
+    }
+}

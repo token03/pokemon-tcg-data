@@ -1,0 +1,19 @@
+{
+    "id": "sm1-151",
+    "name": "Lapras-GX",
+    "number": "151",
+    "setId": "sm1",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "1344789"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.50",
+                "psa10": "$60.32",
+                "grade9": "$26.95"
+            }
+        }
+    }
+}

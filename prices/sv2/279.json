@@ -1,0 +1,19 @@
+{
+    "id": "sv2-279",
+    "name": "Basic Water Energy",
+    "number": "279",
+    "setId": "sv2",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5287568"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.33",
+                "psa10": "$70.86",
+                "grade9": "$23.13"
+            }
+        }
+    }
+}

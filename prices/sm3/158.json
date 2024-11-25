@@ -1,0 +1,19 @@
+{
+    "id": "sm3-158",
+    "name": "Darkrai-GX",
+    "number": "158",
+    "setId": "sm3",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "960942"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.49",
+                "psa10": "$542.02",
+                "grade9": "$32.71"
+            }
+        }
+    }
+}

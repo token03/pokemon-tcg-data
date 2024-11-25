@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-6",
+    "name": "Wurmple",
+    "number": "6",
+    "setId": "swsh11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4049923",
+        "reverse-holo": "4050139"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$14.00",
+                "grade9": "$11.77"
+            }
+        }
+    }
+}

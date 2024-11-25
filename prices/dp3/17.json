@@ -1,0 +1,25 @@
+{
+    "id": "dp3-17",
+    "name": "Roserade",
+    "number": "17",
+    "setId": "dp3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920908",
+        "reverse-holo": "921039"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.63",
+                "psa10": "$251.26",
+                "grade9": "$47.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.58",
+                "psa10": "$70.77",
+                "grade9": "$25.97"
+            }
+        }
+    }
+}

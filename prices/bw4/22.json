@@ -1,0 +1,19 @@
+{
+    "id": "bw4-22",
+    "name": "Reshiram-EX",
+    "number": "22",
+    "setId": "bw4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "955874"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.94",
+                "psa10": "$750.00",
+                "grade9": "$26.00"
+            }
+        }
+    }
+}

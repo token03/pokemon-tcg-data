@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-190",
+    "name": "Garbodor V",
+    "number": "190",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2512999"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.58",
+                "psa10": "$30.14",
+                "grade9": "$10.79"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy12-79",
+    "name": "Maintenance",
+    "number": "79",
+    "setId": "xy12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960367",
+        "reverse-holo": "960454"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$132.64",
+                "grade9": "$21.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.53",
+                "psa10": "$40.72",
+                "grade9": "$9.25"
+            }
+        }
+    }
+}

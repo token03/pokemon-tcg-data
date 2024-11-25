@@ -1,0 +1,25 @@
+{
+    "id": "dp5-61",
+    "name": "Drifloon",
+    "number": "61",
+    "setId": "dp5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921423",
+        "reverse-holo": "921523"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": "$36.50"
+            }
+        }
+    }
+}

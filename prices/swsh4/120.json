@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-120",
+    "name": "Lucario",
+    "number": "120",
+    "setId": "swsh4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887666",
+        "reverse-holo": "887837"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$34.14",
+                "grade9": "$5.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.28",
+                "psa10": "$43.70",
+                "grade9": "$11.75"
+            }
+        }
+    }
+}

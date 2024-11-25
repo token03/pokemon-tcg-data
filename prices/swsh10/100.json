@@ -1,0 +1,31 @@
+{
+    "id": "swsh10-100",
+    "name": "Hisuian Samurott",
+    "number": "100",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "3489599",
+        "holo": "4566859",
+        "reverse-holo": "3489799"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$37.42",
+                "grade9": "$12.92"
+            },
+            "holo": {
+                "ungraded": "$1.51",
+                "psa10": "$36.16",
+                "grade9": "$12.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$37.95",
+                "grade9": "$13.12"
+            }
+        }
+    }
+}

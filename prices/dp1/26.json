@@ -1,0 +1,25 @@
+{
+    "id": "dp1-26",
+    "name": "Floatzel",
+    "number": "26",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763062",
+        "reverse-holo": "763184"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.80",
+                "psa10": "$39.99",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.53",
+                "psa10": "",
+                "grade9": "$21.76"
+            }
+        }
+    }
+}

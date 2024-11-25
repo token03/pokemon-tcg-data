@@ -1,0 +1,19 @@
+{
+    "id": "mcd18-2",
+    "name": "Psyduck",
+    "number": "2",
+    "setId": "mcd18",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180041"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.01",
+                "psa10": "$59.11",
+                "grade9": "$29.77"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh35-74",
+    "name": "Charizard VMAX",
+    "number": "74",
+    "setId": "swsh35",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "836944"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$131.77",
+                "psa10": "$267.90",
+                "grade9": "$161.00"
+            }
+        }
+    }
+}

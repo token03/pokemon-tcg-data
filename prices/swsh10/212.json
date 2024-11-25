@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-212",
+    "name": "Jubilife Village",
+    "number": "212",
+    "setId": "swsh10",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "3489712"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.23",
+                "psa10": "$32.22",
+                "grade9": "$10.45"
+            }
+        }
+    }
+}

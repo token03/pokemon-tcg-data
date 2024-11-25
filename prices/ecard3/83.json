@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-83",
+    "name": "Nidorina",
+    "number": "83",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842740",
+        "reverse-holo": "2252681"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.04",
+                "psa10": "$32.00",
+                "grade9": "$26.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.50",
+                "psa10": "$481.80",
+                "grade9": "$33.34"
+            }
+        }
+    }
+}

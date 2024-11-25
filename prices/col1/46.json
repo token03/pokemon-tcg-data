@@ -1,0 +1,25 @@
+{
+    "id": "col1-46",
+    "name": "Magby",
+    "number": "46",
+    "setId": "col1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926297",
+        "reverse-holo": "926403"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$22.00",
+                "grade9": "$18.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.03",
+                "psa10": "$82.29",
+                "grade9": "$15.73"
+            }
+        }
+    }
+}

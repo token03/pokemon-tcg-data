@@ -1,0 +1,25 @@
+{
+    "id": "sm5-87",
+    "name": "Bronzong",
+    "number": "87",
+    "setId": "sm5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961450",
+        "reverse-holo": "961618"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

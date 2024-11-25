@@ -1,0 +1,25 @@
+{
+    "id": "cel25c-73_A",
+    "name": "Imposter Professor Oak",
+    "number": "73",
+    "setId": "cel25c",
+    "rarity": "Classic Collection",
+    "priceChartingIds": {
+        "normal": "2618194",
+        "holo": "6104680"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$27.00",
+                "grade9": "$8.27"
+            },
+            "holo": {
+                "ungraded": "$1.25",
+                "psa10": "$32.00",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw6-94",
+    "name": "Deino",
+    "number": "94",
+    "setId": "bw6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956348",
+        "reverse-holo": "956515"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

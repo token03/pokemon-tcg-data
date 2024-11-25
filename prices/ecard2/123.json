@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-123",
+    "name": "Forest Guardian",
+    "number": "123",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842639",
+        "reverse-holo": "2294014"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$38.02",
+                "grade9": "$16.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.53",
+                "psa10": "$171.50",
+                "grade9": "$27.77"
+            }
+        }
+    }
+}

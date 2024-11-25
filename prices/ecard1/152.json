@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-152",
+    "name": "Warp Point",
+    "number": "152",
+    "setId": "ecard1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842524",
+        "reverse-holo": "2267005"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.47",
+                "psa10": "$62.00",
+                "grade9": "$51.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.28",
+                "psa10": "$258.16",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

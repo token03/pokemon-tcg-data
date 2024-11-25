@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG15",
+    "name": "Sylveon VMAX",
+    "number": "TG15",
+    "setId": "swsh9tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "3188403"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$22.86",
+                "psa10": "$75.00",
+                "grade9": "$33.25"
+            }
+        }
+    }
+}

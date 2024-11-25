@@ -1,0 +1,25 @@
+{
+    "id": "dp4-10",
+    "name": "Tangrowth",
+    "number": "10",
+    "setId": "dp4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "921164",
+        "reverse-holo": "921270"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.39",
+                "psa10": "$102.29",
+                "grade9": "$20.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.80",
+                "psa10": "$95.81",
+                "grade9": ""
+            }
+        }
+    }
+}

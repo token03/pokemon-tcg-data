@@ -1,0 +1,19 @@
+{
+    "id": "mcd17-6",
+    "name": "Cosmog",
+    "number": "6",
+    "setId": "mcd17",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180033"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.09",
+                "psa10": "$39.04",
+                "grade9": "$15.44"
+            }
+        }
+    }
+}

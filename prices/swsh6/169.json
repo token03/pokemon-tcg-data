@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-169",
+    "name": "Galarian Articuno V",
+    "number": "169",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253973"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.34",
+                "psa10": "$33.18",
+                "grade9": "$19.00"
+            }
+        }
+    }
+}

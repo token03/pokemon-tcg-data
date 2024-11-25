@@ -1,0 +1,25 @@
+{
+    "id": "pl1-84",
+    "name": "Nosepass",
+    "number": "84",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806019",
+        "reverse-holo": "806020"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.52",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

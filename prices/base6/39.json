@@ -1,0 +1,25 @@
+{
+    "id": "base6-39",
+    "name": "Dark Wartortle",
+    "number": "39",
+    "setId": "base6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842346",
+        "reverse-holo": "2253722"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.72",
+                "psa10": "$155.00",
+                "grade9": "$129.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$61.00",
+                "psa10": "$810.00",
+                "grade9": "$223.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl3-112",
+    "name": "Mankey",
+    "number": "112",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287159",
+        "reverse-holo": "1287313"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

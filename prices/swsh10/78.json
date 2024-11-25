@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-78",
+    "name": "Lucario V",
+    "number": "78",
+    "setId": "swsh10",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3489576",
+        "jumbo": "5901021"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "$29.99",
+                "grade9": "$14.37"
+            },
+            "jumbo": {
+                "ungraded": "$1.67",
+                "psa10": "$140.00",
+                "grade9": ""
+            }
+        }
+    }
+}

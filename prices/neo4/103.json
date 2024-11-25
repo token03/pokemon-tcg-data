@@ -1,0 +1,25 @@
+{
+    "id": "neo4-103",
+    "name": "Team Rocket's Evil Deeds",
+    "number": "103",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762648",
+        "1st-edition": "2183388"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$40.00",
+                "grade9": "$15.00"
+            },
+            "1st-edition": {
+                "ungraded": "$5.25",
+                "psa10": "$79.68",
+                "grade9": "$19.80"
+            }
+        }
+    }
+}

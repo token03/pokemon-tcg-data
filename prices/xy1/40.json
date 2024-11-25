@@ -1,0 +1,25 @@
+{
+    "id": "xy1-40",
+    "name": "Frogadier",
+    "number": "40",
+    "setId": "xy1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806538",
+        "reverse-holo": "806662"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.71",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

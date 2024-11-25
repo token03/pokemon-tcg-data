@@ -1,0 +1,31 @@
+{
+    "id": "base1-73",
+    "name": "Impostor Professor Oak",
+    "number": "73",
+    "setId": "base1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "630486",
+        "1st-edition": "715662",
+        "shadowless": "4018040"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$81.13",
+                "grade9": "$28.75"
+            },
+            "1st-edition": {
+                "ungraded": "$30.40",
+                "psa10": "$305.48",
+                "grade9": "$61.75"
+            },
+            "shadowless": {
+                "ungraded": "$6.50",
+                "psa10": "$135.83",
+                "grade9": "$42.00"
+            }
+        }
+    }
+}

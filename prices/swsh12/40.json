@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-40",
+    "name": "Milotic",
+    "number": "40",
+    "setId": "swsh12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4277160",
+        "reverse-holo": "4293784"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.32",
+                "grade9": "$11.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "$35.41",
+                "grade9": "$11.95"
+            }
+        }
+    }
+}

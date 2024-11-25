@@ -1,0 +1,19 @@
+{
+    "id": "sm12-258",
+    "name": "Arceus & Dialga & Palkia-GX",
+    "number": "258",
+    "setId": "sm12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "964496"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$36.00",
+                "psa10": "$96.59",
+                "grade9": "$40.28"
+            }
+        }
+    }
+}

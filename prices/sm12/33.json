@@ -1,0 +1,25 @@
+{
+    "id": "sm12-33",
+    "name": "Emboar",
+    "number": "33",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964271",
+        "reverse-holo": "964539"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$35.47",
+                "grade9": "$17.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.90",
+                "psa10": "$37.32",
+                "grade9": "$14.10"
+            }
+        }
+    }
+}

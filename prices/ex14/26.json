@@ -1,0 +1,25 @@
+{
+    "id": "ex14-26",
+    "name": "Pelipper \u03b4",
+    "number": "26",
+    "setId": "ex14",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889313",
+        "reverse-holo": "889413"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.08",
+                "psa10": "$31.00",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.51",
+                "psa10": "$282.42",
+                "grade9": "$35.85"
+            }
+        }
+    }
+}

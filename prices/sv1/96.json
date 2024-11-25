@@ -1,0 +1,25 @@
+{
+    "id": "sv1-96",
+    "name": "Klefki",
+    "number": "96",
+    "setId": "sv1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "4933872",
+        "reverse-holo": "4934121"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.54",
+                "psa10": "$36.78",
+                "grade9": "$12.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.81",
+                "psa10": "$33.50",
+                "grade9": "$11.17"
+            }
+        }
+    }
+}

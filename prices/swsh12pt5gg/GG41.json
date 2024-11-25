@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG41",
+    "name": "Raikou V",
+    "number": "GG41",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4637097"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$21.16",
+                "psa10": "$105.25",
+                "grade9": "$30.75"
+            }
+        }
+    }
+}

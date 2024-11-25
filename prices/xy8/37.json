@@ -1,0 +1,25 @@
+{
+    "id": "xy8-37",
+    "name": "Prinplup",
+    "number": "37",
+    "setId": "xy8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959225",
+        "reverse-holo": "959385"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$35.37",
+                "grade9": "$13.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "$37.97",
+                "grade9": "$14.66"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "base1-37",
+    "name": "Nidorino",
+    "number": "37",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630450",
+        "1st-edition": "715626",
+        "shadowless": "715728"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.21",
+                "psa10": "$60.97",
+                "grade9": "$22.99"
+            },
+            "1st-edition": {
+                "ungraded": "$14.05",
+                "psa10": "$248.75",
+                "grade9": "$40.00"
+            },
+            "shadowless": {
+                "ungraded": "$3.94",
+                "psa10": "$93.47",
+                "grade9": "$30.94"
+            }
+        }
+    }
+}

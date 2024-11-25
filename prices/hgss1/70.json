@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-70",
+    "name": "Koffing",
+    "number": "70",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806182",
+        "reverse-holo": "806288"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.75",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.35",
+                "psa10": "",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-99",
+    "name": "Steelix",
+    "number": "99",
+    "setId": "swsh5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "1673279",
+        "reverse-holo": "1725071"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.50",
+                "psa10": "$41.00",
+                "grade9": "$6.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$35.76",
+                "grade9": "$12.74"
+            }
+        }
+    }
+}

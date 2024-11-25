@@ -1,0 +1,19 @@
+{
+    "id": "sm9-163",
+    "name": "Ampharos-GX",
+    "number": "163",
+    "setId": "sm9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962961"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.25",
+                "psa10": "$54.02",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

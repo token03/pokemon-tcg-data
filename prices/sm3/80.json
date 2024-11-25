@@ -1,0 +1,19 @@
+{
+    "id": "sm3-80",
+    "name": "Marshadow-GX",
+    "number": "80",
+    "setId": "sm3",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "960864"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.22",
+                "psa10": "$49.66",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

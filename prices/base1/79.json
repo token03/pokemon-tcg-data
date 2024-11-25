@@ -1,0 +1,31 @@
+{
+    "id": "base1-79",
+    "name": "Super Energy Removal",
+    "number": "79",
+    "setId": "base1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "630492",
+        "1st-edition": "715668",
+        "shadowless": "5962661"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.39",
+                "psa10": "$46.22",
+                "grade9": "$27.00"
+            },
+            "1st-edition": {
+                "ungraded": "$45.00",
+                "psa10": "$483.58",
+                "grade9": "$165.00"
+            },
+            "shadowless": {
+                "ungraded": "$3.00",
+                "psa10": "$66.81",
+                "grade9": "$32.02"
+            }
+        }
+    }
+}

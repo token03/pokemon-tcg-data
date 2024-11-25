@@ -1,0 +1,25 @@
+{
+    "id": "xy10-22",
+    "name": "Binacle",
+    "number": "22",
+    "setId": "xy10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959879",
+        "reverse-holo": "960001"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$35.55",
+                "grade9": "$13.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$36.37",
+                "grade9": "$8.51"
+            }
+        }
+    }
+}

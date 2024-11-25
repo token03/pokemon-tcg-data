@@ -1,0 +1,25 @@
+{
+    "id": "sv6-156",
+    "name": "Love Ball",
+    "number": "156",
+    "setId": "sv6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6769636",
+        "reverse-holo": "6769849"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$36.29",
+                "grade9": "$11.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$36.53",
+                "grade9": "$11.71"
+            }
+        }
+    }
+}

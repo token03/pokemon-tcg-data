@@ -1,0 +1,25 @@
+{
+    "id": "sm9-59",
+    "name": "Nidoking",
+    "number": "59",
+    "setId": "sm9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962857",
+        "reverse-holo": "963047"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$39.87",
+                "grade9": "$15.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$45.74",
+                "grade9": "$19.13"
+            }
+        }
+    }
+}

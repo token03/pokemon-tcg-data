@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-33",
+    "name": "Metang",
+    "number": "33",
+    "setId": "hgss2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287375",
+        "reverse-holo": "1287471"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.13",
+                "psa10": "",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

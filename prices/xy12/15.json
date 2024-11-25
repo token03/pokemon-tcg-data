@@ -1,0 +1,25 @@
+{
+    "id": "xy12-15",
+    "name": "Ninetales",
+    "number": "15",
+    "setId": "xy12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "960303",
+        "reverse-holo": "960403"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.25",
+                "psa10": "$83.27",
+                "grade9": "$13.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.09",
+                "psa10": "$49.64",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

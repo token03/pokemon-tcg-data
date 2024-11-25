@@ -1,0 +1,25 @@
+{
+    "id": "ex1-42",
+    "name": "Mightyena",
+    "number": "42",
+    "setId": "ex1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886605",
+        "reverse-holo": "886631"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "$27.27",
+                "grade9": "$17.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.63",
+                "psa10": "$63.76",
+                "grade9": "$24.09"
+            }
+        }
+    }
+}

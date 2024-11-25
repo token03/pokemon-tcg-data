@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-148",
+    "name": "Path to the Peak",
+    "number": "148",
+    "setId": "swsh6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2253952",
+        "reverse-holo": "2254160"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$34.72",
+                "grade9": "$12.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$37.55",
+                "grade9": "$13.46"
+            }
+        }
+    }
+}

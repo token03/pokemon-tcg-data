@@ -1,0 +1,19 @@
+{
+    "id": "basep-10",
+    "name": "Meowth",
+    "number": "10",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "845012"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.98",
+                "psa10": "$201.82",
+                "grade9": "$34.99"
+            }
+        }
+    }
+}

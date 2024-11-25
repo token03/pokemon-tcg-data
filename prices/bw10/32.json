@@ -1,0 +1,25 @@
+{
+    "id": "bw10-32",
+    "name": "Eelektrik",
+    "number": "32",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957334",
+        "reverse-holo": "957437"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

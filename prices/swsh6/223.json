@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-223",
+    "name": "Bronzong",
+    "number": "223",
+    "setId": "swsh6",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2254027"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.07",
+                "psa10": "$27.10",
+                "grade9": "$12.28"
+            }
+        }
+    }
+}

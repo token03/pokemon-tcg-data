@@ -1,0 +1,25 @@
+{
+    "id": "sm9-72",
+    "name": "Primeape",
+    "number": "72",
+    "setId": "sm9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962870",
+        "reverse-holo": "963059"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.96",
+                "psa10": "$37.73",
+                "grade9": "$14.48"
+            }
+        }
+    }
+}

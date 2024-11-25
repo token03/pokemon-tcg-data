@@ -1,0 +1,25 @@
+{
+    "id": "pl3-86",
+    "name": "Togekiss C",
+    "number": "86",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287133",
+        "reverse-holo": "1287287"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$67.50",
+                "grade9": "$39.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.24",
+                "psa10": "$83.64",
+                "grade9": "$32.93"
+            }
+        }
+    }
+}

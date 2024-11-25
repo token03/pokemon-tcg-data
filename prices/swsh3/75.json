@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-75",
+    "name": "Gothitelle",
+    "number": "75",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887161",
+        "reverse-holo": "887343"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$34.49",
+                "grade9": "$12.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$37.18",
+                "grade9": "$6.25"
+            }
+        }
+    }
+}

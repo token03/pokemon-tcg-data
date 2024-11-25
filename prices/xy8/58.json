@@ -1,0 +1,25 @@
+{
+    "id": "xy8-58",
+    "name": "Gastly",
+    "number": "58",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959247",
+        "reverse-holo": "959405"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$35.96",
+                "grade9": "$13.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.87",
+                "psa10": "$40.13",
+                "grade9": "$15.92"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv5-45",
+    "name": "Snom",
+    "number": "45",
+    "setId": "sv5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6495505",
+        "reverse-holo": "6495719"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$35.29",
+                "grade9": "$11.43"
+            }
+        }
+    }
+}

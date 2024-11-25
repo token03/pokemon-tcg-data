@@ -1,0 +1,25 @@
+{
+    "id": "bw6-80",
+    "name": "Aggron",
+    "number": "80",
+    "setId": "bw6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956334",
+        "reverse-holo": "956459"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.66",
+                "psa10": "$81.00",
+                "grade9": "$48.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

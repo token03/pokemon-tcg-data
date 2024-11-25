@@ -1,0 +1,19 @@
+{
+    "id": "sm11-233",
+    "name": "Coach Trainer",
+    "number": "233",
+    "setId": "sm11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963799"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.30",
+                "psa10": "$46.87",
+                "grade9": "$23.00"
+            }
+        }
+    }
+}

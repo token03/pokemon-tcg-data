@@ -1,0 +1,19 @@
+{
+    "id": "sv4-38",
+    "name": "Garchomp ex",
+    "number": "38",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952876"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.25",
+                "psa10": "$17.75",
+                "grade9": "$4.25"
+            }
+        }
+    }
+}

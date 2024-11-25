@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG30",
+    "name": "Duraludon VMAX",
+    "number": "TG30",
+    "setId": "swsh12tg",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "4277118"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.28",
+                "psa10": "$19.75",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

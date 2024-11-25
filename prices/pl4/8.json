@@ -1,0 +1,25 @@
+{
+    "id": "pl4-8",
+    "name": "Salamence",
+    "number": "8",
+    "setId": "pl4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925627",
+        "reverse-holo": "925738"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$91.44",
+                "grade9": "$36.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.63",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "base6-59",
+    "name": "Primeape",
+    "number": "59",
+    "setId": "base6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842365",
+        "reverse-holo": "2253742"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.23",
+                "psa10": "$429.36",
+                "grade9": "$22.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$32.00",
+                "psa10": "$380.62",
+                "grade9": "$125.20"
+            }
+        }
+    }
+}

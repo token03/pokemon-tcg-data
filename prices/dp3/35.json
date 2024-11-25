@@ -1,0 +1,25 @@
+{
+    "id": "dp3-35",
+    "name": "Pidgeot",
+    "number": "35",
+    "setId": "dp3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920925",
+        "reverse-holo": "921057"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.51",
+                "psa10": "$108.50",
+                "grade9": "$25.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.35",
+                "psa10": "$99.76",
+                "grade9": "$49.95"
+            }
+        }
+    }
+}

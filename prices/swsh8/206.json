@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-206",
+    "name": "Snorlax",
+    "number": "206",
+    "setId": "swsh8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2771232",
+        "reverse-holo": "2771490"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$195.50",
+                "grade9": "$11.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$110.00",
+                "grade9": "$17.34"
+            }
+        }
+    }
+}

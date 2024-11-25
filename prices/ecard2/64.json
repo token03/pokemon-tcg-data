@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-64",
+    "name": "Voltorb",
+    "number": "64",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842591",
+        "reverse-holo": "2293955"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$34.33",
+                "grade9": "$32.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.80",
+                "psa10": "$269.30",
+                "grade9": "$40.94"
+            }
+        }
+    }
+}

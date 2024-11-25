@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-182",
+    "name": "Venusaur ex",
+    "number": "182",
+    "setId": "sv3pt5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5809565"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.50",
+                "psa10": "$50.99",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw2-28",
+    "name": "Cubchoo",
+    "number": "28",
+    "setId": "bw2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955454",
+        "reverse-holo": "955551"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.33",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "swsh3-150",
+    "name": "Bunnelby",
+    "number": "150",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887229",
+        "prize-pack-1": "5154455",
+        "reverse-holo": "887406",
+        "thank-you": "5428258"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$24.00",
+                "grade9": "$20.00"
+            },
+            "prize-pack-1": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$54.00",
+                "grade9": "$45.00"
+            },
+            "thank-you": {
+                "ungraded": "$23.76",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy5-99",
+    "name": "Doublade",
+    "number": "99",
+    "setId": "xy5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958556",
+        "reverse-holo": "958709"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "$37.06",
+                "grade9": "$14.01"
+            }
+        }
+    }
+}

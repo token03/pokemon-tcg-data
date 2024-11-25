@@ -1,0 +1,19 @@
+{
+    "id": "bw9-115",
+    "name": "Ghetsis",
+    "number": "115",
+    "setId": "bw9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "957169"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$36.48",
+                "psa10": "$781.68",
+                "grade9": "$92.47"
+            }
+        }
+    }
+}

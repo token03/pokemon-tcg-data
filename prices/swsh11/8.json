@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-8",
+    "name": "Beautifly",
+    "number": "8",
+    "setId": "swsh11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4049925",
+        "reverse-holo": "4050141"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.54",
+                "psa10": "$36.41",
+                "grade9": "$5.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$15.53",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

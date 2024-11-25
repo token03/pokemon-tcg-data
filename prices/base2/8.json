@@ -1,0 +1,31 @@
+{
+    "id": "base2-8",
+    "name": "Pidgeot",
+    "number": "8",
+    "setId": "base2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643326",
+        "1st-edition": "643374",
+        "no-symbol": "3179671"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.48",
+                "psa10": "$511.00",
+                "grade9": "$59.97"
+            },
+            "1st-edition": {
+                "ungraded": "$30.84",
+                "psa10": "$2,326.74",
+                "grade9": "$173.91"
+            },
+            "no-symbol": {
+                "ungraded": "$23.62",
+                "psa10": "$1,125.01",
+                "grade9": "$92.43"
+            }
+        }
+    }
+}

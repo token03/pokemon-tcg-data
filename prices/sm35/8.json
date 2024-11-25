@@ -1,0 +1,25 @@
+{
+    "id": "sm35-8",
+    "name": "Virizion",
+    "number": "8",
+    "setId": "sm35",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961077",
+        "reverse-holo": "2425575"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$30.08",
+                "grade9": "$11.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": "$9.41"
+            }
+        }
+    }
+}

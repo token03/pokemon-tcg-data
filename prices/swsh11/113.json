@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-113",
+    "name": "Ariados",
+    "number": "113",
+    "setId": "swsh11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4050030",
+        "reverse-holo": "4050238"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "$35.00",
+                "grade9": "$11.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "$36.20",
+                "grade9": "$12.31"
+            }
+        }
+    }
+}

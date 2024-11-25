@@ -1,0 +1,43 @@
+{
+    "id": "swsh11-76",
+    "name": "Hisuian Zoroark",
+    "number": "76",
+    "setId": "swsh11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "eb-games": "5530529",
+        "gamestop": "5530528",
+        "holo": "4049993",
+        "reverse-holo": "4050204",
+        "stamped": "5530530"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "eb-games": {
+                "ungraded": "$22.68",
+                "psa10": "",
+                "grade9": ""
+            },
+            "gamestop": {
+                "ungraded": "$6.50",
+                "psa10": "$93.69",
+                "grade9": "$5.33"
+            },
+            "holo": {
+                "ungraded": "$1.94",
+                "psa10": "$28.00",
+                "grade9": "$22.98"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.81",
+                "psa10": "$35.70",
+                "grade9": "$12.13"
+            },
+            "stamped": {
+                "ungraded": "$12.65",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

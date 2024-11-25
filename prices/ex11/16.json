@@ -1,0 +1,31 @@
+{
+    "id": "ex11-16",
+    "name": "Tyranitar \u03b4",
+    "number": "16",
+    "setId": "ex11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "stamped": "4895162",
+        "normal": "888678",
+        "reverse-holo": "888792"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "stamped": {
+                "ungraded": "$5.05",
+                "psa10": "",
+                "grade9": ""
+            },
+            "normal": {
+                "ungraded": "$30.95",
+                "psa10": "$348.13",
+                "grade9": "$111.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$33.40",
+                "psa10": "$711.50",
+                "grade9": "$169.55"
+            }
+        }
+    }
+}

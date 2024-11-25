@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-31",
+    "name": "Muk",
+    "number": "31",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925918",
+        "reverse-holo": "926009"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$46.30",
+                "grade9": "$17.34"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.64",
+                "psa10": "",
+                "grade9": "$17.10"
+            }
+        }
+    }
+}

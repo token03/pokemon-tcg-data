@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG08",
+    "name": "Hisuian Arcanine",
+    "number": "TG08",
+    "setId": "swsh11tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4080760"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$37.37",
+                "grade9": "$11.25"
+            }
+        }
+    }
+}

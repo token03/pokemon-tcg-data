@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-124",
+    "name": "Minccino",
+    "number": "124",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188348",
+        "reverse-holo": "3219469"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$34.77",
+                "grade9": "$11.96"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.66",
+                "psa10": "$35.50",
+                "grade9": "$12.25"
+            }
+        }
+    }
+}

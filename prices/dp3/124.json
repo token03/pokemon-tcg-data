@@ -1,0 +1,25 @@
+{
+    "id": "dp3-124",
+    "name": "Rival",
+    "number": "124",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921014",
+        "reverse-holo": "921146"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.23",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

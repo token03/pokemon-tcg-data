@@ -1,0 +1,25 @@
+{
+    "id": "bw9-104",
+    "name": "Team Plasma Badge",
+    "number": "104",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957158",
+        "reverse-holo": "957273"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.97",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

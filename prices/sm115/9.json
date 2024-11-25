@@ -1,0 +1,19 @@
+{
+    "id": "sm115-9",
+    "name": "Charizard-GX",
+    "number": "9",
+    "setId": "sm115",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964029"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$37.77",
+                "grade9": "$16.75"
+            }
+        }
+    }
+}

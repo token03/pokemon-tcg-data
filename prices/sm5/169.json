@@ -1,0 +1,19 @@
+{
+    "id": "sm5-169",
+    "name": "Peeking Red Card",
+    "number": "169",
+    "setId": "sm5",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "961532"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$40.64",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

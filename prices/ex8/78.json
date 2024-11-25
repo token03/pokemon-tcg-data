@@ -1,0 +1,25 @@
+{
+    "id": "ex8-78",
+    "name": "Surskit",
+    "number": "78",
+    "setId": "ex8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888098",
+        "reverse-holo": "888206"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.98",
+                "psa10": "$27.85",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.24",
+                "psa10": "$78.01",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

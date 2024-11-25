@@ -1,0 +1,19 @@
+{
+    "id": "sm10-221",
+    "name": "Marshadow & Machamp-GX",
+    "number": "221",
+    "setId": "sm10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963377"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.05",
+                "psa10": "$89.79",
+                "grade9": "$30.44"
+            }
+        }
+    }
+}

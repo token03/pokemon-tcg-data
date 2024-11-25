@@ -1,0 +1,25 @@
+{
+    "id": "xy12-61",
+    "name": "Onix",
+    "number": "61",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960349",
+        "reverse-holo": "960440"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.06",
+                "grade9": "$12.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$41.95",
+                "grade9": "$12.56"
+            }
+        }
+    }
+}

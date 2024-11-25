@@ -1,0 +1,25 @@
+{
+    "id": "sm11-77",
+    "name": "Wynaut",
+    "number": "77",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963643",
+        "reverse-holo": "963894"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$34.21",
+                "grade9": "$12.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "$20.50",
+                "grade9": "$12.76"
+            }
+        }
+    }
+}

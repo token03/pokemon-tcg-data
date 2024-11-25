@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG21",
+    "name": "Duraludon VMAX",
+    "number": "TG21",
+    "setId": "swsh12tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "4277109"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$7.59",
+                "psa10": "$34.00",
+                "grade9": "$17.66"
+            }
+        }
+    }
+}

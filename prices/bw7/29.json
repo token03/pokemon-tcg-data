@@ -1,0 +1,25 @@
+{
+    "id": "bw7-29",
+    "name": "Squirtle",
+    "number": "29",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956544",
+        "reverse-holo": "956695"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$54.76",
+                "grade9": "$28.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.46",
+                "psa10": "$250.00",
+                "grade9": "$156.80"
+            }
+        }
+    }
+}

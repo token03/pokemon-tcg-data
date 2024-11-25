@@ -1,0 +1,25 @@
+{
+    "id": "sm10-156",
+    "name": "Porygon2",
+    "number": "156",
+    "setId": "sm10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963312",
+        "reverse-holo": "963533"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$34.06",
+                "grade9": "$12.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.98",
+                "psa10": "$41.67",
+                "grade9": "$41.00"
+            }
+        }
+    }
+}

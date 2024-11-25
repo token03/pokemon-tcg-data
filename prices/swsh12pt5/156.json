@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-156",
+    "name": "Psychic Energy",
+    "number": "156",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "holo": "4637052"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$3.25",
+                "psa10": "$19.15",
+                "grade9": "$15.82"
+            }
+        }
+    }
+}

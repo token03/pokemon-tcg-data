@@ -1,0 +1,25 @@
+{
+    "id": "sv3-162",
+    "name": "Pidgey",
+    "number": "162",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605680",
+        "reverse-holo": "5605899"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.72",
+                "grade9": "$11.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$44.88",
+                "grade9": "$11.53"
+            }
+        }
+    }
+}

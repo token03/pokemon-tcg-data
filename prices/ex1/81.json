@@ -1,0 +1,25 @@
+{
+    "id": "ex1-81",
+    "name": "Energy Restore",
+    "number": "81",
+    "setId": "ex1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762934",
+        "reverse-holo": "763016"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "",
+                "grade9": "$18.52"
+            }
+        }
+    }
+}

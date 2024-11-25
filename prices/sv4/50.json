@@ -1,0 +1,19 @@
+{
+    "id": "sv4-50",
+    "name": "Golisopod ex",
+    "number": "50",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952887"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.64",
+                "psa10": "$37.53",
+                "grade9": "$12.22"
+            }
+        }
+    }
+}

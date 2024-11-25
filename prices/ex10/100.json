@@ -1,0 +1,25 @@
+{
+    "id": "ex10-100",
+    "name": "Warp Energy",
+    "number": "100",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888520",
+        "reverse-holo": "888662"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.86",
+                "psa10": "$67.84",
+                "grade9": "$11.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.37",
+                "psa10": "$150.00",
+                "grade9": "$19.26"
+            }
+        }
+    }
+}

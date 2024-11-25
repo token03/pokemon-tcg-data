@@ -1,0 +1,25 @@
+{
+    "id": "dp3-18",
+    "name": "Salamence",
+    "number": "18",
+    "setId": "dp3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920909",
+        "reverse-holo": "921040"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.47",
+                "psa10": "$610.00",
+                "grade9": "$43.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.51",
+                "psa10": "$450.00",
+                "grade9": "$39.02"
+            }
+        }
+    }
+}

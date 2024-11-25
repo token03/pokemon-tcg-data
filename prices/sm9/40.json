@@ -1,0 +1,25 @@
+{
+    "id": "sm9-40",
+    "name": "Zapdos",
+    "number": "40",
+    "setId": "sm9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962838",
+        "reverse-holo": "963031"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.90",
+                "psa10": "$54.05",
+                "grade9": "$11.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.04",
+                "psa10": "$32.68",
+                "grade9": "$28.13"
+            }
+        }
+    }
+}

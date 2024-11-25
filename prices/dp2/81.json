@@ -1,0 +1,25 @@
+{
+    "id": "dp2-81",
+    "name": "Electrike",
+    "number": "81",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920704",
+        "reverse-holo": "920828"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

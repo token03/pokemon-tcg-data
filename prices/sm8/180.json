@@ -1,0 +1,19 @@
+{
+    "id": "sm8-180",
+    "name": "Life Forest \u25c7",
+    "number": "180",
+    "setId": "sm8",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "962568"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$90.00",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

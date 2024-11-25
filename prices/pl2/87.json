@@ -1,0 +1,25 @@
+{
+    "id": "pl2-87",
+    "name": "Weezing",
+    "number": "87",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925483",
+        "reverse-holo": "925602"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$52.88",
+                "grade9": "$19.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": "$21.00"
+            }
+        }
+    }
+}

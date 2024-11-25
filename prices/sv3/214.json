@@ -1,0 +1,19 @@
+{
+    "id": "sv3-214",
+    "name": "Absol ex",
+    "number": "214",
+    "setId": "sv3",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5605732"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.60",
+                "psa10": "$30.00",
+                "grade9": "$10.88"
+            }
+        }
+    }
+}

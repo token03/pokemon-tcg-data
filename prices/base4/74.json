@@ -1,0 +1,19 @@
+{
+    "id": "base4-74",
+    "name": "Exeggcute",
+    "number": "74",
+    "setId": "base4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "641877"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$40.49",
+                "grade9": "$8.84"
+            }
+        }
+    }
+}

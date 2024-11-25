@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG35",
+    "name": "Leafeon VSTAR",
+    "number": "GG35",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4637091"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$31.00",
+                "psa10": "$115.25",
+                "grade9": "$40.00"
+            }
+        }
+    }
+}

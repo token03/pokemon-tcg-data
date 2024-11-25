@@ -1,0 +1,25 @@
+{
+    "id": "sv1-116",
+    "name": "Krokorok",
+    "number": "116",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933891",
+        "reverse-holo": "4934141"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "$35.07",
+                "grade9": "$11.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.07",
+                "psa10": "$34.68",
+                "grade9": "$11.56"
+            }
+        }
+    }
+}

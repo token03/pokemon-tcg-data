@@ -1,0 +1,25 @@
+{
+    "id": "pl3-84",
+    "name": "Spiritomb C",
+    "number": "84",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287131",
+        "reverse-holo": "1287285"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.46",
+                "psa10": "$64.99",
+                "grade9": "$22.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.39",
+                "psa10": "$348.68",
+                "grade9": "$81.67"
+            }
+        }
+    }
+}

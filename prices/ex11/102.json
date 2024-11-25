@@ -1,0 +1,25 @@
+{
+    "id": "ex11-102",
+    "name": "Switch",
+    "number": "102",
+    "setId": "ex11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888764",
+        "reverse-holo": "888878"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.78",
+                "psa10": "$24.00",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.71",
+                "psa10": "$50.00",
+                "grade9": "$14.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-87",
+    "name": "Dreepy",
+    "number": "87",
+    "setId": "swsh12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4277208",
+        "reverse-holo": "4293819"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.18",
+                "grade9": "$11.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$29.96",
+                "grade9": "$11.96"
+            }
+        }
+    }
+}

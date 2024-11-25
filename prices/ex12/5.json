@@ -1,0 +1,31 @@
+{
+    "id": "ex12-5",
+    "name": "Gengar",
+    "number": "5",
+    "setId": "ex12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888888",
+        "gym-challenge": "6331935",
+        "reverse-holo": "888980"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.25",
+                "psa10": "$419.89",
+                "grade9": "$75.90"
+            },
+            "gym-challenge": {
+                "ungraded": "$56.01",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$45.00",
+                "psa10": "$558.94",
+                "grade9": "$140.10"
+            }
+        }
+    }
+}

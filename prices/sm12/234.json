@@ -1,0 +1,19 @@
+{
+    "id": "sm12-234",
+    "name": "Red & Blue",
+    "number": "234",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964472"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$75.54",
+                "psa10": "$212.50",
+                "grade9": "$89.00"
+            }
+        }
+    }
+}

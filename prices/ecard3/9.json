@@ -1,0 +1,31 @@
+{
+    "id": "ecard3-9",
+    "name": "Forretress",
+    "number": "9",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "box-topper": "3930135",
+        "normal": "842673",
+        "reverse-holo": "2252609"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "box-topper": {
+                "ungraded": "$368.36",
+                "psa10": "$904.30",
+                "grade9": "$610.00"
+            },
+            "normal": {
+                "ungraded": "$6.51",
+                "psa10": "$38.22",
+                "grade9": "$17.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.99",
+                "psa10": "$165.08",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

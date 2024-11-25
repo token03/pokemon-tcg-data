@@ -1,0 +1,19 @@
+{
+    "id": "bw7-153",
+    "name": "Rocky Helmet",
+    "number": "153",
+    "setId": "bw7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "956668"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.99",
+                "psa10": "$125.00",
+                "grade9": "$41.11"
+            }
+        }
+    }
+}

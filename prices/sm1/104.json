@@ -1,0 +1,25 @@
+{
+    "id": "sm1-104",
+    "name": "Herdier",
+    "number": "104",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806848",
+        "reverse-holo": "806978"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$35.27",
+                "grade9": "$13.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$35.74",
+                "grade9": "$13.45"
+            }
+        }
+    }
+}

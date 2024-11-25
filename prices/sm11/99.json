@@ -1,0 +1,25 @@
+{
+    "id": "sm11-99",
+    "name": "Salazzle",
+    "number": "99",
+    "setId": "sm11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963665",
+        "reverse-holo": "963914"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$12.99",
+                "grade9": "$12.80"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl3-32",
+    "name": "Lunatone",
+    "number": "32",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287079",
+        "reverse-holo": "1287233"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.83",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$5.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

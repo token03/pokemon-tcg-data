@@ -1,0 +1,19 @@
+{
+    "id": "sm9-170",
+    "name": "Latias & Latios-GX",
+    "number": "170",
+    "setId": "sm9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962968"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$768.52",
+                "psa10": "$2,262.50",
+                "grade9": "$1,045.53"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh45-67",
+    "name": "Cara Liss",
+    "number": "67",
+    "setId": "swsh45",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "1341544"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.39",
+                "psa10": "$18.34",
+                "grade9": "$10.01"
+            }
+        }
+    }
+}

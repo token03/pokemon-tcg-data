@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-156",
+    "name": "Air Balloon",
+    "number": "156",
+    "setId": "swsh1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "807016",
+        "reverse-holo": "807017"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$34.76",
+                "grade9": "$12.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "$36.10",
+                "grade9": "$13.29"
+            }
+        }
+    }
+}

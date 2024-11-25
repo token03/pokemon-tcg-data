@@ -1,0 +1,19 @@
+{
+    "id": "bw10-65",
+    "name": "Dialga-EX",
+    "number": "65",
+    "setId": "bw10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "957367"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$74.06",
+                "grade9": "$34.06"
+            }
+        }
+    }
+}

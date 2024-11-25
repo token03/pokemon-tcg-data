@@ -1,0 +1,25 @@
+{
+    "id": "pl3-19",
+    "name": "Camerupt G",
+    "number": "19",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287066",
+        "reverse-holo": "1287220"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.11",
+                "psa10": "$56.70",
+                "grade9": "$21.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.04",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

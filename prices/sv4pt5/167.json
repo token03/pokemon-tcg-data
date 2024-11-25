@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-167",
+    "name": "Tinkaton",
+    "number": "167",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277086"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$28.87",
+                "grade9": "$7.50"
+            }
+        }
+    }
+}

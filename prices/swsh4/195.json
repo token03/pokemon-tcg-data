@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-195",
+    "name": "Leon",
+    "number": "195",
+    "setId": "swsh4",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "887732"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.80",
+                "psa10": "$25.74",
+                "grade9": "$11.07"
+            }
+        }
+    }
+}

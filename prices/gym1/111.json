@@ -1,0 +1,25 @@
+{
+    "id": "gym1-111",
+    "name": "Good Manners",
+    "number": "111",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762110",
+        "1st-edition": "2156421"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.24",
+                "psa10": "$26.59",
+                "grade9": "$10.93"
+            },
+            "1st-edition": {
+                "ungraded": "$6.14",
+                "psa10": "$65.69",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

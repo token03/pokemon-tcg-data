@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG03",
+    "name": "Octillery",
+    "number": "TG03",
+    "setId": "swsh9tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3216314"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$30.84",
+                "grade9": "$11.15"
+            }
+        }
+    }
+}

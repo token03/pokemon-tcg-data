@@ -1,0 +1,25 @@
+{
+    "id": "ex12-10",
+    "name": "Mew",
+    "number": "10",
+    "setId": "ex12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888893",
+        "reverse-holo": "888985"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.72",
+                "psa10": "$451.69",
+                "grade9": "$90.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$36.15",
+                "psa10": "$628.92",
+                "grade9": "$130.05"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-186",
+    "name": "Bisharp",
+    "number": "186",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277105"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.91",
+                "psa10": "$21.14",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "xy1-78",
+    "name": "Yveltal",
+    "number": "78",
+    "setId": "xy1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806575",
+        "reverse-holo": "806698",
+        "cracked-ice-holo": "5386057"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.29",
+                "psa10": "$47.50",
+                "grade9": "$25.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$2.43",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

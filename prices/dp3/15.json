@@ -1,0 +1,25 @@
+{
+    "id": "dp3-15",
+    "name": "Mew",
+    "number": "15",
+    "setId": "dp3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920906",
+        "reverse-holo": "921037"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.01",
+                "psa10": "$6,477.88",
+                "grade9": "$148.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.12",
+                "psa10": "$750.00",
+                "grade9": "$62.00"
+            }
+        }
+    }
+}

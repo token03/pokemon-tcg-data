@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG24",
+    "name": "Acerola's Premonition",
+    "number": "TG24",
+    "setId": "swsh9tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3216323"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.25",
+                "psa10": "$35.06",
+                "grade9": "$12.11"
+            }
+        }
+    }
+}

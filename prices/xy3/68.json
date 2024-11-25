@@ -1,0 +1,31 @@
+{
+    "id": "xy3-68",
+    "name": "Pangoro",
+    "number": "68",
+    "setId": "xy3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958051",
+        "cracked-ice-holo": "5386102",
+        "reverse-holo": "958158"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$39.46",
+                "grade9": "$15.25"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$1.26",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

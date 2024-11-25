@@ -1,0 +1,31 @@
+{
+    "id": "ex8-91",
+    "name": "Space Center",
+    "number": "91",
+    "setId": "ex8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888111",
+        "10th-anniversary": "5964283",
+        "reverse-holo": "888219"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.75",
+                "psa10": "$80.00",
+                "grade9": "$67.00"
+            },
+            "10th-anniversary": {
+                "ungraded": "$30.00",
+                "psa10": "$399.99",
+                "grade9": "$53.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.43",
+                "psa10": "$189.97",
+                "grade9": "$26.36"
+            }
+        }
+    }
+}

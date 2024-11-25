@@ -1,0 +1,19 @@
+{
+    "id": "sm8-201",
+    "name": "Zeraora-GX",
+    "number": "201",
+    "setId": "sm8",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962589"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.92",
+                "psa10": "$85.69",
+                "grade9": "$31.89"
+            }
+        }
+    }
+}

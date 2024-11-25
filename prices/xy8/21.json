@@ -1,0 +1,19 @@
+{
+    "id": "xy8-21",
+    "name": "Houndoom-EX",
+    "number": "21",
+    "setId": "xy8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959209"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$85.41",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

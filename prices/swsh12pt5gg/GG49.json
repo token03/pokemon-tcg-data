@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG49",
+    "name": "Drapion V",
+    "number": "GG49",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4637105"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.88",
+                "psa10": "$29.99",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp7-83",
+    "name": "Energy Link",
+    "number": "83",
+    "setId": "dp7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925876",
+        "reverse-holo": "925382"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.78",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp5-44",
+    "name": "Prinplup",
+    "number": "44",
+    "setId": "dp5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921406",
+        "reverse-holo": "921506"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$53.24",
+                "grade9": "$19.34"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": "$16.65"
+            }
+        }
+    }
+}

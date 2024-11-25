@@ -1,0 +1,25 @@
+{
+    "id": "neo2-64",
+    "name": "Spinarak",
+    "number": "64",
+    "setId": "neo2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762454",
+        "1st-edition": "2158477"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$26.88",
+                "grade9": "$12.02"
+            },
+            "1st-edition": {
+                "ungraded": "$2.24",
+                "psa10": "$25.38",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

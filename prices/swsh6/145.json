@@ -1,0 +1,31 @@
+{
+    "id": "swsh6-145",
+    "name": "Klara",
+    "number": "145",
+    "setId": "swsh6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2253949",
+        "cosmos-holo": "5705791",
+        "reverse-holo": "2254157"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$27.00",
+                "grade9": "$14.99"
+            },
+            "cosmos-holo": {
+                "ungraded": "$2.29",
+                "psa10": "$28.24",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$44.99",
+                "grade9": "$13.48"
+            }
+        }
+    }
+}

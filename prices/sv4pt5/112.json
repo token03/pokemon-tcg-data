@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-112",
+    "name": "Entei",
+    "number": "112",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277030"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.55",
+                "psa10": "$42.13",
+                "grade9": "$15.66"
+            }
+        }
+    }
+}

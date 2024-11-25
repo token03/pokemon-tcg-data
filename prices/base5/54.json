@@ -1,0 +1,25 @@
+{
+    "id": "base5-54",
+    "name": "Drowzee",
+    "number": "54",
+    "setId": "base5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643481",
+        "1st-edition": "1341395"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$40.00",
+                "grade9": "$14.28"
+            },
+            "1st-edition": {
+                "ungraded": "$2.10",
+                "psa10": "$39.97",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

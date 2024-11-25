@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG01",
+    "name": "Parasect",
+    "number": "TG01",
+    "setId": "swsh11tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4080753"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.34",
+                "psa10": "$40.00",
+                "grade9": "$7.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl2-90",
+    "name": "Bertha's Warmth",
+    "number": "90",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925486",
+        "reverse-holo": "925605"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.01",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

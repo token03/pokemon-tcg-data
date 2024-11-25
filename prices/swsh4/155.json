@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-155",
+    "name": "Memory Capsule",
+    "number": "155",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887694",
+        "reverse-holo": "887866"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.84",
+                "psa10": "$22.05",
+                "grade9": "$11.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$20.50",
+                "grade9": "$12.82"
+            }
+        }
+    }
+}

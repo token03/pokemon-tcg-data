@@ -1,0 +1,19 @@
+{
+    "id": "ex11-112",
+    "name": "Kyogre \u2605",
+    "number": "112",
+    "setId": "ex11",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "888774"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$385.35",
+                "psa10": "$4,133.01",
+                "grade9": "$1,061.38"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-196",
+    "name": "Erika's Invitation",
+    "number": "196",
+    "setId": "sv3pt5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5809577"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.83",
+                "psa10": "$40.50",
+                "grade9": "$13.40"
+            }
+        }
+    }
+}

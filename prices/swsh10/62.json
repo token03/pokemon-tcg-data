@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-62",
+    "name": "Gallade",
+    "number": "62",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "3489560",
+        "reverse-holo": "3489768"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "$38.35",
+                "grade9": "$13.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$38.11",
+                "grade9": "$13.19"
+            }
+        }
+    }
+}

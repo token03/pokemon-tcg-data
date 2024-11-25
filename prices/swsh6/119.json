@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-119",
+    "name": "Blissey V",
+    "number": "119",
+    "setId": "swsh6",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2253924"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.31",
+                "psa10": "$25.00",
+                "grade9": "$6.50"
+            }
+        }
+    }
+}

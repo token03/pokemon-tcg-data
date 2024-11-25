@@ -1,0 +1,25 @@
+{
+    "id": "neo4-26",
+    "name": "Light Piloswine",
+    "number": "26",
+    "setId": "neo4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762614",
+        "1st-edition": "2183354"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.99",
+                "psa10": "$67.40",
+                "grade9": "$24.26"
+            },
+            "1st-edition": {
+                "ungraded": "$9.63",
+                "psa10": "$67.41",
+                "grade9": "$13.50"
+            }
+        }
+    }
+}

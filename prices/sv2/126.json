@@ -1,0 +1,25 @@
+{
+    "id": "sv2-126",
+    "name": "Glimmora",
+    "number": "126",
+    "setId": "sv2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5287415",
+        "reverse-holo": "5287682"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$35.30",
+                "grade9": "$11.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$37.53",
+                "grade9": "$12.42"
+            }
+        }
+    }
+}

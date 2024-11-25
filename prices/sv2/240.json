@@ -1,0 +1,19 @@
+{
+    "id": "sv2-240",
+    "name": "Tinkaton ex",
+    "number": "240",
+    "setId": "sv2",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5287529"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.39",
+                "psa10": "$40.00",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

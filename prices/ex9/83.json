@@ -1,0 +1,25 @@
+{
+    "id": "ex9-83",
+    "name": "Rare Candy",
+    "number": "83",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888308",
+        "reverse-holo": "888415"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.86",
+                "psa10": "$36.00",
+                "grade9": "$30.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.00",
+                "psa10": "$450.24",
+                "grade9": "$51.31"
+            }
+        }
+    }
+}

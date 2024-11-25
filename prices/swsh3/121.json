@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-121",
+    "name": "Aron",
+    "number": "121",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887203",
+        "reverse-holo": "887380"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.75",
+                "grade9": "$5.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "$49.99",
+                "grade9": "$13.15"
+            }
+        }
+    }
+}

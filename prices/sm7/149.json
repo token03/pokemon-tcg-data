@@ -1,0 +1,25 @@
+{
+    "id": "sm7-149",
+    "name": "TV Reporter",
+    "number": "149",
+    "setId": "sm7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962062",
+        "reverse-holo": "962230"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.06",
+                "psa10": "$49.00",
+                "grade9": ""
+            }
+        }
+    }
+}

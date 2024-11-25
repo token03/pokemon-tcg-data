@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG18",
+    "name": "Single Strike Urshifu V",
+    "number": "TG18",
+    "setId": "swsh9tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3188405"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.04",
+                "psa10": "$25.47",
+                "grade9": "$10.77"
+            }
+        }
+    }
+}

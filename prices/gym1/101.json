@@ -1,0 +1,25 @@
+{
+    "id": "gym1-101",
+    "name": "Lt. Surge",
+    "number": "101",
+    "setId": "gym1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762099",
+        "1st-edition": "2156410"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.49",
+                "psa10": "$49.95",
+                "grade9": "$12.08"
+            },
+            "1st-edition": {
+                "ungraded": "$9.18",
+                "psa10": "$95.23",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

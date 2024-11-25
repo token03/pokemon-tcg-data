@@ -1,0 +1,25 @@
+{
+    "id": "ex15-55",
+    "name": "Natu \u03b4",
+    "number": "55",
+    "setId": "ex15",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889529",
+        "reverse-holo": "889630"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$64.82",
+                "grade9": "$11.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.43",
+                "psa10": "$51.98",
+                "grade9": "$17.76"
+            }
+        }
+    }
+}

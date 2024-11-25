@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-63",
+    "name": "Necrozma V",
+    "number": "63",
+    "setId": "swsh5",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "1673243"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$9.50",
+                "grade9": "$8.02"
+            }
+        }
+    }
+}

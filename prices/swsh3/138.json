@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-138",
+    "name": "Teddiursa",
+    "number": "138",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887218",
+        "reverse-holo": "887396"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$28.77",
+                "grade9": "$12.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.26",
+                "psa10": "$48.75",
+                "grade9": "$12.45"
+            }
+        }
+    }
+}

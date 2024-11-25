@@ -1,0 +1,19 @@
+{
+    "id": "sm7-14",
+    "name": "Shiftry-GX",
+    "number": "14",
+    "setId": "sm7",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961928"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.89",
+                "psa10": "$20.50",
+                "grade9": "$14.52"
+            }
+        }
+    }
+}

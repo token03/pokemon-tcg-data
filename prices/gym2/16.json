@@ -1,0 +1,25 @@
+{
+    "id": "gym2-16",
+    "name": "Sabrina's Alakazam",
+    "number": "16",
+    "setId": "gym2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762222",
+        "1st-edition": "1450210"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.92",
+                "psa10": "$375.00",
+                "grade9": "$85.32"
+            },
+            "1st-edition": {
+                "ungraded": "$75.00",
+                "psa10": "$770.00",
+                "grade9": "$199.99"
+            }
+        }
+    }
+}

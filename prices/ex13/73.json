@@ -1,0 +1,25 @@
+{
+    "id": "ex13-73",
+    "name": "Oddish \u03b4",
+    "number": "73",
+    "setId": "ex13",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889153",
+        "reverse-holo": "889262"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$61.00",
+                "grade9": "$50.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.50",
+                "psa10": "$144.57",
+                "grade9": "$49.98"
+            }
+        }
+    }
+}

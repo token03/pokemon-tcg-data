@@ -1,0 +1,19 @@
+{
+    "id": "mcd12-9",
+    "name": "Purrloin",
+    "number": "9",
+    "setId": "mcd12",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179976"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.56",
+                "psa10": "$65.30",
+                "grade9": "$26.62"
+            }
+        }
+    }
+}

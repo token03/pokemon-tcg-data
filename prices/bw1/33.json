@@ -1,0 +1,25 @@
+{
+    "id": "bw1-33",
+    "name": "Panpour",
+    "number": "33",
+    "setId": "bw1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806347",
+        "reverse-holo": "806434"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

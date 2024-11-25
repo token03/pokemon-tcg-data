@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-22",
+    "name": "Buizel",
+    "number": "22",
+    "setId": "swsh45",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1341499",
+        "reverse-holo": "1341689"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.07",
+                "psa10": "$30.27",
+                "grade9": "$10.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$11.50",
+                "grade9": "$3.00"
+            }
+        }
+    }
+}

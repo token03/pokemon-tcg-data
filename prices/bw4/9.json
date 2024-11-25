@@ -1,0 +1,25 @@
+{
+    "id": "bw4-9",
+    "name": "Amoonguss",
+    "number": "9",
+    "setId": "bw4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955861",
+        "reverse-holo": "955963"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "",
+                "grade9": "$11.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

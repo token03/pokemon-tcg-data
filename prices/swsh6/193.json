@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-193",
+    "name": "Karen's Conviction",
+    "number": "193",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253997"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.67",
+                "psa10": "$40.04",
+                "grade9": "$24.27"
+            }
+        }
+    }
+}

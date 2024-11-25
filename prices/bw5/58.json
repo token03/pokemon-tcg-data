@@ -1,0 +1,25 @@
+{
+    "id": "bw5-58",
+    "name": "Timburr",
+    "number": "58",
+    "setId": "bw5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956104",
+        "reverse-holo": "956212"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.24",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

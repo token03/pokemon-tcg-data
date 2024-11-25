@@ -1,0 +1,19 @@
+{
+    "id": "ex6-110",
+    "name": "Mr. Mime ex",
+    "number": "110",
+    "setId": "ex6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "850077"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.65",
+                "psa10": "$233.47",
+                "grade9": "$58.30"
+            }
+        }
+    }
+}

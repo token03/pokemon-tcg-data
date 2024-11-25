@@ -1,0 +1,25 @@
+{
+    "id": "sm9-44",
+    "name": "Blitzle",
+    "number": "44",
+    "setId": "sm9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962842",
+        "reverse-holo": "963034"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

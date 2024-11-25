@@ -1,0 +1,25 @@
+{
+    "id": "sm1-68",
+    "name": "Hariyama",
+    "number": "68",
+    "setId": "sm1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "807013",
+        "reverse-holo": "806945"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$35.88",
+                "grade9": "$13.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$35.74",
+                "grade9": "$13.45"
+            }
+        }
+    }
+}

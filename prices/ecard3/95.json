@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-95",
+    "name": "Seel",
+    "number": "95",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887977",
+        "reverse-holo": "2252693"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.16",
+                "psa10": "$64.00",
+                "grade9": "$21.18"
+            },
+            "reverse-holo": {
+                "ungraded": "$15.93",
+                "psa10": "$148.55",
+                "grade9": "$44.44"
+            }
+        }
+    }
+}

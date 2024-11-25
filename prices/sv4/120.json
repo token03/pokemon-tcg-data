@@ -1,0 +1,25 @@
+{
+    "id": "sv4-120",
+    "name": "Thievul",
+    "number": "120",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5983899",
+        "reverse-holo": "5953212"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": "$7.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.22",
+                "psa10": "$35.66",
+                "grade9": "$11.67"
+            }
+        }
+    }
+}

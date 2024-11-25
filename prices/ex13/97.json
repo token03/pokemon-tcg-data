@@ -1,0 +1,25 @@
+{
+    "id": "ex13-97",
+    "name": "Dark Metal Energy",
+    "number": "97",
+    "setId": "ex13",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889177",
+        "holo": "889286"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.10",
+                "psa10": "$89.55",
+                "grade9": "$31.64"
+            },
+            "holo": {
+                "ungraded": "$9.12",
+                "psa10": "$188.37",
+                "grade9": "$67.58"
+            }
+        }
+    }
+}

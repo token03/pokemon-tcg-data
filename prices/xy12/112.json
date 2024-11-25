@@ -1,0 +1,19 @@
+{
+    "id": "xy12-112",
+    "name": "Imakuni?'s Doduo",
+    "number": "112",
+    "setId": "xy12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960391"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.74",
+                "psa10": "$36.90",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

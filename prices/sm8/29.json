@@ -1,0 +1,25 @@
+{
+    "id": "sm8-29",
+    "name": "Nincada",
+    "number": "29",
+    "setId": "sm8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962417",
+        "reverse-holo": "962650"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

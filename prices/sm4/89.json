@@ -1,0 +1,25 @@
+{
+    "id": "sm4-89",
+    "name": "Type: Null",
+    "number": "89",
+    "setId": "sm4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961235",
+        "reverse-holo": "961352"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "$13.81",
+                "grade9": "$10.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$38.66",
+                "grade9": "$3.05"
+            }
+        }
+    }
+}

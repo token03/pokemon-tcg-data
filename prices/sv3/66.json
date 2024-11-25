@@ -1,0 +1,19 @@
+{
+    "id": "sv3-66",
+    "name": "Tyranitar ex",
+    "number": "66",
+    "setId": "sv3",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5605584"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$23.50",
+                "grade9": "$9.44"
+            }
+        }
+    }
+}

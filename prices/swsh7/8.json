@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-8",
+    "name": "Leafeon VMAX",
+    "number": "8",
+    "setId": "swsh7",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "2512819",
+        "play": "6769447"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.86",
+                "psa10": "$34.99",
+                "grade9": "$15.50"
+            },
+            "play": {
+                "ungraded": "$65.74",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

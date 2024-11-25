@@ -1,0 +1,25 @@
+{
+    "id": "sm10-56",
+    "name": "Stunfisk",
+    "number": "56",
+    "setId": "sm10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963212",
+        "reverse-holo": "963442"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.39",
+                "grade9": "$12.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

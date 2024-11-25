@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-58",
+    "name": "Marill",
+    "number": "58",
+    "setId": "swsh8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2771087",
+        "reverse-holo": "2771357"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.91",
+                "grade9": "$11.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.90",
+                "grade9": "$11.68"
+            }
+        }
+    }
+}

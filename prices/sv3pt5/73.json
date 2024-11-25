@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-73",
+    "name": "Tentacruel",
+    "number": "73",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809454",
+        "reverse-holo": "5809657"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$35.60",
+                "grade9": "$11.69"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$36.97",
+                "grade9": "$12.11"
+            }
+        }
+    }
+}

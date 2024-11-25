@@ -1,0 +1,19 @@
+{
+    "id": "base4-12",
+    "name": "Nidoqueen",
+    "number": "12",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641815"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.03",
+                "psa10": "$698.84",
+                "grade9": "$62.42"
+            }
+        }
+    }
+}

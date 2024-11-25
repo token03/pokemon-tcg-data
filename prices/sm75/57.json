@@ -1,0 +1,25 @@
+{
+    "id": "sm75-57",
+    "name": "Swablu",
+    "number": "57",
+    "setId": "sm75",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962291",
+        "reverse-holo": "962362"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

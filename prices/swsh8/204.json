@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-204",
+    "name": "Kangaskhan",
+    "number": "204",
+    "setId": "swsh8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2771230",
+        "reverse-holo": "2771488"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.91",
+                "grade9": "$11.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$34.89",
+                "grade9": "$12.11"
+            }
+        }
+    }
+}

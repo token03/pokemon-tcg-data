@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG09",
+    "name": "Druddigon",
+    "number": "TG09",
+    "setId": "swsh12tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4277097"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "$31.25",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "hgss4-96",
+    "name": "Magnezone",
+    "number": "96",
+    "setId": "hgss4",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "926153"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.13",
+                "psa10": "$135.00",
+                "grade9": "$35.46"
+            }
+        }
+    }
+}

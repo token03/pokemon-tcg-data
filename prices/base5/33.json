@@ -1,0 +1,25 @@
+{
+    "id": "base5-33",
+    "name": "Dark Dragonair",
+    "number": "33",
+    "setId": "base5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643452",
+        "1st-edition": "1341375"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.80",
+                "psa10": "$69.50",
+                "grade9": "$23.73"
+            },
+            "1st-edition": {
+                "ungraded": "$8.48",
+                "psa10": "$142.50",
+                "grade9": "$27.61"
+            }
+        }
+    }
+}

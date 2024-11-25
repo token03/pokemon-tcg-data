@@ -1,0 +1,19 @@
+{
+    "id": "ex4-93",
+    "name": "Sceptile ex",
+    "number": "93",
+    "setId": "ex4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849662"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$72.00",
+                "psa10": "$674.05",
+                "grade9": "$228.34"
+            }
+        }
+    }
+}

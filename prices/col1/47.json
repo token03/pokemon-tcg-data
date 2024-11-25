@@ -1,0 +1,25 @@
+{
+    "id": "col1-47",
+    "name": "Mime Jr.",
+    "number": "47",
+    "setId": "col1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926298",
+        "reverse-holo": "926404"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$52.66",
+                "grade9": "$20.47"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.10",
+                "psa10": "$180.00",
+                "grade9": "$149.95"
+            }
+        }
+    }
+}

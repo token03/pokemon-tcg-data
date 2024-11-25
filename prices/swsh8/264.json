@@ -1,0 +1,19 @@
+{
+    "id": "swsh8-264",
+    "name": "Sidney",
+    "number": "264",
+    "setId": "swsh8",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2771290"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$21.26",
+                "grade9": "$9.04"
+            }
+        }
+    }
+}

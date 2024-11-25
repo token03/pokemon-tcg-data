@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-35",
+    "name": "Bayleef",
+    "number": "35",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806148",
+        "reverse-holo": "806254"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$52.44",
+                "grade9": "$19.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.01",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

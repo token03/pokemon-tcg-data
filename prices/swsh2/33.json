@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-33",
+    "name": "Chandelure",
+    "number": "33",
+    "setId": "swsh2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886765",
+        "reverse-holo": "886963"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "$45.00",
+                "grade9": "$13.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$37.57",
+                "grade9": "$13.99"
+            }
+        }
+    }
+}

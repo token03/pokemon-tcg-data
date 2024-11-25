@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-51",
+    "name": "Radiant Charjabug",
+    "number": "51",
+    "setId": "swsh12pt5",
+    "rarity": "Radiant Rare",
+    "priceChartingIds": {
+        "normal": "4636946",
+        "reverse-holo": "4637167"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$25.00",
+                "grade9": "$9.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$36.06",
+                "grade9": "$12.10"
+            }
+        }
+    }
+}

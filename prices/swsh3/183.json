@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-183",
+    "name": "Scizor V",
+    "number": "183",
+    "setId": "swsh3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887261"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.14",
+                "psa10": "$31.00",
+                "grade9": "$16.49"
+            }
+        }
+    }
+}

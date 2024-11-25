@@ -1,0 +1,25 @@
+{
+    "id": "bw4-55",
+    "name": "Ralts",
+    "number": "55",
+    "setId": "bw4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955907",
+        "reverse-holo": "956006"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.96",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

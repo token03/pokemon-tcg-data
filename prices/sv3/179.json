@@ -1,0 +1,19 @@
+{
+    "id": "sv3-179",
+    "name": "Greedent ex",
+    "number": "179",
+    "setId": "sv3",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5605697"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.36",
+                "psa10": "$25.46",
+                "grade9": "$9.38"
+            }
+        }
+    }
+}

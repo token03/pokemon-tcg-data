@@ -1,0 +1,25 @@
+{
+    "id": "xy9-108",
+    "name": "Psychic's Third Eye",
+    "number": "108",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959599",
+        "reverse-holo": "959707"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$36.39",
+                "grade9": "$13.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "$38.22",
+                "grade9": "$14.85"
+            }
+        }
+    }
+}

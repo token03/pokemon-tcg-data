@@ -1,0 +1,19 @@
+{
+    "id": "sv4-108",
+    "name": "Sandy Shocks ex",
+    "number": "108",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952946"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.37",
+                "psa10": "$40.46",
+                "grade9": "$13.08"
+            }
+        }
+    }
+}

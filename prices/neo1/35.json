@@ -1,0 +1,25 @@
+{
+    "id": "neo1-35",
+    "name": "Furret",
+    "number": "35",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762352",
+        "1st-edition": "2324867"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.10",
+                "psa10": "$69.25",
+                "grade9": "$16.19"
+            },
+            "1st-edition": {
+                "ungraded": "$3.87",
+                "psa10": "$55.00",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

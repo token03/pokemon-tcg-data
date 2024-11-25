@@ -1,0 +1,25 @@
+{
+    "id": "sm3-52",
+    "name": "Dusclops",
+    "number": "52",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960836",
+        "reverse-holo": "961000"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.01",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.57",
+                "psa10": "$47.00",
+                "grade9": "$39.50"
+            }
+        }
+    }
+}

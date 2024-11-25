@@ -1,0 +1,25 @@
+{
+    "id": "g1-3",
+    "name": "Caterpie",
+    "number": "3",
+    "setId": "g1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959715",
+        "reverse-holo": "2864132"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.91",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

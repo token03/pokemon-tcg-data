@@ -1,0 +1,25 @@
+{
+    "id": "sm12-87",
+    "name": "Woobat",
+    "number": "87",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964325",
+        "reverse-holo": "964588"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.66",
+                "psa10": "$36.32",
+                "grade9": "$13.54"
+            }
+        }
+    }
+}

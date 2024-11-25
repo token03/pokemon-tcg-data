@@ -1,0 +1,31 @@
+{
+    "id": "xy2-80",
+    "name": "Snorlax",
+    "number": "80",
+    "setId": "xy2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5205639",
+        "build-a-bear": "5205641",
+        "reverse-holo": "957927"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$41.16",
+                "psa10": "",
+                "grade9": "$176.63"
+            },
+            "build-a-bear": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.73",
+                "psa10": "$95.00",
+                "grade9": "$78.83"
+            }
+        }
+    }
+}

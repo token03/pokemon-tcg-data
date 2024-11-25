@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG29",
+    "name": "Single Strike Urshifu VMAX",
+    "number": "TG29",
+    "setId": "swsh9tg",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "3216328"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.22",
+                "psa10": "$26.00",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

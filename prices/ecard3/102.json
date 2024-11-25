@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-102",
+    "name": "Stantler",
+    "number": "102",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842757",
+        "reverse-holo": "2252701"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.59",
+                "psa10": "$38.00",
+                "grade9": "$19.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$21.89",
+                "psa10": "$107.64",
+                "grade9": "$30.05"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv6-177",
+    "name": "Heliolisk",
+    "number": "177",
+    "setId": "sv6",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6775696"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.81",
+                "psa10": "$45.10",
+                "grade9": "$13.94"
+            }
+        }
+    }
+}

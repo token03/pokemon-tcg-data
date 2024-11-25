@@ -1,0 +1,19 @@
+{
+    "id": "sm6-133",
+    "name": "Greninja-GX",
+    "number": "133",
+    "setId": "sm6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961796"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$37.49",
+                "psa10": "$149.69",
+                "grade9": "$56.72"
+            }
+        }
+    }
+}

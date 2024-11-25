@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-3",
+    "name": "Maractus",
+    "number": "3",
+    "setId": "sv4pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6276922",
+        "reverse-holo": "6277168"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.58",
+                "psa10": "$32.76",
+                "grade9": "$10.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.76",
+                "psa10": "$33.95",
+                "grade9": "$11.95"
+            }
+        }
+    }
+}

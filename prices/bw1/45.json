@@ -1,0 +1,25 @@
+{
+    "id": "bw1-45",
+    "name": "Joltik",
+    "number": "45",
+    "setId": "bw1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886693",
+        "reverse-holo": "886714"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.23",
+                "psa10": "$52.55",
+                "grade9": "$12.30"
+            }
+        }
+    }
+}

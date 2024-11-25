@@ -1,0 +1,25 @@
+{
+    "id": "dp5-66",
+    "name": "Hippopotas",
+    "number": "66",
+    "setId": "dp5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921428",
+        "reverse-holo": "921528"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.85",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

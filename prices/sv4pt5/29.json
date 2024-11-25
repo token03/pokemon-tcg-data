@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-29",
+    "name": "Gardevoir ex",
+    "number": "29",
+    "setId": "sv4pt5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "6276948"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.44",
+                "psa10": "$36.86",
+                "grade9": "$11.93"
+            }
+        }
+    }
+}

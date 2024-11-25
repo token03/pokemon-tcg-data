@@ -1,0 +1,25 @@
+{
+    "id": "sv1-34",
+    "name": "Houndoom",
+    "number": "34",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933811",
+        "reverse-holo": "4934064"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$25.56",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$34.55",
+                "grade9": "$13.18"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw3-48",
+    "name": "Trubbish",
+    "number": "48",
+    "setId": "bw3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955703",
+        "reverse-holo": "955805"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.69",
+                "psa10": "$55.21",
+                "grade9": "$22.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.57",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

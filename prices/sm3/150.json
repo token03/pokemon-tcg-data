@@ -1,0 +1,19 @@
+{
+    "id": "sm3-150",
+    "name": "Charizard-GX",
+    "number": "150",
+    "setId": "sm3",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "960934"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$130.00",
+                "psa10": "$2,675.00",
+                "grade9": "$472.21"
+            }
+        }
+    }
+}

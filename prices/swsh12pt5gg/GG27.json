@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG27",
+    "name": "Swablu",
+    "number": "GG27",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637083"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$32.67",
+                "grade9": "$9.52"
+            }
+        }
+    }
+}

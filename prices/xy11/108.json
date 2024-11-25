@@ -1,0 +1,19 @@
+{
+    "id": "xy11-108",
+    "name": "Steelix-EX",
+    "number": "108",
+    "setId": "xy11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960187"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.88",
+                "psa10": "$69.00",
+                "grade9": "$27.78"
+            }
+        }
+    }
+}

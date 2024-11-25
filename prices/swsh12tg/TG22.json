@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG22",
+    "name": "Blissey V",
+    "number": "TG22",
+    "setId": "swsh12tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277110"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$44.40",
+                "grade9": "$16.20"
+            }
+        }
+    }
+}

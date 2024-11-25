@@ -1,0 +1,25 @@
+{
+    "id": "base3-28",
+    "name": "Muk",
+    "number": "28",
+    "setId": "base3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341276",
+        "1st-edition": "1099522"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.82",
+                "psa10": "$60.77",
+                "grade9": "$22.47"
+            },
+            "1st-edition": {
+                "ungraded": "$10.33",
+                "psa10": "$148.50",
+                "grade9": "$23.14"
+            }
+        }
+    }
+}

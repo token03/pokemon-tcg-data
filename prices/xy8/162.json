@@ -1,0 +1,19 @@
+{
+    "id": "xy8-162",
+    "name": "Giovanni's Scheme",
+    "number": "162",
+    "setId": "xy8",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959351"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.05",
+                "psa10": "$110.75",
+                "grade9": "$26.82"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-92",
+    "name": "Solrock",
+    "number": "92",
+    "setId": "swsh3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887177",
+        "reverse-holo": "887360"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.80",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$4.25",
+                "grade9": "$1.25"
+            }
+        }
+    }
+}

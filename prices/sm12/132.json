@@ -1,0 +1,25 @@
+{
+    "id": "sm12-132",
+    "name": "Carvanha",
+    "number": "132",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964370",
+        "reverse-holo": "964630"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.96",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

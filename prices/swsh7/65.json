@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-65",
+    "name": "Espeon VMAX",
+    "number": "65",
+    "setId": "swsh7",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "2512876",
+        "prize-pack": "6330500"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.83",
+                "psa10": "$39.99",
+                "grade9": "$15.50"
+            },
+            "prize-pack": {
+                "ungraded": "$50.67",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

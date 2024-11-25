@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-194",
+    "name": "Bill's Transfer",
+    "number": "194",
+    "setId": "sv3pt5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5809580"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.80",
+                "psa10": "$32.17",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

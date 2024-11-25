@@ -1,0 +1,19 @@
+{
+    "id": "xy6-58",
+    "name": "Latios-EX",
+    "number": "58",
+    "setId": "xy6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958881"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.82",
+                "psa10": "$56.46",
+                "grade9": "$21.91"
+            }
+        }
+    }
+}

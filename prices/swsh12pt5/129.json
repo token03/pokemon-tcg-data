@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-129",
+    "name": "Energy Switch",
+    "number": "129",
+    "setId": "swsh12pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4637025",
+        "reverse-holo": "4637225"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$35.02",
+                "grade9": "$11.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.53",
+                "psa10": "$36.57",
+                "grade9": "$12.28"
+            }
+        }
+    }
+}

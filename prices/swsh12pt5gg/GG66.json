@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG66",
+    "name": "Roxanne",
+    "number": "GG66",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4637122"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.02",
+                "psa10": "$29.52",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

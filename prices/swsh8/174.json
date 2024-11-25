@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-174",
+    "name": "Pangoro",
+    "number": "174",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771201",
+        "reverse-holo": "2771460"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$35.21",
+                "grade9": "$12.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "$35.48",
+                "grade9": "$12.36"
+            }
+        }
+    }
+}

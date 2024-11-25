@@ -1,0 +1,31 @@
+{
+    "id": "sv1-170",
+    "name": "Electric Generator",
+    "number": "170",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933944",
+        "prize-pack": "6658426",
+        "reverse-holo": "4934190"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$36.51",
+                "grade9": "$12.18"
+            },
+            "prize-pack": {
+                "ungraded": "$3.83",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "$36.47",
+                "grade9": "$12.16"
+            }
+        }
+    }
+}

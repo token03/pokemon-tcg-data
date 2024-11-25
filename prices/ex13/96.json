@@ -1,0 +1,25 @@
+{
+    "id": "ex13-96",
+    "name": "Multi Energy",
+    "number": "96",
+    "setId": "ex13",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889176",
+        "reverse-holo": "889285"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "$67.06",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.71",
+                "psa10": "",
+                "grade9": "$39.00"
+            }
+        }
+    }
+}

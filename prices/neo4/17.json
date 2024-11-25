@@ -1,0 +1,25 @@
+{
+    "id": "neo4-17",
+    "name": "Dark Ariados",
+    "number": "17",
+    "setId": "neo4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762558",
+        "1st-edition": "2183298"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.63",
+                "psa10": "$25.46",
+                "grade9": "$19.91"
+            },
+            "1st-edition": {
+                "ungraded": "$9.99",
+                "psa10": "$75.00",
+                "grade9": "$13.31"
+            }
+        }
+    }
+}

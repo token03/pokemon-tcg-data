@@ -1,0 +1,19 @@
+{
+    "id": "sv3-223",
+    "name": "Charizard ex",
+    "number": "223",
+    "setId": "sv3",
+    "rarity": "Special Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5605741"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$46.50",
+                "psa10": "$219.47",
+                "grade9": "$56.18"
+            }
+        }
+    }
+}

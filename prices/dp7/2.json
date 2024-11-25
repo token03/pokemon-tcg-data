@@ -1,0 +1,25 @@
+{
+    "id": "dp7-2",
+    "name": "Empoleon",
+    "number": "2",
+    "setId": "dp7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925215",
+        "reverse-holo": "925306"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$85.79",
+                "grade9": "$47.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.30",
+                "psa10": "$76.12",
+                "grade9": "$38.59"
+            }
+        }
+    }
+}

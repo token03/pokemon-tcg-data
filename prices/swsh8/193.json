@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-193",
+    "name": "Latias",
+    "number": "193",
+    "setId": "swsh8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2771219",
+        "reverse-holo": "2771478"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "$15.00",
+                "grade9": "$12.67"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.53",
+                "psa10": "$36.03",
+                "grade9": "$20.49"
+            }
+        }
+    }
+}

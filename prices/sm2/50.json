@@ -1,0 +1,25 @@
+{
+    "id": "sm2-50",
+    "name": "Trubbish",
+    "number": "50",
+    "setId": "sm2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960547",
+        "reverse-holo": "960711"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.49",
+                "grade9": "$12.71"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.80",
+                "psa10": "$38.16",
+                "grade9": "$14.92"
+            }
+        }
+    }
+}

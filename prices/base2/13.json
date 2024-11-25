@@ -1,0 +1,31 @@
+{
+    "id": "base2-13",
+    "name": "Venomoth",
+    "number": "13",
+    "setId": "base2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643340",
+        "1st-edition": "643388",
+        "no-symbol": "3179689"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.25",
+                "psa10": "$330.33",
+                "grade9": "$46.61"
+            },
+            "1st-edition": {
+                "ungraded": "$22.65",
+                "psa10": "$754.34",
+                "grade9": "$114.60"
+            },
+            "no-symbol": {
+                "ungraded": "$17.52",
+                "psa10": "$850.00",
+                "grade9": "$70.94"
+            }
+        }
+    }
+}

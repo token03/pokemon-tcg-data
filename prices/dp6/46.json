@@ -1,0 +1,25 @@
+{
+    "id": "dp6-46",
+    "name": "Anorith",
+    "number": "46",
+    "setId": "dp6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "924977",
+        "reverse-holo": "925123"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.48",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

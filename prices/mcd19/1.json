@@ -1,0 +1,19 @@
+{
+    "id": "mcd19-1",
+    "name": "Caterpie",
+    "number": "1",
+    "setId": "mcd19",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180052"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.67",
+                "psa10": "$40.24",
+                "grade9": "$17.81"
+            }
+        }
+    }
+}

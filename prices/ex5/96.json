@@ -1,0 +1,19 @@
+{
+    "id": "ex5-96",
+    "name": "Ninetales ex",
+    "number": "96",
+    "setId": "ex5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849869"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$77.31",
+                "psa10": "$700.00",
+                "grade9": "$180.06"
+            }
+        }
+    }
+}

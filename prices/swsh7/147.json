@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-147",
+    "name": "Elemental Badge",
+    "number": "147",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512957",
+        "reverse-holo": "2513161"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$34.76",
+                "grade9": "$12.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$34.80",
+                "grade9": "$12.14"
+            }
+        }
+    }
+}

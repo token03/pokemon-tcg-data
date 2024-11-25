@@ -1,0 +1,25 @@
+{
+    "id": "ex13-41",
+    "name": "Exeggutor \u03b4",
+    "number": "41",
+    "setId": "ex13",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889121",
+        "reverse-holo": "889232"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.97",
+                "psa10": "$130.33",
+                "grade9": "$43.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.07",
+                "psa10": "$204.30",
+                "grade9": "$51.99"
+            }
+        }
+    }
+}

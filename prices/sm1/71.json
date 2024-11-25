@@ -1,0 +1,25 @@
+{
+    "id": "sm1-71",
+    "name": "Gigalith",
+    "number": "71",
+    "setId": "sm1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806816",
+        "reverse-holo": "806948"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$35.94",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "$37.50",
+                "grade9": "$14.51"
+            }
+        }
+    }
+}

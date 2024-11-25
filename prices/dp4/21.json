@@ -1,0 +1,25 @@
+{
+    "id": "dp4-21",
+    "name": "Lapras",
+    "number": "21",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921175",
+        "reverse-holo": "921281"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.78",
+                "psa10": "$72.51",
+                "grade9": "$21.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.25",
+                "psa10": "$371.45",
+                "grade9": "$53.97"
+            }
+        }
+    }
+}

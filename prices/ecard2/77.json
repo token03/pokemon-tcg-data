@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-77",
+    "name": "Exeggcute",
+    "number": "77",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887926",
+        "reverse-holo": "2293968"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$24.50",
+                "grade9": "$22.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.00",
+                "psa10": "$194.50",
+                "grade9": "$41.50"
+            }
+        }
+    }
+}

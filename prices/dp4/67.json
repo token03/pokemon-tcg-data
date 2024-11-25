@@ -1,0 +1,25 @@
+{
+    "id": "dp4-67",
+    "name": "Feebas",
+    "number": "67",
+    "setId": "dp4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921221",
+        "reverse-holo": "921327"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.84",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

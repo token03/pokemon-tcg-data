@@ -1,0 +1,19 @@
+{
+    "id": "sm75-77",
+    "name": "Switch Raft",
+    "number": "77",
+    "setId": "sm75",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "962311"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.87",
+                "psa10": "$47.60",
+                "grade9": "$22.44"
+            }
+        }
+    }
+}

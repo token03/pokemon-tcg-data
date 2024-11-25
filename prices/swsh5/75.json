@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-75",
+    "name": "Conkeldurr",
+    "number": "75",
+    "setId": "swsh5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1673255",
+        "reverse-holo": "1725054"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.80",
+                "grade9": "$11.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$14.00",
+                "grade9": "$12.01"
+            }
+        }
+    }
+}

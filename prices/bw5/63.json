@@ -1,0 +1,19 @@
+{
+    "id": "bw5-63",
+    "name": "Darkrai-EX",
+    "number": "63",
+    "setId": "bw5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956109"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.24",
+                "psa10": "$350.00",
+                "grade9": "$29.88"
+            }
+        }
+    }
+}

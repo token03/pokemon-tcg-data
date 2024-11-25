@@ -1,0 +1,19 @@
+{
+    "id": "sm6-135",
+    "name": "Lucario-GX",
+    "number": "135",
+    "setId": "sm6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961798"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.12",
+                "psa10": "$162.25",
+                "grade9": "$45.02"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "xy6-23",
+    "name": "Zapdos",
+    "number": "23",
+    "setId": "xy6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958846",
+        "cracked-ice-holo": "3395651",
+        "reverse-holo": "958956"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.27",
+                "psa10": "$40.85",
+                "grade9": "$11.00"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$2.95",
+                "psa10": "",
+                "grade9": "$181.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.83",
+                "psa10": "$190.00",
+                "grade9": "$27.87"
+            }
+        }
+    }
+}

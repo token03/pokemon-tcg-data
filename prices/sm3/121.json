@@ -1,0 +1,25 @@
+{
+    "id": "sm3-121",
+    "name": "Po Town",
+    "number": "121",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960905",
+        "reverse-holo": "961062"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": "$6.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": "$0.99"
+            }
+        }
+    }
+}

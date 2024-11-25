@@ -1,0 +1,31 @@
+{
+    "id": "xy11-25",
+    "name": "Volcanion",
+    "number": "25",
+    "setId": "xy11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960104",
+        "reverse-holo-pokemon-league": "3179778",
+        "reverse-holo": "960217"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$37.85",
+                "grade9": "$10.01"
+            },
+            "reverse-holo-pokemon-league": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.03",
+                "psa10": "$40.03",
+                "grade9": "$15.98"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo4-58",
+    "name": "Unown [P]",
+    "number": "58",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762656",
+        "1st-edition": "2183396"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.68",
+                "psa10": "$41.92",
+                "grade9": "$20.74"
+            },
+            "1st-edition": {
+                "ungraded": "$4.91",
+                "psa10": "$51.00",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

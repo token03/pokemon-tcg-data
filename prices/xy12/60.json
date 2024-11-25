@@ -1,0 +1,19 @@
+{
+    "id": "xy12-60",
+    "name": "Machamp BREAK",
+    "number": "60",
+    "setId": "xy12",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "960348"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.70",
+                "psa10": "$25.92",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

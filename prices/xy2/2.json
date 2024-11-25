@@ -1,0 +1,25 @@
+{
+    "id": "xy2-2",
+    "name": "Metapod",
+    "number": "2",
+    "setId": "xy2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957749",
+        "reverse-holo": "957858"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.36",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

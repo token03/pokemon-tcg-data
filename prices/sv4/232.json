@@ -1,0 +1,19 @@
+{
+    "id": "sv4-232",
+    "name": "Altaria ex",
+    "number": "232",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953071"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.37",
+                "psa10": "$12.64",
+                "grade9": "$10.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm12-174",
+    "name": "Lillipup",
+    "number": "174",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964412",
+        "reverse-holo": "964667"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$20.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "$36.74",
+                "grade9": "$13.78"
+            }
+        }
+    }
+}

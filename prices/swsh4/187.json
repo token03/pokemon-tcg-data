@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-187",
+    "name": "Galarian Darmanitan VMAX",
+    "number": "187",
+    "setId": "swsh4",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "889865"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.60",
+                "psa10": "$23.47",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

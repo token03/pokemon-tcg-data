@@ -1,0 +1,25 @@
+{
+    "id": "gym1-95",
+    "name": "Sabrina's Slowpoke",
+    "number": "95",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762203",
+        "1st-edition": "2156533"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$59.69",
+                "grade9": "$15.26"
+            },
+            "1st-edition": {
+                "ungraded": "$2.75",
+                "psa10": "$71.08",
+                "grade9": "$23.20"
+            }
+        }
+    }
+}

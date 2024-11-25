@@ -1,0 +1,19 @@
+{
+    "id": "pop5-5",
+    "name": "Charmeleon \u03b4",
+    "number": "5",
+    "setId": "pop5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762765"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.59",
+                "psa10": "$245.65",
+                "grade9": "$94.57"
+            }
+        }
+    }
+}

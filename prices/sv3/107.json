@@ -1,0 +1,31 @@
+{
+    "id": "sv3-107",
+    "name": "Nosepass",
+    "number": "107",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605625",
+        "print-error": "6518250",
+        "reverse-holo": "5605854"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$35.07",
+                "grade9": "$11.58"
+            },
+            "print-error": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.94",
+                "psa10": "$34.17",
+                "grade9": "$11.29"
+            }
+        }
+    }
+}

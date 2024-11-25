@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-79",
+    "name": "Elgyem",
+    "number": "79",
+    "setId": "swsh12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4277200",
+        "reverse-holo": "4293813"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$36.38",
+                "grade9": "$12.30"
+            }
+        }
+    }
+}

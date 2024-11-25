@@ -1,0 +1,25 @@
+{
+    "id": "sm12-11",
+    "name": "Cradily",
+    "number": "11",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964249",
+        "reverse-holo": "964518"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$38.67",
+                "grade9": "$14.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$38.09",
+                "grade9": "$14.53"
+            }
+        }
+    }
+}

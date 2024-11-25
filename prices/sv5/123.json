@@ -1,0 +1,25 @@
+{
+    "id": "sv5-123",
+    "name": "Raging Bolt ex",
+    "number": "123",
+    "setId": "sv5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "jumbo": "6732871",
+        "normal": "6495583"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "jumbo": {
+                "ungraded": "$11.32",
+                "psa10": "",
+                "grade9": ""
+            },
+            "normal": {
+                "ungraded": "$4.25",
+                "psa10": "$23.50",
+                "grade9": "$9.12"
+            }
+        }
+    }
+}

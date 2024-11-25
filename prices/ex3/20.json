@@ -1,0 +1,25 @@
+{
+    "id": "ex3-20",
+    "name": "Shelgon",
+    "number": "20",
+    "setId": "ex3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849400",
+        "reverse-holo": "849499"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$36.00",
+                "grade9": "$30.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$127.58",
+                "grade9": "$35.21"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ex9-106",
+    "name": "Fighting Energy",
+    "number": "106",
+    "setId": "ex9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "888331"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$6.27",
+                "psa10": "$59.00",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

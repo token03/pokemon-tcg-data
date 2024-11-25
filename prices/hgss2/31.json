@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-31",
+    "name": "Grotle",
+    "number": "31",
+    "setId": "hgss2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287373",
+        "reverse-holo": "1287469"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "$48.16",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "",
+                "grade9": "$14.99"
+            }
+        }
+    }
+}

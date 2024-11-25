@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-29",
+    "name": "Lairon",
+    "number": "29",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925916",
+        "reverse-holo": "926007"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.20",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

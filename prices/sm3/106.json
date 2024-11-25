@@ -1,0 +1,25 @@
+{
+    "id": "sm3-106",
+    "name": "Hoothoot",
+    "number": "106",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960890",
+        "reverse-holo": "961047"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$34.87",
+                "grade9": "$12.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$36.65",
+                "grade9": "$1.25"
+            }
+        }
+    }
+}

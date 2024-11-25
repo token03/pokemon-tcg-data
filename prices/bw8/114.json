@@ -1,0 +1,25 @@
+{
+    "id": "bw8-114",
+    "name": "Bouffalant",
+    "number": "114",
+    "setId": "bw8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956911",
+        "reverse-holo": "957041"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.39",
+                "psa10": "$48.87",
+                "grade9": "$19.71"
+            }
+        }
+    }
+}

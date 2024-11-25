@@ -1,0 +1,19 @@
+{
+    "id": "ex13-101",
+    "name": "Mightyena ex",
+    "number": "101",
+    "setId": "ex13",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889181"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.41",
+                "psa10": "$422.32",
+                "grade9": "$99.90"
+            }
+        }
+    }
+}

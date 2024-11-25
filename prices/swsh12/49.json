@@ -1,0 +1,31 @@
+{
+    "id": "swsh12-49",
+    "name": "Pikachu",
+    "number": "49",
+    "setId": "swsh12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4277169",
+        "reverse-holo": "4293792",
+        "snowflake-stamp": "5810878"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.41",
+                "psa10": "$26.95",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$52.79",
+                "grade9": "$14.00"
+            },
+            "snowflake-stamp": {
+                "ungraded": "$10.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

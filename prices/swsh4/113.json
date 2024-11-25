@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-113",
+    "name": "Galarian Perrserker",
+    "number": "113",
+    "setId": "swsh4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887660",
+        "reverse-holo": "887832"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.36",
+                "psa10": "$12.52",
+                "grade9": "$9.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.57",
+                "psa10": "$10.00",
+                "grade9": "$4.26"
+            }
+        }
+    }
+}

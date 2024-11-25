@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-190",
+    "name": "Butterfree VMAX",
+    "number": "190",
+    "setId": "swsh3",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "887268"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.53",
+                "psa10": "$38.95",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

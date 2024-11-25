@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-134",
+    "name": "Wyrdeer V",
+    "number": "134",
+    "setId": "swsh10",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3489633"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "$11.00",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

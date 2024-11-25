@@ -1,0 +1,25 @@
+{
+    "id": "dp2-20",
+    "name": "Ariados",
+    "number": "20",
+    "setId": "dp2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920643",
+        "reverse-holo": "920868"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

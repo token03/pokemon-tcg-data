@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-176",
+    "name": "Steelix V",
+    "number": "176",
+    "setId": "swsh4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887714"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$27.88",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "g1-25",
+    "name": "Articuno",
+    "number": "25",
+    "setId": "g1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959737"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.27",
+                "psa10": "$126.18",
+                "grade9": "$37.50"
+            }
+        }
+    }
+}

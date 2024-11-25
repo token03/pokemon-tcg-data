@@ -1,0 +1,19 @@
+{
+    "id": "bw5-111",
+    "name": "Pok\u00e9mon Catcher",
+    "number": "111",
+    "setId": "bw5",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "956158"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$73.75",
+                "psa10": "$676.40",
+                "grade9": "$68.13"
+            }
+        }
+    }
+}

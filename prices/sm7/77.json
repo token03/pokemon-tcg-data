@@ -1,0 +1,25 @@
+{
+    "id": "sm7-77",
+    "name": "Medicham",
+    "number": "77",
+    "setId": "sm7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961991",
+        "reverse-holo": "962166"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

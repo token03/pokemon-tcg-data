@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-11",
+    "name": "Espeon",
+    "number": "11",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842540",
+        "reverse-holo": "2293902"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$36.00",
+                "psa10": "$152.29",
+                "grade9": "$38.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$58.90",
+                "psa10": "$2,650.00",
+                "grade9": "$86.00"
+            }
+        }
+    }
+}

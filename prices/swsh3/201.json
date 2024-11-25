@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-201",
+    "name": "Capture Energy",
+    "number": "201",
+    "setId": "swsh3",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "836720"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.43",
+                "psa10": "$20.50",
+                "grade9": "$12.91"
+            }
+        }
+    }
+}

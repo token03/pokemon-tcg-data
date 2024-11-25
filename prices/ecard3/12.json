@@ -1,0 +1,31 @@
+{
+    "id": "ecard3-12",
+    "name": "Houndoom",
+    "number": "12",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842676",
+        "reverse-holo": "2252612",
+        "box-topper": "6021698"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.30",
+                "psa10": "$67.47",
+                "grade9": "$61.39"
+            },
+            "reverse-holo": {
+                "ungraded": "$52.00",
+                "psa10": "$202.50",
+                "grade9": "$73.50"
+            },
+            "box-topper": {
+                "ungraded": "$135.00",
+                "psa10": "$413.13",
+                "grade9": "$208.19"
+            }
+        }
+    }
+}

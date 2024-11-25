@@ -1,0 +1,25 @@
+{
+    "id": "dp6-111",
+    "name": "Oddish",
+    "number": "111",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925042",
+        "reverse-holo": "925186"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$56.53",
+                "grade9": "$20.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

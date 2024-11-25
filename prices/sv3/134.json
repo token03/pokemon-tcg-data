@@ -1,0 +1,19 @@
+{
+    "id": "sv3-134",
+    "name": "Houndoom ex",
+    "number": "134",
+    "setId": "sv3",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5605652"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$40.00",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

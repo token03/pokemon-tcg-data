@@ -1,0 +1,25 @@
+{
+    "id": "ex5-38",
+    "name": "Lanturn",
+    "number": "38",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849811",
+        "reverse-holo": "849913"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.33",
+                "psa10": "$83.86",
+                "grade9": "$10.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.41",
+                "psa10": "$65.50",
+                "grade9": "$20.38"
+            }
+        }
+    }
+}

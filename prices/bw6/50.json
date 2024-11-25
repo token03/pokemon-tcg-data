@@ -1,0 +1,25 @@
+{
+    "id": "bw6-50",
+    "name": "Drifloon",
+    "number": "50",
+    "setId": "bw6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956304",
+        "reverse-holo": "956430"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

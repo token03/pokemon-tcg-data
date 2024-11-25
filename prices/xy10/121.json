@@ -1,0 +1,19 @@
+{
+    "id": "xy10-121",
+    "name": "M Altaria-EX",
+    "number": "121",
+    "setId": "xy10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959978"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$62.71",
+                "grade9": "$26.89"
+            }
+        }
+    }
+}

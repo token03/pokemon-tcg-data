@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-180",
+    "name": "Omanyte",
+    "number": "180",
+    "setId": "sv3pt5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5809561"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.51",
+                "psa10": "$45.98",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

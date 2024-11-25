@@ -1,0 +1,19 @@
+{
+    "id": "mcd22-7",
+    "name": "Pikachu",
+    "number": "7",
+    "setId": "mcd22",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "holo": "3892319"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.12",
+                "psa10": "$85.50",
+                "grade9": "$14.81"
+            }
+        }
+    }
+}

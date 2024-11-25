@@ -1,0 +1,25 @@
+{
+    "id": "dp4-5",
+    "name": "Pachirisu",
+    "number": "5",
+    "setId": "dp4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "921158",
+        "reverse-holo": "921265"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.53",
+                "psa10": "$167.66",
+                "grade9": "$26.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$90.66",
+                "grade9": "$34.18"
+            }
+        }
+    }
+}

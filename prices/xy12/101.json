@@ -1,0 +1,19 @@
+{
+    "id": "xy12-101",
+    "name": "M Charizard-EX",
+    "number": "101",
+    "setId": "xy12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960380"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$36.93",
+                "psa10": "$142.50",
+                "grade9": "$58.02"
+            }
+        }
+    }
+}

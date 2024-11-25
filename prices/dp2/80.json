@@ -1,0 +1,25 @@
+{
+    "id": "dp2-80",
+    "name": "Doduo",
+    "number": "80",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920703",
+        "reverse-holo": "920827"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.46",
+                "psa10": "",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.94",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

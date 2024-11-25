@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-133",
+    "name": "Hisuian Sliggoo",
+    "number": "133",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4050050",
+        "reverse-holo": "4050253"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.12",
+                "grade9": "$11.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$36.45",
+                "grade9": "$12.41"
+            }
+        }
+    }
+}

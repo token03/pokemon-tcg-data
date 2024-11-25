@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-139",
+    "name": "Chatot",
+    "number": "139",
+    "setId": "swsh4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887681",
+        "reverse-holo": "887852"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.81",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$34.27",
+                "grade9": "$13.41"
+            }
+        }
+    }
+}

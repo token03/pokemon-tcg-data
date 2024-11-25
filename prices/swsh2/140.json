@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-140",
+    "name": "Zamazenta",
+    "number": "140",
+    "setId": "swsh2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886866",
+        "reverse-holo": "887053"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$39.99",
+                "grade9": "$27.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.24",
+                "psa10": "$30.19",
+                "grade9": "$7.15"
+            }
+        }
+    }
+}

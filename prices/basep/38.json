@@ -1,0 +1,19 @@
+{
+    "id": "basep-38",
+    "name": "Unown [J]",
+    "number": "38",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "643551"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.25",
+                "psa10": "$599.99",
+                "grade9": "$107.17"
+            }
+        }
+    }
+}

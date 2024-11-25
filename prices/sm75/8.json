@@ -1,0 +1,25 @@
+{
+    "id": "sm75-8",
+    "name": "Darumaka",
+    "number": "8",
+    "setId": "sm75",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962242",
+        "reverse-holo": "962319"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

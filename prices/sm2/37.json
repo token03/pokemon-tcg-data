@@ -1,0 +1,25 @@
+{
+    "id": "sm2-37",
+    "name": "Wishiwashi",
+    "number": "37",
+    "setId": "sm2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960534",
+        "reverse-holo": "960701"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

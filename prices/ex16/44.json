@@ -1,0 +1,25 @@
+{
+    "id": "ex16-44",
+    "name": "Baltoy",
+    "number": "44",
+    "setId": "ex16",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889708",
+        "reverse-holo": "889816"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.24",
+                "psa10": "",
+                "grade9": "$60.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.40",
+                "psa10": "$88.57",
+                "grade9": "$19.80"
+            }
+        }
+    }
+}

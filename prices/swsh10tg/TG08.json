@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG08",
+    "name": "Kleavor",
+    "number": "TG08",
+    "setId": "swsh10tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3508400"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$31.00",
+                "grade9": "$11.33"
+            }
+        }
+    }
+}

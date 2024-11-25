@@ -1,0 +1,19 @@
+{
+    "id": "xy4-62",
+    "name": "Dialga-EX",
+    "number": "62",
+    "setId": "xy4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958255"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.75",
+                "psa10": "$65.32",
+                "grade9": "$28.28"
+            }
+        }
+    }
+}

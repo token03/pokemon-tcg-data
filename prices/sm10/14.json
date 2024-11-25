@@ -1,0 +1,25 @@
+{
+    "id": "sm10-14",
+    "name": "Weepinbell",
+    "number": "14",
+    "setId": "sm10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963170",
+        "reverse-holo": "963402"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

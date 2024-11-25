@@ -1,0 +1,25 @@
+{
+    "id": "xy10-92",
+    "name": "Audino Spirit Link",
+    "number": "92",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959949",
+        "reverse-holo": "960056"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$35.10",
+                "grade9": "$13.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$35.05",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "base3-16",
+    "name": "Aerodactyl",
+    "number": "16",
+    "setId": "base3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341265",
+        "1st-edition": "1099510"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.38",
+                "psa10": "$66.40",
+                "grade9": "$24.99"
+            },
+            "1st-edition": {
+                "ungraded": "$11.12",
+                "psa10": "$139.45",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

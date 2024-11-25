@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-129",
+    "name": "Slakoth",
+    "number": "129",
+    "setId": "swsh7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2512940",
+        "reverse-holo": "2513143"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$34.61",
+                "grade9": "$12.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.00",
+                "grade9": "$12.23"
+            }
+        }
+    }
+}

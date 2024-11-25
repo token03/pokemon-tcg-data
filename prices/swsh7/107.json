@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-107",
+    "name": "Bagon",
+    "number": "107",
+    "setId": "swsh7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2512919",
+        "reverse-holo": "2513126"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.86",
+                "grade9": "$11.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$34.92",
+                "grade9": "$12.19"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dc1-10",
+    "name": "Team Magma's Baltoy",
+    "number": "10",
+    "setId": "dc1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958763",
+        "reverse-holo": "2975512"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$38.92",
+                "grade9": "$15.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.14",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

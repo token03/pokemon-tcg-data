@@ -1,0 +1,25 @@
+{
+    "id": "pl2-35",
+    "name": "Vespiquen E4",
+    "number": "35",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925431",
+        "reverse-holo": "925550"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.39",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.66",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

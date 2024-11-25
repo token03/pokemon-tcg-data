@@ -1,0 +1,25 @@
+{
+    "id": "pl3-37",
+    "name": "Mr. Mime",
+    "number": "37",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287084",
+        "reverse-holo": "1287238"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.69",
+                "psa10": "$63.97",
+                "grade9": "$24.53"
+            }
+        }
+    }
+}

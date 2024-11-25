@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-32",
+    "name": "Kakuna",
+    "number": "32",
+    "setId": "hgss2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287374",
+        "reverse-holo": "1287470"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.90",
+                "psa10": "",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

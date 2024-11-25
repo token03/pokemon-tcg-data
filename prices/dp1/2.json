@@ -1,0 +1,25 @@
+{
+    "id": "dp1-2",
+    "name": "Dusknoir",
+    "number": "2",
+    "setId": "dp1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "763038",
+        "reverse-holo": "763160"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$55.00",
+                "grade9": "$45.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.19",
+                "psa10": "$102.25",
+                "grade9": "$20.54"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp2-36",
+    "name": "Toxicroak",
+    "number": "36",
+    "setId": "dp2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920659",
+        "reverse-holo": "920783"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$46.02",
+                "grade9": "$16.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.41",
+                "psa10": "",
+                "grade9": "$19.56"
+            }
+        }
+    }
+}

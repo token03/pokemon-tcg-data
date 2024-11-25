@@ -1,0 +1,25 @@
+{
+    "id": "bw4-64",
+    "name": "Lucario",
+    "number": "64",
+    "setId": "bw4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955916",
+        "reverse-holo": "956015"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.58",
+                "psa10": "$200.00",
+                "grade9": "$44.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.46",
+                "psa10": "",
+                "grade9": "$46.00"
+            }
+        }
+    }
+}

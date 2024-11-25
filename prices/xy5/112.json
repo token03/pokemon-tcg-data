@@ -1,0 +1,25 @@
+{
+    "id": "xy5-112",
+    "name": "Linoone",
+    "number": "112",
+    "setId": "xy5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958569",
+        "reverse-holo": "958720"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$38.37",
+                "grade9": "$14.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$39.52",
+                "grade9": "$15.40"
+            }
+        }
+    }
+}

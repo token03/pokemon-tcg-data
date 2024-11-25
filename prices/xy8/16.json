@@ -1,0 +1,25 @@
+{
+    "id": "xy8-16",
+    "name": "Skiddo",
+    "number": "16",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959204",
+        "reverse-holo": "959368"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG21",
+    "name": "Hisuian Goodra",
+    "number": "GG21",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637077"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.98",
+                "psa10": "$24.85",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

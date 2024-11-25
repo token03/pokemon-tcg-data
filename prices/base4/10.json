@@ -1,0 +1,19 @@
+{
+    "id": "base4-10",
+    "name": "Mewtwo",
+    "number": "10",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641813"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.75",
+                "psa10": "$427.43",
+                "grade9": "$80.00"
+            }
+        }
+    }
+}

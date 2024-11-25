@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-198",
+    "name": "Jigglypuff",
+    "number": "198",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277117"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.17",
+                "psa10": "$33.00",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

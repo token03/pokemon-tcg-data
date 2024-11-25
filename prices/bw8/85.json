@@ -1,0 +1,25 @@
+{
+    "id": "bw8-85",
+    "name": "Scraggy",
+    "number": "85",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956882",
+        "reverse-holo": "957016"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

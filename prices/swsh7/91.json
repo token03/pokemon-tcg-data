@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-91",
+    "name": "Lycanroc V",
+    "number": "91",
+    "setId": "swsh7",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2512902"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$35.85",
+                "grade9": "$7.00"
+            }
+        }
+    }
+}

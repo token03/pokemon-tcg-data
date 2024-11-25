@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-46",
+    "name": "Feraligatr",
+    "number": "46",
+    "setId": "ecard1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887891",
+        "reverse-holo": "2266899"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.78",
+                "psa10": "$61.50",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.85",
+                "psa10": "$155.00",
+                "grade9": "$49.53"
+            }
+        }
+    }
+}

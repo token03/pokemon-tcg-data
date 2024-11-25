@@ -1,0 +1,31 @@
+{
+    "id": "xy10-78",
+    "name": "Lugia",
+    "number": "78",
+    "setId": "xy10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959935",
+        "cracked-ice": "3399980",
+        "reverse-holo": "960046"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.67",
+                "psa10": "$59.66",
+                "grade9": "$18.54"
+            },
+            "cracked-ice": {
+                "ungraded": "$4.44",
+                "psa10": "$100.29",
+                "grade9": "$31.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.37",
+                "psa10": "$276.74",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

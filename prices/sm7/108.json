@@ -1,0 +1,19 @@
+{
+    "id": "sm7-108",
+    "name": "Latios \u25c7",
+    "number": "108",
+    "setId": "sm7",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "962022"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.84",
+                "psa10": "$59.50",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

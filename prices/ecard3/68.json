@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-68",
+    "name": "Jigglypuff",
+    "number": "68",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842727",
+        "reverse-holo": "2252666"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.00",
+                "psa10": "$53.00",
+                "grade9": "$23.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$31.30",
+                "psa10": "$348.75",
+                "grade9": "$70.00"
+            }
+        }
+    }
+}

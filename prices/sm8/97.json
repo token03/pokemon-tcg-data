@@ -1,0 +1,25 @@
+{
+    "id": "sm8-97",
+    "name": "Giratina",
+    "number": "97",
+    "setId": "sm8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962485",
+        "reverse-holo": "962712"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.42",
+                "psa10": "$283.80",
+                "grade9": "$15.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.33",
+                "psa10": "$51.46",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

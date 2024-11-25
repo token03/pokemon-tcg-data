@@ -1,0 +1,67 @@
+{
+    "id": "base1-58",
+    "name": "Pikachu",
+    "number": "58",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630471",
+        "1st-edition-ghost-stamp": "3442497",
+        "1st-edition-red-cheeks": "1089418",
+        "1st-edition": "715647",
+        "e3-red-cheeks": "2021480",
+        "e3": "1341321",
+        "poketour-1999": "2336244",
+        "shadowless-red-cheeks": "2021481",
+        "shadowless": "715749"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$77.97",
+                "grade9": "$30.84"
+            },
+            "1st-edition-ghost-stamp": {
+                "ungraded": "$259.00",
+                "psa10": "",
+                "grade9": "$750.00"
+            },
+            "1st-edition-red-cheeks": {
+                "ungraded": "$179.49",
+                "psa10": "$4,015.52",
+                "grade9": "$571.47"
+            },
+            "1st-edition": {
+                "ungraded": "$62.07",
+                "psa10": "$1,202.00",
+                "grade9": "$228.50"
+            },
+            "e3-red-cheeks": {
+                "ungraded": "$949.97",
+                "psa10": "$9,240.52",
+                "grade9": "$860.00"
+            },
+            "e3": {
+                "ungraded": "$27.99",
+                "psa10": "$924.00",
+                "grade9": "$73.64"
+            },
+            "poketour-1999": {
+                "ungraded": "$110.45",
+                "psa10": "$1,545.00",
+                "grade9": "$207.00"
+            },
+            "shadowless-red-cheeks": {
+                "ungraded": "$18.10",
+                "psa10": "$400.00",
+                "grade9": "$95.00"
+            },
+            "shadowless": {
+                "ungraded": "$9.68",
+                "psa10": "$140.00",
+                "grade9": "$45.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "base4-5",
+    "name": "Clefable",
+    "number": "5",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641808"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.07",
+                "psa10": "$1,342.53",
+                "grade9": "$54.21"
+            }
+        }
+    }
+}

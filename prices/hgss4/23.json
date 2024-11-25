@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-23",
+    "name": "Grumpig",
+    "number": "23",
+    "setId": "hgss4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926081",
+        "reverse-holo": "926183"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.20",
+                "psa10": "",
+                "grade9": "$14.24"
+            }
+        }
+    }
+}

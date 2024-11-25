@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-49",
+    "name": "Centiskorch",
+    "number": "49",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771078",
+        "reverse-holo": "2771348"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$35.72",
+                "grade9": "$12.46"
+            }
+        }
+    }
+}

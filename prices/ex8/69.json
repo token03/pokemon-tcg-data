@@ -1,0 +1,25 @@
+{
+    "id": "ex8-69",
+    "name": "Phanpy",
+    "number": "69",
+    "setId": "ex8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888089",
+        "reverse-holo": "888197"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.51",
+                "psa10": "$150.49",
+                "grade9": "$12.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.00",
+                "psa10": "$110.81",
+                "grade9": "$36.34"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh35-38",
+    "name": "Absol",
+    "number": "38",
+    "setId": "swsh35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "836913",
+        "reverse-holo": "887529"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.75",
+                "psa10": "$24.50",
+                "grade9": "$11.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$34.72",
+                "grade9": "$14.04"
+            }
+        }
+    }
+}

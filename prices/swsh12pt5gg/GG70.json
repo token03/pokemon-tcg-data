@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG70",
+    "name": "Arceus VSTAR",
+    "number": "GG70",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "4637126"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$75.00",
+                "psa10": "$184.45",
+                "grade9": "$80.00"
+            }
+        }
+    }
+}

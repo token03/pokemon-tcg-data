@@ -1,0 +1,25 @@
+{
+    "id": "sm6-39",
+    "name": "Xurkitree",
+    "number": "39",
+    "setId": "sm6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961702",
+        "reverse-holo": "961845"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "$37.67",
+                "grade9": "$14.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.95",
+                "psa10": "$42.24",
+                "grade9": "$17.30"
+            }
+        }
+    }
+}

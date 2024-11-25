@@ -1,0 +1,25 @@
+{
+    "id": "ex11-69",
+    "name": "Eevee",
+    "number": "69",
+    "setId": "ex11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888731",
+        "reverse-holo": "888845"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.78",
+                "psa10": "$58.50",
+                "grade9": "$21.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$26.22",
+                "psa10": "$149.73",
+                "grade9": "$57.50"
+            }
+        }
+    }
+}

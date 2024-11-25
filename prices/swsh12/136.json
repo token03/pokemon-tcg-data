@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-136",
+    "name": "Regidrago VSTAR",
+    "number": "136",
+    "setId": "swsh12",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4277257"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.41",
+                "psa10": "$22.47",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

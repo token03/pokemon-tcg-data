@@ -1,0 +1,25 @@
+{
+    "id": "ex13-79",
+    "name": "Pikachu \u03b4",
+    "number": "79",
+    "setId": "ex13",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889159",
+        "reverse-holo": "889268"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.26",
+                "psa10": "$76.48",
+                "grade9": "$21.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$24.49",
+                "psa10": "$499.83",
+                "grade9": "$45.37"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm11-228",
+    "name": "Garchomp & Giratina-GX",
+    "number": "228",
+    "setId": "sm11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963794"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.40",
+                "psa10": "$90.88",
+                "grade9": "$27.99"
+            }
+        }
+    }
+}

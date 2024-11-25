@@ -1,0 +1,25 @@
+{
+    "id": "base5-18",
+    "name": "Dark Alakazam",
+    "number": "18",
+    "setId": "base5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341823",
+        "1st-edition": "1341360"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$117.37",
+                "grade9": "$32.32"
+            },
+            "1st-edition": {
+                "ungraded": "$15.50",
+                "psa10": "$215.12",
+                "grade9": "$45.86"
+            }
+        }
+    }
+}

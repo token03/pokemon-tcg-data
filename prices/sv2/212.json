@@ -1,0 +1,19 @@
+{
+    "id": "sv2-212",
+    "name": "Mismagius",
+    "number": "212",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287501"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.00",
+                "psa10": "$65.09",
+                "grade9": "$19.98"
+            }
+        }
+    }
+}

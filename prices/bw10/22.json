@@ -1,0 +1,25 @@
+{
+    "id": "bw10-22",
+    "name": "Glalie",
+    "number": "22",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957324",
+        "reverse-holo": "957428"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$40.85",
+                "grade9": "$15.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$59.29",
+                "grade9": "$25.49"
+            }
+        }
+    }
+}

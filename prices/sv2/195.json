@@ -1,0 +1,19 @@
+{
+    "id": "sv2-195",
+    "name": "Tropius",
+    "number": "195",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287484"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.82",
+                "psa10": "$79.99",
+                "grade9": "$8.00"
+            }
+        }
+    }
+}

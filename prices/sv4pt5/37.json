@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-37",
+    "name": "Mimikyu",
+    "number": "37",
+    "setId": "sv4pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6276956",
+        "reverse-holo": "6277199"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$16.60",
+                "grade9": "$11.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$26.00",
+                "grade9": "$3.67"
+            }
+        }
+    }
+}

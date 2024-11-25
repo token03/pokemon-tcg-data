@@ -1,0 +1,25 @@
+{
+    "id": "dc1-31",
+    "name": "Team Magma's Great Ball",
+    "number": "31",
+    "setId": "dc1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958784",
+        "reverse-holo": "2978737"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.08",
+                "psa10": "$42.16",
+                "grade9": "$16.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

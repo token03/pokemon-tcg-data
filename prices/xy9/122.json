@@ -1,0 +1,19 @@
+{
+    "id": "xy9-122",
+    "name": "Skyla",
+    "number": "122",
+    "setId": "xy9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959613"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$29.24",
+                "psa10": "$269.85",
+                "grade9": "$61.41"
+            }
+        }
+    }
+}

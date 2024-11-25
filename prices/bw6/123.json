@@ -1,0 +1,19 @@
+{
+    "id": "bw6-123",
+    "name": "Rayquaza-EX",
+    "number": "123",
+    "setId": "bw6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956377"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$110.83",
+                "psa10": "$2,520.50",
+                "grade9": "$305.50"
+            }
+        }
+    }
+}

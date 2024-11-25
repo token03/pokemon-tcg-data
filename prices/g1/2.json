@@ -1,0 +1,19 @@
+{
+    "id": "g1-2",
+    "name": "M Venusaur-EX",
+    "number": "2",
+    "setId": "g1",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959714"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.99",
+                "psa10": "$58.08",
+                "grade9": "$22.53"
+            }
+        }
+    }
+}

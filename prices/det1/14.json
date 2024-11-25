@@ -1,0 +1,19 @@
+{
+    "id": "det1-14",
+    "name": "Jigglypuff",
+    "number": "14",
+    "setId": "det1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963151"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$23.35",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

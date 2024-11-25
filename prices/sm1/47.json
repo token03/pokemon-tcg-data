@@ -1,0 +1,25 @@
+{
+    "id": "sm1-47",
+    "name": "Pyukumuku",
+    "number": "47",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806796",
+        "reverse-holo": "806926"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.61",
+                "grade9": "$12.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$18.50",
+                "grade9": "$13.87"
+            }
+        }
+    }
+}

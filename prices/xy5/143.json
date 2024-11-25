@@ -1,0 +1,25 @@
+{
+    "id": "xy5-143",
+    "name": "Shield Energy",
+    "number": "143",
+    "setId": "xy5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958600",
+        "reverse-holo": "958751"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.34",
+                "psa10": "$37.95",
+                "grade9": "$14.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$44.90",
+                "grade9": "$18.46"
+            }
+        }
+    }
+}

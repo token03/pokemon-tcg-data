@@ -1,0 +1,25 @@
+{
+    "id": "base3-42",
+    "name": "Seadra",
+    "number": "42",
+    "setId": "base3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643434",
+        "1st-edition": "1099536"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "$34.09",
+                "grade9": "$11.50"
+            },
+            "1st-edition": {
+                "ungraded": "$2.39",
+                "psa10": "$58.80",
+                "grade9": "$17.50"
+            }
+        }
+    }
+}

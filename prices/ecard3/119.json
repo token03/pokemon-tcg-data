@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-119",
+    "name": "Ancient Ruins",
+    "number": "119",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842769",
+        "reverse-holo": "2252718"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.91",
+                "psa10": "$37.48",
+                "grade9": "$23.87"
+            },
+            "reverse-holo": {
+                "ungraded": "$30.33",
+                "psa10": "",
+                "grade9": "$45.25"
+            }
+        }
+    }
+}

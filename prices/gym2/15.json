@@ -1,0 +1,25 @@
+{
+    "id": "gym2-15",
+    "name": "Rocket's Zapdos",
+    "number": "15",
+    "setId": "gym2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762221",
+        "1st-edition": "1450209"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$42.75",
+                "psa10": "$262.82",
+                "grade9": "$86.56"
+            },
+            "1st-edition": {
+                "ungraded": "$90.50",
+                "psa10": "$709.99",
+                "grade9": "$203.42"
+            }
+        }
+    }
+}

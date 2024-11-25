@@ -1,0 +1,25 @@
+{
+    "id": "sm3-97",
+    "name": "Morelull",
+    "number": "97",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960881",
+        "reverse-holo": "961039"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "$36.16",
+                "grade9": "$13.71"
+            }
+        }
+    }
+}

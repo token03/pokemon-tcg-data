@@ -1,0 +1,25 @@
+{
+    "id": "sm9-30",
+    "name": "Gyarados",
+    "number": "30",
+    "setId": "sm9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962828",
+        "reverse-holo": "963022"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.79",
+                "psa10": "$94.79",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.70",
+                "psa10": "$82.51",
+                "grade9": "$51.92"
+            }
+        }
+    }
+}

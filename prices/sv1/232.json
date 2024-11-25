@@ -1,0 +1,19 @@
+{
+    "id": "sv1-232",
+    "name": "Toxicroak ex",
+    "number": "232",
+    "setId": "sv1",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "4934006"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.48",
+                "psa10": "$25.00",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

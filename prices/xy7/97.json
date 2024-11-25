@@ -1,0 +1,19 @@
+{
+    "id": "xy7-97",
+    "name": "Primal Groudon-EX",
+    "number": "97",
+    "setId": "xy7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "959115"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$40.00",
+                "psa10": "$490.91",
+                "grade9": "$157.75"
+            }
+        }
+    }
+}

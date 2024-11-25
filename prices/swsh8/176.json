@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-176",
+    "name": "Impidimp",
+    "number": "176",
+    "setId": "swsh8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2771202",
+        "reverse-holo": "2771462"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$35.20",
+                "grade9": "$12.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "$35.01",
+                "grade9": "$12.16"
+            }
+        }
+    }
+}

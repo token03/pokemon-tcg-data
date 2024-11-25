@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-58",
+    "name": "Exeggutor",
+    "number": "58",
+    "setId": "swsh12pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4636954",
+        "reverse-holo": "4637171"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$35.41",
+                "grade9": "$11.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.54",
+                "psa10": "$21.49",
+                "grade9": "$12.64"
+            }
+        }
+    }
+}

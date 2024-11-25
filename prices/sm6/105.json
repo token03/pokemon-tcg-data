@@ -1,0 +1,31 @@
+{
+    "id": "sm6-105",
+    "name": "Diantha",
+    "number": "105",
+    "setId": "sm6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961768",
+        "regional-championships": "5768355",
+        "reverse-holo": "961903"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.74",
+                "psa10": "$37.21",
+                "grade9": "$9.00"
+            },
+            "regional-championships": {
+                "ungraded": "$10.76",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.62",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sv6-24",
+    "name": "Teal Mask Ogerpon",
+    "number": "24",
+    "setId": "sv6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6769504",
+        "gamestop": "6875841",
+        "reverse-holo": "6769729"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$36.19",
+                "grade9": "$11.61"
+            },
+            "gamestop": {
+                "ungraded": "$14.98",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$40.99",
+                "grade9": "$12.87"
+            }
+        }
+    }
+}

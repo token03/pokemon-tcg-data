@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-135",
+    "name": "Corviknight",
+    "number": "135",
+    "setId": "swsh1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "807051",
+        "reverse-holo": "807052"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.03",
+                "psa10": "$19.99",
+                "grade9": "$12.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.77",
+                "psa10": "$36.75",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

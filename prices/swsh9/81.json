@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-81",
+    "name": "Sawk",
+    "number": "81",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188305",
+        "reverse-holo": "3219435"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.73",
+                "psa10": "$33.01",
+                "grade9": "$11.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "$36.34",
+                "grade9": "$12.60"
+            }
+        }
+    }
+}

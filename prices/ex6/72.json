@@ -1,0 +1,25 @@
+{
+    "id": "ex6-72",
+    "name": "Paras",
+    "number": "72",
+    "setId": "ex6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "850039",
+        "reverse-holo": "850154"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$28.77",
+                "grade9": "$18.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.49",
+                "psa10": "$54.50",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

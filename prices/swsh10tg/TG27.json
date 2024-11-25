@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG27",
+    "name": "Milo",
+    "number": "TG27",
+    "setId": "swsh10tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3508419"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.88",
+                "psa10": "$22.50",
+                "grade9": "$11.09"
+            }
+        }
+    }
+}

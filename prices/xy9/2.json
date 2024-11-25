@@ -1,0 +1,31 @@
+{
+    "id": "xy9-2",
+    "name": "Bayleef",
+    "number": "2",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959493",
+        "league-promo": "5401909",
+        "reverse-holo": "959616"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$13.76",
+                "grade9": "$12.88"
+            },
+            "league-promo": {
+                "ungraded": "$13.11",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.37",
+                "psa10": "$42.33",
+                "grade9": "$10.57"
+            }
+        }
+    }
+}

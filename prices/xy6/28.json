@@ -1,0 +1,25 @@
+{
+    "id": "xy6-28",
+    "name": "Natu",
+    "number": "28",
+    "setId": "xy6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958851",
+        "reverse-holo": "958960"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$41.11",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$36.60",
+                "grade9": "$9.40"
+            }
+        }
+    }
+}

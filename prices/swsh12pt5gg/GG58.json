@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG58",
+    "name": "Cheren's Care",
+    "number": "GG58",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4637114"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.22",
+                "psa10": "$22.26",
+                "grade9": "$11.15"
+            }
+        }
+    }
+}

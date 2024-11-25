@@ -1,0 +1,31 @@
+{
+    "id": "sm6-80",
+    "name": "Guzzlord",
+    "number": "80",
+    "setId": "sm6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961743",
+        "pokemon-league": "5672085",
+        "reverse-holo": "961882"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.91",
+                "psa10": "$43.15",
+                "grade9": "$9.04"
+            },
+            "pokemon-league": {
+                "ungraded": "$2.84",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.93",
+                "psa10": "$42.14",
+                "grade9": "$27.48"
+            }
+        }
+    }
+}

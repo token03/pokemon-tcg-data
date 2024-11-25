@@ -1,0 +1,19 @@
+{
+    "id": "sv4-189",
+    "name": "Mantyke",
+    "number": "189",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953027"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.29",
+                "psa10": "$48.33",
+                "grade9": "$18.99"
+            }
+        }
+    }
+}

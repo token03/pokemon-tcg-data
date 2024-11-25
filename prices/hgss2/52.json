@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-52",
+    "name": "Magmar",
+    "number": "52",
+    "setId": "hgss2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287394",
+        "reverse-holo": "1287490"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.36",
+                "psa10": "",
+                "grade9": "$34.95"
+            }
+        }
+    }
+}

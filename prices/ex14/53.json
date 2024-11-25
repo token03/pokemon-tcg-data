@@ -1,0 +1,25 @@
+{
+    "id": "ex14-53",
+    "name": "Jigglypuff",
+    "number": "53",
+    "setId": "ex14",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889340",
+        "reverse-holo": "889440"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.32",
+                "psa10": "$72.08",
+                "grade9": "$39.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.69",
+                "psa10": "$104.42",
+                "grade9": "$26.26"
+            }
+        }
+    }
+}

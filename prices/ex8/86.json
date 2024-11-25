@@ -1,0 +1,25 @@
+{
+    "id": "ex8-86",
+    "name": "Energy Charge",
+    "number": "86",
+    "setId": "ex8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888106",
+        "reverse-holo": "888214"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "$57.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.60",
+                "psa10": "$35.69",
+                "grade9": "$24.54"
+            }
+        }
+    }
+}

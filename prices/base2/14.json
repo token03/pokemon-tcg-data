@@ -1,0 +1,31 @@
+{
+    "id": "base2-14",
+    "name": "Victreebel",
+    "number": "14",
+    "setId": "base2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643342",
+        "1st-edition": "643390",
+        "no-symbol": "3179692"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.59",
+                "psa10": "$292.95",
+                "grade9": "$54.00"
+            },
+            "1st-edition": {
+                "ungraded": "$29.12",
+                "psa10": "$1,072.61",
+                "grade9": "$126.10"
+            },
+            "no-symbol": {
+                "ungraded": "$19.47",
+                "psa10": "$498.71",
+                "grade9": "$64.63"
+            }
+        }
+    }
+}

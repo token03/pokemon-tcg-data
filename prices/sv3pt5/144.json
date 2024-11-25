@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-144",
+    "name": "Articuno",
+    "number": "144",
+    "setId": "sv3pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5809525",
+        "reverse-holo": "5809725"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$24.99",
+                "grade9": "$9.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$31.00",
+                "grade9": "$5.00"
+            }
+        }
+    }
+}

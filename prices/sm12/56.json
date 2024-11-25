@@ -1,0 +1,25 @@
+{
+    "id": "sm12-56",
+    "name": "Empoleon",
+    "number": "56",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964294",
+        "reverse-holo": "964559"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$34.70",
+                "grade9": "$12.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.16",
+                "psa10": "$40.25",
+                "grade9": "$14.66"
+            }
+        }
+    }
+}

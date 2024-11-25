@@ -1,0 +1,25 @@
+{
+    "id": "bw7-81",
+    "name": "Gliscor",
+    "number": "81",
+    "setId": "bw7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956596",
+        "reverse-holo": "956743"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.60",
+                "psa10": "$119.94",
+                "grade9": "$52.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.65",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

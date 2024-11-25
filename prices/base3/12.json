@@ -1,0 +1,25 @@
+{
+    "id": "base3-12",
+    "name": "Moltres",
+    "number": "12",
+    "setId": "base3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643424",
+        "1st-edition": "1099506"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.55",
+                "psa10": "$396.00",
+                "grade9": "$79.50"
+            },
+            "1st-edition": {
+                "ungraded": "$54.77",
+                "psa10": "$814.08",
+                "grade9": "$209.99"
+            }
+        }
+    }
+}

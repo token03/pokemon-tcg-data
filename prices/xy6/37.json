@@ -1,0 +1,25 @@
+{
+    "id": "xy6-37",
+    "name": "Gliscor",
+    "number": "37",
+    "setId": "xy6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958860",
+        "reverse-holo": "958967"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.95",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.18",
+                "psa10": "$36.77",
+                "grade9": "$13.88"
+            }
+        }
+    }
+}

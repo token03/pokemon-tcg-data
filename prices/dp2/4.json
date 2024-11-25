@@ -1,0 +1,25 @@
+{
+    "id": "dp2-4",
+    "name": "Azelf",
+    "number": "4",
+    "setId": "dp2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920627",
+        "reverse-holo": "920752"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$399.99",
+                "grade9": "$32.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.73",
+                "psa10": "$139.30",
+                "grade9": "$32.99"
+            }
+        }
+    }
+}

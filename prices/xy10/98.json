@@ -1,0 +1,25 @@
+{
+    "id": "xy10-98",
+    "name": "Energy Reset",
+    "number": "98",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959955",
+        "reverse-holo": "960062"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "$38.91",
+                "grade9": "$15.28"
+            }
+        }
+    }
+}

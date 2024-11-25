@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-47",
+    "name": "Buried Fossil",
+    "number": "47",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842707",
+        "reverse-holo": "2252645"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.99",
+                "psa10": "$55.54",
+                "grade9": "$24.67"
+            },
+            "reverse-holo": {
+                "ungraded": "$18.44",
+                "psa10": "$139.00",
+                "grade9": "$62.26"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-130",
+    "name": "Pok\u00e9mon Fan Club",
+    "number": "130",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842646",
+        "reverse-holo": "2294021"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.44",
+                "psa10": "$56.50",
+                "grade9": "$14.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.56",
+                "psa10": "$137.44",
+                "grade9": "$25.31"
+            }
+        }
+    }
+}

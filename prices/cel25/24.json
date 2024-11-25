@@ -1,0 +1,19 @@
+{
+    "id": "cel25-24",
+    "name": "Professor's Research (Professor Oak)",
+    "number": "24",
+    "setId": "cel25",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2618169"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.68",
+                "psa10": "$24.25",
+                "grade9": "$7.50"
+            }
+        }
+    }
+}

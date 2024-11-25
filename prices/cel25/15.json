@@ -1,0 +1,25 @@
+{
+    "id": "cel25-15",
+    "name": "Lunala",
+    "number": "15",
+    "setId": "cel25",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "2618186",
+        "normal": "2618171"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.09",
+                "psa10": "$20.00",
+                "grade9": "$7.33"
+            },
+            "normal": {
+                "ungraded": "$4.74",
+                "psa10": "$48.18",
+                "grade9": "$18.39"
+            }
+        }
+    }
+}

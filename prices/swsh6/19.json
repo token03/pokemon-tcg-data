@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-19",
+    "name": "Zarude",
+    "number": "19",
+    "setId": "swsh6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2253825",
+        "reverse-holo": "2254053"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$37.24",
+                "grade9": "$13.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "$36.82",
+                "grade9": "$13.12"
+            }
+        }
+    }
+}

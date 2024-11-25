@@ -1,0 +1,19 @@
+{
+    "id": "sm2-134",
+    "name": "Vikavolt-GX",
+    "number": "134",
+    "setId": "sm2",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960631"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.13",
+                "psa10": "$31.93",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

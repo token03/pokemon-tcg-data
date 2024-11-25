@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-71",
+    "name": "Ledyba",
+    "number": "71",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806183",
+        "reverse-holo": "806289"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$48.06",
+                "grade9": "$17.91"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

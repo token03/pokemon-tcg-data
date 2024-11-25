@@ -1,0 +1,25 @@
+{
+    "id": "bw7-85",
+    "name": "Crustle",
+    "number": "85",
+    "setId": "bw7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956600",
+        "reverse-holo": "956747"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$54.53",
+                "grade9": "$22.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.47",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

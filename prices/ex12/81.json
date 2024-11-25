@@ -1,0 +1,25 @@
+{
+    "id": "ex12-81",
+    "name": "Rainbow Energy",
+    "number": "81",
+    "setId": "ex12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888963",
+        "reverse-holo": "889056"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.21",
+                "psa10": "$26.00",
+                "grade9": "$22.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.16",
+                "psa10": "$206.71",
+                "grade9": "$32.08"
+            }
+        }
+    }
+}

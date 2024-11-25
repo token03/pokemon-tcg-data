@@ -1,0 +1,25 @@
+{
+    "id": "bw3-34",
+    "name": "Kyurem",
+    "number": "34",
+    "setId": "bw3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955689",
+        "reverse-holo": "955791"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.68",
+                "psa10": "$100.00",
+                "grade9": "$53.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

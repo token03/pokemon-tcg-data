@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-162",
+    "name": "Lost Vacuum",
+    "number": "162",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4050079",
+        "reverse-holo": "4050280"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.03",
+                "psa10": "$34.25",
+                "grade9": "$11.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "$36.17",
+                "grade9": "$12.30"
+            }
+        }
+    }
+}

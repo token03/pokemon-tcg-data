@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-181",
+    "name": "Level Ball",
+    "number": "181",
+    "setId": "swsh5",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "1673361"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.69",
+                "psa10": "$29.00",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

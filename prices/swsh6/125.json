@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-125",
+    "name": "Tornadus VMAX",
+    "number": "125",
+    "setId": "swsh6",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "2253930"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$23.06",
+                "grade9": "$8.26"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw6-27",
+    "name": "Feebas",
+    "number": "27",
+    "setId": "bw6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956281",
+        "reverse-holo": "956408"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.91",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp4-31",
+    "name": "Weezing",
+    "number": "31",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921185",
+        "reverse-holo": "921291"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$49.10",
+                "grade9": "$17.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.68",
+                "psa10": "",
+                "grade9": "$17.45"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex11-12",
+    "name": "Mewtwo \u03b4",
+    "number": "12",
+    "setId": "ex11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888674",
+        "reverse-holo": "888788"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$44.22",
+                "psa10": "$780.00",
+                "grade9": "$130.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$51.96",
+                "psa10": "$1,091.40",
+                "grade9": "$182.75"
+            }
+        }
+    }
+}

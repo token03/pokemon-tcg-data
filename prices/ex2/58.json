@@ -1,0 +1,25 @@
+{
+    "id": "ex2-58",
+    "name": "Cacnea",
+    "number": "58",
+    "setId": "ex2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849246",
+        "reverse-holo": "849346"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$65.17",
+                "grade9": "$21.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.94",
+                "psa10": "$120.03",
+                "grade9": "$37.00"
+            }
+        }
+    }
+}

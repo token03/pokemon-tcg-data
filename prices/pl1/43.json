@@ -1,0 +1,25 @@
+{
+    "id": "pl1-43",
+    "name": "Carnivine",
+    "number": "43",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "805905",
+        "reverse-holo": "805906"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.77",
+                "psa10": "$59.99",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

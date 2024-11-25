@@ -1,0 +1,25 @@
+{
+    "id": "sv6-5",
+    "name": "Ariados",
+    "number": "5",
+    "setId": "sv6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6769485",
+        "reverse-holo": "6769710"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$36.14",
+                "grade9": "$11.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

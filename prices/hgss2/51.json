@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-51",
+    "name": "Larvitar",
+    "number": "51",
+    "setId": "hgss2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287393",
+        "reverse-holo": "1287489"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$46.58",
+                "grade9": "$17.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.13",
+                "psa10": "",
+                "grade9": "$26.00"
+            }
+        }
+    }
+}

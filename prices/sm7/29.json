@@ -1,0 +1,25 @@
+{
+    "id": "sm7-29",
+    "name": "Torkoal",
+    "number": "29",
+    "setId": "sm7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961943",
+        "reverse-holo": "962123"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sv2-21",
+    "name": "Lokix",
+    "number": "21",
+    "setId": "sv2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5401629",
+        "holo": "5287310",
+        "reverse-holo": "5287587"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.03",
+                "psa10": "$79.99",
+                "grade9": "$11.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "$35.75",
+                "grade9": "$11.85"
+            }
+        }
+    }
+}

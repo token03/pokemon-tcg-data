@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-53",
+    "name": "Starmie",
+    "number": "53",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806166",
+        "reverse-holo": "806272"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

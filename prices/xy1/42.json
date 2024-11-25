@@ -1,0 +1,25 @@
+{
+    "id": "xy1-42",
+    "name": "Pikachu",
+    "number": "42",
+    "setId": "xy1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806540",
+        "reverse-holo": "806664"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.02",
+                "psa10": "$92.89",
+                "grade9": "$16.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.81",
+                "psa10": "$63.00",
+                "grade9": "$22.06"
+            }
+        }
+    }
+}

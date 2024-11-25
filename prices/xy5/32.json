@@ -1,0 +1,25 @@
+{
+    "id": "xy5-32",
+    "name": "Staryu",
+    "number": "32",
+    "setId": "xy5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958489",
+        "reverse-holo": "958650"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$26.00",
+                "grade9": "$13.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$37.48",
+                "grade9": "$14.24"
+            }
+        }
+    }
+}

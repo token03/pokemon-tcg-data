@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-12",
+    "name": "Beedrill",
+    "number": "12",
+    "setId": "hgss2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287354",
+        "reverse-holo": "1287450"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$48.42",
+                "grade9": "$18.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.42",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

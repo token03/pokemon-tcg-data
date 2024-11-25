@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-54",
+    "name": "Zebstrika",
+    "number": "54",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887606",
+        "reverse-holo": "887779"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$33.81",
+                "grade9": "$11.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.77",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

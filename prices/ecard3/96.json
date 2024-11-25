@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-96",
+    "name": "Shuckle",
+    "number": "96",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842751",
+        "reverse-holo": "2252694"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.99",
+                "psa10": "$85.17",
+                "grade9": "$18.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$30.50",
+                "psa10": "$148.50",
+                "grade9": "$42.02"
+            }
+        }
+    }
+}

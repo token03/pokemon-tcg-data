@@ -1,0 +1,25 @@
+{
+    "id": "sm6-30",
+    "name": "Avalugg",
+    "number": "30",
+    "setId": "sm6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961693",
+        "reverse-holo": "961837"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

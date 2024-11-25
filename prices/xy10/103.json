@@ -1,0 +1,25 @@
+{
+    "id": "xy10-103",
+    "name": "Lass's Special",
+    "number": "103",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959960",
+        "reverse-holo": "960067"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$36.57",
+                "grade9": "$13.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$38.30",
+                "grade9": "$1.25"
+            }
+        }
+    }
+}

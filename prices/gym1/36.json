@@ -1,0 +1,25 @@
+{
+    "id": "gym1-36",
+    "name": "Blaine's Kangaskhan",
+    "number": "36",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762155",
+        "1st-edition": "2156469"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.30",
+                "psa10": "$32.00",
+                "grade9": "$25.32"
+            },
+            "1st-edition": {
+                "ungraded": "$7.73",
+                "psa10": "$45.00",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

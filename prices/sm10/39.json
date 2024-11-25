@@ -1,0 +1,25 @@
+{
+    "id": "sm10-39",
+    "name": "Poliwrath",
+    "number": "39",
+    "setId": "sm10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963195",
+        "reverse-holo": "963425"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.88",
+                "grade9": "$12.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "$37.13",
+                "grade9": "$4.99"
+            }
+        }
+    }
+}

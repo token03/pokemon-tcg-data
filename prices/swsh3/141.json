@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-141",
+    "name": "Skitty",
+    "number": "141",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887221",
+        "reverse-holo": "887399"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$34.33",
+                "grade9": "$12.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "$54.00",
+                "grade9": "$45.00"
+            }
+        }
+    }
+}

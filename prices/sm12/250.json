@@ -1,0 +1,19 @@
+{
+    "id": "sm12-250",
+    "name": "Vileplume-GX",
+    "number": "250",
+    "setId": "sm12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "964488"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.42",
+                "psa10": "$89.97",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

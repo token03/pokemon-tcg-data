@@ -1,0 +1,25 @@
+{
+    "id": "bw7-52",
+    "name": "Electrode",
+    "number": "52",
+    "setId": "bw7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956567",
+        "reverse-holo": "956717"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

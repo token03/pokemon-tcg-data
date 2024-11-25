@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-19",
+    "name": "Dugtrio",
+    "number": "19",
+    "setId": "hgss4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926077",
+        "reverse-holo": "926179"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$44.87",
+                "grade9": "$16.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.13",
+                "psa10": "",
+                "grade9": "$16.41"
+            }
+        }
+    }
+}

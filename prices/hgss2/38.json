@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-38",
+    "name": "Pupitar",
+    "number": "38",
+    "setId": "hgss2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287380",
+        "reverse-holo": "1287476"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

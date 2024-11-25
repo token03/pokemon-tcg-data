@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-22",
+    "name": "Granbull",
+    "number": "22",
+    "setId": "hgss1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806135",
+        "reverse-holo": "806240"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$6.23",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

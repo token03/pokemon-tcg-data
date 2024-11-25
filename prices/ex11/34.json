@@ -1,0 +1,25 @@
+{
+    "id": "ex11-34",
+    "name": "Castform",
+    "number": "34",
+    "setId": "ex11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888696",
+        "reverse-holo": "888810"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.94",
+                "psa10": "$82.39",
+                "grade9": "$35.71"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.97",
+                "psa10": "$46.69",
+                "grade9": "$25.55"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "gym2-103",
+    "name": "Erika's Kindness",
+    "number": "103",
+    "setId": "gym2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762302",
+        "1st-edition": "1450297"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.05",
+                "psa10": "$70.00",
+                "grade9": "$19.99"
+            },
+            "1st-edition": {
+                "ungraded": "$15.67",
+                "psa10": "$141.73",
+                "grade9": "$27.57"
+            }
+        }
+    }
+}

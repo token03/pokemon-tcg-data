@@ -1,0 +1,19 @@
+{
+    "id": "sv2-255",
+    "name": "Saguaro",
+    "number": "255",
+    "setId": "sv2",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5287544"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.41",
+                "psa10": "$40.43",
+                "grade9": "$13.35"
+            }
+        }
+    }
+}

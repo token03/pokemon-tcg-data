@@ -1,0 +1,31 @@
+{
+    "id": "sm6-57",
+    "name": "Cubone",
+    "number": "57",
+    "setId": "sm6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6160955",
+        "general-mills-holo": "961720",
+        "reverse-holo": "961862"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "",
+                "grade9": "$38.50"
+            },
+            "general-mills-holo": {
+                "ungraded": "$7.95",
+                "psa10": "$62.97",
+                "grade9": "$40.39"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.39",
+                "psa10": "$46.16",
+                "grade9": "$19.64"
+            }
+        }
+    }
+}

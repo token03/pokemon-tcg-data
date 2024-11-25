@@ -1,0 +1,25 @@
+{
+    "id": "dp2-64",
+    "name": "Tropius",
+    "number": "64",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920687",
+        "reverse-holo": "920811"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "",
+                "grade9": "$23.97"
+            }
+        }
+    }
+}

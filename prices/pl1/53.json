@@ -1,0 +1,31 @@
+{
+    "id": "pl1-53",
+    "name": "Lucario",
+    "number": "53",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "805994",
+        "prelease-staff": "3985757",
+        "reverse-holo": "805995"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.28",
+                "psa10": "$139.52",
+                "grade9": "$113.53"
+            },
+            "prelease-staff": {
+                "ungraded": "$149.95",
+                "psa10": "",
+                "grade9": "$86.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.73",
+                "psa10": "$182.50",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex12-42",
+    "name": "Roselia",
+    "number": "42",
+    "setId": "ex12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888924",
+        "reverse-holo": "889017"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.37",
+                "psa10": "$49.99",
+                "grade9": "$22.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.81",
+                "psa10": "$82.00",
+                "grade9": "$41.59"
+            }
+        }
+    }
+}

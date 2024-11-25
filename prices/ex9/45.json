@@ -1,0 +1,25 @@
+{
+    "id": "ex9-45",
+    "name": "Doduo",
+    "number": "45",
+    "setId": "ex9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888270",
+        "reverse-holo": "888377"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.16",
+                "psa10": "$28.00",
+                "grade9": "$23.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.71",
+                "psa10": "$191.87",
+                "grade9": "$25.48"
+            }
+        }
+    }
+}

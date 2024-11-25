@@ -1,0 +1,19 @@
+{
+    "id": "swsh45-19",
+    "name": "Cinderace VMAX",
+    "number": "19",
+    "setId": "swsh45",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "1341496"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.29",
+                "psa10": "$17.73",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

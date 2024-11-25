@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-91",
+    "name": "Liepard",
+    "number": "91",
+    "setId": "swsh9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3188315",
+        "reverse-holo": "3219444"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$34.53",
+                "grade9": "$11.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$35.98",
+                "grade9": "$12.45"
+            }
+        }
+    }
+}

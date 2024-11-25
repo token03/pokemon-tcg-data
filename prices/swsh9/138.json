@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-138",
+    "name": "Cynthia's Ambition",
+    "number": "138",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188362",
+        "reverse-holo": "3219482"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$79.99",
+                "grade9": "$11.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$35.61",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

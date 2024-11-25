@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-92",
+    "name": "Donphan",
+    "number": "92",
+    "setId": "swsh12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4277213",
+        "reverse-holo": "4293823"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.93",
+                "psa10": "$37.99",
+                "grade9": "$6.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$35.57",
+                "grade9": "$12.01"
+            }
+        }
+    }
+}

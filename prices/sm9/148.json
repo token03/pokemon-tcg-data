@@ -1,0 +1,25 @@
+{
+    "id": "sm9-148",
+    "name": "Metal Goggles",
+    "number": "148",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962946",
+        "reverse-holo": "963128"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$35.68",
+                "grade9": "$13.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.56",
+                "psa10": "$40.14",
+                "grade9": "$15.88"
+            }
+        }
+    }
+}

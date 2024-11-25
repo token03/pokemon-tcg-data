@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-68",
+    "name": "Kirlia",
+    "number": "68",
+    "setId": "swsh12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4277189",
+        "reverse-holo": "4293804"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "$36.67",
+                "grade9": "$12.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.98",
+                "psa10": "$38.37",
+                "grade9": "$13.02"
+            }
+        }
+    }
+}

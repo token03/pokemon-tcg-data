@@ -1,0 +1,25 @@
+{
+    "id": "sm11-121",
+    "name": "Archeops",
+    "number": "121",
+    "setId": "sm11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963687",
+        "reverse-holo": "963935"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "$36.10",
+                "grade9": "$13.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.10",
+                "psa10": "$38.11",
+                "grade9": "$14.56"
+            }
+        }
+    }
+}

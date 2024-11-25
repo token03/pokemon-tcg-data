@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-96",
+    "name": "Caterpie",
+    "number": "96",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842473",
+        "reverse-holo": "2266949"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$31.00",
+                "grade9": "$13.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.36",
+                "psa10": "$197.50",
+                "grade9": "$24.09"
+            }
+        }
+    }
+}

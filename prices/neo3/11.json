@@ -1,0 +1,25 @@
+{
+    "id": "neo3-11",
+    "name": "Misdreavus",
+    "number": "11",
+    "setId": "neo3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762518",
+        "1st-edition": "2427422"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$29.99",
+                "psa10": "$625.85",
+                "grade9": "$87.76"
+            },
+            "1st-edition": {
+                "ungraded": "$61.00",
+                "psa10": "$3,770.00",
+                "grade9": "$182.14"
+            }
+        }
+    }
+}

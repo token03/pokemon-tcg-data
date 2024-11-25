@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-171",
+    "name": "Zoroark",
+    "number": "171",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771554",
+        "reverse-holo": "2771457"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$35.09",
+                "grade9": "$12.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$35.13",
+                "grade9": "$12.21"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm10-218",
+    "name": "Blastoise-GX",
+    "number": "218",
+    "setId": "sm10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963374"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$66.00",
+                "psa10": "$193.49",
+                "grade9": "$64.00"
+            }
+        }
+    }
+}

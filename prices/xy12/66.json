@@ -1,0 +1,25 @@
+{
+    "id": "xy12-66",
+    "name": "Rattata",
+    "number": "66",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960354",
+        "reverse-holo": "960443"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.53",
+                "psa10": "$96.00",
+                "grade9": "$10.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "$54.06",
+                "grade9": "$11.25"
+            }
+        }
+    }
+}

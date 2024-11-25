@@ -1,0 +1,19 @@
+{
+    "id": "sv6-212",
+    "name": "Hearthflame Mask Ogerpon ex",
+    "number": "212",
+    "setId": "sv6",
+    "rarity": "Special Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6775729"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.99",
+                "psa10": "$148.75",
+                "grade9": "$40.98"
+            }
+        }
+    }
+}

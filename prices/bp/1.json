@@ -1,0 +1,25 @@
+{
+    "id": "bp-1",
+    "name": "Electabuzz",
+    "number": "1",
+    "setId": "bp",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "2978632",
+        "winner": "2978633"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.99",
+                "psa10": "$184.54",
+                "grade9": "$49.00"
+            },
+            "winner": {
+                "ungraded": "$35.00",
+                "psa10": "$355.00",
+                "grade9": "$41.70"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl4-25",
+    "name": "Pichu",
+    "number": "25",
+    "setId": "pl4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925644",
+        "reverse-holo": "925755"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.98",
+                "psa10": "$91.36",
+                "grade9": "$14.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.18",
+                "psa10": "$142.50",
+                "grade9": "$58.63"
+            }
+        }
+    }
+}

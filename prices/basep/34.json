@@ -1,0 +1,25 @@
+{
+    "id": "basep-34",
+    "name": "Entei",
+    "number": "34",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5706367",
+        "reverse-holo": "4894333"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.38",
+                "psa10": "",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.50",
+                "psa10": "$132.50",
+                "grade9": "$23.75"
+            }
+        }
+    }
+}

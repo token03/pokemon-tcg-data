@@ -1,0 +1,25 @@
+{
+    "id": "pop9-2",
+    "name": "Manaphy",
+    "number": "2",
+    "setId": "pop9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762860",
+        "holo": "762876"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.83",
+                "psa10": "$67.99",
+                "grade9": "$13.61"
+            },
+            "holo": {
+                "ungraded": "$2.88",
+                "psa10": "$80.86",
+                "grade9": "$41.73"
+            }
+        }
+    }
+}

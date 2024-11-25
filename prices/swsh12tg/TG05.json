@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG05",
+    "name": "Gardevoir",
+    "number": "TG05",
+    "setId": "swsh12tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4277093"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$40.00",
+                "grade9": "$12.23"
+            }
+        }
+    }
+}

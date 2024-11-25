@@ -1,0 +1,25 @@
+{
+    "id": "dp7-22",
+    "name": "Rapidash",
+    "number": "22",
+    "setId": "dp7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925235",
+        "reverse-holo": "925323"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$50.50",
+                "grade9": "$16.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.93",
+                "psa10": "$86.61",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

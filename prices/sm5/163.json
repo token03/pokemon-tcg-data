@@ -1,0 +1,19 @@
+{
+    "id": "sm5-163",
+    "name": "Dusk Mane Necrozma-GX",
+    "number": "163",
+    "setId": "sm5",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961526"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.99",
+                "psa10": "$55.00",
+                "grade9": "$16.50"
+            }
+        }
+    }
+}

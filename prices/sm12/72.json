@@ -1,0 +1,25 @@
+{
+    "id": "sm12-72",
+    "name": "Lanturn",
+    "number": "72",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964310",
+        "reverse-holo": "964574"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "$69.99",
+                "grade9": "$12.83"
+            }
+        }
+    }
+}

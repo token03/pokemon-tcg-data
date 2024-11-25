@@ -1,0 +1,25 @@
+{
+    "id": "xy8-68",
+    "name": "Ralts",
+    "number": "68",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959257",
+        "reverse-holo": "959411"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$35.42",
+                "grade9": "$13.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$37.70",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

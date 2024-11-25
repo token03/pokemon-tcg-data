@@ -1,0 +1,25 @@
+{
+    "id": "ex6-9",
+    "name": "Nidoqueen",
+    "number": "9",
+    "setId": "ex6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849976",
+        "reverse-holo": "850092"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$249.00",
+                "grade9": "$35.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.91",
+                "psa10": "$157.50",
+                "grade9": "$44.13"
+            }
+        }
+    }
+}

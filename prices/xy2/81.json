@@ -1,0 +1,25 @@
+{
+    "id": "xy2-81",
+    "name": "Sentret",
+    "number": "81",
+    "setId": "xy2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957828",
+        "reverse-holo": "957928"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.01",
+                "psa10": "",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "$42.14",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

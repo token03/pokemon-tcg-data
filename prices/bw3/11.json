@@ -1,0 +1,25 @@
+{
+    "id": "bw3-11",
+    "name": "Shelmet",
+    "number": "11",
+    "setId": "bw3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955666",
+        "reverse-holo": "955768"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": "$26.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

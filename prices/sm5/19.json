@@ -1,0 +1,25 @@
+{
+    "id": "sm5-19",
+    "name": "Magmortar",
+    "number": "19",
+    "setId": "sm5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961382",
+        "reverse-holo": "961554"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.22",
+                "psa10": "$24.00",
+                "grade9": "$19.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-10",
+    "name": "Magmortar",
+    "number": "10",
+    "setId": "sv4pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6276929",
+        "reverse-holo": "6277173"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.43",
+                "grade9": "$11.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$35.43",
+                "grade9": "$11.53"
+            }
+        }
+    }
+}

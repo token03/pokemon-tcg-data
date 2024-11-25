@@ -1,0 +1,25 @@
+{
+    "id": "pl3-17",
+    "name": "Butterfree FB",
+    "number": "17",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287064",
+        "reverse-holo": "1287218"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$80.61",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "$150.00",
+                "grade9": "$46.49"
+            }
+        }
+    }
+}

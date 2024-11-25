@@ -1,0 +1,25 @@
+{
+    "id": "sv6-85",
+    "name": "Chimecho",
+    "number": "85",
+    "setId": "sv6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6769565",
+        "reverse-holo": "6769784"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

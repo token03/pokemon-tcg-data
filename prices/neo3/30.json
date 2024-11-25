@@ -1,0 +1,25 @@
+{
+    "id": "neo3-30",
+    "name": "Graveler",
+    "number": "30",
+    "setId": "neo3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762507",
+        "1st-edition": "2427410"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.77",
+                "psa10": "$49.69",
+                "grade9": "$23.21"
+            },
+            "1st-edition": {
+                "ungraded": "$2.61",
+                "psa10": "$38.00",
+                "grade9": "$21.93"
+            }
+        }
+    }
+}

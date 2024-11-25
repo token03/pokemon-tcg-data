@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-18",
+    "name": "Dragonite",
+    "number": "18",
+    "setId": "hgss4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926076",
+        "reverse-holo": "926178"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.03",
+                "psa10": "$74.57",
+                "grade9": "$31.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.49",
+                "psa10": "$143.23",
+                "grade9": "$57.00"
+            }
+        }
+    }
+}

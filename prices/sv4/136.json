@@ -1,0 +1,25 @@
+{
+    "id": "sv4-136",
+    "name": "Zacian",
+    "number": "136",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5952974",
+        "reverse-holo": "5953226"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.00",
+                "psa10": "$40.10",
+                "grade9": "$7.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "$35.58",
+                "grade9": "$11.64"
+            }
+        }
+    }
+}

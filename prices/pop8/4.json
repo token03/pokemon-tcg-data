@@ -1,0 +1,25 @@
+{
+    "id": "pop8-4",
+    "name": "Probopass",
+    "number": "4",
+    "setId": "pop8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762833",
+        "holo": "762850"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.64",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$3.00",
+                "psa10": "$257.00",
+                "grade9": "$214.53"
+            }
+        }
+    }
+}

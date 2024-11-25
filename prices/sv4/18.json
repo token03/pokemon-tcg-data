@@ -1,0 +1,25 @@
+{
+    "id": "sv4-18",
+    "name": "Wo-Chien",
+    "number": "18",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5985637",
+        "reverse-holo": "5953122"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$0.95",
+                "psa10": "",
+                "grade9": "$7.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$35.34",
+                "grade9": "$11.58"
+            }
+        }
+    }
+}

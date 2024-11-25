@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG16",
+    "name": "Galarian Articuno V",
+    "number": "TG16",
+    "setId": "swsh10tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3508408"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.22",
+                "psa10": "$39.50",
+                "grade9": "$16.23"
+            }
+        }
+    }
+}

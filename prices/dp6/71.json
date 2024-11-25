@@ -1,0 +1,25 @@
+{
+    "id": "dp6-71",
+    "name": "Starmie",
+    "number": "71",
+    "setId": "dp6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925002",
+        "reverse-holo": "925147"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$50.08",
+                "grade9": "$18.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

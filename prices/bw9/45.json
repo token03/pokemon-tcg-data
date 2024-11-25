@@ -1,0 +1,25 @@
+{
+    "id": "bw9-45",
+    "name": "Grimer",
+    "number": "45",
+    "setId": "bw9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957100",
+        "reverse-holo": "957219"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.98",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

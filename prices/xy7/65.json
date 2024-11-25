@@ -1,0 +1,25 @@
+{
+    "id": "xy7-65",
+    "name": "Porygon2",
+    "number": "65",
+    "setId": "xy7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959083",
+        "reverse-holo": "959172"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.98",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$60.00",
+                "grade9": "$50.00"
+            }
+        }
+    }
+}

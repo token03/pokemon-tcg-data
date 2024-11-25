@@ -1,0 +1,19 @@
+{
+    "id": "sv3-213",
+    "name": "Glimmora ex",
+    "number": "213",
+    "setId": "sv3",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5605731"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$23.38",
+                "grade9": "$7.30"
+            }
+        }
+    }
+}

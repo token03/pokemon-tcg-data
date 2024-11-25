@@ -1,0 +1,25 @@
+{
+    "id": "pl3-123",
+    "name": "Roselia",
+    "number": "123",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287170",
+        "reverse-holo": "1287324"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.94",
+                "psa10": "",
+                "grade9": "$17.33"
+            }
+        }
+    }
+}

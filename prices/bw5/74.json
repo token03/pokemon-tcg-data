@@ -1,0 +1,25 @@
+{
+    "id": "bw5-74",
+    "name": "Escavalier",
+    "number": "74",
+    "setId": "bw5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956120",
+        "reverse-holo": "956227"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.84",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

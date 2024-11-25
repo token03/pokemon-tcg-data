@@ -1,0 +1,31 @@
+{
+    "id": "bw11-19",
+    "name": "Charizard",
+    "number": "19",
+    "setId": "bw11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957513",
+        "cosmos-holo": "5699275",
+        "reverse-holo": "957653"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.65",
+                "psa10": "$722.25",
+                "grade9": "$92.50"
+            },
+            "cosmos-holo": {
+                "ungraded": "$15.00",
+                "psa10": "$3,052.50",
+                "grade9": "$203.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.49",
+                "psa10": "$202.14",
+                "grade9": "$93.66"
+            }
+        }
+    }
+}

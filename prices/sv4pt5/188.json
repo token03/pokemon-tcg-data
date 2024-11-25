@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-188",
+    "name": "Mabosstiff",
+    "number": "188",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277107"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.95",
+                "psa10": "$34.99",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

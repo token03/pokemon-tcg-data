@@ -1,0 +1,19 @@
+{
+    "id": "ex5-99",
+    "name": "Registeel ex",
+    "number": "99",
+    "setId": "ex5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849872"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$46.75",
+                "psa10": "$305.12",
+                "grade9": "$96.00"
+            }
+        }
+    }
+}

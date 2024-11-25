@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG10",
+    "name": "Galarian Obstagoon",
+    "number": "TG10",
+    "setId": "swsh10tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3508402"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$21.99",
+                "grade9": "$7.76"
+            }
+        }
+    }
+}

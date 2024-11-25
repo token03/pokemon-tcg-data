@@ -1,0 +1,19 @@
+{
+    "id": "bw4-82",
+    "name": "Regigigas-EX",
+    "number": "82",
+    "setId": "bw4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "955934"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.58",
+                "psa10": "$62.23",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

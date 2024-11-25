@@ -1,0 +1,25 @@
+{
+    "id": "xy12-98",
+    "name": "Metal Energy",
+    "number": "98",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2383373",
+        "reverse-holo": "2775128"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$15.76",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.06",
+                "psa10": "$49.78",
+                "grade9": "$8.57"
+            }
+        }
+    }
+}

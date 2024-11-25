@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG33",
+    "name": "Poochyena",
+    "number": "GG33",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637089"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$34.11",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

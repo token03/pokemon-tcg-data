@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-31",
+    "name": "Weavile",
+    "number": "31",
+    "setId": "swsh6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2253837",
+        "reverse-holo": "2254062"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$35.03",
+                "grade9": "$19.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.87",
+                "psa10": "$37.24",
+                "grade9": "$13.32"
+            }
+        }
+    }
+}

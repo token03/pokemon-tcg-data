@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-177",
+    "name": "Jolteon V",
+    "number": "177",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2512988"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.85",
+                "psa10": "$42.50",
+                "grade9": "$15.10"
+            }
+        }
+    }
+}

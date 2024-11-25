@@ -1,0 +1,19 @@
+{
+    "id": "bw10-95",
+    "name": "Scoop Up Cyclone",
+    "number": "95",
+    "setId": "bw10",
+    "rarity": "Rare ACE",
+    "priceChartingIds": {
+        "normal": "957397"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.50",
+                "psa10": "$57.50",
+                "grade9": "$47.55"
+            }
+        }
+    }
+}

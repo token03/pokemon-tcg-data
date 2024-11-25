@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG24",
+    "name": "Allister",
+    "number": "TG24",
+    "setId": "swsh10tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3508416"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.05",
+                "psa10": "$36.37",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

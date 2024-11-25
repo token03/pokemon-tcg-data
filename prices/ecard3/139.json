@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-139",
+    "name": "Star Piece",
+    "number": "139",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842784",
+        "reverse-holo": "2252738"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$29.99",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$18.00",
+                "psa10": "$135.50",
+                "grade9": "$34.30"
+            }
+        }
+    }
+}

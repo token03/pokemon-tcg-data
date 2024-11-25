@@ -1,0 +1,25 @@
+{
+    "id": "dp2-57",
+    "name": "Octillery",
+    "number": "57",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920680",
+        "reverse-holo": "920804"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

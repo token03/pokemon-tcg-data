@@ -1,0 +1,25 @@
+{
+    "id": "bw5-102",
+    "name": "Ultra Ball",
+    "number": "102",
+    "setId": "bw5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956148",
+        "reverse-holo": "956254"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "$47.87",
+                "grade9": "$18.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.70",
+                "psa10": "",
+                "grade9": "$8.52"
+            }
+        }
+    }
+}

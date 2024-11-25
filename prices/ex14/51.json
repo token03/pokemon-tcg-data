@@ -1,0 +1,25 @@
+{
+    "id": "ex14-51",
+    "name": "Duskull",
+    "number": "51",
+    "setId": "ex14",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889338",
+        "reverse-holo": "889438"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.38",
+                "psa10": "$73.22",
+                "grade9": "$26.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "$71.00",
+                "grade9": "$18.69"
+            }
+        }
+    }
+}

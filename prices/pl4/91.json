@@ -1,0 +1,25 @@
+{
+    "id": "pl4-91",
+    "name": "Ultimate Zone",
+    "number": "91",
+    "setId": "pl4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925710",
+        "reverse-holo": "925821"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": "$12.35"
+            }
+        }
+    }
+}

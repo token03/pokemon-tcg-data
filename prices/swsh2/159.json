@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-159",
+    "name": "Full Heal",
+    "number": "159",
+    "setId": "swsh2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886885",
+        "reverse-holo": "887071"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$31.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

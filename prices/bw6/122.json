@@ -1,0 +1,19 @@
+{
+    "id": "bw6-122",
+    "name": "Registeel-EX",
+    "number": "122",
+    "setId": "bw6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956376"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.01",
+                "psa10": "$1,134.23",
+                "grade9": "$138.79"
+            }
+        }
+    }
+}

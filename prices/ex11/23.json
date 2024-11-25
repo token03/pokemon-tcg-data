@@ -1,0 +1,25 @@
+{
+    "id": "ex11-23",
+    "name": "Hypno",
+    "number": "23",
+    "setId": "ex11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888685",
+        "reverse-holo": "888799"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.28",
+                "psa10": "$199.99",
+                "grade9": "$14.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.80",
+                "psa10": "$118.75",
+                "grade9": "$31.40"
+            }
+        }
+    }
+}

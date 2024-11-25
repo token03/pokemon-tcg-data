@@ -1,0 +1,19 @@
+{
+    "id": "cel25-1",
+    "name": "Ho-Oh",
+    "number": "1",
+    "setId": "cel25",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2618146"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$40.00",
+                "grade9": "$10.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm3-95",
+    "name": "Cutiefly",
+    "number": "95",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960879",
+        "reverse-holo": "961037"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$35.18",
+                "grade9": "$13.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$36.11",
+                "grade9": "$13.68"
+            }
+        }
+    }
+}

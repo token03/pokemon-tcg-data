@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-16",
+    "name": "Hisuian Lilligant",
+    "number": "16",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "3489514",
+        "reverse-holo": "3489730"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$35.66",
+                "grade9": "$12.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$36.89",
+                "grade9": "$12.71"
+            }
+        }
+    }
+}

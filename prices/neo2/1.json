@@ -1,0 +1,25 @@
+{
+    "id": "neo2-1",
+    "name": "Espeon",
+    "number": "1",
+    "setId": "neo2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886571",
+        "1st-edition": "2158435"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$69.15",
+                "psa10": "$653.21",
+                "grade9": "$168.88"
+            },
+            "1st-edition": {
+                "ungraded": "$226.25",
+                "psa10": "$2,213.00",
+                "grade9": "$564.09"
+            }
+        }
+    }
+}

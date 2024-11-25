@@ -1,0 +1,25 @@
+{
+    "id": "sm5-40",
+    "name": "Wash Rotom",
+    "number": "40",
+    "setId": "sm5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961403",
+        "reverse-holo": "961575"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$38.40",
+                "grade9": "$15.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.25",
+                "psa10": "$39.49",
+                "grade9": "$15.68"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-41",
+    "name": "Lumineon",
+    "number": "41",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4049958",
+        "reverse-holo": "4050174"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$36.50",
+                "grade9": "$12.42"
+            }
+        }
+    }
+}

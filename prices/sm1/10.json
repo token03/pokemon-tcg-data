@@ -1,0 +1,25 @@
+{
+    "id": "sm1-10",
+    "name": "Dartrix",
+    "number": "10",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806759",
+        "reverse-holo": "806894"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$37.09",
+                "grade9": "$4.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.53",
+                "psa10": "$37.14",
+                "grade9": "$14.29"
+            }
+        }
+    }
+}

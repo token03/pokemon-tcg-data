@@ -1,0 +1,25 @@
+{
+    "id": "sm1-73",
+    "name": "Passimian",
+    "number": "73",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806818",
+        "reverse-holo": "806950"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

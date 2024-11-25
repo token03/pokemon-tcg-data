@@ -1,0 +1,25 @@
+{
+    "id": "pl1-67",
+    "name": "Cacnea",
+    "number": "67",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "805901",
+        "reverse-holo": "805902"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.85",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

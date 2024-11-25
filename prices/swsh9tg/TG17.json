@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG17",
+    "name": "Mimikyu VMAX",
+    "number": "TG17",
+    "setId": "swsh9tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "3228699"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$17.25",
+                "psa10": "$66.00",
+                "grade9": "$26.47"
+            }
+        }
+    }
+}

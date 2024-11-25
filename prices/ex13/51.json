@@ -1,0 +1,25 @@
+{
+    "id": "ex13-51",
+    "name": "Raichu",
+    "number": "51",
+    "setId": "ex13",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889131",
+        "reverse-holo": "889242"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$78.54",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$15.06",
+                "psa10": "$319.44",
+                "grade9": "$55.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy12-75",
+    "name": "Charizard Spirit Link",
+    "number": "75",
+    "setId": "xy12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960363",
+        "reverse-holo": "960451"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.89",
+                "psa10": "$31.00",
+                "grade9": "$8.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.65",
+                "psa10": "$98.82",
+                "grade9": "$17.13"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm1-163",
+    "name": "Metal Energy",
+    "number": "163",
+    "setId": "sm1",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "806884"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.38",
+                "psa10": "$78.41",
+                "grade9": "$39.10"
+            }
+        }
+    }
+}

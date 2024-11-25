@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-172",
+    "name": "Shadow Rider Calyrex V",
+    "number": "172",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253976"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.50",
+                "psa10": "$61.11",
+                "grade9": "$28.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sm8-14",
+    "name": "Jumpluff",
+    "number": "14",
+    "setId": "sm8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962402",
+        "pokemon-league": "5960630",
+        "reverse-holo": "962638"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$36.13",
+                "grade9": "$13.60"
+            },
+            "pokemon-league": {
+                "ungraded": "$1.81",
+                "psa10": "",
+                "grade9": "$35.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.91",
+                "psa10": "$37.64",
+                "grade9": "$14.48"
+            }
+        }
+    }
+}

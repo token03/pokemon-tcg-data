@@ -1,0 +1,25 @@
+{
+    "id": "col1-30",
+    "name": "Pidgeot",
+    "number": "30",
+    "setId": "col1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926281",
+        "reverse-holo": "926387"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.36",
+                "psa10": "$69.00",
+                "grade9": "$36.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.00",
+                "psa10": "$82.03",
+                "grade9": "$16.50"
+            }
+        }
+    }
+}

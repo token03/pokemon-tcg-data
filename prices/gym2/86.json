@@ -1,0 +1,25 @@
+{
+    "id": "gym2-86",
+    "name": "Lt. Surge's Voltorb",
+    "number": "86",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762288",
+        "1st-edition": "1450280"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$46.00",
+                "grade9": "$12.65"
+            },
+            "1st-edition": {
+                "ungraded": "$2.25",
+                "psa10": "$34.14",
+                "grade9": "$17.09"
+            }
+        }
+    }
+}

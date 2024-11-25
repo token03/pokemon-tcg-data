@@ -1,0 +1,25 @@
+{
+    "id": "neo4-10",
+    "name": "Dark Typhlosion",
+    "number": "10",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762579",
+        "1st-edition": "2183319"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.99",
+                "psa10": "$329.75",
+                "grade9": "$78.82"
+            },
+            "1st-edition": {
+                "ungraded": "$173.58",
+                "psa10": "$749.99",
+                "grade9": "$256.10"
+            }
+        }
+    }
+}

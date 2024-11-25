@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-241",
+    "name": "Chi-Yu ex",
+    "number": "241",
+    "setId": "sv4pt5",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "6277160"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.99",
+                "psa10": "$39.99",
+                "grade9": "$9.58"
+            }
+        }
+    }
+}

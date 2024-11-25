@@ -1,0 +1,25 @@
+{
+    "id": "bw8-47",
+    "name": "Magnezone",
+    "number": "47",
+    "setId": "bw8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956845",
+        "reverse-holo": "956979"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.36",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

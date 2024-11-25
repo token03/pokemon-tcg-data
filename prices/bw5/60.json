@@ -1,0 +1,25 @@
+{
+    "id": "bw5-60",
+    "name": "Umbreon",
+    "number": "60",
+    "setId": "bw5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956106",
+        "reverse-holo": "956214"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.67",
+                "psa10": "$581.00",
+                "grade9": "$484.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.95",
+                "psa10": "$137.34",
+                "grade9": "$54.38"
+            }
+        }
+    }
+}

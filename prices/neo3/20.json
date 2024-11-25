@@ -1,0 +1,25 @@
+{
+    "id": "neo3-20",
+    "name": "Lugia",
+    "number": "20",
+    "setId": "neo3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762515",
+        "1st-edition": "2427419"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.50",
+                "psa10": "$121.00",
+                "grade9": "$34.16"
+            },
+            "1st-edition": {
+                "ungraded": "$34.00",
+                "psa10": "$214.32",
+                "grade9": "$75.00"
+            }
+        }
+    }
+}

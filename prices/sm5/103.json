@@ -1,0 +1,25 @@
+{
+    "id": "sm5-103",
+    "name": "Lickilicky",
+    "number": "103",
+    "setId": "sm5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961466",
+        "reverse-holo": "961630"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.70",
+                "psa10": "$37.18",
+                "grade9": "$16.78"
+            }
+        }
+    }
+}

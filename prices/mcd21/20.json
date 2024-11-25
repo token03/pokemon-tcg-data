@@ -1,0 +1,25 @@
+{
+    "id": "mcd21-20",
+    "name": "Piplup",
+    "number": "20",
+    "setId": "mcd21",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1317306",
+        "holo": "1317331"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$34.00",
+                "grade9": "$11.12"
+            },
+            "holo": {
+                "ungraded": "$3.78",
+                "psa10": "$33.23",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

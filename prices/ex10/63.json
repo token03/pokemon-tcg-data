@@ -1,0 +1,25 @@
+{
+    "id": "ex10-63",
+    "name": "Natu",
+    "number": "63",
+    "setId": "ex10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888483",
+        "reverse-holo": "888624"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.29",
+                "psa10": "$32.56",
+                "grade9": "$28.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.81",
+                "psa10": "$127.86",
+                "grade9": "$22.73"
+            }
+        }
+    }
+}

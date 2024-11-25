@@ -1,0 +1,19 @@
+{
+    "id": "sm11-245",
+    "name": "Mega Sableye & Tyranitar-GX",
+    "number": "245",
+    "setId": "sm11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963811"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$37.13",
+                "psa10": "$92.86",
+                "grade9": "$39.00"
+            }
+        }
+    }
+}

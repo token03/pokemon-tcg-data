@@ -1,0 +1,25 @@
+{
+    "id": "sv4-36",
+    "name": "Milotic",
+    "number": "36",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5952874",
+        "reverse-holo": "5953139"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.00",
+                "psa10": "$40.06",
+                "grade9": "$7.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$35.07",
+                "grade9": "$0.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv3-30",
+    "name": "Entei",
+    "number": "30",
+    "setId": "sv3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5605548",
+        "reverse-holo": "5605785"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$24.99",
+                "grade9": "$8.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$36.17",
+                "grade9": "$11.91"
+            }
+        }
+    }
+}

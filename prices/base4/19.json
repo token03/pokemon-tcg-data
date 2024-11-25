@@ -1,0 +1,19 @@
+{
+    "id": "base4-19",
+    "name": "Wigglytuff",
+    "number": "19",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641822"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.61",
+                "psa10": "$223.88",
+                "grade9": "$56.42"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-111",
+    "name": "Stonjourner",
+    "number": "111",
+    "setId": "swsh2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886838",
+        "reverse-holo": "887028"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$35.70",
+                "grade9": "$13.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "$12.51",
+                "grade9": "$12.43"
+            }
+        }
+    }
+}

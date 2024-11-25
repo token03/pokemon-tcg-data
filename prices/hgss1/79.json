@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-79",
+    "name": "Sandshrew",
+    "number": "79",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806190",
+        "reverse-holo": "806297"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.36",
+                "psa10": "$46.29",
+                "grade9": "$17.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.60",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv4-2",
+    "name": "Masquerain",
+    "number": "2",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5952840",
+        "reverse-holo": "5953107"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "$32.32",
+                "grade9": "$10.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$35.06",
+                "grade9": "$11.49"
+            }
+        }
+    }
+}

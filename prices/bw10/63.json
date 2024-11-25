@@ -1,0 +1,25 @@
+{
+    "id": "bw10-63",
+    "name": "Shelgon",
+    "number": "63",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957365",
+        "reverse-holo": "957466"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.96",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

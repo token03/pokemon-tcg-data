@@ -1,0 +1,25 @@
+{
+    "id": "dp6-85",
+    "name": "Bellsprout",
+    "number": "85",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925016",
+        "reverse-holo": "925161"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$58.56",
+                "grade9": "$21.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

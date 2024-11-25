@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-139",
+    "name": "Power Plant",
+    "number": "139",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842655",
+        "reverse-holo": "2294030"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.60",
+                "psa10": "$41.07",
+                "grade9": "$13.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.50",
+                "psa10": "$176.72",
+                "grade9": "$33.25"
+            }
+        }
+    }
+}

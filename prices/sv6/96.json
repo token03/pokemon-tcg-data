@@ -1,0 +1,31 @@
+{
+    "id": "sv6-96",
+    "name": "Fezandipiti",
+    "number": "96",
+    "setId": "sv6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6858160",
+        "holo": "6769576",
+        "reverse-holo": "6769794"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.17",
+                "psa10": "$35.79",
+                "grade9": "$11.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "$36.14",
+                "grade9": "$11.60"
+            }
+        }
+    }
+}

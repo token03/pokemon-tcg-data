@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-9",
+    "name": "Elekid",
+    "number": "9",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842538",
+        "reverse-holo": "2293900"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.41",
+                "psa10": "$28.00",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$15.04",
+                "psa10": "$130.64",
+                "grade9": "$29.49"
+            }
+        }
+    }
+}

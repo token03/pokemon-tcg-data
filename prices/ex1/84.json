@@ -1,0 +1,25 @@
+{
+    "id": "ex1-84",
+    "name": "Lum Berry",
+    "number": "84",
+    "setId": "ex1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762937",
+        "reverse-holo": "763019"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "",
+                "grade9": "$74.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.90",
+                "psa10": "$44.71",
+                "grade9": "$17.72"
+            }
+        }
+    }
+}

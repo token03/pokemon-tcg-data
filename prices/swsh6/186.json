@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-186",
+    "name": "Agatha",
+    "number": "186",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253990"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.63",
+                "psa10": "$25.51",
+                "grade9": "$11.55"
+            }
+        }
+    }
+}

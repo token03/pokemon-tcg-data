@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-149",
+    "name": "Professor Oak's Research",
+    "number": "149",
+    "setId": "ecard1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842521",
+        "reverse-holo": "2267002"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.12",
+                "psa10": "$37.21",
+                "grade9": "$24.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.00",
+                "psa10": "$96.00",
+                "grade9": "$53.91"
+            }
+        }
+    }
+}

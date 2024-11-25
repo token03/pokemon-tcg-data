@@ -1,0 +1,25 @@
+{
+    "id": "pl2-23",
+    "name": "Golem E4",
+    "number": "23",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925419",
+        "reverse-holo": "925538"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.41",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "",
+                "grade9": "$19.85"
+            }
+        }
+    }
+}

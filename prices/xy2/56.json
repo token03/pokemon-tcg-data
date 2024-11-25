@@ -1,0 +1,25 @@
+{
+    "id": "xy2-56",
+    "name": "Sandile",
+    "number": "56",
+    "setId": "xy2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957803",
+        "reverse-holo": "957906"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": "$7.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-112",
+    "name": "Tangela",
+    "number": "112",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842630",
+        "reverse-holo": "2294003"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.67",
+                "psa10": "$34.99",
+                "grade9": "$19.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.12",
+                "psa10": "$168.37",
+                "grade9": "$49.49"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv2-206",
+    "name": "Quaxly",
+    "number": "206",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287495"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.25",
+                "psa10": "$184.73",
+                "grade9": "$19.00"
+            }
+        }
+    }
+}

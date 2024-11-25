@@ -1,0 +1,25 @@
+{
+    "id": "ex1-106",
+    "name": "Water Energy",
+    "number": "106",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762959",
+        "reverse-holo": "763033"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$40.88",
+                "grade9": "$6.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$146.00",
+                "grade9": "$121.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "base4-60",
+    "name": "Seaking",
+    "number": "60",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641863"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$59.95",
+                "grade9": "$23.99"
+            }
+        }
+    }
+}

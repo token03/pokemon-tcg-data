@@ -1,0 +1,25 @@
+{
+    "id": "bw1-56",
+    "name": "Duosion",
+    "number": "56",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806366",
+        "reverse-holo": "806453"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.87",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.09",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-61",
+    "name": "Granbull",
+    "number": "61",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842720",
+        "reverse-holo": "2252659"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.79",
+                "psa10": "$35.00",
+                "grade9": "$29.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$17.75",
+                "psa10": "$115.23",
+                "grade9": "$56.68"
+            }
+        }
+    }
+}

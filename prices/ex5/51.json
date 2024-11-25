@@ -1,0 +1,25 @@
+{
+    "id": "ex5-51",
+    "name": "Tentacruel",
+    "number": "51",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849824",
+        "reverse-holo": "849926"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.53",
+                "psa10": "$54.00",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.25",
+                "psa10": "$128.13",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

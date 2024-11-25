@@ -1,0 +1,31 @@
+{
+    "id": "base1-29",
+    "name": "Haunter",
+    "number": "29",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630442",
+        "1st-edition": "715618",
+        "shadowless": "715720"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$77.04",
+                "grade9": "$20.00"
+            },
+            "1st-edition": {
+                "ungraded": "$27.99",
+                "psa10": "$520.00",
+                "grade9": "$90.62"
+            },
+            "shadowless": {
+                "ungraded": "$4.24",
+                "psa10": "$92.50",
+                "grade9": "$24.99"
+            }
+        }
+    }
+}

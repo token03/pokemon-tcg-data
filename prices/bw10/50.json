@@ -1,0 +1,25 @@
+{
+    "id": "bw10-50",
+    "name": "Machamp",
+    "number": "50",
+    "setId": "bw10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957352",
+        "reverse-holo": "957455"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$44.82",
+                "grade9": "$17.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.66",
+                "psa10": "$42.11",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

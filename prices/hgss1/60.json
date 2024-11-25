@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-60",
+    "name": "Clefairy",
+    "number": "60",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806172",
+        "reverse-holo": "806278"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.83",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

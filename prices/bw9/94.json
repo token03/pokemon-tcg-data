@@ -1,0 +1,25 @@
+{
+    "id": "bw9-94",
+    "name": "Kecleon",
+    "number": "94",
+    "setId": "bw9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957148",
+        "reverse-holo": "957264"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$45.03",
+                "grade9": "$17.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.88",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

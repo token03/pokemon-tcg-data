@@ -1,0 +1,25 @@
+{
+    "id": "base6-72",
+    "name": "Dratini",
+    "number": "72",
+    "setId": "base6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842378",
+        "reverse-holo": "2253755"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$40.00",
+                "grade9": "$13.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$48.05",
+                "psa10": "$1,100.74",
+                "grade9": "$206.90"
+            }
+        }
+    }
+}

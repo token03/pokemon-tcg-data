@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-15",
+    "name": "Roserade",
+    "number": "15",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4049932",
+        "reverse-holo": "4050149"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$34.79",
+                "grade9": "$11.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$35.87",
+                "grade9": "$12.19"
+            }
+        }
+    }
+}

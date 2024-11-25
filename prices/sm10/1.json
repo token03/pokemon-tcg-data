@@ -1,0 +1,19 @@
+{
+    "id": "sm10-1",
+    "name": "Pheromosa & Buzzwole-GX",
+    "number": "1",
+    "setId": "sm10",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963157"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.86",
+                "psa10": "$45.69",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

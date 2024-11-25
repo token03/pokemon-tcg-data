@@ -1,0 +1,19 @@
+{
+    "id": "pl4-97",
+    "name": "Gengar LV.X",
+    "number": "97",
+    "setId": "pl4",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925716"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$45.79",
+                "psa10": "$2,354.15",
+                "grade9": "$241.19"
+            }
+        }
+    }
+}

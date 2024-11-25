@@ -1,0 +1,25 @@
+{
+    "id": "pl3-10",
+    "name": "Rhyperior",
+    "number": "10",
+    "setId": "pl3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1287057",
+        "reverse-holo": "1287211"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.84",
+                "psa10": "$260.00",
+                "grade9": "$20.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.65",
+                "psa10": "$71.01",
+                "grade9": "$20.20"
+            }
+        }
+    }
+}

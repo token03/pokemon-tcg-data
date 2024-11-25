@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG11",
+    "name": "Lunatone",
+    "number": "GG11",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637067"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.44",
+                "psa10": "$41.61",
+                "grade9": "$11.23"
+            }
+        }
+    }
+}

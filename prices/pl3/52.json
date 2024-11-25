@@ -1,0 +1,25 @@
+{
+    "id": "pl3-52",
+    "name": "Breloom",
+    "number": "52",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287099",
+        "reverse-holo": "1287253"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.03",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

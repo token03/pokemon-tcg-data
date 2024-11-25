@@ -1,0 +1,25 @@
+{
+    "id": "neo2-26",
+    "name": "Magnemite",
+    "number": "26",
+    "setId": "neo2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886578",
+        "1st-edition": "2158456"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.87",
+                "psa10": "$36.23",
+                "grade9": "$26.92"
+            },
+            "1st-edition": {
+                "ungraded": "$7.31",
+                "psa10": "$129.36",
+                "grade9": "$30.67"
+            }
+        }
+    }
+}

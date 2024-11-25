@@ -1,0 +1,25 @@
+{
+    "id": "xy9-96",
+    "name": "All-Night Party",
+    "number": "96",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959587",
+        "reverse-holo": "959695"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$40.40",
+                "grade9": "$15.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.22",
+                "psa10": "$150.00",
+                "grade9": "$41.00"
+            }
+        }
+    }
+}

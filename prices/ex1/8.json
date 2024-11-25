@@ -1,0 +1,25 @@
+{
+    "id": "ex1-8",
+    "name": "Hariyama",
+    "number": "8",
+    "setId": "ex1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762888",
+        "reverse-holo": "762970"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$215.37",
+                "grade9": "$30.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.53",
+                "psa10": "$48.99",
+                "grade9": "$34.61"
+            }
+        }
+    }
+}

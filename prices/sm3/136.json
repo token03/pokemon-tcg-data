@@ -1,0 +1,19 @@
+{
+    "id": "sm3-136",
+    "name": "Lycanroc-GX",
+    "number": "136",
+    "setId": "sm3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960920"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.05",
+                "psa10": "$40.13",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

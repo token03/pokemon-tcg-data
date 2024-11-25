@@ -1,0 +1,25 @@
+{
+    "id": "neo4-1",
+    "name": "Dark Ampharos",
+    "number": "1",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762557",
+        "1st-edition": "2183297"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$38.45",
+                "psa10": "$416.50",
+                "grade9": "$99.41"
+            },
+            "1st-edition": {
+                "ungraded": "$89.29",
+                "psa10": "$850.76",
+                "grade9": "$211.10"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG04",
+    "name": "Jolteon",
+    "number": "TG04",
+    "setId": "swsh9tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3216315"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.80",
+                "psa10": "$67.71",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "dv1-20",
+    "name": "Super Rod",
+    "number": "20",
+    "setId": "dv1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956513"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.92",
+                "psa10": "$26.90",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

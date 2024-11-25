@@ -1,0 +1,25 @@
+{
+    "id": "ex16-11",
+    "name": "Machamp",
+    "number": "11",
+    "setId": "ex16",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889675",
+        "reverse-holo": "889783"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.67",
+                "psa10": "$129.16",
+                "grade9": "$33.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.00",
+                "psa10": "$132.50",
+                "grade9": "$75.28"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-142",
+    "name": "Delcatty",
+    "number": "142",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887222",
+        "reverse-holo": "887400"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$35.02",
+                "grade9": "$19.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.57",
+                "psa10": "$56.00",
+                "grade9": "$13.06"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "bw8-14",
+    "name": "Moltres-EX",
+    "number": "14",
+    "setId": "bw8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956812"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.65",
+                "psa10": "$129.60",
+                "grade9": "$20.07"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv3-172",
+    "name": "Stoutland",
+    "number": "172",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605690",
+        "reverse-holo": "5605908"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$34.94",
+                "grade9": "$11.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$35.62",
+                "grade9": "$11.74"
+            }
+        }
+    }
+}

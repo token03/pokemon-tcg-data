@@ -1,0 +1,25 @@
+{
+    "id": "bw10-27",
+    "name": "Tirtouga",
+    "number": "27",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957329",
+        "reverse-holo": "957433"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$39.17",
+                "grade9": "$14.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.22",
+                "psa10": "$46.09",
+                "grade9": "$18.51"
+            }
+        }
+    }
+}

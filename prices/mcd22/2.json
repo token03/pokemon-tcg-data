@@ -1,0 +1,19 @@
+{
+    "id": "mcd22-2",
+    "name": "Rowlet",
+    "number": "2",
+    "setId": "mcd22",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "holo": "3892314"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.25",
+                "psa10": "$48.42",
+                "grade9": "$10.73"
+            }
+        }
+    }
+}

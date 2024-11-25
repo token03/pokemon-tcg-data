@@ -1,0 +1,25 @@
+{
+    "id": "base3-4",
+    "name": "Dragonite",
+    "number": "4",
+    "setId": "base3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643401",
+        "1st-edition": "1099498"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$37.19",
+                "psa10": "$1,610.81",
+                "grade9": "$167.20"
+            },
+            "1st-edition": {
+                "ungraded": "$154.51",
+                "psa10": "$5,209.87",
+                "grade9": "$504.76"
+            }
+        }
+    }
+}

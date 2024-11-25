@@ -1,0 +1,19 @@
+{
+    "id": "sv5-178",
+    "name": "Metagross",
+    "number": "178",
+    "setId": "sv5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6495638"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.77",
+                "psa10": "$104.99",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

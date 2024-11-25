@@ -1,0 +1,25 @@
+{
+    "id": "pl2-2",
+    "name": "Bastiodon GL",
+    "number": "2",
+    "setId": "pl2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925398",
+        "reverse-holo": "925518"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.22",
+                "psa10": "$210.00",
+                "grade9": "$20.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.02",
+                "psa10": "",
+                "grade9": "$22.50"
+            }
+        }
+    }
+}

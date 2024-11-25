@@ -1,0 +1,25 @@
+{
+    "id": "pop6-17",
+    "name": "Turtwig",
+    "number": "17",
+    "setId": "pop6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762799",
+        "holo": "762806"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.20",
+                "psa10": "$81.64",
+                "grade9": "$30.06"
+            },
+            "holo": {
+                "ungraded": "$4.37",
+                "psa10": "$100.57",
+                "grade9": "$28.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm3-127",
+    "name": "Wicke",
+    "number": "127",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960911",
+        "reverse-holo": "961068"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.38",
+                "grade9": "$12.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "$34.43",
+                "grade9": "$12.67"
+            }
+        }
+    }
+}

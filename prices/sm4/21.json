@@ -1,0 +1,25 @@
+{
+    "id": "sm4-21",
+    "name": "Mamoswine",
+    "number": "21",
+    "setId": "sm4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961168",
+        "reverse-holo": "961290"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.97",
+                "psa10": "$54.00",
+                "grade9": "$3.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "$34.36",
+                "grade9": "$12.03"
+            }
+        }
+    }
+}

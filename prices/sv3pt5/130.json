@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-130",
+    "name": "Gyarados",
+    "number": "130",
+    "setId": "sv3pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5809511",
+        "reverse-holo": "5809711"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$29.99",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.80",
+                "psa10": "$39.95",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

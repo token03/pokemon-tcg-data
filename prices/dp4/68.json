@@ -1,0 +1,25 @@
+{
+    "id": "dp4-68",
+    "name": "Glameow",
+    "number": "68",
+    "setId": "dp4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921222",
+        "reverse-holo": "921328"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.35",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "$159.24",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw3-45",
+    "name": "Yamask",
+    "number": "45",
+    "setId": "bw3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955700",
+        "reverse-holo": "955802"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.35",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.51",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

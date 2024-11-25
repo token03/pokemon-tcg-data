@@ -1,0 +1,19 @@
+{
+    "id": "xy5-162",
+    "name": "Enhanced Hammer",
+    "number": "162",
+    "setId": "xy5",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "958619"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.00",
+                "psa10": "$72.10",
+                "grade9": "$18.52"
+            }
+        }
+    }
+}

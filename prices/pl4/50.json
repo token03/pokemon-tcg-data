@@ -1,0 +1,25 @@
+{
+    "id": "pl4-50",
+    "name": "Wormadam Sandy Cloak",
+    "number": "50",
+    "setId": "pl4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925669",
+        "reverse-holo": "925780"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

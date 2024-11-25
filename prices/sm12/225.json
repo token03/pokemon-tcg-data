@@ -1,0 +1,19 @@
+{
+    "id": "sm12-225",
+    "name": "Mega Lopunny & Jigglypuff-GX",
+    "number": "225",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964463"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.52",
+                "psa10": "$51.48",
+                "grade9": "$28.85"
+            }
+        }
+    }
+}

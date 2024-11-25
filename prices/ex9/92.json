@@ -1,0 +1,19 @@
+{
+    "id": "ex9-92",
+    "name": "Camerupt ex",
+    "number": "92",
+    "setId": "ex9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888317"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.99",
+                "psa10": "$2,619.99",
+                "grade9": "$104.82"
+            }
+        }
+    }
+}

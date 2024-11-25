@@ -1,0 +1,19 @@
+{
+    "id": "mcd11-5",
+    "name": "Alomomola",
+    "number": "5",
+    "setId": "mcd11",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179959"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$71.00",
+                "grade9": "$14.63"
+            }
+        }
+    }
+}

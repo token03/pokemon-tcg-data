@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-35",
+    "name": "Xatu",
+    "number": "35",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842697",
+        "reverse-holo": "2252634"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.12",
+                "psa10": "$50.92",
+                "grade9": "$17.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.25",
+                "psa10": "$211.60",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

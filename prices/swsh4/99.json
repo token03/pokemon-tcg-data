@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-99",
+    "name": "Coalossal VMAX",
+    "number": "99",
+    "setId": "swsh4",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "842094"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$17.00",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

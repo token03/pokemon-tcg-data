@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-181",
+    "name": "Metagross V",
+    "number": "181",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253985"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.25",
+                "psa10": "$29.81",
+                "grade9": "$12.87"
+            }
+        }
+    }
+}

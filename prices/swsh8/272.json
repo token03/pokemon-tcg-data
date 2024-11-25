@@ -1,0 +1,19 @@
+{
+    "id": "swsh8-272",
+    "name": "Greedent VMAX",
+    "number": "272",
+    "setId": "swsh8",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2771298"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$33.44",
+                "grade9": "$15.91"
+            }
+        }
+    }
+}

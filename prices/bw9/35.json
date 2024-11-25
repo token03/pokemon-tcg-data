@@ -1,0 +1,25 @@
+{
+    "id": "bw9-35",
+    "name": "Chinchou",
+    "number": "35",
+    "setId": "bw9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957090",
+        "reverse-holo": "957210"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.51",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

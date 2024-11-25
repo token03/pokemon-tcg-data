@@ -1,0 +1,19 @@
+{
+    "id": "sv6-190",
+    "name": "Teal Mask Ogerpon ex",
+    "number": "190",
+    "setId": "sv6",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6775708"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.41",
+                "psa10": "$80.74",
+                "grade9": "$23.24"
+            }
+        }
+    }
+}

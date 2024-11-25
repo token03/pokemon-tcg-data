@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-188",
+    "name": "Roxanne",
+    "number": "188",
+    "setId": "swsh10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3489687"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.00",
+                "psa10": "$32.82",
+                "grade9": "$19.86"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-60",
+    "name": "Oddish",
+    "number": "60",
+    "setId": "hgss3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925947",
+        "reverse-holo": "926038"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$45.43",
+                "grade9": "$16.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.45",
+                "psa10": "$128.65",
+                "grade9": "$34.95"
+            }
+        }
+    }
+}

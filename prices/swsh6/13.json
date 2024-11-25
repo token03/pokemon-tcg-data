@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-13",
+    "name": "Bounsweet",
+    "number": "13",
+    "setId": "swsh6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2253819",
+        "reverse-holo": "2254047"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "$36.24",
+                "grade9": "$12.86"
+            }
+        }
+    }
+}

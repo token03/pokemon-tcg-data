@@ -1,0 +1,25 @@
+{
+    "id": "neo4-19",
+    "name": "Dark Omastar",
+    "number": "19",
+    "setId": "neo4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762573",
+        "1st-edition": "2183313"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.22",
+                "psa10": "$26.17",
+                "grade9": "$24.20"
+            },
+            "1st-edition": {
+                "ungraded": "$11.32",
+                "psa10": "$71.79",
+                "grade9": "$31.23"
+            }
+        }
+    }
+}

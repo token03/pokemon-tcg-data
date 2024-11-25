@@ -1,0 +1,25 @@
+{
+    "id": "bw9-29",
+    "name": "Vanilluxe",
+    "number": "29",
+    "setId": "bw9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957084",
+        "reverse-holo": "957204"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$40.14",
+                "grade9": "$15.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

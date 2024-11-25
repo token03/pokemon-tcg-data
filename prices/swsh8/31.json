@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-31",
+    "name": "Ninetales",
+    "number": "31",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771060",
+        "reverse-holo": "2771336"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$34.69",
+                "grade9": "$12.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.78",
+                "psa10": "$37.10",
+                "grade9": "$13.06"
+            }
+        }
+    }
+}

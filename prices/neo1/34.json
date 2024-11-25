@@ -1,0 +1,25 @@
+{
+    "id": "neo1-34",
+    "name": "Flaaffy",
+    "number": "34",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762351",
+        "1st-edition": "2324865"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.09",
+                "psa10": "$46.00",
+                "grade9": "$9.43"
+            },
+            "1st-edition": {
+                "ungraded": "$4.00",
+                "psa10": "$47.73",
+                "grade9": "$20.17"
+            }
+        }
+    }
+}

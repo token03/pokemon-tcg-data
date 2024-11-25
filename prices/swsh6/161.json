@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-161",
+    "name": "Blaziken V",
+    "number": "161",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253965"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.11",
+                "psa10": "$36.50",
+                "grade9": "$15.21"
+            }
+        }
+    }
+}

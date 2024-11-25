@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-141",
+    "name": "Feather Ball",
+    "number": "141",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489640",
+        "reverse-holo": "3489834"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.03",
+                "grade9": "$11.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$36.52",
+                "grade9": "$12.57"
+            }
+        }
+    }
+}

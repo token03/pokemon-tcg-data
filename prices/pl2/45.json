@@ -1,0 +1,25 @@
+{
+    "id": "pl2-45",
+    "name": "Leafeon",
+    "number": "45",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925441",
+        "reverse-holo": "925560"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.77",
+                "psa10": "$34.00",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.07",
+                "psa10": "$599.25",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

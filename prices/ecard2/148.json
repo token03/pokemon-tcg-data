@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-148",
+    "name": "Kingdra",
+    "number": "148",
+    "setId": "ecard2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "887935",
+        "reverse-holo": "2294039"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$122.50",
+                "psa10": "$1,343.48",
+                "grade9": "$524.06"
+            },
+            "reverse-holo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

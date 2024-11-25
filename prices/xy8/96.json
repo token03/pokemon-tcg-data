@@ -1,0 +1,25 @@
+{
+    "id": "xy8-96",
+    "name": "Bronzong",
+    "number": "96",
+    "setId": "xy8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959285",
+        "reverse-holo": "959437"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$36.35",
+                "grade9": "$13.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.33",
+                "psa10": "$37.20",
+                "grade9": "$14.21"
+            }
+        }
+    }
+}

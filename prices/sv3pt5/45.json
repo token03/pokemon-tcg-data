@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-45",
+    "name": "Vileplume",
+    "number": "45",
+    "setId": "sv3pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "reverse-holo": "5809630"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "reverse-holo": {
+                "ungraded": "$1.85",
+                "psa10": "$40.32",
+                "grade9": "$13.12"
+            }
+        }
+    }
+}

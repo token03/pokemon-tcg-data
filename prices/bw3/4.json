@@ -1,0 +1,25 @@
+{
+    "id": "bw3-4",
+    "name": "Petilil",
+    "number": "4",
+    "setId": "bw3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955659",
+        "reverse-holo": "955761"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

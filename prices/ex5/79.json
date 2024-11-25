@@ -1,0 +1,25 @@
+{
+    "id": "ex5-79",
+    "name": "Totodile",
+    "number": "79",
+    "setId": "ex5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849852",
+        "reverse-holo": "849954"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$39.45",
+                "grade9": "$20.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.00",
+                "psa10": "$214.92",
+                "grade9": "$37.00"
+            }
+        }
+    }
+}

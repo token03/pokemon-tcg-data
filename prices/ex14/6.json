@@ -1,0 +1,25 @@
+{
+    "id": "ex14-6",
+    "name": "Ludicolo \u03b4",
+    "number": "6",
+    "setId": "ex14",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889293",
+        "reverse-holo": "889393"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.86",
+                "psa10": "$229.79",
+                "grade9": "$51.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.81",
+                "psa10": "$236.37",
+                "grade9": "$61.32"
+            }
+        }
+    }
+}

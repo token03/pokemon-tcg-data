@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG26",
+    "name": "Professor Burnet",
+    "number": "TG26",
+    "setId": "swsh12tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277114"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$28.28",
+                "grade9": "$12.51"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm5-94",
+    "name": "Tapu Lele",
+    "number": "94",
+    "setId": "sm5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961457",
+        "reverse-holo": "961623"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$38.40",
+                "grade9": "$15.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.40",
+                "psa10": "$40.13",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

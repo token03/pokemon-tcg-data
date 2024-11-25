@@ -1,0 +1,25 @@
+{
+    "id": "base5-12",
+    "name": "Dark Slowbro",
+    "number": "12",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643473",
+        "1st-edition": "1341354"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.44",
+                "psa10": "$450.00",
+                "grade9": "$62.54"
+            },
+            "1st-edition": {
+                "ungraded": "$40.00",
+                "psa10": "$456.42",
+                "grade9": "$119.19"
+            }
+        }
+    }
+}

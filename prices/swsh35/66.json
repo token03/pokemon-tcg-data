@@ -1,0 +1,25 @@
+{
+    "id": "swsh35-66",
+    "name": "Suspicious Food Tin",
+    "number": "66",
+    "setId": "swsh35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887493",
+        "reverse-holo": "887555"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$49.75",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": "$4.99"
+            }
+        }
+    }
+}

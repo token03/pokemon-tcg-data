@@ -1,0 +1,19 @@
+{
+    "id": "base4-22",
+    "name": "Dragonair",
+    "number": "22",
+    "setId": "base4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "641825"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.64",
+                "psa10": "$59.50",
+                "grade9": "$28.26"
+            }
+        }
+    }
+}

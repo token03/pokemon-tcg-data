@@ -1,0 +1,25 @@
+{
+    "id": "neo4-53",
+    "name": "Light Venomoth",
+    "number": "53",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762619",
+        "1st-edition": "2183359"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.58",
+                "psa10": "$52.25",
+                "grade9": "$22.25"
+            },
+            "1st-edition": {
+                "ungraded": "$6.04",
+                "psa10": "$46.00",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

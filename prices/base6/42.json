@@ -1,0 +1,25 @@
+{
+    "id": "base6-42",
+    "name": "Fearow",
+    "number": "42",
+    "setId": "base6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842349",
+        "reverse-holo": "2253725"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$37.89",
+                "grade9": "$7.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$33.17",
+                "psa10": "$445.71",
+                "grade9": "$107.27"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-69",
+    "name": "Vileplume",
+    "number": "69",
+    "setId": "ecard1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887914",
+        "reverse-holo": "2266922"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.62",
+                "psa10": "$42.37",
+                "grade9": "$32.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.80",
+                "psa10": "$169.00",
+                "grade9": "$39.00"
+            }
+        }
+    }
+}

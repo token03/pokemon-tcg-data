@@ -1,0 +1,19 @@
+{
+    "id": "swsh35-78",
+    "name": "Piers",
+    "number": "78",
+    "setId": "swsh35",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "887504"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$20.89",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

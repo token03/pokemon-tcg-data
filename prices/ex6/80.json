@@ -1,0 +1,25 @@
+{
+    "id": "ex6-80",
+    "name": "Slowpoke",
+    "number": "80",
+    "setId": "ex6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "850047",
+        "reverse-holo": "850162"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.89",
+                "psa10": "$51.00",
+                "grade9": "$24.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.89",
+                "psa10": "$131.08",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

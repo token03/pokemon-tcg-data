@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-155",
+    "name": "Drifloon",
+    "number": "155",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277074"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.89",
+                "psa10": "$34.99",
+                "grade9": "$11.24"
+            }
+        }
+    }
+}

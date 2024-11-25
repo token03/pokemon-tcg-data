@@ -1,0 +1,25 @@
+{
+    "id": "gym1-122",
+    "name": "Energy Flow",
+    "number": "122",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762122",
+        "1st-edition": "2156433"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$59.00",
+                "grade9": "$5.50"
+            },
+            "1st-edition": {
+                "ungraded": "$1.49",
+                "psa10": "$34.00",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

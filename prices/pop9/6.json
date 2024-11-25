@@ -1,0 +1,19 @@
+{
+    "id": "pop9-6",
+    "name": "Buizel",
+    "number": "6",
+    "setId": "pop9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762864"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.43",
+                "psa10": "$116.38",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm2-165",
+    "name": "Rare Candy",
+    "number": "165",
+    "setId": "sm2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960662"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.96",
+                "psa10": "$32.58",
+                "grade9": "$31.00"
+            }
+        }
+    }
+}

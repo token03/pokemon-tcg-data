@@ -1,0 +1,25 @@
+{
+    "id": "neo2-6",
+    "name": "Kabutops",
+    "number": "6",
+    "setId": "neo2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762434",
+        "1st-edition": "2158451"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.97",
+                "psa10": "$406.00",
+                "grade9": "$87.12"
+            },
+            "1st-edition": {
+                "ungraded": "$59.68",
+                "psa10": "$827.50",
+                "grade9": "$206.94"
+            }
+        }
+    }
+}

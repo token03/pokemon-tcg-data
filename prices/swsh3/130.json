@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-130",
+    "name": "Melmetal",
+    "number": "130",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887211",
+        "reverse-holo": "887388"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.22",
+                "grade9": "$12.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$16.00",
+                "grade9": "$13.11"
+            }
+        }
+    }
+}

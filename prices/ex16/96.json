@@ -1,0 +1,19 @@
+{
+    "id": "ex16-96",
+    "name": "Salamence ex",
+    "number": "96",
+    "setId": "ex16",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889760"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$33.00",
+                "psa10": "$600.00",
+                "grade9": "$133.69"
+            }
+        }
+    }
+}

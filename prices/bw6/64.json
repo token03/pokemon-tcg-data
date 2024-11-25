@@ -1,0 +1,25 @@
+{
+    "id": "bw6-64",
+    "name": "Claydol",
+    "number": "64",
+    "setId": "bw6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956318",
+        "reverse-holo": "956444"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.77",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

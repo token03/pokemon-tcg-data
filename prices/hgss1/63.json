@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-63",
+    "name": "Exeggcute",
+    "number": "63",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806175",
+        "reverse-holo": "806281"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$32.83",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw2-45",
+    "name": "Gothorita",
+    "number": "45",
+    "setId": "bw2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955471",
+        "reverse-holo": "955568"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "$61.00",
+                "grade9": "$17.44"
+            }
+        }
+    }
+}

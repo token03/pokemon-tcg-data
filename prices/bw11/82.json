@@ -1,0 +1,19 @@
+{
+    "id": "bw11-82",
+    "name": "Excadrill-EX",
+    "number": "82",
+    "setId": "bw11",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "957576"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$57.09",
+                "grade9": "$14.59"
+            }
+        }
+    }
+}

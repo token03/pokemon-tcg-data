@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-131",
+    "name": "Squirtle",
+    "number": "131",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842505",
+        "reverse-holo": "2266984"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.84",
+                "psa10": "$74.88",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$29.99",
+                "psa10": "$338.00",
+                "grade9": "$76.00"
+            }
+        }
+    }
+}

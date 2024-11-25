@@ -1,0 +1,25 @@
+{
+    "id": "bw9-10",
+    "name": "Cacturne",
+    "number": "10",
+    "setId": "bw9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957065",
+        "reverse-holo": "957186"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

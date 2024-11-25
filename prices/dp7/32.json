@@ -1,0 +1,25 @@
+{
+    "id": "dp7-32",
+    "name": "Bibarel",
+    "number": "32",
+    "setId": "dp7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925245",
+        "reverse-holo": "925331"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "$16.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.20",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

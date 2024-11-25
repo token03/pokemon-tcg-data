@@ -1,0 +1,37 @@
+{
+    "id": "sm11-151",
+    "name": "Dragonite",
+    "number": "151",
+    "setId": "sm11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963717",
+        "cosmos-holo": "4567723",
+        "cracked-ice-holo": "4567724",
+        "reverse-holo": "963960"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.47",
+                "psa10": "$43.00",
+                "grade9": "$13.51"
+            },
+            "cosmos-holo": {
+                "ungraded": "$3.47",
+                "psa10": "",
+                "grade9": "$26.76"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$8.99",
+                "psa10": "$185.00",
+                "grade9": "$28.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.00",
+                "psa10": "$40.00",
+                "grade9": "$27.49"
+            }
+        }
+    }
+}

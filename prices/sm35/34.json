@@ -1,0 +1,25 @@
+{
+    "id": "sm35-34",
+    "name": "Minun",
+    "number": "34",
+    "setId": "sm35",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961103",
+        "reverse-holo": "2978768"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.31",
+                "grade9": "$12.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "$49.99",
+                "grade9": "$14.33"
+            }
+        }
+    }
+}

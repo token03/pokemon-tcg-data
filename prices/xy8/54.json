@@ -1,0 +1,25 @@
+{
+    "id": "xy8-54",
+    "name": "Magnezone",
+    "number": "54",
+    "setId": "xy8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959242",
+        "reverse-holo": "959401"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$100.72",
+                "grade9": "$14.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$38.13",
+                "grade9": "$14.75"
+            }
+        }
+    }
+}

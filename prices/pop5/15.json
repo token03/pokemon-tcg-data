@@ -1,0 +1,25 @@
+{
+    "id": "pop5-15",
+    "name": "Zangoose \u03b4",
+    "number": "15",
+    "setId": "pop5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762774",
+        "holo": "762782"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$80.32",
+                "grade9": "$39.99"
+            },
+            "holo": {
+                "ungraded": "$5.00",
+                "psa10": "$115.65",
+                "grade9": "$59.00"
+            }
+        }
+    }
+}

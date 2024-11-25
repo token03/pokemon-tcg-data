@@ -1,0 +1,25 @@
+{
+    "id": "bp-7",
+    "name": "Dark Venusaur",
+    "number": "7",
+    "setId": "bp",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "2978641",
+        "winner": "2978642"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$38.95",
+                "psa10": "$115.68",
+                "grade9": "$65.15"
+            },
+            "winner": {
+                "ungraded": "$50.00",
+                "psa10": "$150.00",
+                "grade9": "$75.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-170",
+    "name": "Metal Saucer",
+    "number": "170",
+    "setId": "swsh1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "807176",
+        "reverse-holo": "807177"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$51.50",
+                "grade9": "$14.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$34.76",
+                "grade9": "$12.57"
+            }
+        }
+    }
+}

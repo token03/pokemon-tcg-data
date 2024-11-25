@@ -1,0 +1,25 @@
+{
+    "id": "ex13-43",
+    "name": "Golduck \u03b4",
+    "number": "43",
+    "setId": "ex13",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889123",
+        "reverse-holo": "889234"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.82",
+                "psa10": "$51.00",
+                "grade9": "$16.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.97",
+                "psa10": "$268.98",
+                "grade9": "$49.15"
+            }
+        }
+    }
+}

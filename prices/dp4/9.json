@@ -1,0 +1,25 @@
+{
+    "id": "dp4-9",
+    "name": "Swampert",
+    "number": "9",
+    "setId": "dp4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "921163",
+        "reverse-holo": "921269"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.90",
+                "psa10": "$210.00",
+                "grade9": "$23.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.20",
+                "psa10": "$191.09",
+                "grade9": "$22.88"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-216",
+    "name": "Double Turbo Energy",
+    "number": "216",
+    "setId": "swsh10",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "3509152"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.95",
+                "psa10": "$31.53",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

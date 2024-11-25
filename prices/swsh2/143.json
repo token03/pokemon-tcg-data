@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-143",
+    "name": "Pidove",
+    "number": "143",
+    "setId": "swsh2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886869",
+        "reverse-holo": "887056"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.06",
+                "psa10": "$34.03",
+                "grade9": "$10.10"
+            }
+        }
+    }
+}

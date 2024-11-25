@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG03",
+    "name": "Magmortar",
+    "number": "GG03",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637059"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.68",
+                "psa10": "$43.16",
+                "grade9": "$14.36"
+            }
+        }
+    }
+}

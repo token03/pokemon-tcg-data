@@ -1,0 +1,25 @@
+{
+    "id": "bw1-60",
+    "name": "Gurdurr",
+    "number": "60",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806369",
+        "reverse-holo": "806456"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$25.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.01",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw11-5",
+    "name": "Carnivine",
+    "number": "5",
+    "setId": "bw11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957499",
+        "reverse-holo": "957639"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.73",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

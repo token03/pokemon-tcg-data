@@ -1,0 +1,31 @@
+{
+    "id": "base1-33",
+    "name": "Kakuna",
+    "number": "33",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630446",
+        "1st-edition": "715622",
+        "shadowless": "715724"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$44.99",
+                "grade9": "$23.26"
+            },
+            "1st-edition": {
+                "ungraded": "$16.62",
+                "psa10": "$202.67",
+                "grade9": "$43.58"
+            },
+            "shadowless": {
+                "ungraded": "$2.38",
+                "psa10": "$49.95",
+                "grade9": "$19.46"
+            }
+        }
+    }
+}

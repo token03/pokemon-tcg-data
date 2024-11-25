@@ -1,0 +1,25 @@
+{
+    "id": "dp1-31",
+    "name": "Machamp",
+    "number": "31",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763067",
+        "reverse-holo": "763189"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.46",
+                "psa10": "$243.75",
+                "grade9": "$78.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "$71.67",
+                "grade9": "$65.60"
+            }
+        }
+    }
+}

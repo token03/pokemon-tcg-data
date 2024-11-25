@@ -1,0 +1,25 @@
+{
+    "id": "sm11-144",
+    "name": "Whimsicott",
+    "number": "144",
+    "setId": "sm11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963710",
+        "reverse-holo": "963954"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.84",
+                "psa10": "$33.24",
+                "grade9": "$11.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.21",
+                "psa10": "$38.53",
+                "grade9": "$14.80"
+            }
+        }
+    }
+}

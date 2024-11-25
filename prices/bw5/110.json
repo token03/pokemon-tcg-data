@@ -1,0 +1,19 @@
+{
+    "id": "bw5-110",
+    "name": "Archeops",
+    "number": "110",
+    "setId": "bw5",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "956157"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$58.90",
+                "psa10": "$963.29",
+                "grade9": "$81.32"
+            }
+        }
+    }
+}

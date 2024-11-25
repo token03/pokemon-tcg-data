@@ -1,0 +1,31 @@
+{
+    "id": "xy10-12",
+    "name": "Braixen",
+    "number": "12",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959869",
+        "reverse-holo-pokemon-league": "3179774",
+        "reverse-holo": "959994"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$15.50",
+                "grade9": "$12.50"
+            },
+            "reverse-holo-pokemon-league": {
+                "ungraded": "$1.79",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.88",
+                "psa10": "$39.57",
+                "grade9": "$15.67"
+            }
+        }
+    }
+}

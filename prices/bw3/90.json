@@ -1,0 +1,25 @@
+{
+    "id": "bw3-90",
+    "name": "Cover Fossil",
+    "number": "90",
+    "setId": "bw3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955746",
+        "reverse-holo": "955847"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$44.98",
+                "grade9": "$17.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.70",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

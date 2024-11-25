@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-149",
+    "name": "Stufful",
+    "number": "149",
+    "setId": "swsh2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886876",
+        "reverse-holo": "887062"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.76",
+                "grade9": "$11.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.14",
+                "psa10": "$34.33",
+                "grade9": "$12.29"
+            }
+        }
+    }
+}

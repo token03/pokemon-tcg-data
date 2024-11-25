@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG19",
+    "name": "Single Strike Urshifu VMAX",
+    "number": "TG19",
+    "setId": "swsh9tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "3216320"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$7.80",
+                "psa10": "$33.85",
+                "grade9": "$16.89"
+            }
+        }
+    }
+}

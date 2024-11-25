@@ -1,0 +1,25 @@
+{
+    "id": "ex2-25",
+    "name": "Vaporeon",
+    "number": "25",
+    "setId": "ex2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849213",
+        "reverse-holo": "849313"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.02",
+                "psa10": "$46.18",
+                "grade9": "$22.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.50",
+                "psa10": "$360.00",
+                "grade9": "$110.93"
+            }
+        }
+    }
+}

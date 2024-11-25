@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-142",
+    "name": "Porygon-Z",
+    "number": "142",
+    "setId": "swsh11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4050059",
+        "reverse-holo": "4050262"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.20",
+                "grade9": "$11.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.66",
+                "psa10": "$36.91",
+                "grade9": "$12.58"
+            }
+        }
+    }
+}

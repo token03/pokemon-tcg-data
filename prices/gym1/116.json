@@ -1,0 +1,25 @@
+{
+    "id": "gym1-116",
+    "name": "Recall",
+    "number": "116",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762115",
+        "1st-edition": "2156426"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.05",
+                "psa10": "$131.97",
+                "grade9": "$38.00"
+            },
+            "1st-edition": {
+                "ungraded": "$6.17",
+                "psa10": "$107.50",
+                "grade9": "$24.69"
+            }
+        }
+    }
+}

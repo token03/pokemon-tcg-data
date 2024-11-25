@@ -1,0 +1,25 @@
+{
+    "id": "dp4-24",
+    "name": "Mawile",
+    "number": "24",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921178",
+        "reverse-holo": "921284"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.71",
+                "psa10": "$71.42",
+                "grade9": "$26.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.98",
+                "psa10": "$230.46",
+                "grade9": "$38.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-14",
+    "name": "Leafeon VSTAR",
+    "number": "14",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4636910"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.90",
+                "psa10": "$26.61",
+                "grade9": "$15.78"
+            }
+        }
+    }
+}

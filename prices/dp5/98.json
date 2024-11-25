@@ -1,0 +1,19 @@
+{
+    "id": "dp5-98",
+    "name": "Glaceon LV.X",
+    "number": "98",
+    "setId": "dp5",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "921460"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$127.71",
+                "psa10": "$1,584.52",
+                "grade9": "$384.29"
+            }
+        }
+    }
+}

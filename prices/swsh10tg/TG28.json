@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG28",
+    "name": "Piers",
+    "number": "TG28",
+    "setId": "swsh10tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3508479"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.20",
+                "psa10": "$23.57",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

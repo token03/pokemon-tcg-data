@@ -1,0 +1,19 @@
+{
+    "id": "bw9-98",
+    "name": "Tornadus-EX",
+    "number": "98",
+    "setId": "bw9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "957152"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$152.50",
+                "grade9": "$21.61"
+            }
+        }
+    }
+}

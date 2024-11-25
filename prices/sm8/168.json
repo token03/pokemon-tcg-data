@@ -1,0 +1,25 @@
+{
+    "id": "sm8-168",
+    "name": "Aether Foundation Employee",
+    "number": "168",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962556",
+        "reverse-holo": "962775"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

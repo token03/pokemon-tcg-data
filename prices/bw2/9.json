@@ -1,0 +1,25 @@
+{
+    "id": "bw2-9",
+    "name": "Cottonee",
+    "number": "9",
+    "setId": "bw2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955436",
+        "reverse-holo": "955533"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.36",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.06",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

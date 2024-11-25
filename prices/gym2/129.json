@@ -1,0 +1,25 @@
+{
+    "id": "gym2-129",
+    "name": "Grass Energy",
+    "number": "129",
+    "setId": "gym2",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "2381909",
+        "1st-edition": "2414193"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$39.99",
+                "grade9": ""
+            },
+            "1st-edition": {
+                "ungraded": "$2.99",
+                "psa10": "$65.00",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

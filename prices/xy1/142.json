@@ -1,0 +1,19 @@
+{
+    "id": "xy1-142",
+    "name": "Blastoise-EX",
+    "number": "142",
+    "setId": "xy1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "886724"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$33.73",
+                "psa10": "$243.28",
+                "grade9": "$105.19"
+            }
+        }
+    }
+}

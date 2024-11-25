@@ -1,0 +1,25 @@
+{
+    "id": "bw7-61",
+    "name": "Duskull",
+    "number": "61",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956576",
+        "reverse-holo": "956726"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.87",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

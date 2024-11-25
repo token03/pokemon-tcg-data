@@ -1,0 +1,25 @@
+{
+    "id": "sv6-65",
+    "name": "Zapdos",
+    "number": "65",
+    "setId": "sv6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6769545",
+        "reverse-holo": "6769766"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$34.90",
+                "grade9": "$11.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "$36.73",
+                "grade9": "$11.76"
+            }
+        }
+    }
+}

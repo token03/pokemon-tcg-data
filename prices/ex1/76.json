@@ -1,0 +1,31 @@
+{
+    "id": "ex1-76",
+    "name": "Treecko",
+    "number": "76",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886620",
+        "jumbo": "4563043",
+        "reverse-holo": "886647"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$67.60",
+                "grade9": "$29.99"
+            },
+            "jumbo": {
+                "ungraded": "$3.81",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$6.63",
+                "psa10": "$125.00",
+                "grade9": "$104.15"
+            }
+        }
+    }
+}

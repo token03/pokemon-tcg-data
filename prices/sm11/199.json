@@ -1,0 +1,25 @@
+{
+    "id": "sm11-199",
+    "name": "Grimsley",
+    "number": "199",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963765",
+        "reverse-holo": "964006"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": "$2.99"
+            }
+        }
+    }
+}

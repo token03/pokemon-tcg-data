@@ -1,0 +1,25 @@
+{
+    "id": "pl1-6",
+    "name": "Dialga",
+    "number": "6",
+    "setId": "pl1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886651",
+        "reverse-holo": "886654"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.62",
+                "psa10": "$120.29",
+                "grade9": "$42.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.77",
+                "psa10": "$102.50",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

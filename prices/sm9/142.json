@@ -1,0 +1,25 @@
+{
+    "id": "sm9-142",
+    "name": "Fairy Charm UB",
+    "number": "142",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962940",
+        "reverse-holo": "963122"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

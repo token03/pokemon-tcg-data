@@ -1,0 +1,25 @@
+{
+    "id": "dp6-48",
+    "name": "Castform",
+    "number": "48",
+    "setId": "dp6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "924979",
+        "reverse-holo": "925125"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

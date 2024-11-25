@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG28",
+    "name": "Single Strike Style Mustard",
+    "number": "TG28",
+    "setId": "swsh9tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3216327"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.24",
+                "psa10": "$18.99",
+                "grade9": "$8.06"
+            }
+        }
+    }
+}

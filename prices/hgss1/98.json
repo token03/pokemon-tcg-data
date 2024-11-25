@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-98",
+    "name": "Pok\u00e9mon Communication",
+    "number": "98",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806209",
+        "reverse-holo": "806316"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.30",
+                "psa10": "$58.02",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.31",
+                "psa10": "$128.82",
+                "grade9": "$53.29"
+            }
+        }
+    }
+}

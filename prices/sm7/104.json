@@ -1,0 +1,25 @@
+{
+    "id": "sm7-104",
+    "name": "Bagon",
+    "number": "104",
+    "setId": "sm7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962018",
+        "reverse-holo": "962188"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

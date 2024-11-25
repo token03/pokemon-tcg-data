@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG07",
+    "name": "Banette",
+    "number": "TG07",
+    "setId": "swsh11tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4080759"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$26.74",
+                "grade9": "$8.26"
+            }
+        }
+    }
+}

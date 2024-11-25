@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG24",
+    "name": "Boss's Orders",
+    "number": "TG24",
+    "setId": "swsh11tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4080776"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$24.99",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ex7-108",
+    "name": "Torchic \u2605",
+    "number": "108",
+    "setId": "ex7",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "886442"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$742.50",
+                "psa10": "$12,799.41",
+                "grade9": "$3,141.71"
+            }
+        }
+    }
+}

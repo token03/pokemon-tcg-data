@@ -1,0 +1,25 @@
+{
+    "id": "ex5-40",
+    "name": "Luvdisc",
+    "number": "40",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849813",
+        "reverse-holo": "849915"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.18",
+                "psa10": "$36.00",
+                "grade9": "$14.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.76",
+                "psa10": "$116.90",
+                "grade9": "$27.50"
+            }
+        }
+    }
+}

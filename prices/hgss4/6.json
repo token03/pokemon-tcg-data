@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-6",
+    "name": "Nidoking",
+    "number": "6",
+    "setId": "hgss4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "926064",
+        "reverse-holo": "926166"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.89",
+                "psa10": "$112.41",
+                "grade9": "$28.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.64",
+                "psa10": "$80.06",
+                "grade9": "$69.92"
+            }
+        }
+    }
+}

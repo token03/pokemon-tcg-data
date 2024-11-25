@@ -1,0 +1,25 @@
+{
+    "id": "bw4-84",
+    "name": "Minccino",
+    "number": "84",
+    "setId": "bw4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955936",
+        "reverse-holo": "956034"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$43.62",
+                "grade9": "$16.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.45",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

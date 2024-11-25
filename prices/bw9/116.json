@@ -1,0 +1,19 @@
+{
+    "id": "bw9-116",
+    "name": "Professor Juniper",
+    "number": "116",
+    "setId": "bw9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "957170"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$53.06",
+                "psa10": "$722.54",
+                "grade9": "$154.18"
+            }
+        }
+    }
+}

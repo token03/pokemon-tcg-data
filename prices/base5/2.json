@@ -1,0 +1,25 @@
+{
+    "id": "base5-2",
+    "name": "Dark Arbok",
+    "number": "2",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643448",
+        "1st-edition": "1341344"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.01",
+                "psa10": "$232.06",
+                "grade9": "$39.62"
+            },
+            "1st-edition": {
+                "ungraded": "$30.00",
+                "psa10": "$305.00",
+                "grade9": "$69.74"
+            }
+        }
+    }
+}

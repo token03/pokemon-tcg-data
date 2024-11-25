@@ -1,0 +1,25 @@
+{
+    "id": "ex5-85",
+    "name": "Ancient Technical Machine [Rock]",
+    "number": "85",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "rock": "849858",
+        "rock]-[reverse-holo": "849960"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "rock": {
+                "ungraded": "$3.34",
+                "psa10": "",
+                "grade9": "$13.52"
+            },
+            "rock]-[reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

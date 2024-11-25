@@ -1,0 +1,25 @@
+{
+    "id": "neo1-107",
+    "name": "Fire Energy",
+    "number": "107",
+    "setId": "neo1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1431247",
+        "1st-edition": "2324864"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "",
+                "grade9": "$17.64"
+            },
+            "1st-edition": {
+                "ungraded": "$1.94",
+                "psa10": "$26.00",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

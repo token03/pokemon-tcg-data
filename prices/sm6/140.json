@@ -1,0 +1,19 @@
+{
+    "id": "sm6-140",
+    "name": "Ultra Necrozma-GX",
+    "number": "140",
+    "setId": "sm6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961803"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.57",
+                "psa10": "$90.42",
+                "grade9": "$34.08"
+            }
+        }
+    }
+}

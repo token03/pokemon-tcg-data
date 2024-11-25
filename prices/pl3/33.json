@@ -1,0 +1,25 @@
+{
+    "id": "pl3-33",
+    "name": "Mawile",
+    "number": "33",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287080",
+        "reverse-holo": "1287234"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.98",
+                "psa10": "",
+                "grade9": "$9.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.90",
+                "psa10": "$79.48",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

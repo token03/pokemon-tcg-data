@@ -1,0 +1,31 @@
+{
+    "id": "pl3-59",
+    "name": "Gabite",
+    "number": "59",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287106",
+        "reverse-holo": "1287260",
+        "staff": "4080620"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$71.00",
+                "grade9": "$59.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.16",
+                "psa10": "$82.64",
+                "grade9": "$32.50"
+            },
+            "staff": {
+                "ungraded": "$59.99",
+                "psa10": "",
+                "grade9": "$56.78"
+            }
+        }
+    }
+}

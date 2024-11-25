@@ -1,0 +1,25 @@
+{
+    "id": "bw7-27",
+    "name": "Darumaka",
+    "number": "27",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956542",
+        "reverse-holo": "956693"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.03",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

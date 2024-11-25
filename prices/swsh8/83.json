@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-83",
+    "name": "Barraskewda",
+    "number": "83",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771112",
+        "reverse-holo": "2771378"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.93",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$34.69",
+                "grade9": "$12.02"
+            }
+        }
+    }
+}

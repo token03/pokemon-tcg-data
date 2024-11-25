@@ -1,0 +1,25 @@
+{
+    "id": "pl4-24",
+    "name": "Pelipper",
+    "number": "24",
+    "setId": "pl4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925643",
+        "reverse-holo": "925754"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.91",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

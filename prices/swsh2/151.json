@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-151",
+    "name": "Skwovet",
+    "number": "151",
+    "setId": "swsh2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886877",
+        "reverse-holo": "887064"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.06",
+                "psa10": "$34.03",
+                "grade9": "$12.13"
+            }
+        }
+    }
+}

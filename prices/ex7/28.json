@@ -1,0 +1,25 @@
+{
+    "id": "ex7-28",
+    "name": "Yanma",
+    "number": "28",
+    "setId": "ex7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886362",
+        "reverse-holo": "886473"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.46",
+                "psa10": "$40.07",
+                "grade9": "$24.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.99",
+                "psa10": "$202.50",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

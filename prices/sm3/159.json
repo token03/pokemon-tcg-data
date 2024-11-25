@@ -1,0 +1,19 @@
+{
+    "id": "sm3-159",
+    "name": "Gardevoir-GX",
+    "number": "159",
+    "setId": "sm3",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "960943"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.99",
+                "psa10": "$156.94",
+                "grade9": "$28.21"
+            }
+        }
+    }
+}

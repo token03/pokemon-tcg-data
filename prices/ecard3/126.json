@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-126",
+    "name": "Friend Ball",
+    "number": "126",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842776",
+        "reverse-holo": "2252725"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.72",
+                "psa10": "$15.50",
+                "grade9": "$7.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$24.53",
+                "psa10": "$664.33",
+                "grade9": "$31.00"
+            }
+        }
+    }
+}

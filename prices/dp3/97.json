@@ -1,0 +1,25 @@
+{
+    "id": "dp3-97",
+    "name": "Nidoran \u2642",
+    "number": "97",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920987",
+        "reverse-holo": "921118"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.51",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.64",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

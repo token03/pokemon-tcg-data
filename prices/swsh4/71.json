@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-71",
+    "name": "Dusknoir",
+    "number": "71",
+    "setId": "swsh4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "887622",
+        "reverse-holo": "887795"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.31",
+                "psa10": "$14.11",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "$15.10",
+                "grade9": "$4.67"
+            }
+        }
+    }
+}

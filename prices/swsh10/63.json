@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-63",
+    "name": "Drifloon",
+    "number": "63",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489561",
+        "reverse-holo": "3489769"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.94",
+                "psa10": "$17.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.96",
+                "psa10": "$33.91",
+                "grade9": "$11.54"
+            }
+        }
+    }
+}

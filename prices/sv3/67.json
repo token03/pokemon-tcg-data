@@ -1,0 +1,25 @@
+{
+    "id": "sv3-67",
+    "name": "Tynamo",
+    "number": "67",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605585",
+        "reverse-holo": "5605819"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.26",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.48",
+                "grade9": "$11.39"
+            }
+        }
+    }
+}

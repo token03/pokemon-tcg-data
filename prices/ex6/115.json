@@ -1,0 +1,19 @@
+{
+    "id": "ex6-115",
+    "name": "Moltres ex",
+    "number": "115",
+    "setId": "ex6",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "850082"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$49.99",
+                "psa10": "$460.00",
+                "grade9": "$158.33"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "swsh11-70",
+    "name": "Sableye",
+    "number": "70",
+    "setId": "swsh11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4049987",
+        "prize-pack": "6658419",
+        "reverse-holo": "4050198"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.81",
+                "psa10": "$49.99",
+                "grade9": "$21.60"
+            },
+            "prize-pack": {
+                "ungraded": "$5.07",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.90",
+                "psa10": "$43.70",
+                "grade9": "$19.34"
+            }
+        }
+    }
+}

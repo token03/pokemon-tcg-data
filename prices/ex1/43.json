@@ -1,0 +1,25 @@
+{
+    "id": "ex1-43",
+    "name": "Silcoon",
+    "number": "43",
+    "setId": "ex1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762911",
+        "reverse-holo": "762993"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "$79.99",
+                "grade9": "$30.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.51",
+                "psa10": "$64.26",
+                "grade9": "$19.55"
+            }
+        }
+    }
+}

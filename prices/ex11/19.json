@@ -1,0 +1,25 @@
+{
+    "id": "ex11-19",
+    "name": "Azumarill \u03b4",
+    "number": "19",
+    "setId": "ex11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888681",
+        "reverse-holo": "888795"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.70",
+                "psa10": "$45.00",
+                "grade9": "$37.69"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.50",
+                "psa10": "$251.57",
+                "grade9": "$43.21"
+            }
+        }
+    }
+}

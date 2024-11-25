@@ -1,0 +1,19 @@
+{
+    "id": "sm6-129",
+    "name": "Crasher Wake",
+    "number": "129",
+    "setId": "sm6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961792"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.00",
+                "psa10": "$44.99",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

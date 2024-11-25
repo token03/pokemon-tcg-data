@@ -1,0 +1,19 @@
+{
+    "id": "ex15-96",
+    "name": "Latios ex \u03b4",
+    "number": "96",
+    "setId": "ex15",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889570"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$40.00",
+                "psa10": "$779.38",
+                "grade9": "$144.07"
+            }
+        }
+    }
+}

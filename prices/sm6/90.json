@@ -1,0 +1,19 @@
+{
+    "id": "sm6-90",
+    "name": "Xerneas-GX",
+    "number": "90",
+    "setId": "sm6",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961753"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$49.95",
+                "grade9": "$16.31"
+            }
+        }
+    }
+}

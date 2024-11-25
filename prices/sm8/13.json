@@ -1,0 +1,25 @@
+{
+    "id": "sm8-13",
+    "name": "Skiploom",
+    "number": "13",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962401",
+        "reverse-holo": "962637"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

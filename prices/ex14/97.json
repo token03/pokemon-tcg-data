@@ -1,0 +1,19 @@
+{
+    "id": "ex14-97",
+    "name": "Shiftry ex",
+    "number": "97",
+    "setId": "ex14",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889384"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.53",
+                "psa10": "$287.75",
+                "grade9": "$68.28"
+            }
+        }
+    }
+}

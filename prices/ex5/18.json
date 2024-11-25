@@ -1,0 +1,25 @@
+{
+    "id": "ex5-18",
+    "name": "Gorebyss",
+    "number": "18",
+    "setId": "ex5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849791",
+        "reverse-holo": "849893"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.47",
+                "psa10": "$41.00",
+                "grade9": "$33.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.41",
+                "psa10": "$176.90",
+                "grade9": "$23.77"
+            }
+        }
+    }
+}

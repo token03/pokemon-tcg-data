@@ -1,0 +1,25 @@
+{
+    "id": "ex2-37",
+    "name": "Fearow",
+    "number": "37",
+    "setId": "ex2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849225",
+        "reverse-holo": "849325"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.98",
+                "psa10": "$79.36",
+                "grade9": "$13.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.40",
+                "psa10": "$166.04",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

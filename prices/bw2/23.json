@@ -1,0 +1,25 @@
+{
+    "id": "bw2-23",
+    "name": "Simipour",
+    "number": "23",
+    "setId": "bw2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955450",
+        "reverse-holo": "955546"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

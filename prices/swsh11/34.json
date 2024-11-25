@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-34",
+    "name": "Dewgong",
+    "number": "34",
+    "setId": "swsh11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4049951",
+        "reverse-holo": "4050167"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.79",
+                "psa10": "$37.49",
+                "grade9": "$12.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$37.49",
+                "grade9": "$12.80"
+            }
+        }
+    }
+}

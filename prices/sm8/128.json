@@ -1,0 +1,25 @@
+{
+    "id": "sm8-128",
+    "name": "Durant",
+    "number": "128",
+    "setId": "sm8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962516",
+        "reverse-holo": "962741"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

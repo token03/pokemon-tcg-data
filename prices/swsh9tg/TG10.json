@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG10",
+    "name": "Houndoom",
+    "number": "TG10",
+    "setId": "swsh9tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3216317"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$19.50",
+                "grade9": "$13.25"
+            }
+        }
+    }
+}

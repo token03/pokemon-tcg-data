@@ -1,0 +1,25 @@
+{
+    "id": "dp6-116",
+    "name": "Poochyena",
+    "number": "116",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925047",
+        "reverse-holo": "925190"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

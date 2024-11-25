@@ -1,0 +1,25 @@
+{
+    "id": "sm11-135",
+    "name": "Purrloin",
+    "number": "135",
+    "setId": "sm11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963701",
+        "reverse-holo": "963946"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$14.50",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

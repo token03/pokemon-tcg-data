@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-93",
+    "name": "Haunter",
+    "number": "93",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809474",
+        "reverse-holo": "5809676"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$36.70",
+                "grade9": "$12.03"
+            }
+        }
+    }
+}

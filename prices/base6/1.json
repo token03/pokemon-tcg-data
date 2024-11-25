@@ -1,0 +1,25 @@
+{
+    "id": "base6-1",
+    "name": "Alakazam",
+    "number": "1",
+    "setId": "base6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842308",
+        "reverse-holo": "2253685"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.14",
+                "psa10": "$526.38",
+                "grade9": "$107.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$102.12",
+                "psa10": "$1,500.00",
+                "grade9": "$342.14"
+            }
+        }
+    }
+}

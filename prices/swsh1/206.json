@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-206",
+    "name": "Snorlax VMAX",
+    "number": "206",
+    "setId": "swsh1",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2336169"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$35.39",
+                "psa10": "$83.49",
+                "grade9": "$37.00"
+            }
+        }
+    }
+}

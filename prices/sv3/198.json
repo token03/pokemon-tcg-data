@@ -1,0 +1,19 @@
+{
+    "id": "sv3-198",
+    "name": "Gloom",
+    "number": "198",
+    "setId": "sv3",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5605716"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$74.93",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

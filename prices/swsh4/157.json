@@ -1,0 +1,31 @@
+{
+    "id": "swsh4-157",
+    "name": "Nessa",
+    "number": "157",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842151",
+        "prize-pack": "6135925",
+        "reverse-holo": "887868"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$22.00",
+                "grade9": "$6.50"
+            },
+            "prize-pack": {
+                "ungraded": "$11.97",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "$56.00",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm6-28",
+    "name": "Aurorus",
+    "number": "28",
+    "setId": "sm6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961691",
+        "reverse-holo": "961835"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.52",
+                "psa10": "$40.37",
+                "grade9": "$27.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.01",
+                "psa10": "$38.34",
+                "grade9": "$14.97"
+            }
+        }
+    }
+}

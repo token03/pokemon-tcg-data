@@ -1,0 +1,25 @@
+{
+    "id": "basep-35",
+    "name": "Pichu",
+    "number": "35",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "prerelease": "4557012",
+        "normal": "5706365"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "prerelease": {
+                "ungraded": "$19.48",
+                "psa10": "$70.77",
+                "grade9": "$20.23"
+            },
+            "normal": {
+                "ungraded": "$3.44",
+                "psa10": "$43.32",
+                "grade9": "$14.28"
+            }
+        }
+    }
+}

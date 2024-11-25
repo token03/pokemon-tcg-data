@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-80",
+    "name": "Slowbro",
+    "number": "80",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809461",
+        "reverse-holo": "5809663"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "$34.68",
+                "grade9": "$11.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$35.05",
+                "grade9": "$11.53"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-131",
+    "name": "Blunder Policy",
+    "number": "131",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188355",
+        "reverse-holo": "3219475"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.97",
+                "grade9": "$11.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.97",
+                "grade9": "$11.63"
+            }
+        }
+    }
+}

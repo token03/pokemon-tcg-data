@@ -1,0 +1,25 @@
+{
+    "id": "xy1-116",
+    "name": "Evosoda",
+    "number": "116",
+    "setId": "xy1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806609",
+        "reverse-holo": "806733"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$40.22",
+                "grade9": "$15.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.27",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

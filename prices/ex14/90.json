@@ -1,0 +1,19 @@
+{
+    "id": "ex14-90",
+    "name": "Blaziken ex",
+    "number": "90",
+    "setId": "ex14",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889377"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$39.56",
+                "psa10": "$700.00",
+                "grade9": "$159.00"
+            }
+        }
+    }
+}

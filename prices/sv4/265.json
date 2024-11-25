@@ -1,0 +1,19 @@
+{
+    "id": "sv4-265",
+    "name": "Luxurious Cape",
+    "number": "265",
+    "setId": "sv4",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5953104"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.53",
+                "psa10": "$20.00",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

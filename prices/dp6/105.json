@@ -1,0 +1,25 @@
+{
+    "id": "dp6-105",
+    "name": "Lileep",
+    "number": "105",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925036",
+        "reverse-holo": "925181"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

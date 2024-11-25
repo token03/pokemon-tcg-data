@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-146",
+    "name": "Allister",
+    "number": "146",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887686",
+        "reverse-holo": "887857"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$34.31",
+                "grade9": "$12.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "$35.60",
+                "grade9": "$5.00"
+            }
+        }
+    }
+}

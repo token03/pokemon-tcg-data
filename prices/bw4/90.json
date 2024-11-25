@@ -1,0 +1,25 @@
+{
+    "id": "bw4-90",
+    "name": "Pok\u00e9mon Center",
+    "number": "90",
+    "setId": "bw4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955942",
+        "reverse-holo": "956039"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

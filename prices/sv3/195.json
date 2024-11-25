@@ -1,0 +1,25 @@
+{
+    "id": "sv3-195",
+    "name": "Team Star Grunt",
+    "number": "195",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605713",
+        "reverse-holo": "5704932"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$36.84",
+                "grade9": "$12.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

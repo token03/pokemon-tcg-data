@@ -1,0 +1,25 @@
+{
+    "id": "bw4-27",
+    "name": "Articuno",
+    "number": "27",
+    "setId": "bw4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955879",
+        "reverse-holo": "955980"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.85",
+                "psa10": "$175.45",
+                "grade9": "$36.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "$160.00",
+                "grade9": "$19.01"
+            }
+        }
+    }
+}

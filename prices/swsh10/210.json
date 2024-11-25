@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-210",
+    "name": "Origin Forme Dialga VSTAR",
+    "number": "210",
+    "setId": "swsh10",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "3489710"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.13",
+                "psa10": "$37.03",
+                "grade9": "$10.49"
+            }
+        }
+    }
+}

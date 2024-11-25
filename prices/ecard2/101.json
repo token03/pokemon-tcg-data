@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-101",
+    "name": "Pinsir",
+    "number": "101",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842621",
+        "reverse-holo": "2293992"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$56.40",
+                "grade9": "$24.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.96",
+                "psa10": "$235.42",
+                "grade9": "$38.73"
+            }
+        }
+    }
+}

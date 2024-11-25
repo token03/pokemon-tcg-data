@@ -1,0 +1,25 @@
+{
+    "id": "sm115-18",
+    "name": "Vaporeon",
+    "number": "18",
+    "setId": "sm115",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "964038",
+        "reverse-holo": "964197"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "$23.34",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.66",
+                "psa10": "$28.27",
+                "grade9": "$8.52"
+            }
+        }
+    }
+}

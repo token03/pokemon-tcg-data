@@ -1,0 +1,25 @@
+{
+    "id": "base5-6",
+    "name": "Dark Dugtrio",
+    "number": "6",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643454",
+        "1st-edition": "1341348"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.56",
+                "psa10": "$334.54",
+                "grade9": "$64.79"
+            },
+            "1st-edition": {
+                "ungraded": "$31.00",
+                "psa10": "$410.70",
+                "grade9": "$95.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy11-109",
+    "name": "M Steelix-EX",
+    "number": "109",
+    "setId": "xy11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960188"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.00",
+                "psa10": "$69.99",
+                "grade9": "$28.00"
+            }
+        }
+    }
+}

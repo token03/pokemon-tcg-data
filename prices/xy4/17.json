@@ -1,0 +1,25 @@
+{
+    "id": "xy4-17",
+    "name": "Feraligatr",
+    "number": "17",
+    "setId": "xy4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "958214",
+        "reverse-holo": "958332"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$3.14",
+                "psa10": "$49.45",
+                "grade9": "$17.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.57",
+                "psa10": "$52.27",
+                "grade9": "$15.55"
+            }
+        }
+    }
+}

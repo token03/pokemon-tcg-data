@@ -1,0 +1,25 @@
+{
+    "id": "xy2-60",
+    "name": "Forretress",
+    "number": "60",
+    "setId": "xy2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957807",
+        "reverse-holo": "957910"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$36.82",
+                "grade9": "$7.34"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.98",
+                "psa10": "$43.43",
+                "grade9": "$17.31"
+            }
+        }
+    }
+}

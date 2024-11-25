@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-76",
+    "name": "Mienfoo",
+    "number": "76",
+    "setId": "swsh5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1673256",
+        "reverse-holo": "1725055"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

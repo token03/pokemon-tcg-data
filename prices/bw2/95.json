@@ -1,0 +1,25 @@
+{
+    "id": "bw2-95",
+    "name": "Pok\u00e9mon Catcher",
+    "number": "95",
+    "setId": "bw2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955521",
+        "reverse-holo": "955618"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "$50.45",
+                "grade9": "$19.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.13",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

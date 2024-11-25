@@ -1,0 +1,25 @@
+{
+    "id": "sv2-124",
+    "name": "Glimmet",
+    "number": "124",
+    "setId": "sv2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5287413",
+        "reverse-holo": "5287680"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$35.44",
+                "grade9": "$11.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$35.79",
+                "grade9": "$11.86"
+            }
+        }
+    }
+}

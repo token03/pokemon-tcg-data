@@ -1,0 +1,25 @@
+{
+    "id": "bw2-15",
+    "name": "Deerling",
+    "number": "15",
+    "setId": "bw2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955442",
+        "reverse-holo": "955538"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.30",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy3-109",
+    "name": "Battle Reporter",
+    "number": "109",
+    "setId": "xy3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958092"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.99",
+                "psa10": "$380.00",
+                "grade9": "$67.22"
+            }
+        }
+    }
+}

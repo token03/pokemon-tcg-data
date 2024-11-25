@@ -1,0 +1,25 @@
+{
+    "id": "bw7-127",
+    "name": "Aspertia City Gym",
+    "number": "127",
+    "setId": "bw7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956642",
+        "reverse-holo": "956786"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "g1-10",
+    "name": "Leafeon-EX",
+    "number": "10",
+    "setId": "g1",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959721"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.47",
+                "psa10": "$72.31",
+                "grade9": "$29.11"
+            }
+        }
+    }
+}

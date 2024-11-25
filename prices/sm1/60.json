@@ -1,0 +1,25 @@
+{
+    "id": "sm1-60",
+    "name": "Hypno",
+    "number": "60",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806808",
+        "reverse-holo": "806939"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$35.23",
+                "grade9": "$13.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "$36.72",
+                "grade9": "$14.04"
+            }
+        }
+    }
+}

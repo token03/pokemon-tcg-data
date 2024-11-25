@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-175",
+    "name": "Phoebe",
+    "number": "175",
+    "setId": "swsh5",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "1673355"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.29",
+                "psa10": "$44.99",
+                "grade9": "$16.45"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv3-15",
+    "name": "Decidueye ex",
+    "number": "15",
+    "setId": "sv3",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5605533"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.40",
+                "psa10": "$24.99",
+                "grade9": "$13.63"
+            }
+        }
+    }
+}

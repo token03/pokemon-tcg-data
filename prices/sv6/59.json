@@ -1,0 +1,31 @@
+{
+    "id": "sv6-59",
+    "name": "Finizen",
+    "number": "59",
+    "setId": "sv6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6769539",
+        "cosmos-holo": "6880788",
+        "reverse-holo": "6769762"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "cosmos-holo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

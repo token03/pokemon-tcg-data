@@ -1,0 +1,25 @@
+{
+    "id": "xy9-1",
+    "name": "Chikorita",
+    "number": "1",
+    "setId": "xy9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959492",
+        "reverse-holo": "959614"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.11",
+                "psa10": "$40.98",
+                "grade9": "$18.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.42",
+                "psa10": "$26.90",
+                "grade9": "$17.43"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh8-277",
+    "name": "Schoolgirl",
+    "number": "277",
+    "setId": "swsh8",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2771303"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.50",
+                "psa10": "$27.00",
+                "grade9": "$14.89"
+            }
+        }
+    }
+}

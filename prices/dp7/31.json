@@ -1,0 +1,25 @@
+{
+    "id": "dp7-31",
+    "name": "Vespiquen",
+    "number": "31",
+    "setId": "dp7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925244",
+        "reverse-holo": "925332"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.91",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex14-75",
+    "name": "Crystal Beach",
+    "number": "75",
+    "setId": "ex14",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889362",
+        "reverse-holo": "889461"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.11",
+                "psa10": "$86.40",
+                "grade9": "$30.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.06",
+                "psa10": "$154.37",
+                "grade9": "$16.19"
+            }
+        }
+    }
+}

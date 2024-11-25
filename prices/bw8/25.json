@@ -1,0 +1,19 @@
+{
+    "id": "bw8-25",
+    "name": "Articuno-EX",
+    "number": "25",
+    "setId": "bw8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956823"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$117.43",
+                "grade9": "$33.90"
+            }
+        }
+    }
+}

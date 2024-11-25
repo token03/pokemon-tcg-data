@@ -1,0 +1,31 @@
+{
+    "id": "swsh4-30",
+    "name": "Vaporeon",
+    "number": "30",
+    "setId": "swsh4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842025",
+        "cosmos-holo": "4565846",
+        "reverse-holo": "887761"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.30",
+                "psa10": "$18.64",
+                "grade9": "$12.29"
+            },
+            "cosmos-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$52.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.96",
+                "psa10": "$16.53",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

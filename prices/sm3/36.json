@@ -1,0 +1,25 @@
+{
+    "id": "sm3-36",
+    "name": "Panpour",
+    "number": "36",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960820",
+        "reverse-holo": "960985"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$7.50",
+                "grade9": ""
+            }
+        }
+    }
+}

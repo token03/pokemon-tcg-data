@@ -1,0 +1,25 @@
+{
+    "id": "sm6-8",
+    "name": "Vivillon",
+    "number": "8",
+    "setId": "sm6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961671",
+        "reverse-holo": "961817"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "$10.75",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

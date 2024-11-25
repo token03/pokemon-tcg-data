@@ -1,0 +1,25 @@
+{
+    "id": "pl4-83",
+    "name": "Bench Shield",
+    "number": "83",
+    "setId": "pl4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925702",
+        "reverse-holo": "925813"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.77",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

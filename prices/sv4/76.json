@@ -1,0 +1,19 @@
+{
+    "id": "sv4-76",
+    "name": "Cofagrigus ex",
+    "number": "76",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952914"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.54",
+                "psa10": "$36.13",
+                "grade9": "$11.81"
+            }
+        }
+    }
+}

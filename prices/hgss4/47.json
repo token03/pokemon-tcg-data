@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-47",
+    "name": "Pidgeotto",
+    "number": "47",
+    "setId": "hgss4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926105",
+        "reverse-holo": "926207"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.34",
+                "psa10": "$55.23",
+                "grade9": "$38.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

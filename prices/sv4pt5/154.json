@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-154",
+    "name": "Kirlia",
+    "number": "154",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277073"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.74",
+                "psa10": "$22.51",
+                "grade9": "$8.24"
+            }
+        }
+    }
+}

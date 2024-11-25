@@ -1,0 +1,25 @@
+{
+    "id": "ex16-66",
+    "name": "Swablu",
+    "number": "66",
+    "setId": "ex16",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889730",
+        "reverse-holo": "889837"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$49.45",
+                "grade9": "$16.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$69.68",
+                "grade9": "$21.50"
+            }
+        }
+    }
+}

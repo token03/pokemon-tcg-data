@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-199",
+    "name": "Celebi VMAX",
+    "number": "199",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254003"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.81",
+                "psa10": "$41.81",
+                "grade9": "$18.57"
+            }
+        }
+    }
+}

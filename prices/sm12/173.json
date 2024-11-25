@@ -1,0 +1,25 @@
+{
+    "id": "sm12-173",
+    "name": "Zangoose",
+    "number": "173",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964411",
+        "reverse-holo": "964666"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$34.74",
+                "grade9": "$12.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$37.66",
+                "grade9": "$14.29"
+            }
+        }
+    }
+}

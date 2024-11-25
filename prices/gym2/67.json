@@ -1,0 +1,25 @@
+{
+    "id": "gym2-67",
+    "name": "Brock's Diglett",
+    "number": "67",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762273",
+        "1st-edition": "1450261"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$28.40",
+                "grade9": "$19.16"
+            },
+            "1st-edition": {
+                "ungraded": "$3.25",
+                "psa10": "$28.00",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy8-106",
+    "name": "Aromatisse",
+    "number": "106",
+    "setId": "xy8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959295",
+        "reverse-holo": "959446"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$38.24",
+                "grade9": "$14.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.53",
+                "psa10": "$43.70",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

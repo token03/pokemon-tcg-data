@@ -1,0 +1,31 @@
+{
+    "id": "sv6-22",
+    "name": "Sinistcha",
+    "number": "22",
+    "setId": "sv6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6769502",
+        "reverse-holo": "6769728",
+        "stamped": "6782216"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.03",
+                "psa10": "$44.85",
+                "grade9": "$13.87"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.71",
+                "psa10": "$36.19",
+                "grade9": "$11.61"
+            },
+            "stamped": {
+                "ungraded": "$4.78",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

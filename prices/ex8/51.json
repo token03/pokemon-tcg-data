@@ -1,0 +1,25 @@
+{
+    "id": "ex8-51",
+    "name": "Weezing",
+    "number": "51",
+    "setId": "ex8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888071",
+        "reverse-holo": "888179"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.34",
+                "psa10": "$58.83",
+                "grade9": "$3.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.25",
+                "psa10": "$250.00",
+                "grade9": "$33.84"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw3-83",
+    "name": "Durant",
+    "number": "83",
+    "setId": "bw3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955738",
+        "reverse-holo": "955840"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$46.10",
+                "grade9": "$17.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.90",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

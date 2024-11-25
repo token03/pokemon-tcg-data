@@ -1,0 +1,19 @@
+{
+    "id": "ex1-99",
+    "name": "Lapras ex",
+    "number": "99",
+    "setId": "ex1",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "762952"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.98",
+                "psa10": "$479.31",
+                "grade9": "$105.71"
+            }
+        }
+    }
+}

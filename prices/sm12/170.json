@@ -1,0 +1,25 @@
+{
+    "id": "sm12-170",
+    "name": "Ambipom",
+    "number": "170",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964408",
+        "reverse-holo": "964663"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "$36.20",
+                "grade9": "$4.14"
+            }
+        }
+    }
+}

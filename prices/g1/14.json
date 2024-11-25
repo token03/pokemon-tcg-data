@@ -1,0 +1,37 @@
+{
+    "id": "g1-14",
+    "name": "Ponyta",
+    "number": "14",
+    "setId": "g1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959726",
+        "reverse-holo": "2978664",
+        "stamped": "6329689",
+        "toys-r-us": "3179769"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.76",
+                "psa10": "$55.71",
+                "grade9": "$12.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.91",
+                "psa10": "$39.65",
+                "grade9": "$15.69"
+            },
+            "stamped": {
+                "ungraded": "$11.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "toys-r-us": {
+                "ungraded": "$30.00",
+                "psa10": "$90.99",
+                "grade9": "$43.00"
+            }
+        }
+    }
+}

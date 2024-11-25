@@ -1,0 +1,25 @@
+{
+    "id": "base2-34",
+    "name": "Dodrio",
+    "number": "34",
+    "setId": "base2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643302",
+        "1st-edition": "643350"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$30.48",
+                "grade9": "$9.69"
+            },
+            "1st-edition": {
+                "ungraded": "$2.67",
+                "psa10": "$67.50",
+                "grade9": "$18.50"
+            }
+        }
+    }
+}

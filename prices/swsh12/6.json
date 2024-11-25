@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-6",
+    "name": "Sunflora",
+    "number": "6",
+    "setId": "swsh12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4277124",
+        "reverse-holo": "4293759"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.18",
+                "grade9": "$11.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$36.72",
+                "grade9": "$12.42"
+            }
+        }
+    }
+}

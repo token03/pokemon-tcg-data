@@ -1,0 +1,25 @@
+{
+    "id": "bw5-75",
+    "name": "Klink",
+    "number": "75",
+    "setId": "bw5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956121",
+        "reverse-holo": "956228"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.77",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

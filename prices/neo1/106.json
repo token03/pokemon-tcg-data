@@ -1,0 +1,25 @@
+{
+    "id": "neo1-106",
+    "name": "Fighting Energy",
+    "number": "106",
+    "setId": "neo1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1431248",
+        "1st-edition": "2324863"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "",
+                "grade9": "$13.97"
+            },
+            "1st-edition": {
+                "ungraded": "$1.28",
+                "psa10": "$23.58",
+                "grade9": "$9.59"
+            }
+        }
+    }
+}

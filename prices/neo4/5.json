@@ -1,0 +1,25 @@
+{
+    "id": "neo4-5",
+    "name": "Dark Feraligatr",
+    "number": "5",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762563",
+        "1st-edition": "2183304"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$48.58",
+                "psa10": "$499.00",
+                "grade9": "$114.49"
+            },
+            "1st-edition": {
+                "ungraded": "$150.00",
+                "psa10": "$749.99",
+                "grade9": "$217.04"
+            }
+        }
+    }
+}

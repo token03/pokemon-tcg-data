@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-81",
+    "name": "Galarian Ponyta",
+    "number": "81",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807110",
+        "reverse-holo": "807111"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$34.34",
+                "grade9": "$19.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$37.62",
+                "grade9": "$14.11"
+            }
+        }
+    }
+}

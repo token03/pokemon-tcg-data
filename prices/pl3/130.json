@@ -1,0 +1,25 @@
+{
+    "id": "pl3-130",
+    "name": "Surskit",
+    "number": "130",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287178",
+        "reverse-holo": "1287331"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.89",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.14",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

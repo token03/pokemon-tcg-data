@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-8",
+    "name": "Rapidash",
+    "number": "8",
+    "setId": "hgss4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "926066",
+        "reverse-holo": "926168"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.43",
+                "psa10": "$111.28",
+                "grade9": "$30.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.84",
+                "psa10": "$82.21",
+                "grade9": "$33.78"
+            }
+        }
+    }
+}

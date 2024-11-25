@@ -1,0 +1,25 @@
+{
+    "id": "sv3-68",
+    "name": "Eelektrik",
+    "number": "68",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605586",
+        "reverse-holo": "5605820"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$34.54",
+                "grade9": "$11.40"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.85",
+                "grade9": "$11.81"
+            }
+        }
+    }
+}

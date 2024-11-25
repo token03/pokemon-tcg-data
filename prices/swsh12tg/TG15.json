@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG15",
+    "name": "Blaziken VMAX",
+    "number": "TG15",
+    "setId": "swsh12tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "4277103"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$15.63",
+                "psa10": "$83.72",
+                "grade9": "$21.50"
+            }
+        }
+    }
+}

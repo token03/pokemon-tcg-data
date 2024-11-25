@@ -1,0 +1,25 @@
+{
+    "id": "xy5-49",
+    "name": "Clamperl",
+    "number": "49",
+    "setId": "xy5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958506",
+        "reverse-holo": "958666"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

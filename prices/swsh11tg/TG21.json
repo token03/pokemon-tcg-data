@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG21",
+    "name": "Eternatus V",
+    "number": "TG21",
+    "setId": "swsh11tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4080773"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.71",
+                "psa10": "$29.80",
+                "grade9": "$13.06"
+            }
+        }
+    }
+}

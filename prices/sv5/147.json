@@ -1,0 +1,37 @@
+{
+    "id": "sv5-147",
+    "name": "Explorer's Guidance",
+    "number": "147",
+    "setId": "sv5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6495607",
+        "regional-championships-staff": "6748761",
+        "regional-championships": "6688168",
+        "reverse-holo": "6495811"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$35.87",
+                "grade9": "$11.59"
+            },
+            "regional-championships-staff": {
+                "ungraded": "$162.62",
+                "psa10": "",
+                "grade9": ""
+            },
+            "regional-championships": {
+                "ungraded": "$37.89",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$36.26",
+                "grade9": "$11.70"
+            }
+        }
+    }
+}

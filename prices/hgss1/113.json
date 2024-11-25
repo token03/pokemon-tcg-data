@@ -1,0 +1,19 @@
+{
+    "id": "hgss1-113",
+    "name": "Lugia LEGEND",
+    "number": "113",
+    "setId": "hgss1",
+    "rarity": "LEGEND",
+    "priceChartingIds": {
+        "normal": "886676"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$40.25",
+                "psa10": "$1,070.82",
+                "grade9": "$146.26"
+            }
+        }
+    }
+}

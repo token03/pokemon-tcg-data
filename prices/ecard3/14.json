@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-14",
+    "name": "Kabutops",
+    "number": "14",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842678",
+        "reverse-holo": "2252614"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.50",
+                "psa10": "$100.00",
+                "grade9": "$83.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$36.37",
+                "psa10": "$135.53",
+                "grade9": "$78.47"
+            }
+        }
+    }
+}

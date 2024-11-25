@@ -1,0 +1,25 @@
+{
+    "id": "ex8-52",
+    "name": "Bagon",
+    "number": "52",
+    "setId": "ex8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888072",
+        "reverse-holo": "888180"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": "$4.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.99",
+                "psa10": "$108.50",
+                "grade9": "$27.50"
+            }
+        }
+    }
+}

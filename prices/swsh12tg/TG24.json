@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG24",
+    "name": "Gordie",
+    "number": "TG24",
+    "setId": "swsh12tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277112"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$19.06",
+                "grade9": "$10.78"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-116",
+    "name": "Vulpix",
+    "number": "116",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842633",
+        "reverse-holo": "2294007"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.61",
+                "psa10": "$59.99",
+                "grade9": "$21.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.40",
+                "psa10": "$112.51",
+                "grade9": "$51.05"
+            }
+        }
+    }
+}

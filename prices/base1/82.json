@@ -1,0 +1,31 @@
+{
+    "id": "base1-82",
+    "name": "Full Heal",
+    "number": "82",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630495",
+        "1st-edition": "715671",
+        "shadowless": "4644689"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "$80.73",
+                "grade9": "$17.89"
+            },
+            "1st-edition": {
+                "ungraded": "$6.12",
+                "psa10": "$142.50",
+                "grade9": "$52.49"
+            },
+            "shadowless": {
+                "ungraded": "$4.32",
+                "psa10": "$113.68",
+                "grade9": "$38.00"
+            }
+        }
+    }
+}

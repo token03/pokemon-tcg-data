@@ -1,0 +1,25 @@
+{
+    "id": "bw2-48",
+    "name": "Gothitelle",
+    "number": "48",
+    "setId": "bw2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955474",
+        "reverse-holo": "955571"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.83",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

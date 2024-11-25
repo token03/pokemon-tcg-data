@@ -1,0 +1,25 @@
+{
+    "id": "sm12-120",
+    "name": "Pangoro",
+    "number": "120",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964358",
+        "reverse-holo": "964619"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$34.82",
+                "grade9": "$6.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "$34.93",
+                "grade9": "$12.76"
+            }
+        }
+    }
+}

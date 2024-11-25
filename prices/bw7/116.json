@@ -1,0 +1,25 @@
+{
+    "id": "bw7-116",
+    "name": "Buneary",
+    "number": "116",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956631",
+        "reverse-holo": "956775"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.35",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

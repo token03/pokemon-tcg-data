@@ -1,0 +1,25 @@
+{
+    "id": "ex13-30",
+    "name": "Relicanth",
+    "number": "30",
+    "setId": "ex13",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889110",
+        "reverse-holo": "889221"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.54",
+                "psa10": "$18.00",
+                "grade9": "$14.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.01",
+                "psa10": "$89.89",
+                "grade9": "$24.99"
+            }
+        }
+    }
+}

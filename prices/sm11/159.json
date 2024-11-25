@@ -1,0 +1,25 @@
+{
+    "id": "sm11-159",
+    "name": "Noivern",
+    "number": "159",
+    "setId": "sm11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963725",
+        "reverse-holo": "963967"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$35.79",
+                "grade9": "$13.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$35.79",
+                "grade9": "$5.38"
+            }
+        }
+    }
+}

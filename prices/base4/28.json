@@ -1,0 +1,19 @@
+{
+    "id": "base4-28",
+    "name": "Pidgeotto",
+    "number": "28",
+    "setId": "base4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "641831"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.59",
+                "psa10": "$42.45",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

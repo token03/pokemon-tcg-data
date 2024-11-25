@@ -1,0 +1,25 @@
+{
+    "id": "pl1-54",
+    "name": "Mightyena",
+    "number": "54",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806007",
+        "reverse-holo": "806008"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "",
+                "grade9": "$24.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG20",
+    "name": "Crobat V",
+    "number": "TG20",
+    "setId": "swsh11tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4081135"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$30.00",
+                "grade9": "$13.68"
+            }
+        }
+    }
+}

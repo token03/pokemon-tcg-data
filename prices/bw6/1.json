@@ -1,0 +1,25 @@
+{
+    "id": "bw6-1",
+    "name": "Hoppip",
+    "number": "1",
+    "setId": "bw6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956255",
+        "reverse-holo": "956383"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.59",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

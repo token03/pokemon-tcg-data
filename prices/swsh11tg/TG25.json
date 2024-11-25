@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG25",
+    "name": "Cook",
+    "number": "TG25",
+    "setId": "swsh11tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4080777"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.26",
+                "psa10": "$45.76",
+                "grade9": "$12.75"
+            }
+        }
+    }
+}

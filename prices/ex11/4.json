@@ -1,0 +1,25 @@
+{
+    "id": "ex11-4",
+    "name": "Espeon \u03b4",
+    "number": "4",
+    "setId": "ex11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888667",
+        "reverse-holo": "888780"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$45.00",
+                "psa10": "$374.34",
+                "grade9": "$107.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$53.11",
+                "psa10": "$523.29",
+                "grade9": "$128.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-40",
+    "name": "Machoke",
+    "number": "40",
+    "setId": "hgss4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926098",
+        "reverse-holo": "926200"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.90",
+                "psa10": "",
+                "grade9": "$30.79"
+            }
+        }
+    }
+}

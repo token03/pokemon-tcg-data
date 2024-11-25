@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-180",
+    "name": "Skuntank V",
+    "number": "180",
+    "setId": "swsh12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277301"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.08",
+                "psa10": "$24.50",
+                "grade9": "$6.19"
+            }
+        }
+    }
+}

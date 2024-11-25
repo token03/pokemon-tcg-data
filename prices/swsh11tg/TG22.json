@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG22",
+    "name": "Eternatus VMAX",
+    "number": "TG22",
+    "setId": "swsh11tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "4080774"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.02",
+                "psa10": "$32.39",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv5-141",
+    "name": "Awakening Drum",
+    "number": "141",
+    "setId": "sv5",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "6495601",
+        "reverse-holo": "6495805"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.11",
+                "psa10": "$10.55",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

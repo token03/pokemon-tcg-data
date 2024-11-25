@@ -1,0 +1,25 @@
+{
+    "id": "pl2-31",
+    "name": "Raichu GL",
+    "number": "31",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925427",
+        "reverse-holo": "925546"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$82.20",
+                "grade9": "$35.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.09",
+                "psa10": "$92.24",
+                "grade9": "$36.26"
+            }
+        }
+    }
+}

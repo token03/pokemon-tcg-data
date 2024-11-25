@@ -1,0 +1,25 @@
+{
+    "id": "sm8-151",
+    "name": "Tapu Fini",
+    "number": "151",
+    "setId": "sm8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962539",
+        "reverse-holo": "962760"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$25.75",
+                "grade9": "$14.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.95",
+                "psa10": "$41.85",
+                "grade9": "$16.96"
+            }
+        }
+    }
+}

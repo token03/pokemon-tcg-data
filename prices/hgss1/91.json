@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-91",
+    "name": "Energy Switch",
+    "number": "91",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806202",
+        "reverse-holo": "806309"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$58.54",
+                "grade9": "$22.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.54",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

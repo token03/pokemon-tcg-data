@@ -1,0 +1,25 @@
+{
+    "id": "sm10-42",
+    "name": "Slowpoke",
+    "number": "42",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963198",
+        "reverse-holo": "963428"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.88",
+                "grade9": "$12.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$37.79",
+                "grade9": "$9.38"
+            }
+        }
+    }
+}

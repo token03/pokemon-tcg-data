@@ -1,0 +1,19 @@
+{
+    "id": "sv5-81",
+    "name": "Iron Crown ex",
+    "number": "81",
+    "setId": "sv5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "6495541"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.10",
+                "psa10": "$20.50",
+                "grade9": "$6.26"
+            }
+        }
+    }
+}

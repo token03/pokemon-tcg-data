@@ -1,0 +1,25 @@
+{
+    "id": "gym2-117",
+    "name": "Max Revive",
+    "number": "117",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762313",
+        "1st-edition": "1450311"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.89",
+                "psa10": "$99.99",
+                "grade9": "$11.91"
+            },
+            "1st-edition": {
+                "ungraded": "$6.37",
+                "psa10": "$43.50",
+                "grade9": "$22.23"
+            }
+        }
+    }
+}

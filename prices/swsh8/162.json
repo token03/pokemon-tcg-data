@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-162",
+    "name": "Carvanha",
+    "number": "162",
+    "setId": "swsh8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2771191",
+        "reverse-holo": "2771448"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$34.73",
+                "grade9": "$12.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.06",
+                "psa10": "$34.18",
+                "grade9": "$11.80"
+            }
+        }
+    }
+}

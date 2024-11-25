@@ -1,0 +1,25 @@
+{
+    "id": "bw1-38",
+    "name": "Alomomola",
+    "number": "38",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806352",
+        "reverse-holo": "806439"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "$44.26",
+                "grade9": "$16.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

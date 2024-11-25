@@ -1,0 +1,31 @@
+{
+    "id": "sv3-141",
+    "name": "Scizor",
+    "number": "141",
+    "setId": "sv3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5605659",
+        "holo": "5610563",
+        "reverse-holo": "5605882"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": "$5.70"
+            },
+            "holo": {
+                "ungraded": "$0.99",
+                "psa10": "$29.99",
+                "grade9": "$7.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$36.89",
+                "grade9": "$12.14"
+            }
+        }
+    }
+}

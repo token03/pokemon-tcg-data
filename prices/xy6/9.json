@@ -1,0 +1,25 @@
+{
+    "id": "xy6-9",
+    "name": "Nincada",
+    "number": "9",
+    "setId": "xy6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958832",
+        "reverse-holo": "958942"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

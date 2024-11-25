@@ -1,0 +1,25 @@
+{
+    "id": "neo3-47",
+    "name": "Paras",
+    "number": "47",
+    "setId": "neo3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762522",
+        "1st-edition": "2427426"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$26.00",
+                "grade9": "$10.00"
+            },
+            "1st-edition": {
+                "ungraded": "$1.79",
+                "psa10": "$30.05",
+                "grade9": "$26.90"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4-201",
+    "name": "Minior",
+    "number": "201",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953039"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.99",
+                "psa10": "$40.50",
+                "grade9": "$15.29"
+            }
+        }
+    }
+}

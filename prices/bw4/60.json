@@ -1,0 +1,25 @@
+{
+    "id": "bw4-60",
+    "name": "Darmanitan",
+    "number": "60",
+    "setId": "bw4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955912",
+        "reverse-holo": "956011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.64",
+                "psa10": "$53.71",
+                "grade9": "$21.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.22",
+                "psa10": "$50.07",
+                "grade9": "$19.78"
+            }
+        }
+    }
+}

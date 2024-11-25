@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-106",
+    "name": "Hitmonlee",
+    "number": "106",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809487",
+        "reverse-holo": "5809689"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.74",
+                "grade9": "$11.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "$37.57",
+                "grade9": "$12.29"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl4-6",
+    "name": "Mothim",
+    "number": "6",
+    "setId": "pl4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925625",
+        "reverse-holo": "925736"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$48.32",
+                "grade9": "$17.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.28",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

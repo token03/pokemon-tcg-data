@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-23",
+    "name": "Omastar",
+    "number": "23",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842685",
+        "reverse-holo": "2252623"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.46",
+                "psa10": "$41.03",
+                "grade9": "$19.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$18.03",
+                "psa10": "$130.94",
+                "grade9": "$59.16"
+            }
+        }
+    }
+}

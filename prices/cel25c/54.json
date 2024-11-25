@@ -1,0 +1,19 @@
+{
+    "id": "cel25c-54_A",
+    "name": "Mewtwo-EX",
+    "number": "54",
+    "setId": "cel25c",
+    "rarity": "Classic Collection",
+    "priceChartingIds": {
+        "normal": "2618182"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.66",
+                "psa10": "$34.29",
+                "grade9": "$14.19"
+            }
+        }
+    }
+}

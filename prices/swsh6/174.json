@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-174",
+    "name": "Galarian Zapdos V",
+    "number": "174",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253978"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$44.00",
+                "psa10": "$131.06",
+                "grade9": "$54.48"
+            }
+        }
+    }
+}

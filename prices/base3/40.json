@@ -1,0 +1,25 @@
+{
+    "id": "base3-40",
+    "name": "Omastar",
+    "number": "40",
+    "setId": "base3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643429",
+        "1st-edition": "1099534"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.03",
+                "psa10": "$99.50",
+                "grade9": "$9.96"
+            },
+            "1st-edition": {
+                "ungraded": "$2.50",
+                "psa10": "$64.70",
+                "grade9": "$18.91"
+            }
+        }
+    }
+}

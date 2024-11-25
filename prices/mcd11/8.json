@@ -1,0 +1,19 @@
+{
+    "id": "mcd11-8",
+    "name": "Sandile",
+    "number": "8",
+    "setId": "mcd11",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179966"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.57",
+                "psa10": "$55.49",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-220",
+    "name": "Peony",
+    "number": "220",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254024"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$27.70",
+                "grade9": "$9.61"
+            }
+        }
+    }
+}

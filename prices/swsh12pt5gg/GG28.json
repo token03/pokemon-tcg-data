@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG28",
+    "name": "Duskull",
+    "number": "GG28",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637084"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$28.44",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

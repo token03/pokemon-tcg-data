@@ -1,0 +1,25 @@
+{
+    "id": "gym1-120",
+    "name": "Vermilion City Gym",
+    "number": "120",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762120",
+        "1st-edition": "2156431"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$92.51",
+                "grade9": "$5.13"
+            },
+            "1st-edition": {
+                "ungraded": "$3.63",
+                "psa10": "$69.67",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

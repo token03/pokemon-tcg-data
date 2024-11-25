@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-60",
+    "name": "Poliwag",
+    "number": "60",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809441",
+        "reverse-holo": "5809645"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$35.28",
+                "grade9": "$11.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.14",
+                "psa10": "$34.64",
+                "grade9": "$11.40"
+            }
+        }
+    }
+}

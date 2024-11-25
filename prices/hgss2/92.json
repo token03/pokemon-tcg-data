@@ -1,0 +1,19 @@
+{
+    "id": "hgss2-92",
+    "name": "Raikou & Suicune LEGEND",
+    "number": "92",
+    "setId": "hgss2",
+    "rarity": "LEGEND",
+    "priceChartingIds": {
+        "legend": "1287434"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "legend": {
+                "ungraded": "$31.58",
+                "psa10": "$825.00",
+                "grade9": "$172.06"
+            }
+        }
+    }
+}

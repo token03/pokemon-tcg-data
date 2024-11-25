@@ -1,0 +1,19 @@
+{
+    "id": "bw6-119",
+    "name": "Ho-Oh-EX",
+    "number": "119",
+    "setId": "bw6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956373"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$39.00",
+                "psa10": "$710.00",
+                "grade9": "$81.00"
+            }
+        }
+    }
+}

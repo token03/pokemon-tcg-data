@@ -1,0 +1,25 @@
+{
+    "id": "dp5-60",
+    "name": "Croagunk",
+    "number": "60",
+    "setId": "dp5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921422",
+        "reverse-holo": "921522"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "",
+                "grade9": "$74.99"
+            }
+        }
+    }
+}

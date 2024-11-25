@@ -1,0 +1,19 @@
+{
+    "id": "hgss1-121",
+    "name": "Darkness Energy",
+    "number": "121",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2677906"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.74",
+                "psa10": "",
+                "grade9": "$100.00"
+            }
+        }
+    }
+}

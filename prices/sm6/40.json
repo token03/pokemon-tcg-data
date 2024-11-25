@@ -1,0 +1,25 @@
+{
+    "id": "sm6-40",
+    "name": "Rotom",
+    "number": "40",
+    "setId": "sm6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961703",
+        "reverse-holo": "961846"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": "$7.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

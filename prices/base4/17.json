@@ -1,0 +1,19 @@
+{
+    "id": "base4-17",
+    "name": "Scyther",
+    "number": "17",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641820"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.11",
+                "psa10": "$425.65",
+                "grade9": "$59.79"
+            }
+        }
+    }
+}

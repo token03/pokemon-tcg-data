@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-10",
+    "name": "Wormadam",
+    "number": "10",
+    "setId": "swsh9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3188235",
+        "reverse-holo": "3219381"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.97",
+                "grade9": "$11.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.26",
+                "psa10": "$34.21",
+                "grade9": "$11.73"
+            }
+        }
+    }
+}

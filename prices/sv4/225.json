@@ -1,0 +1,19 @@
+{
+    "id": "sv4-225",
+    "name": "Iron Valiant ex",
+    "number": "225",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953064"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.07",
+                "psa10": "$21.25",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

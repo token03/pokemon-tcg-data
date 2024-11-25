@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-188",
+    "name": "Alakazam ex",
+    "number": "188",
+    "setId": "sv3pt5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5809571"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.00",
+                "psa10": "$36.00",
+                "grade9": "$16.50"
+            }
+        }
+    }
+}

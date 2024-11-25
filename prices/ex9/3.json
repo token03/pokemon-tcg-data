@@ -1,0 +1,43 @@
+{
+    "id": "ex9-3",
+    "name": "Exploud",
+    "number": "3",
+    "setId": "ex9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888228",
+        "national-championship-staff": "5400955",
+        "national-championships": "6715110",
+        "reverse-holo": "888335",
+        "staff": "4395874"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$75.00",
+                "grade9": "$22.00"
+            },
+            "national-championship-staff": {
+                "ungraded": "$140.00",
+                "psa10": "$898.88",
+                "grade9": ""
+            },
+            "national-championships": {
+                "ungraded": "$200.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$12.99",
+                "psa10": "$302.77",
+                "grade9": "$46.00"
+            },
+            "staff": {
+                "ungraded": "$102.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

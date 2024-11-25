@@ -1,0 +1,25 @@
+{
+    "id": "ex15-83",
+    "name": "Switch",
+    "number": "83",
+    "setId": "ex15",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889557",
+        "reverse-holo": "889658"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.71",
+                "psa10": "",
+                "grade9": "$9.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.47",
+                "psa10": "$45.62",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

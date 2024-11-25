@@ -1,0 +1,19 @@
+{
+    "id": "bw5-105",
+    "name": "Raikou-EX",
+    "number": "105",
+    "setId": "bw5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956152"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$70.00",
+                "psa10": "$1,124.95",
+                "grade9": "$145.00"
+            }
+        }
+    }
+}

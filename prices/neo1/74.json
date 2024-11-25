@@ -1,0 +1,25 @@
+{
+    "id": "neo1-74",
+    "name": "Snubbull",
+    "number": "74",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762388",
+        "1st-edition": "2324921"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.80",
+                "psa10": "$38.03",
+                "grade9": "$15.80"
+            },
+            "1st-edition": {
+                "ungraded": "$2.18",
+                "psa10": "$53.93",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

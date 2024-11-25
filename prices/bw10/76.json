@@ -1,0 +1,25 @@
+{
+    "id": "bw10-76",
+    "name": "Ursaring",
+    "number": "76",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957378",
+        "reverse-holo": "957477"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$40.04",
+                "grade9": "$15.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.01",
+                "psa10": "$44.76",
+                "grade9": "$30.99"
+            }
+        }
+    }
+}

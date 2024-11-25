@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-27",
+    "name": "Skarmory",
+    "number": "27",
+    "setId": "ecard1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842443",
+        "reverse-holo": "2266882"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.39",
+                "psa10": "$13,124.99",
+                "grade9": "$105.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.50",
+                "psa10": "$150.00",
+                "grade9": "$39.68"
+            }
+        }
+    }
+}

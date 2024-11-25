@@ -1,0 +1,19 @@
+{
+    "id": "sm12-262",
+    "name": "Silvally-GX",
+    "number": "262",
+    "setId": "sm12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "964500"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.88",
+                "psa10": "$44.00",
+                "grade9": "$23.03"
+            }
+        }
+    }
+}

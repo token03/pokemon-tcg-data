@@ -1,0 +1,25 @@
+{
+    "id": "ex5-77",
+    "name": "Tentacool",
+    "number": "77",
+    "setId": "ex5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849850",
+        "reverse-holo": "849952"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$59.09",
+                "grade9": "$13.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$122.01",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

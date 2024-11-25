@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-52",
+    "name": "Dugtrio",
+    "number": "52",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842712",
+        "reverse-holo": "2252650"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.27",
+                "psa10": "$34.20",
+                "grade9": "$14.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$24.51",
+                "psa10": "$130.52",
+                "grade9": "$39.95"
+            }
+        }
+    }
+}

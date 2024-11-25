@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-13",
+    "name": "Trevenant V",
+    "number": "13",
+    "setId": "swsh7",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2512824"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$13.22",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

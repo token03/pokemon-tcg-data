@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-110",
+    "name": "Corviknight VMAX",
+    "number": "110",
+    "setId": "swsh5",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "1673290"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.40",
+                "psa10": "$24.00",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

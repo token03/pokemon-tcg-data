@@ -1,0 +1,25 @@
+{
+    "id": "bw1-54",
+    "name": "Scolipede",
+    "number": "54",
+    "setId": "bw1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806364",
+        "reverse-holo": "806451"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.13",
+                "psa10": "$38.99",
+                "grade9": "$13.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": "$39.95"
+            }
+        }
+    }
+}

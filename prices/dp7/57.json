@@ -1,0 +1,25 @@
+{
+    "id": "dp7-57",
+    "name": "Combee",
+    "number": "57",
+    "setId": "dp7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925867",
+        "reverse-holo": "925356"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.45",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

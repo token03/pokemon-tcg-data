@@ -1,0 +1,25 @@
+{
+    "id": "ex13-81",
+    "name": "Psyduck \u03b4",
+    "number": "81",
+    "setId": "ex13",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889161",
+        "reverse-holo": "889270"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.51",
+                "psa10": "$125.73",
+                "grade9": "$56.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$32.01",
+                "psa10": "$668.02",
+                "grade9": "$82.00"
+            }
+        }
+    }
+}

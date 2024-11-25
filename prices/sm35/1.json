@@ -1,0 +1,25 @@
+{
+    "id": "sm35-1",
+    "name": "Bulbasaur",
+    "number": "1",
+    "setId": "sm35",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961070",
+        "reverse-holo": "2978745"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$49.95",
+                "grade9": "$23.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$76.72",
+                "grade9": "$20.54"
+            }
+        }
+    }
+}

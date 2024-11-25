@@ -1,0 +1,19 @@
+{
+    "id": "sv5-201",
+    "name": "Morty's Conviction",
+    "number": "201",
+    "setId": "sv5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6495661"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.62",
+                "psa10": "$26.00",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

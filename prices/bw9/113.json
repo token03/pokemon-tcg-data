@@ -1,0 +1,19 @@
+{
+    "id": "bw9-113",
+    "name": "Latios-EX",
+    "number": "113",
+    "setId": "bw9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "957167"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.25",
+                "psa10": "$693.74",
+                "grade9": "$125.97"
+            }
+        }
+    }
+}

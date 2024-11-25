@@ -1,0 +1,25 @@
+{
+    "id": "dp3-68",
+    "name": "Unown [K]",
+    "number": "68",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920958",
+        "reverse-holo": "921089"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.01",
+                "psa10": "$45.94",
+                "grade9": "$16.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.36",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

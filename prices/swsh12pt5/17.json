@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-17",
+    "name": "Calyrex",
+    "number": "17",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4636913",
+        "reverse-holo": "4637141"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.60",
+                "psa10": "$37.26",
+                "grade9": "$12.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.78",
+                "psa10": "$37.64",
+                "grade9": "$12.66"
+            }
+        }
+    }
+}

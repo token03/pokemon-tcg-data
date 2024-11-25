@@ -1,0 +1,31 @@
+{
+    "id": "base1-28",
+    "name": "Growlithe",
+    "number": "28",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630441",
+        "1st-edition": "715617",
+        "shadowless": "715719"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$44.99",
+                "grade9": "$22.25"
+            },
+            "1st-edition": {
+                "ungraded": "$29.99",
+                "psa10": "$652.73",
+                "grade9": "$84.06"
+            },
+            "shadowless": {
+                "ungraded": "$1.87",
+                "psa10": "$83.48",
+                "grade9": "$26.17"
+            }
+        }
+    }
+}

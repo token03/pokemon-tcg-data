@@ -1,0 +1,25 @@
+{
+    "id": "pl3-129",
+    "name": "Starly",
+    "number": "129",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287177",
+        "reverse-holo": "1287330"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.03",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

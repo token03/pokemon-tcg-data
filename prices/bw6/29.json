@@ -1,0 +1,25 @@
+{
+    "id": "bw6-29",
+    "name": "Spheal",
+    "number": "29",
+    "setId": "bw6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956283",
+        "reverse-holo": "956410"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.84",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

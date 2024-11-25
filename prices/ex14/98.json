@@ -1,0 +1,19 @@
+{
+    "id": "ex14-98",
+    "name": "Swampert ex",
+    "number": "98",
+    "setId": "ex14",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889385"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$34.88",
+                "psa10": "$723.70",
+                "grade9": "$135.00"
+            }
+        }
+    }
+}

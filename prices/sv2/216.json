@@ -1,0 +1,19 @@
+{
+    "id": "sv2-216",
+    "name": "Tinkatink",
+    "number": "216",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287505"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.98",
+                "psa10": "$40.00",
+                "grade9": "$14.48"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm1-8",
+    "name": "Masquerain",
+    "number": "8",
+    "setId": "sm1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806757",
+        "reverse-holo": "806892"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$35.22",
+                "grade9": "$13.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.62",
+                "grade9": "$5.76"
+            }
+        }
+    }
+}

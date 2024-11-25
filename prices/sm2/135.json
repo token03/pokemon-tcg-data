@@ -1,0 +1,19 @@
+{
+    "id": "sm2-135",
+    "name": "Tapu Koko-GX",
+    "number": "135",
+    "setId": "sm2",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960632"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.97",
+                "psa10": "$44.55",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

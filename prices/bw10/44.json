@@ -1,0 +1,25 @@
+{
+    "id": "bw10-44",
+    "name": "Reuniclus",
+    "number": "44",
+    "setId": "bw10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957346",
+        "reverse-holo": "957449"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "$44.23",
+                "grade9": "$17.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.30",
+                "psa10": "$45.32",
+                "grade9": "$18.11"
+            }
+        }
+    }
+}

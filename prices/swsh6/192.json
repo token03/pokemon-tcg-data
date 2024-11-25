@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-192",
+    "name": "Honey",
+    "number": "192",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253996"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.50",
+                "psa10": "$36.17",
+                "grade9": "$18.81"
+            }
+        }
+    }
+}

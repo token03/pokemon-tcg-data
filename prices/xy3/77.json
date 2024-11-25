@@ -1,0 +1,25 @@
+{
+    "id": "xy3-77",
+    "name": "Noivern",
+    "number": "77",
+    "setId": "xy3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958060",
+        "reverse-holo": "958166"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$48.63",
+                "grade9": "$20.35"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "$36.39",
+                "grade9": "$13.55"
+            }
+        }
+    }
+}

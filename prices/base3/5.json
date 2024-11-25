@@ -1,0 +1,25 @@
+{
+    "id": "base3-5",
+    "name": "Gengar",
+    "number": "5",
+    "setId": "base3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643406",
+        "1st-edition": "1099499"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$27.36",
+                "psa10": "$1,334.50",
+                "grade9": "$147.75"
+            },
+            "1st-edition": {
+                "ungraded": "$87.56",
+                "psa10": "$3,293.75",
+                "grade9": "$400.00"
+            }
+        }
+    }
+}

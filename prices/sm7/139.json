@@ -1,0 +1,25 @@
+{
+    "id": "sm7-139",
+    "name": "The Masked Royal",
+    "number": "139",
+    "setId": "sm7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962052",
+        "reverse-holo": "962220"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.33",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

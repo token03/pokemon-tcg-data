@@ -1,0 +1,25 @@
+{
+    "id": "ex3-83",
+    "name": "Buffer Piece",
+    "number": "83",
+    "setId": "ex3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849462",
+        "reverse-holo": "849562"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$1.04",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.52",
+                "psa10": "",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

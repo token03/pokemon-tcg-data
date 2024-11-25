@@ -1,0 +1,25 @@
+{
+    "id": "ex6-93",
+    "name": "Life Herb",
+    "number": "93",
+    "setId": "ex6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "850060",
+        "reverse-holo": "850175"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.38",
+                "psa10": "$47.48",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

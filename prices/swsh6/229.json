@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-229",
+    "name": "Urn of Vitality",
+    "number": "229",
+    "setId": "swsh6",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2254033"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.18",
+                "psa10": "$30.47",
+                "grade9": "$8.46"
+            }
+        }
+    }
+}

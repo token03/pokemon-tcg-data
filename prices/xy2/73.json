@@ -1,0 +1,25 @@
+{
+    "id": "xy2-73",
+    "name": "Sliggoo",
+    "number": "73",
+    "setId": "xy2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957820",
+        "reverse-holo": "957922"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": "$6.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy7-81",
+    "name": "Tyranitar Spirit Link",
+    "number": "81",
+    "setId": "xy7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959099",
+        "reverse-holo": "959187"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$38.38",
+                "grade9": "$14.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "$38.04",
+                "grade9": "$6.27"
+            }
+        }
+    }
+}

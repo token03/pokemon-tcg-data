@@ -1,0 +1,19 @@
+{
+    "id": "sv5-215",
+    "name": "Walking Wake ex",
+    "number": "215",
+    "setId": "sv5",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "6495676"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.00",
+                "psa10": "$46.25",
+                "grade9": "$13.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-137",
+    "name": "Collapsed Stadium",
+    "number": "137",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188361",
+        "reverse-holo": "3219483"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$34.33",
+                "grade9": "$11.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$35.81",
+                "grade9": "$12.39"
+            }
+        }
+    }
+}

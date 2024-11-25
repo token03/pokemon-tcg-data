@@ -1,0 +1,19 @@
+{
+    "id": "mcd19-11",
+    "name": "Alolan Dugtrio",
+    "number": "11",
+    "setId": "mcd19",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180062"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.48",
+                "psa10": "$38.17",
+                "grade9": "$31.45"
+            }
+        }
+    }
+}

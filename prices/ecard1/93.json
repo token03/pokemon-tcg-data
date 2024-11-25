@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-93",
+    "name": "Abra",
+    "number": "93",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842471",
+        "reverse-holo": "2266946"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.08",
+                "psa10": "$52.40",
+                "grade9": "$20.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$15.83",
+                "psa10": "$158.50",
+                "grade9": "$75.00"
+            }
+        }
+    }
+}

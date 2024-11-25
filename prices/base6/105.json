@@ -1,0 +1,25 @@
+{
+    "id": "base6-105",
+    "name": "The Boss's Way",
+    "number": "105",
+    "setId": "base6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842410",
+        "reverse-holo": "2253786"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$60.93",
+                "grade9": "$16.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$32.02",
+                "psa10": "$450.00",
+                "grade9": "$102.93"
+            }
+        }
+    }
+}

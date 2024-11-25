@@ -1,0 +1,19 @@
+{
+    "id": "ex12-90",
+    "name": "Regice \u2605",
+    "number": "90",
+    "setId": "ex12",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "888972"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$214.29",
+                "psa10": "$3,100.00",
+                "grade9": "$806.79"
+            }
+        }
+    }
+}

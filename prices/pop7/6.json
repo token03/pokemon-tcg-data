@@ -1,0 +1,19 @@
+{
+    "id": "pop7-6",
+    "name": "Delibird",
+    "number": "6",
+    "setId": "pop7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762812"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$90.85",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-17",
+    "name": "Cleffa",
+    "number": "17",
+    "setId": "hgss1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806130",
+        "reverse-holo": "806235"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$59.69",
+                "grade9": "$14.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

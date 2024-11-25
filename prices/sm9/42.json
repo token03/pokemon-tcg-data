@@ -1,0 +1,25 @@
+{
+    "id": "sm9-42",
+    "name": "Flaaffy",
+    "number": "42",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962840",
+        "reverse-holo": "963033"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

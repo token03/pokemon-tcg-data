@@ -1,0 +1,25 @@
+{
+    "id": "sv4-77",
+    "name": "Pumpkaboo",
+    "number": "77",
+    "setId": "sv4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5952915",
+        "reverse-holo": "5953173"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.55",
+                "psa10": "$32.55",
+                "grade9": "$10.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$36.83",
+                "grade9": "$12.02"
+            }
+        }
+    }
+}

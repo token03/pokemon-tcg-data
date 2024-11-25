@@ -1,0 +1,25 @@
+{
+    "id": "bw6-89",
+    "name": "Gabite",
+    "number": "89",
+    "setId": "bw6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956343",
+        "reverse-holo": "956466"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.10",
+                "psa10": "$73.06",
+                "grade9": "$31.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.11",
+                "psa10": "$149.13",
+                "grade9": "$69.76"
+            }
+        }
+    }
+}

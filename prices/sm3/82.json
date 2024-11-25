@@ -1,0 +1,25 @@
+{
+    "id": "sm3-82",
+    "name": "Alolan Raticate",
+    "number": "82",
+    "setId": "sm3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960866",
+        "reverse-holo": "961027"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$37.26",
+                "grade9": "$14.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$9.00",
+                "grade9": "$7.58"
+            }
+        }
+    }
+}

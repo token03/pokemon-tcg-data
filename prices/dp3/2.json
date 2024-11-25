@@ -1,0 +1,25 @@
+{
+    "id": "dp3-2",
+    "name": "Blastoise",
+    "number": "2",
+    "setId": "dp3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920892",
+        "reverse-holo": "921024"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.32",
+                "psa10": "$1,700.00",
+                "grade9": "$129.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.13",
+                "psa10": "$190.06",
+                "grade9": "$54.00"
+            }
+        }
+    }
+}

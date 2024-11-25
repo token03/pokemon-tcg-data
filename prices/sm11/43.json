@@ -1,0 +1,25 @@
+{
+    "id": "sm11-43",
+    "name": "Basculin",
+    "number": "43",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963609",
+        "reverse-holo": "963864"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.98",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4-139",
+    "name": "Gholdengo ex",
+    "number": "139",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952977"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.99",
+                "psa10": "$42.73",
+                "grade9": "$13.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm5-111",
+    "name": "Shaymin",
+    "number": "111",
+    "setId": "sm5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961474",
+        "reverse-holo": "961638"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "$36.88",
+                "grade9": "$14.12"
+            }
+        }
+    }
+}

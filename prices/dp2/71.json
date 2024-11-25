@@ -1,0 +1,25 @@
+{
+    "id": "dp2-71",
+    "name": "Aron",
+    "number": "71",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920694",
+        "reverse-holo": "920818"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$58.81",
+                "grade9": "$21.18"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.94",
+                "psa10": "$77.61",
+                "grade9": "$28.47"
+            }
+        }
+    }
+}

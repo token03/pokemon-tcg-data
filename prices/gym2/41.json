@@ -1,0 +1,25 @@
+{
+    "id": "gym2-41",
+    "name": "Erika's Ivysaur",
+    "number": "41",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762247",
+        "1st-edition": "1450235"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.43",
+                "psa10": "$80.07",
+                "grade9": "$23.00"
+            },
+            "1st-edition": {
+                "ungraded": "$14.27",
+                "psa10": "$99.00",
+                "grade9": "$35.94"
+            }
+        }
+    }
+}

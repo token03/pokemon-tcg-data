@@ -1,0 +1,25 @@
+{
+    "id": "dp3-89",
+    "name": "Growlithe",
+    "number": "89",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920979",
+        "reverse-holo": "921110"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$36.57",
+                "grade9": "$16.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$108.87",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

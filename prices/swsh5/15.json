@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-15",
+    "name": "Lurantis",
+    "number": "15",
+    "setId": "swsh5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1673196",
+        "reverse-holo": "1725003"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.35",
+                "psa10": "$35.18",
+                "grade9": "$12.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.22",
+                "psa10": "$15.00",
+                "grade9": "$12.23"
+            }
+        }
+    }
+}

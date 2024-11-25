@@ -1,0 +1,19 @@
+{
+    "id": "base4-118",
+    "name": "Bill",
+    "number": "118",
+    "setId": "base4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "641920"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$45.22",
+                "grade9": "$24.99"
+            }
+        }
+    }
+}

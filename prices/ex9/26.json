@@ -1,0 +1,25 @@
+{
+    "id": "ex9-26",
+    "name": "Dodrio",
+    "number": "26",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888251",
+        "reverse-holo": "888358"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$62.95",
+                "grade9": "$32.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.00",
+                "psa10": "$102.50",
+                "grade9": "$34.24"
+            }
+        }
+    }
+}

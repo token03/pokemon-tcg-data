@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-119",
+    "name": "Staraptor",
+    "number": "119",
+    "setId": "swsh9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3188343",
+        "reverse-holo": "3219466"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.61",
+                "psa10": "$32.45",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$35.97",
+                "grade9": "$12.45"
+            }
+        }
+    }
+}

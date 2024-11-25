@@ -1,0 +1,19 @@
+{
+    "id": "sm6-20",
+    "name": "Palkia-GX",
+    "number": "20",
+    "setId": "sm6",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961683"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.75",
+                "psa10": "$24.25",
+                "grade9": "$18.41"
+            }
+        }
+    }
+}

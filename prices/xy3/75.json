@@ -1,0 +1,25 @@
+{
+    "id": "xy3-75",
+    "name": "Vibrava",
+    "number": "75",
+    "setId": "xy3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958058",
+        "reverse-holo": "958164"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

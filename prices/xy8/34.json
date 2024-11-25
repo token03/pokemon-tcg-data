@@ -1,0 +1,19 @@
+{
+    "id": "xy8-34",
+    "name": "Glalie-EX",
+    "number": "34",
+    "setId": "xy8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959222"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$27.25",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

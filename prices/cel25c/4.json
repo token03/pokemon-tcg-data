@@ -1,0 +1,31 @@
+{
+    "id": "cel25c-4_A",
+    "name": "Charizard",
+    "number": "4",
+    "setId": "cel25c",
+    "rarity": "Classic Collection",
+    "priceChartingIds": {
+        "normal": "2618149",
+        "confetti-holo": "6245977",
+        "premium-collection": "2945355"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$29.00",
+                "grade9": "$7.00"
+            },
+            "confetti-holo": {
+                "ungraded": "$68.44",
+                "psa10": "",
+                "grade9": ""
+            },
+            "premium-collection": {
+                "ungraded": "$74.50",
+                "psa10": "$1,750.00",
+                "grade9": "$143.84"
+            }
+        }
+    }
+}

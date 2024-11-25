@@ -1,0 +1,19 @@
+{
+    "id": "sm5-153",
+    "name": "Lusamine",
+    "number": "153",
+    "setId": "sm5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961516"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$87.00",
+                "psa10": "$219.57",
+                "grade9": "$100.00"
+            }
+        }
+    }
+}

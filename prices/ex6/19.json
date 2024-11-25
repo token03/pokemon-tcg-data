@@ -1,0 +1,25 @@
+{
+    "id": "ex6-19",
+    "name": "Chansey",
+    "number": "19",
+    "setId": "ex6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849986",
+        "reverse-holo": "850102"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$25.41",
+                "grade9": "$21.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.90",
+                "psa10": "$475.00",
+                "grade9": "$36.32"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-205",
+    "name": "Shadow Rider Calyrex VMAX",
+    "number": "205",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254008"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$75.46",
+                "psa10": "$168.56",
+                "grade9": "$50.67"
+            }
+        }
+    }
+}

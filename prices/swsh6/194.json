@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-194",
+    "name": "Klara",
+    "number": "194",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253998"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.00",
+                "psa10": "$55.00",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

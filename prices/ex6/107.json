@@ -1,0 +1,19 @@
+{
+    "id": "ex6-107",
+    "name": "Electrode ex",
+    "number": "107",
+    "setId": "ex6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "850074"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$31.04",
+                "psa10": "$220.11",
+                "grade9": "$84.53"
+            }
+        }
+    }
+}

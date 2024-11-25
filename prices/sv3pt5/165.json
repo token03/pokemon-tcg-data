@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-165",
+    "name": "Rigid Band",
+    "number": "165",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5810594",
+        "reverse-holo": "5809744"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.93",
+                "psa10": "$38.26",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

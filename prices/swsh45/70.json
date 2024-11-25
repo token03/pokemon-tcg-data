@@ -1,0 +1,19 @@
+{
+    "id": "swsh45-70",
+    "name": "Pok\u00e9 Kid",
+    "number": "70",
+    "setId": "swsh45",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2290675"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.10",
+                "psa10": "$44.12",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

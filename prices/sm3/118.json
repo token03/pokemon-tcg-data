@@ -1,0 +1,25 @@
+{
+    "id": "sm3-118",
+    "name": "Mount Lanakila",
+    "number": "118",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960902",
+        "reverse-holo": "961059"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$35.76",
+                "grade9": "$13.47"
+            }
+        }
+    }
+}

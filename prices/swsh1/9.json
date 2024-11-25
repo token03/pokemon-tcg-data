@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-9",
+    "name": "Dhelmise V",
+    "number": "9",
+    "setId": "swsh1",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "807066"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$15.01",
+                "grade9": "$9.98"
+            }
+        }
+    }
+}

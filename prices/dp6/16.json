@@ -1,0 +1,25 @@
+{
+    "id": "dp6-16",
+    "name": "Spiritomb",
+    "number": "16",
+    "setId": "dp6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "924947",
+        "reverse-holo": "925093"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$350.00",
+                "grade9": "$50.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.19",
+                "psa10": "",
+                "grade9": "$14.47"
+            }
+        }
+    }
+}

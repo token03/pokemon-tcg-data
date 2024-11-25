@@ -1,0 +1,25 @@
+{
+    "id": "sm10-28",
+    "name": "Torracat",
+    "number": "28",
+    "setId": "sm10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963184",
+        "reverse-holo": "963415"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.90",
+                "grade9": "$2.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.13",
+                "psa10": "$13.50",
+                "grade9": ""
+            }
+        }
+    }
+}

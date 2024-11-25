@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG07",
+    "name": "Falinks",
+    "number": "TG07",
+    "setId": "swsh10tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3508399"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$37.99",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

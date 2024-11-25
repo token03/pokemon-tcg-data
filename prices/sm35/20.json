@@ -1,0 +1,25 @@
+{
+    "id": "sm35-20",
+    "name": "Feraligatr",
+    "number": "20",
+    "setId": "sm35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961089",
+        "reverse-holo": "2978759"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$125.00",
+                "grade9": "$13.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.65",
+                "psa10": "$86.00",
+                "grade9": "$23.27"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-105",
+    "name": "Landorus",
+    "number": "105",
+    "setId": "swsh11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4050022",
+        "reverse-holo": "4050230"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$36.04",
+                "grade9": "$12.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "$36.00",
+                "grade9": "$12.24"
+            }
+        }
+    }
+}

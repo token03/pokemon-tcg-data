@@ -1,0 +1,25 @@
+{
+    "id": "xy3-41",
+    "name": "Gothitelle",
+    "number": "41",
+    "setId": "xy3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958024",
+        "reverse-holo": "958134"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$41.57",
+                "grade9": "$16.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$36.33",
+                "grade9": "$13.51"
+            }
+        }
+    }
+}

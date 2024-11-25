@@ -1,0 +1,25 @@
+{
+    "id": "dv1-17",
+    "name": "Druddigon",
+    "number": "17",
+    "setId": "dv1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956510",
+        "stamped": "5923746"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.12",
+                "psa10": "$103.46",
+                "grade9": "$36.11"
+            },
+            "stamped": {
+                "ungraded": "$7.42",
+                "psa10": "",
+                "grade9": "$30.32"
+            }
+        }
+    }
+}

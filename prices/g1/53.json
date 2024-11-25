@@ -1,0 +1,37 @@
+{
+    "id": "g1-53",
+    "name": "Meowth",
+    "number": "53",
+    "setId": "g1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959765",
+        "20th-anniversary-stamp": "6795207",
+        "reverse-holo": "2978693",
+        "toys-r-us": "3010356"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.14",
+                "psa10": "$23.00",
+                "grade9": "$12.74"
+            },
+            "20th-anniversary-stamp": {
+                "ungraded": "$13.83",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.78",
+                "psa10": "$39.28",
+                "grade9": "$5.70"
+            },
+            "toys-r-us": {
+                "ungraded": "$7.00",
+                "psa10": "$55.00",
+                "grade9": "$21.95"
+            }
+        }
+    }
+}

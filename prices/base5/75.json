@@ -1,0 +1,25 @@
+{
+    "id": "base5-75",
+    "name": "Digger",
+    "number": "75",
+    "setId": "base5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643478",
+        "1st-edition": "1341416"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "$33.25",
+                "grade9": "$19.84"
+            },
+            "1st-edition": {
+                "ungraded": "$1.92",
+                "psa10": "$68.34",
+                "grade9": "$20.49"
+            }
+        }
+    }
+}

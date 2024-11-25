@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-46",
+    "name": "Carnivine",
+    "number": "46",
+    "setId": "hgss2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287388",
+        "reverse-holo": "1287484"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

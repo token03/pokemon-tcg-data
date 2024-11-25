@@ -1,0 +1,19 @@
+{
+    "id": "mcd15-5",
+    "name": "Mudkip",
+    "number": "5",
+    "setId": "mcd15",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180008"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.15",
+                "psa10": "$57.71",
+                "grade9": "$26.21"
+            }
+        }
+    }
+}

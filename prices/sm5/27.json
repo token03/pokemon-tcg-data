@@ -1,0 +1,25 @@
+{
+    "id": "sm5-27",
+    "name": "Turtonator",
+    "number": "27",
+    "setId": "sm5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961390",
+        "reverse-holo": "961562"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

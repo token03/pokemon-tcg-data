@@ -1,0 +1,25 @@
+{
+    "id": "pl3-36",
+    "name": "Moltres",
+    "number": "36",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287083",
+        "reverse-holo": "1287237"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$68.50",
+                "grade9": "$65.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.81",
+                "psa10": "$90.78",
+                "grade9": "$69.00"
+            }
+        }
+    }
+}

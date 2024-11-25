@@ -1,0 +1,25 @@
+{
+    "id": "gym2-11",
+    "name": "Lt. Surge's Raichu",
+    "number": "11",
+    "setId": "gym2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762217",
+        "1st-edition": "1450205"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$29.00",
+                "psa10": "$225.00",
+                "grade9": "$72.47"
+            },
+            "1st-edition": {
+                "ungraded": "$55.00",
+                "psa10": "$378.75",
+                "grade9": "$130.00"
+            }
+        }
+    }
+}

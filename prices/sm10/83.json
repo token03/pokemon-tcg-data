@@ -1,0 +1,25 @@
+{
+    "id": "sm10-83",
+    "name": "Sandshrew",
+    "number": "83",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963239",
+        "reverse-holo": "963466"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

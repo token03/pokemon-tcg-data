@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-131",
+    "name": "Rapid Strike Scroll of Swirls",
+    "number": "131",
+    "setId": "swsh5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1673311",
+        "reverse-holo": "1725100"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$35.45",
+                "grade9": "$12.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$34.15",
+                "grade9": "$11.97"
+            }
+        }
+    }
+}

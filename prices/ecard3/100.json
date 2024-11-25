@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-100",
+    "name": "Snorlax",
+    "number": "100",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842754",
+        "reverse-holo": "2252699"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.43",
+                "psa10": "$154.20",
+                "grade9": "$55.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$130.00",
+                "psa10": "$1,999.99",
+                "grade9": "$301.66"
+            }
+        }
+    }
+}

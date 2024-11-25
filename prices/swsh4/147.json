@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-147",
+    "name": "Bea",
+    "number": "147",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887687",
+        "reverse-holo": "887858"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$34.46",
+                "grade9": "$9.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$46.75",
+                "grade9": "$6.52"
+            }
+        }
+    }
+}

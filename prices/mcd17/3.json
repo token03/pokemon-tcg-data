@@ -1,0 +1,19 @@
+{
+    "id": "mcd17-3",
+    "name": "Litten",
+    "number": "3",
+    "setId": "mcd17",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180030"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.59",
+                "psa10": "$46.33",
+                "grade9": "$19.82"
+            }
+        }
+    }
+}

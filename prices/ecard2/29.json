@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-29",
+    "name": "Primeape",
+    "number": "29",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842556",
+        "reverse-holo": "2293920"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.65",
+                "psa10": "$37.00",
+                "grade9": "$31.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$18.34",
+                "psa10": "$187.51",
+                "grade9": "$39.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-183",
+    "name": "Nessa",
+    "number": "183",
+    "setId": "swsh4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887721"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.81",
+                "psa10": "$38.28",
+                "grade9": "$17.62"
+            }
+        }
+    }
+}

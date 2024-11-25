@@ -1,0 +1,25 @@
+{
+    "id": "bw1-71",
+    "name": "Zoroark",
+    "number": "71",
+    "setId": "bw1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806380",
+        "reverse-holo": "806467"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.86",
+                "psa10": "$62.00",
+                "grade9": "$15.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$60.35",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

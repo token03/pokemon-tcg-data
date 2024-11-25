@@ -1,0 +1,19 @@
+{
+    "id": "xy7-95",
+    "name": "Steven",
+    "number": "95",
+    "setId": "xy7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959113"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.29",
+                "psa10": "$134.00",
+                "grade9": "$30.27"
+            }
+        }
+    }
+}

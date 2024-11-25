@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-5",
+    "name": "Tropius",
+    "number": "5",
+    "setId": "swsh45",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1341481",
+        "reverse-holo": "1341676"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.11",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "$15.50",
+                "grade9": "$2.30"
+            }
+        }
+    }
+}

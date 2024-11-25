@@ -1,0 +1,31 @@
+{
+    "id": "ecard1-35",
+    "name": "Arbok",
+    "number": "35",
+    "setId": "ecard1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887880",
+        "for-position-only": "4081653",
+        "reverse-holo": "2266889"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$33.06",
+                "grade9": "$25.00"
+            },
+            "for-position-only": {
+                "ungraded": "$520.59",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$8.89",
+                "psa10": "$78.00",
+                "grade9": "$37.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "sm5-88",
+    "name": "Heatran",
+    "number": "88",
+    "setId": "sm5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961451",
+        "promo": "2423716",
+        "reverse-holo": "961619",
+        "ultra-prism-stamped": "3399237"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "$33.71",
+                "grade9": "$7.52"
+            },
+            "promo": {
+                "ungraded": "$3.10",
+                "psa10": "",
+                "grade9": "$13.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": "$3.25"
+            },
+            "ultra-prism-stamped": {
+                "ungraded": "$3.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "bw10-66",
+    "name": "Palkia-EX",
+    "number": "66",
+    "setId": "bw10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "957368"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.96",
+                "psa10": "$123.75",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

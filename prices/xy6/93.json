@@ -1,0 +1,25 @@
+{
+    "id": "xy6-93",
+    "name": "Ultra Ball",
+    "number": "93",
+    "setId": "xy6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958916",
+        "reverse-holo": "959015"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$39.43",
+                "grade9": "$15.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.96",
+                "psa10": "$12.75",
+                "grade9": "$7.50"
+            }
+        }
+    }
+}

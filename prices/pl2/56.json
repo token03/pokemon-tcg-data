@@ -1,0 +1,25 @@
+{
+    "id": "pl2-56",
+    "name": "Ambipom G",
+    "number": "56",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925452",
+        "reverse-holo": "925571"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

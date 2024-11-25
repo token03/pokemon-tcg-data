@@ -1,0 +1,25 @@
+{
+    "id": "ex4-36",
+    "name": "Team Magma's Lairon",
+    "number": "36",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849605",
+        "reverse-holo": "849702"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.79",
+                "psa10": "$75.54",
+                "grade9": "$42.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.39",
+                "psa10": "$132.37",
+                "grade9": "$44.43"
+            }
+        }
+    }
+}

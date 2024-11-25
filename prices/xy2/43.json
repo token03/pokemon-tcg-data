@@ -1,0 +1,25 @@
+{
+    "id": "xy2-43",
+    "name": "Meowstic",
+    "number": "43",
+    "setId": "xy2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957790",
+        "reverse-holo": "957893"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.33",
+                "psa10": "$17.00",
+                "grade9": "$9.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

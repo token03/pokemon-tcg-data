@@ -1,0 +1,25 @@
+{
+    "id": "xy9-80",
+    "name": "Ferrothorn",
+    "number": "80",
+    "setId": "xy9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959571",
+        "reverse-holo": "959682"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$37.07",
+                "grade9": "$14.17"
+            }
+        }
+    }
+}

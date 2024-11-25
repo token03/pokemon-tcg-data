@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-187",
+    "name": "Kingambit",
+    "number": "187",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277106"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.49",
+                "psa10": "$52.98",
+                "grade9": "$4.25"
+            }
+        }
+    }
+}

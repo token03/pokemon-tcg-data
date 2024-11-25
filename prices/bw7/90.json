@@ -1,0 +1,25 @@
+{
+    "id": "bw7-90",
+    "name": "Purrloin",
+    "number": "90",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956605",
+        "reverse-holo": "956751"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.30",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

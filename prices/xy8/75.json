@@ -1,0 +1,25 @@
+{
+    "id": "xy8-75",
+    "name": "Sandshrew",
+    "number": "75",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959264",
+        "reverse-holo": "959418"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$31.00",
+                "grade9": "$13.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "$39.71",
+                "grade9": "$15.67"
+            }
+        }
+    }
+}

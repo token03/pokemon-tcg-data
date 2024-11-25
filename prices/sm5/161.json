@@ -1,0 +1,19 @@
+{
+    "id": "sm5-161",
+    "name": "Dawn Wings Necrozma-GX",
+    "number": "161",
+    "setId": "sm5",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961524"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.99",
+                "psa10": "$59.93",
+                "grade9": "$25.54"
+            }
+        }
+    }
+}

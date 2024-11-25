@@ -1,0 +1,25 @@
+{
+    "id": "neo2-54",
+    "name": "Dunsparce",
+    "number": "54",
+    "setId": "neo2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762420",
+        "1st-edition": "2158432"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$49.99",
+                "grade9": "$24.26"
+            },
+            "1st-edition": {
+                "ungraded": "$1.59",
+                "psa10": "$72.43",
+                "grade9": "$13.40"
+            }
+        }
+    }
+}

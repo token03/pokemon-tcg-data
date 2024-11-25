@@ -1,0 +1,25 @@
+{
+    "id": "g1-71",
+    "name": "Red Card",
+    "number": "71",
+    "setId": "g1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959783",
+        "reverse-holo": "2978708"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "$38.40",
+                "grade9": "$14.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp2-53",
+    "name": "Lairon",
+    "number": "53",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920676",
+        "reverse-holo": "920800"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.68",
+                "psa10": "",
+                "grade9": "$23.97"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp7-79",
+    "name": "Treecko",
+    "number": "79",
+    "setId": "dp7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925285",
+        "reverse-holo": "925378"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$19.19",
+                "grade9": "$8.34"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

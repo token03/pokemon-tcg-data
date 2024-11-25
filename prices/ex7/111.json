@@ -1,0 +1,19 @@
+{
+    "id": "ex7-111",
+    "name": "Here Comes Team Rocket!",
+    "number": "111",
+    "setId": "ex7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "886445"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$108.16",
+                "psa10": "$849.50",
+                "grade9": "$219.99"
+            }
+        }
+    }
+}

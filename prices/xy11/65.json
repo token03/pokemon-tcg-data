@@ -1,0 +1,31 @@
+{
+    "id": "xy11-65",
+    "name": "Yveltal",
+    "number": "65",
+    "setId": "xy11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "960144",
+        "reverse-holo-pokemon-league": "3179775",
+        "reverse-holo": "960255"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$31.00",
+                "grade9": "$9.59"
+            },
+            "reverse-holo-pokemon-league": {
+                "ungraded": "$3.79",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$63.05",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

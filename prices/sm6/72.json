@@ -1,0 +1,25 @@
+{
+    "id": "sm6-72",
+    "name": "Zygarde",
+    "number": "72",
+    "setId": "sm6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2431460",
+        "reverse-holo": "961877"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.01",
+                "psa10": "$32.00",
+                "grade9": "$14.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

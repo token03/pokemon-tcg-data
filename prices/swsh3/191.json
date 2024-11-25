@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-191",
+    "name": "Centiskorch VMAX",
+    "number": "191",
+    "setId": "swsh3",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "887269"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$24.50",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

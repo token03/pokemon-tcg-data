@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG28",
+    "name": "Sordward & Shielbert",
+    "number": "TG28",
+    "setId": "swsh12tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277116"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.70",
+                "psa10": "$19.89",
+                "grade9": "$9.49"
+            }
+        }
+    }
+}

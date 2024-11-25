@@ -1,0 +1,25 @@
+{
+    "id": "xy9-104",
+    "name": "Misty's Determination",
+    "number": "104",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959595",
+        "reverse-holo": "959703"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$35.93",
+                "grade9": "$13.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.03",
+                "psa10": "$40.61",
+                "grade9": "$16.26"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG10",
+    "name": "Mew",
+    "number": "GG10",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637066"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$7.97",
+                "psa10": "$60.05",
+                "grade9": "$19.87"
+            }
+        }
+    }
+}

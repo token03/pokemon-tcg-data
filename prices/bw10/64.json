@@ -1,0 +1,25 @@
+{
+    "id": "bw10-64",
+    "name": "Salamence",
+    "number": "64",
+    "setId": "bw10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957366",
+        "reverse-holo": "957467"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.95",
+                "psa10": "$50.53",
+                "grade9": "$48.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.74",
+                "psa10": "$57.47",
+                "grade9": "$49.95"
+            }
+        }
+    }
+}

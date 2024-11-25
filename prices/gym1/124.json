@@ -1,0 +1,25 @@
+{
+    "id": "gym1-124",
+    "name": "Narrow Gym",
+    "number": "124",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762124",
+        "1st-edition": "2156435"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.98",
+                "psa10": "$39.99",
+                "grade9": "$17.69"
+            },
+            "1st-edition": {
+                "ungraded": "$3.27",
+                "psa10": "$47.27",
+                "grade9": "$21.81"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-33",
+    "name": "Luxray",
+    "number": "33",
+    "setId": "swsh45",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1341510",
+        "reverse-holo": "1341700"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.35",
+                "psa10": "$18.12",
+                "grade9": "$12.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$20.49",
+                "grade9": "$12.76"
+            }
+        }
+    }
+}

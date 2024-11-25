@@ -1,0 +1,19 @@
+{
+    "id": "sm35-72",
+    "name": "Mewtwo-GX",
+    "number": "72",
+    "setId": "sm35",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961141"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.00",
+                "psa10": "$61.33",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

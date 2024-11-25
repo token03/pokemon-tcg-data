@@ -1,0 +1,25 @@
+{
+    "id": "xy1-10",
+    "name": "Pansage",
+    "number": "10",
+    "setId": "xy1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806507",
+        "reverse-holo": "806632"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp4-72",
+    "name": "Jigglypuff",
+    "number": "72",
+    "setId": "dp4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921226",
+        "reverse-holo": "921332"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$48.00",
+                "grade9": "$39.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.00",
+                "psa10": "$99.99",
+                "grade9": "$46.40"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw8-66",
+    "name": "Garbodor",
+    "number": "66",
+    "setId": "bw8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956864",
+        "reverse-holo": "956997"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.16",
+                "psa10": "$82.00",
+                "grade9": "$16.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.25",
+                "psa10": "$55.59",
+                "grade9": "$30.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-54",
+    "name": "Misdreavus",
+    "number": "54",
+    "setId": "hgss2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287396",
+        "reverse-holo": "1287492"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "",
+                "grade9": "$13.12"
+            }
+        }
+    }
+}

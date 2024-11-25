@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-127",
+    "name": "Aegislash VMAX",
+    "number": "127",
+    "setId": "swsh4",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "842122"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$17.55",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

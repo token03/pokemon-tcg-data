@@ -1,0 +1,25 @@
+{
+    "id": "bw5-47",
+    "name": "Eelektross",
+    "number": "47",
+    "setId": "bw5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956093",
+        "reverse-holo": "956202"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.82",
+                "psa10": "$54.70",
+                "grade9": "$42.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.57",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

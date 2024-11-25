@@ -1,0 +1,25 @@
+{
+    "id": "bw8-43",
+    "name": "Magnemite",
+    "number": "43",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956841",
+        "reverse-holo": "956975"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex5-3",
+    "name": "Crobat",
+    "number": "3",
+    "setId": "ex5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849776",
+        "reverse-holo": "849878"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.39",
+                "psa10": "$127.50",
+                "grade9": "$28.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.81",
+                "psa10": "$148.01",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

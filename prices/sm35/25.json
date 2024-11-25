@@ -1,0 +1,25 @@
+{
+    "id": "sm35-25",
+    "name": "Manaphy",
+    "number": "25",
+    "setId": "sm35",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961094",
+        "reverse-holo": "2431580"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$31.57",
+                "grade9": "$13.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "$10.99",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

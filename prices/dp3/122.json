@@ -1,0 +1,25 @@
+{
+    "id": "dp3-122",
+    "name": "Professor Oak's Visit",
+    "number": "122",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921012",
+        "reverse-holo": "921144"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "$52.57",
+                "grade9": "$18.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm115-6",
+    "name": "Pinsir-GX",
+    "number": "6",
+    "setId": "sm115",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964026"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$17.71",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-165",
+    "name": "Hop",
+    "number": "165",
+    "setId": "swsh1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "807144",
+        "reverse-holo": "807145"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$29.67",
+                "grade9": "$12.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$34.95",
+                "grade9": "$12.67"
+            }
+        }
+    }
+}

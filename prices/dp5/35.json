@@ -1,0 +1,25 @@
+{
+    "id": "dp5-35",
+    "name": "Ambipom",
+    "number": "35",
+    "setId": "dp5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921397",
+        "reverse-holo": "921497"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

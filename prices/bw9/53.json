@@ -1,0 +1,19 @@
+{
+    "id": "bw9-53",
+    "name": "Deoxys-EX",
+    "number": "53",
+    "setId": "bw9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "957107"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.33",
+                "psa10": "$200.00",
+                "grade9": "$51.05"
+            }
+        }
+    }
+}

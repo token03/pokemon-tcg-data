@@ -1,0 +1,25 @@
+{
+    "id": "sm6-81",
+    "name": "Empoleon",
+    "number": "81",
+    "setId": "sm6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961744",
+        "reverse-holo": "961883"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.32",
+                "psa10": "$24.50",
+                "grade9": "$15.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.11",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

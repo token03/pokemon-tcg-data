@@ -1,0 +1,25 @@
+{
+    "id": "gym1-96",
+    "name": "Sabrina's Venonat",
+    "number": "96",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762204",
+        "1st-edition": "2156534"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "$47.42",
+                "grade9": "$15.09"
+            },
+            "1st-edition": {
+                "ungraded": "$3.56",
+                "psa10": "$70.91",
+                "grade9": "$15.21"
+            }
+        }
+    }
+}

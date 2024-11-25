@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-170",
+    "name": "Windup Arm",
+    "number": "170",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4050087",
+        "reverse-holo": "4050288"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$35.79",
+                "grade9": "$12.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.18",
+                "psa10": "$34.92",
+                "grade9": "$11.83"
+            }
+        }
+    }
+}

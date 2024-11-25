@@ -1,0 +1,25 @@
+{
+    "id": "ex10-15",
+    "name": "Sudowoodo",
+    "number": "15",
+    "setId": "ex10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888435",
+        "reverse-holo": "888577"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.69",
+                "psa10": "$189.14",
+                "grade9": "$28.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$16.04",
+                "psa10": "$176.49",
+                "grade9": "$56.99"
+            }
+        }
+    }
+}

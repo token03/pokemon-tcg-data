@@ -1,0 +1,19 @@
+{
+    "id": "ex8-102",
+    "name": "Rayquaza ex",
+    "number": "102",
+    "setId": "ex8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888122"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$58.93",
+                "psa10": "$1,993.00",
+                "grade9": "$318.84"
+            }
+        }
+    }
+}

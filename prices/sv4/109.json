@@ -1,0 +1,25 @@
+{
+    "id": "sv4-109",
+    "name": "Ting-Lu",
+    "number": "109",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5986277",
+        "reverse-holo": "5953201"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": "$6.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "$35.90",
+                "grade9": "$11.74"
+            }
+        }
+    }
+}

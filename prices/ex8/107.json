@@ -1,0 +1,19 @@
+{
+    "id": "ex8-107",
+    "name": "Rayquaza \u2605",
+    "number": "107",
+    "setId": "ex8",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "888127"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$956.79",
+                "psa10": "$29,775.95",
+                "grade9": "$8,571.38"
+            }
+        }
+    }
+}

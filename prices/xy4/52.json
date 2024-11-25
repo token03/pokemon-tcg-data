@@ -1,0 +1,25 @@
+{
+    "id": "xy4-52",
+    "name": "Honchkrow",
+    "number": "52",
+    "setId": "xy4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958245",
+        "reverse-holo": "958363"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$152.50",
+                "grade9": ""
+            }
+        }
+    }
+}

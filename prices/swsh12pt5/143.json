@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-143",
+    "name": "Sky Seal Stone",
+    "number": "143",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637039",
+        "reverse-holo": "4637239"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$39.99",
+                "grade9": "$10.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "$35.03",
+                "grade9": "$11.75"
+            }
+        }
+    }
+}

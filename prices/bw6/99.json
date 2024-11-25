@@ -1,0 +1,25 @@
+{
+    "id": "bw6-99",
+    "name": "Aipom",
+    "number": "99",
+    "setId": "bw6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956353",
+        "reverse-holo": "956474"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.73",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

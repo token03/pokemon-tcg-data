@@ -1,0 +1,19 @@
+{
+    "id": "sv6-194",
+    "name": "Wellspring Mask Ogerpon ex",
+    "number": "194",
+    "setId": "sv6",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6775625"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.25",
+                "psa10": "$41.00",
+                "grade9": ""
+            }
+        }
+    }
+}

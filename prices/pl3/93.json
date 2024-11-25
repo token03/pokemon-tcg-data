@@ -1,0 +1,25 @@
+{
+    "id": "pl3-93",
+    "name": "Bulbasaur",
+    "number": "93",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287140",
+        "reverse-holo": "1287294"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.22",
+                "psa10": "$68.97",
+                "grade9": "$25.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.17",
+                "psa10": "$158.62",
+                "grade9": "$46.48"
+            }
+        }
+    }
+}

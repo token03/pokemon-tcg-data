@@ -1,0 +1,25 @@
+{
+    "id": "ex6-53",
+    "name": "Bellsprout",
+    "number": "53",
+    "setId": "ex6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "850020",
+        "reverse-holo": "850135"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$20.20",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$6.11",
+                "psa10": "$54.15",
+                "grade9": "$19.00"
+            }
+        }
+    }
+}

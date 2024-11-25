@@ -1,0 +1,25 @@
+{
+    "id": "sm9-99",
+    "name": "Jirachi",
+    "number": "99",
+    "setId": "sm9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962897",
+        "reverse-holo": "963083"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$40.00",
+                "grade9": "$14.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.05",
+                "psa10": "$36.00",
+                "grade9": "$30.26"
+            }
+        }
+    }
+}

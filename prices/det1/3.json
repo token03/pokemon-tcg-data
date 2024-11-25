@@ -1,0 +1,19 @@
+{
+    "id": "det1-3",
+    "name": "Morelull",
+    "number": "3",
+    "setId": "det1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963140"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$31.31",
+                "grade9": "$9.47"
+            }
+        }
+    }
+}

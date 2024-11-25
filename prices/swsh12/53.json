@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-53",
+    "name": "Rotom",
+    "number": "53",
+    "setId": "swsh12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4277173",
+        "reverse-holo": "4286518"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.91",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-74",
+    "name": "Marill",
+    "number": "74",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806186",
+        "reverse-holo": "806292"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.95",
+                "psa10": "$33.46",
+                "grade9": "$24.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.65",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

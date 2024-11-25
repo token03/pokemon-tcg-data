@@ -1,0 +1,31 @@
+{
+    "id": "base1-6",
+    "name": "Gyarados",
+    "number": "6",
+    "setId": "base1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "630419",
+        "1st-edition": "715595",
+        "shadowless": "715697"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.27",
+                "psa10": "$530.00",
+                "grade9": "$99.20"
+            },
+            "1st-edition": {
+                "ungraded": "$298.21",
+                "psa10": "$10,101.02",
+                "grade9": "$1,369.44"
+            },
+            "shadowless": {
+                "ungraded": "$31.14",
+                "psa10": "$2,595.90",
+                "grade9": "$279.50"
+            }
+        }
+    }
+}

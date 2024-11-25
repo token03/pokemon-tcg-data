@@ -1,0 +1,25 @@
+{
+    "id": "ex3-9",
+    "name": "Roselia",
+    "number": "9",
+    "setId": "ex3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849389",
+        "reverse-holo": "849488"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.77",
+                "psa10": "$142.15",
+                "grade9": "$20.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.39",
+                "psa10": "$137.35",
+                "grade9": "$40.75"
+            }
+        }
+    }
+}

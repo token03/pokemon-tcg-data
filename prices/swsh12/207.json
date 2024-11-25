@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-207",
+    "name": "Serena",
+    "number": "207",
+    "setId": "swsh12",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "4277328"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.40",
+                "psa10": "$37.70",
+                "grade9": "$23.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG06",
+    "name": "Dusknoir",
+    "number": "TG06",
+    "setId": "swsh9tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3216077"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "$27.86",
+                "grade9": "$9.38"
+            }
+        }
+    }
+}

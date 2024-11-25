@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-42",
+    "name": "Tympole",
+    "number": "42",
+    "setId": "swsh7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2512853",
+        "reverse-holo": "2513076"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.41",
+                "psa10": "$35.50",
+                "grade9": "$12.45"
+            }
+        }
+    }
+}

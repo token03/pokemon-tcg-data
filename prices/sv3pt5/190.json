@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-190",
+    "name": "Kangaskhan ex",
+    "number": "190",
+    "setId": "sv3pt5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5809573"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.50",
+                "psa10": "$28.50",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

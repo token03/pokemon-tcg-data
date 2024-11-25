@@ -1,0 +1,25 @@
+{
+    "id": "xy9-28",
+    "name": "Lapras",
+    "number": "28",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959519",
+        "reverse-holo": "959638"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$35.83",
+                "grade9": "$15.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.38",
+                "psa10": "$76.48",
+                "grade9": "$23.00"
+            }
+        }
+    }
+}

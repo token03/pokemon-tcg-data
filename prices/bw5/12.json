@@ -1,0 +1,31 @@
+{
+    "id": "bw5-12",
+    "name": "Flareon",
+    "number": "12",
+    "setId": "bw5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956058",
+        "regional-championships": "4928511",
+        "reverse-holo": "956170"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.79",
+                "psa10": "$172.50",
+                "grade9": "$19.02"
+            },
+            "regional-championships": {
+                "ungraded": "$62.13",
+                "psa10": "",
+                "grade9": "$185.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.18",
+                "psa10": "$119.29",
+                "grade9": "$54.12"
+            }
+        }
+    }
+}

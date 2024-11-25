@@ -1,0 +1,25 @@
+{
+    "id": "dp2-110",
+    "name": "Dusk Ball",
+    "number": "110",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920734",
+        "reverse-holo": "920857"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.97",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

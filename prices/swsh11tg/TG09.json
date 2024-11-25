@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG09",
+    "name": "Spiritomb",
+    "number": "TG09",
+    "setId": "swsh11tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4080761"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$29.00",
+                "grade9": "$12.33"
+            }
+        }
+    }
+}

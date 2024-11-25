@@ -1,0 +1,31 @@
+{
+    "id": "ex8-22",
+    "name": "Rayquaza",
+    "number": "22",
+    "setId": "ex8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888043",
+        "gym-challenge-promo": "3365959",
+        "reverse-holo": "888150"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.00",
+                "psa10": "$140.00",
+                "grade9": "$55.92"
+            },
+            "gym-challenge-promo": {
+                "ungraded": "",
+                "psa10": "$500.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$26.49",
+                "psa10": "$755.00",
+                "grade9": "$156.94"
+            }
+        }
+    }
+}

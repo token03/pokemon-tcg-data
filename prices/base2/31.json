@@ -1,0 +1,25 @@
+{
+    "id": "base2-31",
+    "name": "Vileplume",
+    "number": "31",
+    "setId": "base2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1099571",
+        "1st-edition": "1099587"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.68",
+                "psa10": "$32.00",
+                "grade9": "$14.94"
+            },
+            "1st-edition": {
+                "ungraded": "$3.49",
+                "psa10": "$99.50",
+                "grade9": "$34.63"
+            }
+        }
+    }
+}

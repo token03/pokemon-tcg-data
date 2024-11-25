@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-58",
+    "name": "Misdreavus",
+    "number": "58",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489556",
+        "reverse-holo": "3489764"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.81",
+                "psa10": "$33.30",
+                "grade9": "$11.30"
+            }
+        }
+    }
+}

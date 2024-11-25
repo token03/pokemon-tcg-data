@@ -1,0 +1,25 @@
+{
+    "id": "sm3-51",
+    "name": "Duskull",
+    "number": "51",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960835",
+        "reverse-holo": "960999"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "$34.52",
+                "grade9": "$12.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "$36.91",
+                "grade9": "$14.16"
+            }
+        }
+    }
+}

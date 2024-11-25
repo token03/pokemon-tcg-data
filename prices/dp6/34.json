@@ -1,0 +1,25 @@
+{
+    "id": "dp6-34",
+    "name": "Mesprit",
+    "number": "34",
+    "setId": "dp6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "924965",
+        "reverse-holo": "925111"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.91",
+                "psa10": "$114.84",
+                "grade9": "$44.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.62",
+                "psa10": "$96.30",
+                "grade9": "$17.77"
+            }
+        }
+    }
+}

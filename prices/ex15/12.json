@@ -1,0 +1,25 @@
+{
+    "id": "ex15-12",
+    "name": "Typhlosion \u03b4",
+    "number": "12",
+    "setId": "ex15",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "889486",
+        "reverse-holo": "889587"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$11.34",
+                "psa10": "$372.00",
+                "grade9": "$60.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.13",
+                "psa10": "$510.77",
+                "grade9": "$65.82"
+            }
+        }
+    }
+}

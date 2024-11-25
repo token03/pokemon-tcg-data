@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-28",
+    "name": "Kirlia",
+    "number": "28",
+    "setId": "sv4pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6276947",
+        "reverse-holo": "6277191"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.17",
+                "psa10": "$30.81",
+                "grade9": "$10.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$33.95",
+                "grade9": "$11.46"
+            }
+        }
+    }
+}

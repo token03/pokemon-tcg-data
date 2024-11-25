@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-127",
+    "name": "Pinsir",
+    "number": "127",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809508",
+        "reverse-holo": "5809708"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$39.14",
+                "grade9": "$12.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.75",
+                "psa10": "$42.61",
+                "grade9": "$13.82"
+            }
+        }
+    }
+}

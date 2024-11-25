@@ -1,0 +1,25 @@
+{
+    "id": "sm11-198",
+    "name": "Great Potion",
+    "number": "198",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963764",
+        "reverse-holo": "964005"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

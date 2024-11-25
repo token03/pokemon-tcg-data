@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-104",
+    "name": "Psyduck",
+    "number": "104",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842624",
+        "reverse-holo": "2293995"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.86",
+                "psa10": "$199.95",
+                "grade9": "$56.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$40.56",
+                "psa10": "$1,112.35",
+                "grade9": "$187.50"
+            }
+        }
+    }
+}

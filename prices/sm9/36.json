@@ -1,0 +1,25 @@
+{
+    "id": "sm9-36",
+    "name": "Alolan Graveler",
+    "number": "36",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962834",
+        "reverse-holo": "963027"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

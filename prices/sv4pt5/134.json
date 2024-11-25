@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-134",
+    "name": "Electrode",
+    "number": "134",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277053"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.76",
+                "psa10": "$24.27",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

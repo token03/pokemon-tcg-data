@@ -1,0 +1,25 @@
+{
+    "id": "bw11-85",
+    "name": "Landorus",
+    "number": "85",
+    "setId": "bw11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957579",
+        "reverse-holo": "957711"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$95.90",
+                "grade9": "$12.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$50.00",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-168",
+    "name": "Galarian Rapidash V",
+    "number": "168",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253972"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$47.96",
+                "psa10": "$121.44",
+                "grade9": "$51.00"
+            }
+        }
+    }
+}

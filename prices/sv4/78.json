@@ -1,0 +1,25 @@
+{
+    "id": "sv4-78",
+    "name": "Gourgeist",
+    "number": "78",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5952916",
+        "reverse-holo": "5953174"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.60",
+                "grade9": "$11.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.06",
+                "psa10": "$34.60",
+                "grade9": "$11.36"
+            }
+        }
+    }
+}

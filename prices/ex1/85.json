@@ -1,0 +1,25 @@
+{
+    "id": "ex1-85",
+    "name": "Oran Berry",
+    "number": "85",
+    "setId": "ex1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762938",
+        "reverse-holo": "763020"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$199.99",
+                "grade9": "$33.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": "$11.05"
+            }
+        }
+    }
+}

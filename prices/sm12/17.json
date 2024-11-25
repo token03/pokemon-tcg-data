@@ -1,0 +1,25 @@
+{
+    "id": "sm12-17",
+    "name": "Rowlet",
+    "number": "17",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964255",
+        "reverse-holo": "964524"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$34.35",
+                "grade9": "$12.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$36.51",
+                "grade9": "$13.65"
+            }
+        }
+    }
+}

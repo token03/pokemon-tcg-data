@@ -1,0 +1,25 @@
+{
+    "id": "sm12-206",
+    "name": "Tag Call",
+    "number": "206",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964444",
+        "reverse-holo": "964698"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$34.39",
+                "grade9": "$12.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$19.99",
+                "grade9": "$9.74"
+            }
+        }
+    }
+}

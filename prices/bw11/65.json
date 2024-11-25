@@ -1,0 +1,25 @@
+{
+    "id": "bw11-65",
+    "name": "Swoobat",
+    "number": "65",
+    "setId": "bw11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957559",
+        "reverse-holo": "957693"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.62",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.42",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo1-66",
+    "name": "Marill",
+    "number": "66",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762380",
+        "1st-edition": "2324889"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$40.19",
+                "grade9": "$27.90"
+            },
+            "1st-edition": {
+                "ungraded": "$2.00",
+                "psa10": "$40.00",
+                "grade9": "$20.82"
+            }
+        }
+    }
+}

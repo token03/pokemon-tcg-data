@@ -1,0 +1,25 @@
+{
+    "id": "pl3-60",
+    "name": "Garchomp C",
+    "number": "60",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287107",
+        "reverse-holo": "1287261"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$248.94",
+                "grade9": "$120.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.41",
+                "psa10": "$109.92",
+                "grade9": "$44.17"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex15-26",
+    "name": "Bayleef \u03b4",
+    "number": "26",
+    "setId": "ex15",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889500",
+        "reverse-holo": "889601"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.32",
+                "psa10": "$79.16",
+                "grade9": "$15.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.50",
+                "psa10": "$135.00",
+                "grade9": "$24.50"
+            }
+        }
+    }
+}

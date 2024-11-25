@@ -1,0 +1,25 @@
+{
+    "id": "base5-58",
+    "name": "Koffing",
+    "number": "58",
+    "setId": "base5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643489",
+        "1st-edition": "1341399"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "$35.94",
+                "grade9": "$15.73"
+            },
+            "1st-edition": {
+                "ungraded": "$1.50",
+                "psa10": "$48.13",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

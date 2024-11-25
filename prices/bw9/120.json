@@ -1,0 +1,19 @@
+{
+    "id": "bw9-120",
+    "name": "Garchomp",
+    "number": "120",
+    "setId": "bw9",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "957174"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$102.73",
+                "psa10": "$1,800.00",
+                "grade9": "$250.15"
+            }
+        }
+    }
+}

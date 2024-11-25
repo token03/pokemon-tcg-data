@@ -1,0 +1,31 @@
+{
+    "id": "swsh7-152",
+    "name": "Raihan",
+    "number": "152",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512963",
+        "holo-prize-pack": "4956323",
+        "reverse-holo": "2513166"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$34.45",
+                "grade9": "$11.98"
+            },
+            "holo-prize-pack": {
+                "ungraded": "$2.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$35.39",
+                "grade9": "$12.40"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw4-88",
+    "name": "Heavy Ball",
+    "number": "88",
+    "setId": "bw4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955940",
+        "reverse-holo": "956037"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$44.07",
+                "grade9": "$16.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$44.51",
+                "grade9": "$17.08"
+            }
+        }
+    }
+}

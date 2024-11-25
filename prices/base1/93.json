@@ -1,0 +1,31 @@
+{
+    "id": "base1-93",
+    "name": "Gust of Wind",
+    "number": "93",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630506",
+        "1st-edition": "715682",
+        "shadowless": "5836054"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$30.50",
+                "grade9": "$14.57"
+            },
+            "1st-edition": {
+                "ungraded": "$10.41",
+                "psa10": "$117.17",
+                "grade9": "$33.00"
+            },
+            "shadowless": {
+                "ungraded": "$1.79",
+                "psa10": "$31.45",
+                "grade9": "$21.68"
+            }
+        }
+    }
+}

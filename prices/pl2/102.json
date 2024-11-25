@@ -1,0 +1,31 @@
+{
+    "id": "pl2-102",
+    "name": "Upper Energy",
+    "number": "102",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925498",
+        "david-cohen": "4895144",
+        "reverse-holo": "925617"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "",
+                "grade9": ""
+            },
+            "david-cohen": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

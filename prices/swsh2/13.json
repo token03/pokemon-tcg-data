@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-13",
+    "name": "Abomasnow",
+    "number": "13",
+    "setId": "swsh2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886746",
+        "reverse-holo": "886947"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$49.99",
+                "grade9": "$12.35"
+            }
+        }
+    }
+}

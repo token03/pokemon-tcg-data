@@ -1,0 +1,19 @@
+{
+    "id": "cel25c-97_A",
+    "name": "Xerneas-EX",
+    "number": "97",
+    "setId": "cel25c",
+    "rarity": "Classic Collection",
+    "priceChartingIds": {
+        "normal": "2618189"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.79",
+                "psa10": "$28.62",
+                "grade9": "$12.96"
+            }
+        }
+    }
+}

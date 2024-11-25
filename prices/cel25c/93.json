@@ -1,0 +1,19 @@
+{
+    "id": "cel25c-93_A",
+    "name": "Gardevoir ex \u03b4",
+    "number": "93",
+    "setId": "cel25c",
+    "rarity": "Classic Collection",
+    "priceChartingIds": {
+        "normal": "2618173"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$28.59",
+                "grade9": "$11.03"
+            }
+        }
+    }
+}

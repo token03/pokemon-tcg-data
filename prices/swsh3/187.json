@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-187",
+    "name": "Piers",
+    "number": "187",
+    "setId": "swsh3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887265"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.85",
+                "psa10": "$26.66",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

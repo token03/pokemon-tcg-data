@@ -1,0 +1,25 @@
+{
+    "id": "pl2-58",
+    "name": "Carvanha",
+    "number": "58",
+    "setId": "pl2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925454",
+        "reverse-holo": "925573"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.13",
+                "psa10": "",
+                "grade9": "$15.45"
+            }
+        }
+    }
+}

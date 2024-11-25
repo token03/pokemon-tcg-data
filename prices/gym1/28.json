@@ -1,0 +1,25 @@
+{
+    "id": "gym1-28",
+    "name": "Lt. Surge's Raichu",
+    "number": "28",
+    "setId": "gym1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762146",
+        "1st-edition": "2156460"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.56",
+                "psa10": "$84.46",
+                "grade9": "$40.00"
+            },
+            "1st-edition": {
+                "ungraded": "$22.47",
+                "psa10": "$152.26",
+                "grade9": "$47.04"
+            }
+        }
+    }
+}

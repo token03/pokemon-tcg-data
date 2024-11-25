@@ -1,0 +1,25 @@
+{
+    "id": "pl3-91",
+    "name": "Bidoof",
+    "number": "91",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287138",
+        "reverse-holo": "1287292"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$49.47",
+                "grade9": "$18.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.50",
+                "psa10": "$74.25",
+                "grade9": "$28.92"
+            }
+        }
+    }
+}

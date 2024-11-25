@@ -1,0 +1,25 @@
+{
+    "id": "ex11-5",
+    "name": "Flareon \u03b4",
+    "number": "5",
+    "setId": "ex11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888666",
+        "reverse-holo": "888781"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$34.69",
+                "psa10": "$314.97",
+                "grade9": "$92.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$38.84",
+                "psa10": "$498.54",
+                "grade9": "$123.74"
+            }
+        }
+    }
+}

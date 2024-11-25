@@ -1,0 +1,25 @@
+{
+    "id": "xy10-41",
+    "name": "Larvitar",
+    "number": "41",
+    "setId": "xy10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959898",
+        "reverse-holo": "960018"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$36.57",
+                "grade9": "$13.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.04",
+                "psa10": "$35.30",
+                "grade9": "$13.14"
+            }
+        }
+    }
+}

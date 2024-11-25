@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-86",
+    "name": "Seel",
+    "number": "86",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809467",
+        "reverse-holo": "5809669"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "$36.61",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.73",
+                "grade9": "$11.73"
+            }
+        }
+    }
+}

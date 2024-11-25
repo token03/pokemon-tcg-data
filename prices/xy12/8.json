@@ -1,0 +1,25 @@
+{
+    "id": "xy12-8",
+    "name": "Tangela",
+    "number": "8",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960296",
+        "reverse-holo": "960398"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$52.50",
+                "grade9": "$14.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "$54.25",
+                "grade9": "$11.47"
+            }
+        }
+    }
+}

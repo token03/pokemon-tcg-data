@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-12",
+    "name": "Vespiquen",
+    "number": "12",
+    "setId": "swsh10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3489510",
+        "reverse-holo": "3489726"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.70",
+                "psa10": "$32.85",
+                "grade9": "$11.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.22",
+                "psa10": "$39.05",
+                "grade9": "$4.25"
+            }
+        }
+    }
+}

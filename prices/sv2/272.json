@@ -1,0 +1,19 @@
+{
+    "id": "sv2-272",
+    "name": "Skeledirge ex",
+    "number": "272",
+    "setId": "sv2",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5287561"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.87",
+                "psa10": "$22.99",
+                "grade9": "$15.76"
+            }
+        }
+    }
+}

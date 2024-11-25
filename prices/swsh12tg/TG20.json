@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG20",
+    "name": "Rayquaza VMAX",
+    "number": "TG20",
+    "setId": "swsh12tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "4277108"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$40.93",
+                "psa10": "$122.50",
+                "grade9": "$51.90"
+            }
+        }
+    }
+}

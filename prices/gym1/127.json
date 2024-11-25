@@ -1,0 +1,25 @@
+{
+    "id": "gym1-127",
+    "name": "Fighting Energy",
+    "number": "127",
+    "setId": "gym1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762127",
+        "1st-edition": "2156438"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$69.99",
+                "grade9": "$24.87"
+            },
+            "1st-edition": {
+                "ungraded": "$2.07",
+                "psa10": "$99.18",
+                "grade9": "$11.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-153",
+    "name": "League Staff",
+    "number": "153",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887693",
+        "reverse-holo": "887864"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.16",
+                "psa10": "$30.61",
+                "grade9": "$10.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$13.02",
+                "grade9": "$11.88"
+            }
+        }
+    }
+}

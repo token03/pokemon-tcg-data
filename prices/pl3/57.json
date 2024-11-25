@@ -1,0 +1,25 @@
+{
+    "id": "pl3-57",
+    "name": "Drifblim",
+    "number": "57",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287104",
+        "reverse-holo": "1287258"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.53",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.44",
+                "psa10": "",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

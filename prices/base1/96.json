@@ -1,0 +1,31 @@
+{
+    "id": "base1-96",
+    "name": "Double Colorless Energy",
+    "number": "96",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630509",
+        "1st-edition": "715685",
+        "shadowless": "4188903"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$71.26",
+                "grade9": "$27.23"
+            },
+            "1st-edition": {
+                "ungraded": "$17.38",
+                "psa10": "$437.77",
+                "grade9": "$61.00"
+            },
+            "shadowless": {
+                "ungraded": "$5.11",
+                "psa10": "$152.21",
+                "grade9": "$46.00"
+            }
+        }
+    }
+}

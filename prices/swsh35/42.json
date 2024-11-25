@@ -1,0 +1,25 @@
+{
+    "id": "swsh35-42",
+    "name": "Scrafty",
+    "number": "42",
+    "setId": "swsh35",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "887469",
+        "reverse-holo": "887533"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "$10.00",
+                "grade9": "$7.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "$22.75",
+                "grade9": "$8.86"
+            }
+        }
+    }
+}

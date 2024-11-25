@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-7",
+    "name": "Ninetales",
+    "number": "7",
+    "setId": "hgss1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806120",
+        "reverse-holo": "806225"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.56",
+                "psa10": "$199.99",
+                "grade9": "$34.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.86",
+                "psa10": "$123.49",
+                "grade9": "$50.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "base3-36",
+    "name": "Golem",
+    "number": "36",
+    "setId": "base3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643410",
+        "1st-edition": "1099530"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "$60.58",
+                "grade9": "$23.99"
+            },
+            "1st-edition": {
+                "ungraded": "$3.62",
+                "psa10": "$77.00",
+                "grade9": "$23.50"
+            }
+        }
+    }
+}

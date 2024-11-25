@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG16",
+    "name": "Zeraora V",
+    "number": "TG16",
+    "setId": "swsh12tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277104"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.50",
+                "psa10": "$29.99",
+                "grade9": "$14.75"
+            }
+        }
+    }
+}

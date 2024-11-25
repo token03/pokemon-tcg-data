@@ -1,0 +1,25 @@
+{
+    "id": "bw2-77",
+    "name": "Cobalion",
+    "number": "77",
+    "setId": "bw2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955503",
+        "reverse-holo": "955600"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$49.17",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.91",
+                "psa10": "$85.00",
+                "grade9": ""
+            }
+        }
+    }
+}

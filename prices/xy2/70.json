@@ -1,0 +1,25 @@
+{
+    "id": "xy2-70",
+    "name": "Druddigon",
+    "number": "70",
+    "setId": "xy2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957817",
+        "reverse-holo": "957919"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.34",
+                "psa10": "$41.00",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.22",
+                "psa10": "$51.84",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

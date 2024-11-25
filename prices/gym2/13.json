@@ -1,0 +1,25 @@
+{
+    "id": "gym2-13",
+    "name": "Misty's Gyarados",
+    "number": "13",
+    "setId": "gym2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762219",
+        "1st-edition": "1450207"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$45.50",
+                "psa10": "$335.23",
+                "grade9": "$144.25"
+            },
+            "1st-edition": {
+                "ungraded": "$142.62",
+                "psa10": "$804.71",
+                "grade9": "$232.49"
+            }
+        }
+    }
+}

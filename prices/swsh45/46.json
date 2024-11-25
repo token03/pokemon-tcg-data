@@ -1,0 +1,19 @@
+{
+    "id": "swsh45-46",
+    "name": "Yveltal",
+    "number": "46",
+    "setId": "swsh45",
+    "rarity": "Amazing Rare",
+    "priceChartingIds": {
+        "normal": "1341523"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$26.25",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

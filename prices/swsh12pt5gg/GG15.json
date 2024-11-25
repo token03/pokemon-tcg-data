@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG15",
+    "name": "Solrock",
+    "number": "GG15",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637071"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$44.99",
+                "grade9": "$10.96"
+            }
+        }
+    }
+}

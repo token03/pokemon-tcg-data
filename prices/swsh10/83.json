@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-83",
+    "name": "Hisuian Decidueye V",
+    "number": "83",
+    "setId": "swsh10",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3489581"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.07",
+                "psa10": "$14.51",
+                "grade9": "$7.77"
+            }
+        }
+    }
+}

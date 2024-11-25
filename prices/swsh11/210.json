@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-210",
+    "name": "Thorton",
+    "number": "210",
+    "setId": "swsh11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "4050127"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.24",
+                "psa10": "$32.01",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

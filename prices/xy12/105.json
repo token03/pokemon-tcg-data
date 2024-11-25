@@ -1,0 +1,19 @@
+{
+    "id": "xy12-105",
+    "name": "M Pidgeot-EX",
+    "number": "105",
+    "setId": "xy12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960384"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.64",
+                "psa10": "$38.76",
+                "grade9": "$16.54"
+            }
+        }
+    }
+}

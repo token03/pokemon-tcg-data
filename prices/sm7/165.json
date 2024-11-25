@@ -1,0 +1,19 @@
+{
+    "id": "sm7-165",
+    "name": "Steven's Resolve",
+    "number": "165",
+    "setId": "sm7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962078"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.75",
+                "psa10": "$75.22",
+                "grade9": "$26.10"
+            }
+        }
+    }
+}

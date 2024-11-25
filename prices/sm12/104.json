@@ -1,0 +1,25 @@
+{
+    "id": "sm12-104",
+    "name": "Blacephalon",
+    "number": "104",
+    "setId": "sm12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "964342",
+        "reverse-holo": "964604"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.67",
+                "psa10": "$40.17",
+                "grade9": "$15.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.50",
+                "psa10": "$39.63",
+                "grade9": "$15.39"
+            }
+        }
+    }
+}

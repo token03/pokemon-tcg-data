@@ -1,0 +1,37 @@
+{
+    "id": "basep-21",
+    "name": "Moltres",
+    "number": "21",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5401619",
+        "aoki-error": "6021991",
+        "corrected": "3366470",
+        "staff": "5960323"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.65",
+                "psa10": "",
+                "grade9": ""
+            },
+            "aoki-error": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "corrected": {
+                "ungraded": "$12.75",
+                "psa10": "$65.31",
+                "grade9": "$34.99"
+            },
+            "staff": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

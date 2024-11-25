@@ -1,0 +1,19 @@
+{
+    "id": "sv5-168",
+    "name": "Snom",
+    "number": "168",
+    "setId": "sv5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6495628"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$49.46",
+                "grade9": "$10.64"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "mcd15-8",
+    "name": "Rhyhorn",
+    "number": "8",
+    "setId": "mcd15",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1180011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.81",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG11",
+    "name": "Castform",
+    "number": "TG11",
+    "setId": "swsh11tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4080763"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "$22.98",
+                "grade9": "$8.75"
+            }
+        }
+    }
+}

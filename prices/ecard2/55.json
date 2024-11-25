@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-55",
+    "name": "Nidorino",
+    "number": "55",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842582",
+        "reverse-holo": "2293946"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.69",
+                "psa10": "$32.00",
+                "grade9": "$19.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.56",
+                "psa10": "$206.97",
+                "grade9": "$39.25"
+            }
+        }
+    }
+}

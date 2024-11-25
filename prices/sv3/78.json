@@ -1,0 +1,25 @@
+{
+    "id": "sv3-78",
+    "name": "Bellibolt",
+    "number": "78",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605596",
+        "reverse-holo": "5605829"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$35.62",
+                "grade9": "$11.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$36.30",
+                "grade9": "$11.95"
+            }
+        }
+    }
+}

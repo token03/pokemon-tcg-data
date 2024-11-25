@@ -1,0 +1,25 @@
+{
+    "id": "xy8-8",
+    "name": "Chespin",
+    "number": "8",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959196",
+        "reverse-holo": "959361"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$39.05",
+                "grade9": "$15.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.06",
+                "psa10": "$35.69",
+                "grade9": "$13.32"
+            }
+        }
+    }
+}

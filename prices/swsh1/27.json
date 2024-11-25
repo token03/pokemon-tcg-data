@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-27",
+    "name": "Salandit",
+    "number": "27",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807253",
+        "reverse-holo": "807254"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$34.92",
+                "grade9": "$12.65"
+            }
+        }
+    }
+}

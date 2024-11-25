@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-45",
+    "name": "Mankey",
+    "number": "45",
+    "setId": "sv4pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6276964",
+        "reverse-holo": "6277207"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "$33.95",
+                "grade9": ""
+            }
+        }
+    }
+}

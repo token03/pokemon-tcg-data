@@ -1,0 +1,25 @@
+{
+    "id": "gym1-80",
+    "name": "Lt. Surge's Magnemite",
+    "number": "80",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886557",
+        "1st-edition": "2156518"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$39.75",
+                "grade9": "$18.63"
+            },
+            "1st-edition": {
+                "ungraded": "$2.60",
+                "psa10": "$58.49",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

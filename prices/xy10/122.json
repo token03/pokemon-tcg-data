@@ -1,0 +1,19 @@
+{
+    "id": "xy10-122",
+    "name": "Kingdra-EX",
+    "number": "122",
+    "setId": "xy10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959979"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.13",
+                "psa10": "$93.33",
+                "grade9": "$29.50"
+            }
+        }
+    }
+}

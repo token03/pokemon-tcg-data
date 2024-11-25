@@ -1,0 +1,19 @@
+{
+    "id": "xy10-20",
+    "name": "Glaceon-EX",
+    "number": "20",
+    "setId": "xy10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959877"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.84",
+                "psa10": "$83.83",
+                "grade9": "$25.28"
+            }
+        }
+    }
+}

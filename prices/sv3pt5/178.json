@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-178",
+    "name": "Tangela",
+    "number": "178",
+    "setId": "sv3pt5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5809559"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.12",
+                "psa10": "$39.50",
+                "grade9": "$12.49"
+            }
+        }
+    }
+}

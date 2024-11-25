@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-87",
+    "name": "Rapid Strike Urshifu V",
+    "number": "87",
+    "setId": "swsh5",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "1673267"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$49.71",
+                "grade9": "$7.00"
+            }
+        }
+    }
+}

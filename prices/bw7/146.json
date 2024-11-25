@@ -1,0 +1,19 @@
+{
+    "id": "bw7-146",
+    "name": "White Kyurem-EX",
+    "number": "146",
+    "setId": "bw7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956661"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$73.50",
+                "psa10": "$1,586.92",
+                "grade9": "$153.58"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "gym1-109",
+    "name": "Erika's Maids",
+    "number": "109",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762107",
+        "1st-edition": "2156418"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.15",
+                "psa10": "$70.03",
+                "grade9": "$9.81"
+            },
+            "1st-edition": {
+                "ungraded": "$4.00",
+                "psa10": "$103.19",
+                "grade9": "$11.75"
+            }
+        }
+    }
+}

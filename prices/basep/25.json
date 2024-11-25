@@ -1,0 +1,25 @@
+{
+    "id": "basep-25",
+    "name": "Flying Pikachu",
+    "number": "25",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5298577",
+        "ana-plane-on-left": "5205575"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            },
+            "ana-plane-on-left": {
+                "ungraded": "$66.50",
+                "psa10": "$453.00",
+                "grade9": "$83.25"
+            }
+        }
+    }
+}

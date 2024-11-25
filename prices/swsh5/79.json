@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-79",
+    "name": "Carkol",
+    "number": "79",
+    "setId": "swsh5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1673259",
+        "reverse-holo": "1725058"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$34.42",
+                "grade9": "$12.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$34.22",
+                "grade9": "$12.01"
+            }
+        }
+    }
+}

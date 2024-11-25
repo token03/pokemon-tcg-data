@@ -1,0 +1,25 @@
+{
+    "id": "pl3-38",
+    "name": "Parasect",
+    "number": "38",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287085",
+        "reverse-holo": "1287239"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$54.67",
+                "grade9": "$10.77"
+            }
+        }
+    }
+}

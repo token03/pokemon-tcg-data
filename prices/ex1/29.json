@@ -1,0 +1,25 @@
+{
+    "id": "ex1-29",
+    "name": "Delcatty",
+    "number": "29",
+    "setId": "ex1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886598",
+        "reverse-holo": "886625"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.08",
+                "psa10": "$45.15",
+                "grade9": "$19.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$329.99",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

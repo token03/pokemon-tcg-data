@@ -1,0 +1,19 @@
+{
+    "id": "xy10-43",
+    "name": "Regirock-EX",
+    "number": "43",
+    "setId": "xy10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959900"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.95",
+                "psa10": "$35.59",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "dv1-3",
+    "name": "Dragonair",
+    "number": "3",
+    "setId": "dv1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956496"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$108.92",
+                "grade9": "$19.79"
+            }
+        }
+    }
+}

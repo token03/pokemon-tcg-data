@@ -1,0 +1,19 @@
+{
+    "id": "sv4-183",
+    "name": "Crustle",
+    "number": "183",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953021"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$54.99",
+                "grade9": "$14.86"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG17",
+    "name": "Mawile V",
+    "number": "TG17",
+    "setId": "swsh12tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277105"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$30.00",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

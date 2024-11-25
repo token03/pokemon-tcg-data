@@ -1,0 +1,19 @@
+{
+    "id": "xy8-63",
+    "name": "M Mewtwo-EX",
+    "number": "63",
+    "setId": "xy8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959252"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.50",
+                "psa10": "$125.00",
+                "grade9": "$23.03"
+            }
+        }
+    }
+}

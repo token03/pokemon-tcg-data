@@ -1,0 +1,25 @@
+{
+    "id": "dp6-109",
+    "name": "Nosepass",
+    "number": "109",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925040",
+        "reverse-holo": "925185"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.19",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

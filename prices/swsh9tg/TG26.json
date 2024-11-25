@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG26",
+    "name": "Gloria",
+    "number": "TG26",
+    "setId": "swsh9tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3216325"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.25",
+                "psa10": "$46.00",
+                "grade9": "$13.51"
+            }
+        }
+    }
+}

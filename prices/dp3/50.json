@@ -1,0 +1,25 @@
+{
+    "id": "dp3-50",
+    "name": "Flaaffy",
+    "number": "50",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920940",
+        "reverse-holo": "921072"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "$46.91",
+                "grade9": "$16.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

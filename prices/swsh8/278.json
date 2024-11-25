@@ -1,0 +1,19 @@
+{
+    "id": "swsh8-278",
+    "name": "Shauna",
+    "number": "278",
+    "setId": "swsh8",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2771304"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.49",
+                "psa10": "$37.32",
+                "grade9": "$15.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "swsh10-97",
+    "name": "Absol",
+    "number": "97",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4134552",
+        "holo": "3489596",
+        "reverse-holo": "3489797"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$2.99",
+                "psa10": "$59.92",
+                "grade9": "$14.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$38.11",
+                "grade9": "$13.19"
+            }
+        }
+    }
+}

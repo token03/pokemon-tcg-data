@@ -1,0 +1,25 @@
+{
+    "id": "ex12-77",
+    "name": "Strange Cave",
+    "number": "77",
+    "setId": "ex12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888959",
+        "reverse-holo": "889052"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.74",
+                "psa10": "$15.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$52.37",
+                "grade9": "$10.99"
+            }
+        }
+    }
+}

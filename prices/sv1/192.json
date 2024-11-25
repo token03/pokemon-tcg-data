@@ -1,0 +1,25 @@
+{
+    "id": "sv1-192",
+    "name": "Rock Chestplate",
+    "number": "192",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933966",
+        "reverse-holo": "4934212"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$35.33",
+                "grade9": "$11.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$35.86",
+                "grade9": "$11.96"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "bw7-140",
+    "name": "Gold Potion",
+    "number": "140",
+    "setId": "bw7",
+    "rarity": "Rare ACE",
+    "priceChartingIds": {
+        "normal": "956655"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.29",
+                "psa10": "$52.52",
+                "grade9": "$21.49"
+            }
+        }
+    }
+}

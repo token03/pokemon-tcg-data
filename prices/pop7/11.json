@@ -1,0 +1,19 @@
+{
+    "id": "pop7-11",
+    "name": "Burmy Plant Cloak",
+    "number": "11",
+    "setId": "pop7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762817"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

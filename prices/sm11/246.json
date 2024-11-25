@@ -1,0 +1,19 @@
+{
+    "id": "sm11-246",
+    "name": "Mawile-GX",
+    "number": "246",
+    "setId": "sm11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963812"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.99",
+                "psa10": "$49.99",
+                "grade9": "$16.52"
+            }
+        }
+    }
+}

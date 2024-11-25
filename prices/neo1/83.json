@@ -1,0 +1,25 @@
+{
+    "id": "neo1-83",
+    "name": "Arcade Game",
+    "number": "83",
+    "setId": "neo1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762396",
+        "1st-edition": "2324838"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.88",
+                "psa10": "$135.54",
+                "grade9": "$38.15"
+            },
+            "1st-edition": {
+                "ungraded": "$4.30",
+                "psa10": "$61.25",
+                "grade9": "$19.19"
+            }
+        }
+    }
+}

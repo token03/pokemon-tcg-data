@@ -1,0 +1,19 @@
+{
+    "id": "base4-101",
+    "name": "Computer Search",
+    "number": "101",
+    "setId": "base4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "641903"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.87",
+                "psa10": "$38.21",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "ex7-41",
+    "name": "Dark Pupitar",
+    "number": "41",
+    "setId": "ex7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886375",
+        "reverse-holo": "886486",
+        "world-championship-2005": "4580121"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.97",
+                "psa10": "$35.00",
+                "grade9": "$10.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$23.65",
+                "psa10": "$202.50",
+                "grade9": "$34.00"
+            },
+            "world-championship-2005": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

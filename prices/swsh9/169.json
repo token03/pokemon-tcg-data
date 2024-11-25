@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-169",
+    "name": "Cynthia's Ambition",
+    "number": "169",
+    "setId": "swsh9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3188393"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.23",
+                "psa10": "$42.99",
+                "grade9": "$12.93"
+            }
+        }
+    }
+}

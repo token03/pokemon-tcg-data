@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-47",
+    "name": "Vanilluxe",
+    "number": "47",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887133",
+        "reverse-holo": "887317"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "$60.00",
+                "grade9": "$49.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$39.99",
+                "grade9": "$12.78"
+            }
+        }
+    }
+}

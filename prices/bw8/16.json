@@ -1,0 +1,25 @@
+{
+    "id": "bw8-16",
+    "name": "Monferno",
+    "number": "16",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956814",
+        "reverse-holo": "956950"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.98",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

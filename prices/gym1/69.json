@@ -1,0 +1,25 @@
+{
+    "id": "gym1-69",
+    "name": "Brock's Onix",
+    "number": "69",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886550",
+        "1st-edition": "2156505"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "$87.00",
+                "grade9": "$28.03"
+            },
+            "1st-edition": {
+                "ungraded": "$3.29",
+                "psa10": "$74.90",
+                "grade9": "$22.05"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy9-57",
+    "name": "Garbodor",
+    "number": "57",
+    "setId": "xy9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959548",
+        "reverse-holo": "959663"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.79",
+                "psa10": "$39.31",
+                "grade9": "$4.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.20",
+                "psa10": "$41.44",
+                "grade9": "$4.44"
+            }
+        }
+    }
+}

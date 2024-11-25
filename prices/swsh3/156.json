@@ -1,0 +1,31 @@
+{
+    "id": "swsh3-156",
+    "name": "Corviknight",
+    "number": "156",
+    "setId": "swsh3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "887234",
+        "pre-release": "25228",
+        "reverse-holo": "887412"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.02",
+                "psa10": "$26.39",
+                "grade9": "$9.49"
+            },
+            "pre-release": {
+                "ungraded": "$7.31",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.39",
+                "psa10": "$23.19",
+                "grade9": "$7.06"
+            }
+        }
+    }
+}

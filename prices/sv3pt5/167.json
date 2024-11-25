@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-167",
+    "name": "Ivysaur",
+    "number": "167",
+    "setId": "sv3pt5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5809548"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.37",
+                "psa10": "$111.00",
+                "grade9": "$23.74"
+            }
+        }
+    }
+}

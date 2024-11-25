@@ -1,0 +1,31 @@
+{
+    "id": "swsh7-111",
+    "name": "Rayquaza VMAX",
+    "number": "111",
+    "setId": "swsh7",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "2512923",
+        "jumbo": "5527649",
+        "prize-pack:-series-1": "5065135"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$44.27",
+                "grade9": "$20.24"
+            },
+            "jumbo": {
+                "ungraded": "$9.39",
+                "psa10": "$198.31",
+                "grade9": ""
+            },
+            "prize-pack:-series-1": {
+                "ungraded": "$25.46",
+                "psa10": "",
+                "grade9": "$61.09"
+            }
+        }
+    }
+}

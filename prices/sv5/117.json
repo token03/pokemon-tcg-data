@@ -1,0 +1,25 @@
+{
+    "id": "sv5-117",
+    "name": "Melmetal",
+    "number": "117",
+    "setId": "sv5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "6495577",
+        "reverse-holo": "6495784"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.00",
+                "psa10": "$34.85",
+                "grade9": "$11.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "$36.16",
+                "grade9": "$11.67"
+            }
+        }
+    }
+}

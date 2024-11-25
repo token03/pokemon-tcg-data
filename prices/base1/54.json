@@ -1,0 +1,31 @@
+{
+    "id": "base1-54",
+    "name": "Metapod",
+    "number": "54",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630467",
+        "1st-edition": "715643",
+        "shadowless": "715745"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$66.29",
+                "grade9": "$23.75"
+            },
+            "1st-edition": {
+                "ungraded": "$10.95",
+                "psa10": "$181.98",
+                "grade9": "$44.00"
+            },
+            "shadowless": {
+                "ungraded": "$1.48",
+                "psa10": "$62.15",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

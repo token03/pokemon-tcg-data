@@ -1,0 +1,25 @@
+{
+    "id": "ex1-65",
+    "name": "Poochyena",
+    "number": "65",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886614",
+        "reverse-holo": "886641"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$72.00",
+                "grade9": "$59.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.95",
+                "psa10": "$52.12",
+                "grade9": "$30.20"
+            }
+        }
+    }
+}

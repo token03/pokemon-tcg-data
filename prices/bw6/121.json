@@ -1,0 +1,19 @@
+{
+    "id": "bw6-121",
+    "name": "Terrakion-EX",
+    "number": "121",
+    "setId": "bw6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956375"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.00",
+                "psa10": "$1,892.03",
+                "grade9": "$47.44"
+            }
+        }
+    }
+}

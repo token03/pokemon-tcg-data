@@ -1,0 +1,19 @@
+{
+    "id": "ex16-102",
+    "name": "Vaporeon \u2605",
+    "number": "102",
+    "setId": "ex16",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "889766"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$287.00",
+                "psa10": "$2,975.00",
+                "grade9": "$1,068.55"
+            }
+        }
+    }
+}

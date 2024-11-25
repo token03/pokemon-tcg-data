@@ -1,0 +1,25 @@
+{
+    "id": "neo1-2",
+    "name": "Azumarill",
+    "number": "2",
+    "setId": "neo1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762324",
+        "1st-edition": "2324840"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$730.00",
+                "grade9": "$46.90"
+            },
+            "1st-edition": {
+                "ungraded": "$37.34",
+                "psa10": "$1,057.74",
+                "grade9": "$80.83"
+            }
+        }
+    }
+}

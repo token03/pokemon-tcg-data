@@ -1,0 +1,19 @@
+{
+    "id": "ex8-108",
+    "name": "Rocket's Raikou ex",
+    "number": "108",
+    "setId": "ex8",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "888128"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$83.23",
+                "psa10": "$1,319.39",
+                "grade9": "$209.09"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp3-48",
+    "name": "Donphan",
+    "number": "48",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920938",
+        "reverse-holo": "921070"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "$52.57",
+                "grade9": "$18.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.48",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

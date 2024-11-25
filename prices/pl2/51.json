@@ -1,0 +1,25 @@
+{
+    "id": "pl2-51",
+    "name": "Steelix GL",
+    "number": "51",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925447",
+        "reverse-holo": "925566"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.16",
+                "psa10": "$41.00",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.76",
+                "psa10": "$86.77",
+                "grade9": "$79.00"
+            }
+        }
+    }
+}

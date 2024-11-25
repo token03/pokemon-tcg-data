@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-193",
+    "name": "Stonjourner V",
+    "number": "193",
+    "setId": "swsh1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2336157"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.04",
+                "psa10": "$24.92",
+                "grade9": "$11.87"
+            }
+        }
+    }
+}

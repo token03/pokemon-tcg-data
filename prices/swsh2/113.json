@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-113",
+    "name": "Galarian Weezing",
+    "number": "113",
+    "setId": "swsh2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886840",
+        "reverse-holo": "887030"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$21.05",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$35.70",
+                "grade9": "$7.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG37",
+    "name": "Simisear VSTAR",
+    "number": "GG37",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4637093"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$7.99",
+                "psa10": "$39.50",
+                "grade9": "$14.72"
+            }
+        }
+    }
+}

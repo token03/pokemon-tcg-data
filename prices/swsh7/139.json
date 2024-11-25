@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-139",
+    "name": "Fletchinder",
+    "number": "139",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512949",
+        "reverse-holo": "2513153"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "$36.52",
+                "grade9": "$12.90"
+            }
+        }
+    }
+}

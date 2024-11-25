@@ -1,0 +1,25 @@
+{
+    "id": "xy10-100",
+    "name": "Fairy Garden",
+    "number": "100",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959957",
+        "reverse-holo": "960064"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "$35.29",
+                "grade9": "$13.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.90",
+                "psa10": "$39.67",
+                "grade9": "$15.73"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm2-30",
+    "name": "Wailord",
+    "number": "30",
+    "setId": "sm2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960527",
+        "reverse-holo": "960694"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "$37.08",
+                "grade9": "$13.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$99.95",
+                "grade9": "$14.07"
+            }
+        }
+    }
+}

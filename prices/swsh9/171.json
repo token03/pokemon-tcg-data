@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-171",
+    "name": "Marnie's Pride",
+    "number": "171",
+    "setId": "swsh9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3188398"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.27",
+                "psa10": "$46.00",
+                "grade9": "$18.99"
+            }
+        }
+    }
+}

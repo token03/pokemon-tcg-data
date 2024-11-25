@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-153",
+    "name": "Sweet Honey",
+    "number": "153",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489652",
+        "reverse-holo": "3489846"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$34.73",
+                "grade9": "$11.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$34.28",
+                "grade9": "$11.68"
+            }
+        }
+    }
+}

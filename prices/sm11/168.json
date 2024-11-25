@@ -1,0 +1,25 @@
+{
+    "id": "sm11-168",
+    "name": "Slakoth",
+    "number": "168",
+    "setId": "sm11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963734",
+        "reverse-holo": "963975"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$15.25",
+                "grade9": "$12.35"
+            }
+        }
+    }
+}

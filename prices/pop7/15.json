@@ -1,0 +1,19 @@
+{
+    "id": "pop7-15",
+    "name": "Ralts",
+    "number": "15",
+    "setId": "pop7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762821"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.73",
+                "psa10": "$86.72",
+                "grade9": "$32.55"
+            }
+        }
+    }
+}

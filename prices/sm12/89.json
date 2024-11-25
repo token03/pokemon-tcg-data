@@ -1,0 +1,25 @@
+{
+    "id": "sm12-89",
+    "name": "Golett",
+    "number": "89",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964327",
+        "reverse-holo": "964590"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

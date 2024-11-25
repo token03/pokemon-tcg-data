@@ -1,0 +1,19 @@
+{
+    "id": "ex2-94",
+    "name": "Aerodactyl ex",
+    "number": "94",
+    "setId": "ex2",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849282"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.78",
+                "psa10": "$400.00",
+                "grade9": "$101.10"
+            }
+        }
+    }
+}

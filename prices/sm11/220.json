@@ -1,0 +1,19 @@
+{
+    "id": "sm11-220",
+    "name": "Raichu & Alolan Raichu-GX",
+    "number": "220",
+    "setId": "sm11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963786"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.62",
+                "psa10": "$60.00",
+                "grade9": "$26.50"
+            }
+        }
+    }
+}

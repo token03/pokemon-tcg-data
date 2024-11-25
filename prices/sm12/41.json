@@ -1,0 +1,25 @@
+{
+    "id": "sm12-41",
+    "name": "Golduck",
+    "number": "41",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964279",
+        "reverse-holo": "964545"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.97",
+                "psa10": "$37.59",
+                "grade9": "$14.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-229",
+    "name": "Nemona",
+    "number": "229",
+    "setId": "sv4pt5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6277148"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.19",
+                "psa10": "$28.00",
+                "grade9": "$10.24"
+            }
+        }
+    }
+}

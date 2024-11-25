@@ -1,0 +1,25 @@
+{
+    "id": "ex2-88",
+    "name": "Rare Candy",
+    "number": "88",
+    "setId": "ex2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849276",
+        "reverse-holo": "849376"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.28",
+                "psa10": "$64.00",
+                "grade9": "$53.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.02",
+                "psa10": "$300.00",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

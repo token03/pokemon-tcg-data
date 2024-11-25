@@ -1,0 +1,19 @@
+{
+    "id": "g1-83",
+    "name": "Fairy Energy",
+    "number": "83",
+    "setId": "g1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2775131"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.20",
+                "psa10": "",
+                "grade9": "$5.00"
+            }
+        }
+    }
+}

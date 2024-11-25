@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG40",
+    "name": "Glaceon VSTAR",
+    "number": "GG40",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4637096"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$30.00",
+                "psa10": "$115.00",
+                "grade9": "$34.99"
+            }
+        }
+    }
+}

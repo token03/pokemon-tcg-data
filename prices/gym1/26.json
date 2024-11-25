@@ -1,0 +1,25 @@
+{
+    "id": "gym1-26",
+    "name": "Erika's Victreebel",
+    "number": "26",
+    "setId": "gym1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762144",
+        "1st-edition": "2156458"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$41.01",
+                "grade9": "$24.98"
+            },
+            "1st-edition": {
+                "ungraded": "$10.49",
+                "psa10": "$63.78",
+                "grade9": "$27.10"
+            }
+        }
+    }
+}

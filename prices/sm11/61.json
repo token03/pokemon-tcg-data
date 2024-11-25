@@ -1,0 +1,25 @@
+{
+    "id": "sm11-61",
+    "name": "Joltik",
+    "number": "61",
+    "setId": "sm11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963627",
+        "reverse-holo": "963880"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

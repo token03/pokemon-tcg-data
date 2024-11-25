@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-137",
+    "name": "Braviary",
+    "number": "137",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512948",
+        "reverse-holo": "2513151"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.75",
+                "psa10": "$32.93",
+                "grade9": "$11.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$34.49",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

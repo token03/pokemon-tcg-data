@@ -1,0 +1,25 @@
+{
+    "id": "bw2-89",
+    "name": "Tornadus",
+    "number": "89",
+    "setId": "bw2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955515",
+        "reverse-holo": "955612"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$72.00",
+                "grade9": "$29.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.77",
+                "psa10": "",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

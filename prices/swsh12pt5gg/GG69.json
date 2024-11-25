@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG69",
+    "name": "Giratina VSTAR",
+    "number": "GG69",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "4637125"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$108.48",
+                "psa10": "$255.02",
+                "grade9": "$114.75"
+            }
+        }
+    }
+}

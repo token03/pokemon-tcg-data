@@ -1,0 +1,19 @@
+{
+    "id": "sm115-67",
+    "name": "Giovanni's Exile",
+    "number": "67",
+    "setId": "sm115",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964087"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.13",
+                "psa10": "$23.14",
+                "grade9": "$10.13"
+            }
+        }
+    }
+}

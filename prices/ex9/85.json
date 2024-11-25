@@ -1,0 +1,25 @@
+{
+    "id": "ex9-85",
+    "name": "Wally's Training",
+    "number": "85",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888310",
+        "reverse-holo": "888417"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.36",
+                "psa10": "$58.55",
+                "grade9": "$55.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.54",
+                "psa10": "$209.21",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

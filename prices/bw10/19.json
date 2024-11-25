@@ -1,0 +1,25 @@
+{
+    "id": "bw10-19",
+    "name": "Octillery",
+    "number": "19",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957321",
+        "reverse-holo": "957425"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$40.04",
+                "grade9": "$3.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "$46.07",
+                "grade9": "$18.50"
+            }
+        }
+    }
+}

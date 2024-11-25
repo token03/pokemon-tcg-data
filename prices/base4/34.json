@@ -1,0 +1,19 @@
+{
+    "id": "base4-34",
+    "name": "Butterfree",
+    "number": "34",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641837"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$38.00",
+                "grade9": "$8.25"
+            }
+        }
+    }
+}

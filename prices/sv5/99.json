@@ -1,0 +1,19 @@
+{
+    "id": "sv5-99",
+    "name": "Iron Boulder ex",
+    "number": "99",
+    "setId": "sv5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "6495559"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "$20.98",
+                "grade9": "$4.99"
+            }
+        }
+    }
+}

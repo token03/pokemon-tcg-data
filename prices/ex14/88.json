@@ -1,0 +1,25 @@
+{
+    "id": "ex14-88",
+    "name": "Double Rainbow Energy",
+    "number": "88",
+    "setId": "ex14",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889375",
+        "reverse-holo": "889474"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$102.40",
+                "grade9": "$36.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.23",
+                "psa10": "$143.10",
+                "grade9": "$40.00"
+            }
+        }
+    }
+}

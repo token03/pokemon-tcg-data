@@ -1,0 +1,25 @@
+{
+    "id": "sv3-65",
+    "name": "Magnezone",
+    "number": "65",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605583",
+        "reverse-holo": "5605818"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$35.35",
+                "grade9": "$11.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.67",
+                "grade9": "$11.76"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw10-74",
+    "name": "Porygon-Z",
+    "number": "74",
+    "setId": "bw10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957376",
+        "reverse-holo": "957475"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.80",
+                "psa10": "$50.56",
+                "grade9": "$33.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.48",
+                "psa10": "$53.56",
+                "grade9": "$22.46"
+            }
+        }
+    }
+}

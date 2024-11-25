@@ -1,0 +1,25 @@
+{
+    "id": "neo4-7",
+    "name": "Dark Houndoom",
+    "number": "7",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762569",
+        "1st-edition": "2183309"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$42.50",
+                "psa10": "$349.99",
+                "grade9": "$98.28"
+            },
+            "1st-edition": {
+                "ungraded": "$130.62",
+                "psa10": "$955.04",
+                "grade9": "$217.50"
+            }
+        }
+    }
+}

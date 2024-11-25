@@ -1,0 +1,19 @@
+{
+    "id": "swsh35-70",
+    "name": "Gardevoir V",
+    "number": "70",
+    "setId": "swsh35",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887497"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.51",
+                "psa10": "$19.99",
+                "grade9": "$15.13"
+            }
+        }
+    }
+}

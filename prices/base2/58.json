@@ -1,0 +1,25 @@
+{
+    "id": "base2-58",
+    "name": "Oddish",
+    "number": "58",
+    "setId": "base2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643322",
+        "1st-edition": "643370"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$44.27",
+                "grade9": "$15.25"
+            },
+            "1st-edition": {
+                "ungraded": "$1.85",
+                "psa10": "$49.31",
+                "grade9": "$18.04"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-159",
+    "name": "Zisu",
+    "number": "159",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489658",
+        "reverse-holo": "3489852"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$34.28",
+                "grade9": "$11.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.18",
+                "psa10": "$34.81",
+                "grade9": "$11.89"
+            }
+        }
+    }
+}

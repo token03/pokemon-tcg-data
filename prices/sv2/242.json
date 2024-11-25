@@ -1,0 +1,19 @@
+{
+    "id": "sv2-242",
+    "name": "Annihilape ex",
+    "number": "242",
+    "setId": "sv2",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5287531"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.90",
+                "psa10": "$80.75",
+                "grade9": "$32.00"
+            }
+        }
+    }
+}

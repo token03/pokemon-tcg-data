@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-152",
+    "name": "Greedent",
+    "number": "152",
+    "setId": "swsh2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886878",
+        "reverse-holo": "887065"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$33.76",
+                "grade9": "$11.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$36.08",
+                "grade9": "$13.21"
+            }
+        }
+    }
+}

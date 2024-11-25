@@ -1,0 +1,25 @@
+{
+    "id": "sv3-132",
+    "name": "Houndour",
+    "number": "132",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605650",
+        "reverse-holo": "5605875"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "$34.62",
+                "grade9": "$11.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$35.40",
+                "grade9": "$11.67"
+            }
+        }
+    }
+}

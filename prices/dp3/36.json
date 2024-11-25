@@ -1,0 +1,25 @@
+{
+    "id": "dp3-36",
+    "name": "Plusle",
+    "number": "36",
+    "setId": "dp3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920926",
+        "reverse-holo": "921058"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$61.45",
+                "grade9": "$22.32"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.02",
+                "psa10": "$93.48",
+                "grade9": "$34.87"
+            }
+        }
+    }
+}

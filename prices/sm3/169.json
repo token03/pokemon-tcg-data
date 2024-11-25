@@ -1,0 +1,19 @@
+{
+    "id": "sm3-169",
+    "name": "Fairy Energy",
+    "number": "169",
+    "setId": "sm3",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960953"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$43.87",
+                "psa10": "$181.55",
+                "grade9": "$50.00"
+            }
+        }
+    }
+}

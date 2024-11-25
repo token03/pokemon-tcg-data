@@ -1,0 +1,25 @@
+{
+    "id": "neo4-4",
+    "name": "Dark Espeon",
+    "number": "4",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762562",
+        "1st-edition": "2183302"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$78.00",
+                "psa10": "$924.48",
+                "grade9": "$240.61"
+            },
+            "1st-edition": {
+                "ungraded": "$239.55",
+                "psa10": "$2,303.85",
+                "grade9": "$547.83"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "base4-87",
+    "name": "Pikachu",
+    "number": "87",
+    "setId": "base4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "641889"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$64.00",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

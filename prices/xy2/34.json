@@ -1,0 +1,25 @@
+{
+    "id": "xy2-34",
+    "name": "Luxray",
+    "number": "34",
+    "setId": "xy2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957781",
+        "reverse-holo": "957887"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$43.16",
+                "grade9": "$13.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.55",
+                "psa10": "$47.31",
+                "grade9": "$19.42"
+            }
+        }
+    }
+}

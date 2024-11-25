@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-185",
+    "name": "Salamence V",
+    "number": "185",
+    "setId": "swsh3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887263"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$21.32",
+                "grade9": "$15.01"
+            }
+        }
+    }
+}

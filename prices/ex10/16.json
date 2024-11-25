@@ -1,0 +1,25 @@
+{
+    "id": "ex10-16",
+    "name": "Sunflora",
+    "number": "16",
+    "setId": "ex10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888436",
+        "reverse-holo": "888578"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.68",
+                "psa10": "$118.49",
+                "grade9": "$25.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.99",
+                "psa10": "$81.00",
+                "grade9": "$27.97"
+            }
+        }
+    }
+}

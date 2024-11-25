@@ -1,0 +1,31 @@
+{
+    "id": "ex13-89",
+    "name": "Professor Cozmo's Discovery",
+    "number": "89",
+    "setId": "ex13",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889169",
+        "reverse-holo": "889278",
+        "stamped": "5056057"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "$10.75",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.29",
+                "psa10": "$52.69",
+                "grade9": ""
+            },
+            "stamped": {
+                "ungraded": "$4.81",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sv3-26",
+    "name": "Charmander",
+    "number": "26",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605544",
+        "holo": "5927024",
+        "reverse-holo": "5605781"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$37.98",
+                "grade9": "$16.38"
+            },
+            "holo": {
+                "ungraded": "$1.60",
+                "psa10": "$23.05",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.61",
+                "psa10": "$28.75",
+                "grade9": "$7.13"
+            }
+        }
+    }
+}

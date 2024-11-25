@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-166",
+    "name": "Orbeetle V",
+    "number": "166",
+    "setId": "swsh4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887705"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.47",
+                "psa10": "$19.61",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo2-45",
+    "name": "Pupitar",
+    "number": "45",
+    "setId": "neo2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762448",
+        "1st-edition": "2158469"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$54.42",
+                "grade9": "$12.63"
+            },
+            "1st-edition": {
+                "ungraded": "$3.22",
+                "psa10": "$22.11",
+                "grade9": "$19.00"
+            }
+        }
+    }
+}

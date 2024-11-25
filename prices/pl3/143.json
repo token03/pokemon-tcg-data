@@ -1,0 +1,19 @@
+{
+    "id": "pl3-143",
+    "name": "Charizard G LV.X",
+    "number": "143",
+    "setId": "pl3",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "1287191"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$57.25",
+                "psa10": "$2,468.37",
+                "grade9": "$300.01"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-55",
+    "name": "Gastly",
+    "number": "55",
+    "setId": "sv4pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6276974",
+        "reverse-holo": "6277215"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.64",
+                "psa10": "$33.05",
+                "grade9": "$10.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.33",
+                "psa10": "$33.95",
+                "grade9": "$11.78"
+            }
+        }
+    }
+}

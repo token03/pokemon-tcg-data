@@ -1,0 +1,19 @@
+{
+    "id": "sm12-270",
+    "name": "Tag Call",
+    "number": "270",
+    "setId": "sm12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "964508"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.09",
+                "psa10": "$17.03",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

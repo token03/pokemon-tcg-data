@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-35",
+    "name": "Haunter",
+    "number": "35",
+    "setId": "hgss4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926093",
+        "reverse-holo": "926195"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.69",
+                "psa10": "$232.25",
+                "grade9": "$39.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.06",
+                "psa10": "$139.01",
+                "grade9": "$54.92"
+            }
+        }
+    }
+}

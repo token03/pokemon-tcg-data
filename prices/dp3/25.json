@@ -1,0 +1,31 @@
+{
+    "id": "dp3-25",
+    "name": "Electivire",
+    "number": "25",
+    "setId": "dp3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "6226642",
+        "holo": "920915",
+        "reverse-holo": "921047"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$2.52",
+                "psa10": "$107.09",
+                "grade9": "$48.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.43",
+                "psa10": "$68.38",
+                "grade9": "$59.95"
+            }
+        }
+    }
+}

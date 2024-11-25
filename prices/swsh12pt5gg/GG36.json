@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG36",
+    "name": "Entei V",
+    "number": "GG36",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4637092"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$24.25",
+                "psa10": "$96.68",
+                "grade9": "$32.29"
+            }
+        }
+    }
+}

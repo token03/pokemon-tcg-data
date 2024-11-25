@@ -1,0 +1,19 @@
+{
+    "id": "base4-7",
+    "name": "Gyarados",
+    "number": "7",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641810"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.59",
+                "psa10": "$448.21",
+                "grade9": "$56.11"
+            }
+        }
+    }
+}

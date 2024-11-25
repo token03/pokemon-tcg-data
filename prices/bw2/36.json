@@ -1,0 +1,25 @@
+{
+    "id": "bw2-36",
+    "name": "Woobat",
+    "number": "36",
+    "setId": "bw2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955462",
+        "reverse-holo": "955559"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

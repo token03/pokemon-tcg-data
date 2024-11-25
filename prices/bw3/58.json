@@ -1,0 +1,25 @@
+{
+    "id": "bw3-58",
+    "name": "Litwick",
+    "number": "58",
+    "setId": "bw3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955713",
+        "reverse-holo": "955815"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

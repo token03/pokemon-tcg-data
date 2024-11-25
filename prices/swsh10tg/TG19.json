@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG19",
+    "name": "Galarian Zapdos V",
+    "number": "TG19",
+    "setId": "swsh10tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3508411"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$6.58",
+                "psa10": "$40.97",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

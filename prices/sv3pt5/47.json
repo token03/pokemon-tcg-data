@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-47",
+    "name": "Parasect",
+    "number": "47",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809428",
+        "reverse-holo": "5809632"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.80",
+                "psa10": "$38.35",
+                "grade9": "$12.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$35.28",
+                "grade9": "$11.59"
+            }
+        }
+    }
+}

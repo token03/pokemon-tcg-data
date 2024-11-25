@@ -1,0 +1,19 @@
+{
+    "id": "xy11-87",
+    "name": "Hydreigon BREAK",
+    "number": "87",
+    "setId": "xy11",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "960166"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$39.99",
+                "grade9": "$12.28"
+            }
+        }
+    }
+}

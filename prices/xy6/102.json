@@ -1,0 +1,19 @@
+{
+    "id": "xy6-102",
+    "name": "M Latios-EX",
+    "number": "102",
+    "setId": "xy6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958925"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.68",
+                "psa10": "$413.05",
+                "grade9": "$46.41"
+            }
+        }
+    }
+}

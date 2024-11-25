@@ -1,0 +1,25 @@
+{
+    "id": "ex16-13",
+    "name": "Slaking",
+    "number": "13",
+    "setId": "ex16",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889677",
+        "reverse-holo": "889785"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.98",
+                "psa10": "$104.38",
+                "grade9": "$27.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.09",
+                "psa10": "$100.00",
+                "grade9": "$34.57"
+            }
+        }
+    }
+}

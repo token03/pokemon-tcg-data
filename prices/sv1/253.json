@@ -1,0 +1,19 @@
+{
+    "id": "sv1-253",
+    "name": "Miraidon ex",
+    "number": "253",
+    "setId": "sv1",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "4934027"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.81",
+                "psa10": "$38.58",
+                "grade9": "$21.00"
+            }
+        }
+    }
+}

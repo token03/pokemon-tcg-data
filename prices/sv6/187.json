@@ -1,0 +1,19 @@
+{
+    "id": "sv6-187",
+    "name": "Chansey",
+    "number": "187",
+    "setId": "sv6",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6775705"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.50",
+                "psa10": "$104.25",
+                "grade9": "$29.37"
+            }
+        }
+    }
+}

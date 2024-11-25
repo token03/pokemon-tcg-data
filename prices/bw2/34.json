@@ -1,0 +1,25 @@
+{
+    "id": "bw2-34",
+    "name": "Galvantula",
+    "number": "34",
+    "setId": "bw2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955460",
+        "reverse-holo": "955557"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "$54.00",
+                "grade9": "$13.25"
+            }
+        }
+    }
+}

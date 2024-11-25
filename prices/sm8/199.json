@@ -1,0 +1,19 @@
+{
+    "id": "sm8-199",
+    "name": "Blacephalon-GX",
+    "number": "199",
+    "setId": "sm8",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962587"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.27",
+                "psa10": "$29.75",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG12",
+    "name": "Oranguru",
+    "number": "TG12",
+    "setId": "swsh9tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3216318"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.85",
+                "psa10": "$29.99",
+                "grade9": "$10.25"
+            }
+        }
+    }
+}

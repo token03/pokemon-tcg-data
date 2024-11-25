@@ -1,0 +1,25 @@
+{
+    "id": "ex9-19",
+    "name": "Rhydon",
+    "number": "19",
+    "setId": "ex9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888244",
+        "reverse-holo": "888351"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.56",
+                "psa10": "$34.12",
+                "grade9": "$23.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.00",
+                "psa10": "$176.58",
+                "grade9": "$42.36"
+            }
+        }
+    }
+}

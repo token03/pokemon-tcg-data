@@ -1,0 +1,19 @@
+{
+    "id": "pop9-16",
+    "name": "Piplup",
+    "number": "16",
+    "setId": "pop9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762874"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.81",
+                "psa10": "$67.75",
+                "grade9": "$56.11"
+            }
+        }
+    }
+}

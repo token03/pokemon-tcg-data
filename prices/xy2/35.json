@@ -1,0 +1,19 @@
+{
+    "id": "xy2-35",
+    "name": "Magnezone-EX",
+    "number": "35",
+    "setId": "xy2",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "957782"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.36",
+                "psa10": "$65.57",
+                "grade9": "$11.31"
+            }
+        }
+    }
+}

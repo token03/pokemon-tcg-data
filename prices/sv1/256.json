@@ -1,0 +1,19 @@
+{
+    "id": "sv1-256",
+    "name": "Rare Candy",
+    "number": "256",
+    "setId": "sv1",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "4934030"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.49",
+                "psa10": "$30.00",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

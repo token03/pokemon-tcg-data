@@ -1,0 +1,25 @@
+{
+    "id": "bw2-57",
+    "name": "Excadrill",
+    "number": "57",
+    "setId": "bw2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955483",
+        "reverse-holo": "955580"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "",
+                "grade9": "$14.56"
+            }
+        }
+    }
+}

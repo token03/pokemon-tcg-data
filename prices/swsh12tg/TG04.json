@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG04",
+    "name": "Jynx",
+    "number": "TG04",
+    "setId": "swsh12tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4277092"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$34.13",
+                "grade9": "$11.06"
+            }
+        }
+    }
+}

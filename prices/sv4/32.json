@@ -1,0 +1,25 @@
+{
+    "id": "sv4-32",
+    "name": "Kingdra",
+    "number": "32",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5979084",
+        "reverse-holo": "5953135"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": "$7.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$35.34",
+                "grade9": "$11.58"
+            }
+        }
+    }
+}

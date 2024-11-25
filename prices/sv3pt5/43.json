@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-43",
+    "name": "Oddish",
+    "number": "43",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809424",
+        "reverse-holo": "5809628"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.18",
+                "psa10": "$35.04",
+                "grade9": "$11.53"
+            }
+        }
+    }
+}

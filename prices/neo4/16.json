@@ -1,0 +1,25 @@
+{
+    "id": "neo4-16",
+    "name": "Miracle Energy",
+    "number": "16",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762627",
+        "1st-edition": "2183367"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.11",
+                "psa10": "$131.50",
+                "grade9": "$43.75"
+            },
+            "1st-edition": {
+                "ungraded": "$29.84",
+                "psa10": "$211.16",
+                "grade9": "$60.25"
+            }
+        }
+    }
+}

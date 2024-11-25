@@ -1,0 +1,25 @@
+{
+    "id": "sv3-70",
+    "name": "Thundurus",
+    "number": "70",
+    "setId": "sv3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5605588",
+        "reverse-holo": "5605822"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$0.92",
+                "psa10": "$35.00",
+                "grade9": "$11.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$35.89",
+                "grade9": "$11.83"
+            }
+        }
+    }
+}

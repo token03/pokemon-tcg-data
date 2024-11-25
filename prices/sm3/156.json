@@ -1,0 +1,19 @@
+{
+    "id": "sm3-156",
+    "name": "Marshadow-GX",
+    "number": "156",
+    "setId": "sm3",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "960940"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.78",
+                "psa10": "$123.12",
+                "grade9": "$18.93"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp6-129",
+    "name": "Bubble Coat",
+    "number": "129",
+    "setId": "dp6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925060",
+        "reverse-holo": "925203"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.58",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

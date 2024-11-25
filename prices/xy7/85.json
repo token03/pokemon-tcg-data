@@ -1,0 +1,19 @@
+{
+    "id": "xy7-85",
+    "name": "M Sceptile-EX",
+    "number": "85",
+    "setId": "xy7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959103"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.00",
+                "psa10": "$156.37",
+                "grade9": "$52.00"
+            }
+        }
+    }
+}

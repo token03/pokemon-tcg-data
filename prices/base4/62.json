@@ -1,0 +1,19 @@
+{
+    "id": "base4-62",
+    "name": "Tauros",
+    "number": "62",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641865"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$99.40",
+                "grade9": "$9.86"
+            }
+        }
+    }
+}

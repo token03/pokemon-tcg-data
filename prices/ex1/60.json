@@ -1,0 +1,25 @@
+{
+    "id": "ex1-60",
+    "name": "Mudkip",
+    "number": "60",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886612",
+        "reverse-holo": "886639"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$54.99",
+                "grade9": "$25.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.00",
+                "psa10": "$82.54",
+                "grade9": "$65.16"
+            }
+        }
+    }
+}

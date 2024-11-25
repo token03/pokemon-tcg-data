@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-12",
+    "name": "Victreebel",
+    "number": "12",
+    "setId": "hgss4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "926070",
+        "reverse-holo": "926172"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.80",
+                "psa10": "$72.00",
+                "grade9": "$17.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$79.97",
+                "grade9": "$23.58"
+            }
+        }
+    }
+}

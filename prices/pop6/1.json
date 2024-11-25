@@ -1,0 +1,19 @@
+{
+    "id": "pop6-1",
+    "name": "Bastiodon",
+    "number": "1",
+    "setId": "pop6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762783"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$78.29",
+                "grade9": "$13.05"
+            }
+        }
+    }
+}

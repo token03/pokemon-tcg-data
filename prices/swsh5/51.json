@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-51",
+    "name": "Tapu Koko VMAX",
+    "number": "51",
+    "setId": "swsh5",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "1673231"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$18.00",
+                "grade9": "$15.02"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-111",
+    "name": "Venomoth",
+    "number": "111",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842763",
+        "reverse-holo": "2252710"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.34",
+                "psa10": "$32.49",
+                "grade9": "$13.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.14",
+                "psa10": "$138.38",
+                "grade9": "$39.00"
+            }
+        }
+    }
+}

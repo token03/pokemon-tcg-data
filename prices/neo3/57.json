@@ -1,0 +1,25 @@
+{
+    "id": "neo3-57",
+    "name": "Swinub",
+    "number": "57",
+    "setId": "neo3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762548",
+        "1st-edition": "2427454"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.41",
+                "psa10": "$38.58",
+                "grade9": "$8.25"
+            },
+            "1st-edition": {
+                "ungraded": "$1.32",
+                "psa10": "$37.06",
+                "grade9": "$14.26"
+            }
+        }
+    }
+}

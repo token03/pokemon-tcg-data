@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-69",
+    "name": "Wyrdeer",
+    "number": "69",
+    "setId": "swsh10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "3489567",
+        "reverse-holo": "3489775"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$35.83",
+                "grade9": "$12.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$36.16",
+                "grade9": "$12.42"
+            }
+        }
+    }
+}

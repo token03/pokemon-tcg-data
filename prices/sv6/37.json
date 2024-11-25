@@ -1,0 +1,25 @@
+{
+    "id": "sv6-37",
+    "name": "Lampent",
+    "number": "37",
+    "setId": "sv6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6769517",
+        "reverse-holo": "6769740"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$37.08",
+                "grade9": "$11.85"
+            }
+        }
+    }
+}

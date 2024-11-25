@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-33",
+    "name": "Raichu",
+    "number": "33",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925920",
+        "reverse-holo": "926011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.48",
+                "psa10": "$68.64",
+                "grade9": "$34.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.01",
+                "psa10": "$96.83",
+                "grade9": "$52.00"
+            }
+        }
+    }
+}

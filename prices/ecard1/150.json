@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-150",
+    "name": "Strength Charm",
+    "number": "150",
+    "setId": "ecard1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842522",
+        "reverse-holo": "2267003"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.14",
+                "psa10": "$31.88",
+                "grade9": "$6.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.16",
+                "psa10": "$125.27",
+                "grade9": "$35.37"
+            }
+        }
+    }
+}

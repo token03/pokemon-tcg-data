@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-55",
+    "name": "Farfetch'd",
+    "number": "55",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842715",
+        "reverse-holo": "2252653"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.34",
+                "psa10": "$84.25",
+                "grade9": "$50.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$21.00",
+                "psa10": "$431.84",
+                "grade9": "$72.66"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-236",
+    "name": "Darkness Energy",
+    "number": "236",
+    "setId": "swsh7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2513045"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.63",
+                "psa10": "$40.00",
+                "grade9": "$23.50"
+            }
+        }
+    }
+}

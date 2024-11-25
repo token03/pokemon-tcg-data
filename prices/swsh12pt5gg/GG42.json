@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG42",
+    "name": "Zeraora VMAX",
+    "number": "GG42",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "4637098"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$7.25",
+                "psa10": "$36.85",
+                "grade9": "$16.50"
+            }
+        }
+    }
+}

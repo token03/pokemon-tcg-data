@@ -1,0 +1,19 @@
+{
+    "id": "sm75-66",
+    "name": "Kingdra-GX",
+    "number": "66",
+    "setId": "sm75",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962300"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.60",
+                "psa10": "$35.00",
+                "grade9": "$22.43"
+            }
+        }
+    }
+}

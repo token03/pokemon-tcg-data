@@ -1,0 +1,19 @@
+{
+    "id": "bw7-138",
+    "name": "Crystal Edge",
+    "number": "138",
+    "setId": "bw7",
+    "rarity": "Rare ACE",
+    "priceChartingIds": {
+        "normal": "956653"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.18",
+                "psa10": "$30.00",
+                "grade9": "$23.14"
+            }
+        }
+    }
+}

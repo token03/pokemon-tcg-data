@@ -1,0 +1,25 @@
+{
+    "id": "base2-21",
+    "name": "Kangaskhan",
+    "number": "21",
+    "setId": "base2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1099561",
+        "1st-edition": "1099577"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.12",
+                "psa10": "$57.08",
+                "grade9": "$23.75"
+            },
+            "1st-edition": {
+                "ungraded": "$4.98",
+                "psa10": "$124.53",
+                "grade9": "$38.50"
+            }
+        }
+    }
+}

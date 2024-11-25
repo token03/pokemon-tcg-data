@@ -1,0 +1,25 @@
+{
+    "id": "sv4-177",
+    "name": "Technical Machine: Devolution",
+    "number": "177",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5953015",
+        "reverse-holo": "5953262"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$36.92",
+                "grade9": "$12.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$37.57",
+                "grade9": "$12.23"
+            }
+        }
+    }
+}

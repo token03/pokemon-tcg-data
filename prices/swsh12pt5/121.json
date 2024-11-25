@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-121",
+    "name": "Wooloo",
+    "number": "121",
+    "setId": "swsh12pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4637017",
+        "reverse-holo": "4637217"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$34.68",
+                "grade9": "$11.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.46",
+                "psa10": "$36.27",
+                "grade9": "$12.18"
+            }
+        }
+    }
+}

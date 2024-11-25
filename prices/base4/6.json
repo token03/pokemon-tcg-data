@@ -1,0 +1,19 @@
+{
+    "id": "base4-6",
+    "name": "Clefairy",
+    "number": "6",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641809"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.19",
+                "psa10": "$241.02",
+                "grade9": "$48.89"
+            }
+        }
+    }
+}

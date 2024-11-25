@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-99",
+    "name": "Galarian Slowbro V",
+    "number": "99",
+    "setId": "swsh3",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "836640"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$21.69",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

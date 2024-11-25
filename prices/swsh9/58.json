@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-58",
+    "name": "Baltoy",
+    "number": "58",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188282",
+        "reverse-holo": "3219416"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.27",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.92",
+                "psa10": "$33.73",
+                "grade9": "$11.53"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-139",
+    "name": "Flannery",
+    "number": "139",
+    "setId": "swsh6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2253943",
+        "reverse-holo": "2254151"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$34.61",
+                "grade9": "$12.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$18.00",
+                "grade9": "$12.18"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm2-131",
+    "name": "Turtonator-GX",
+    "number": "131",
+    "setId": "sm2",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960628"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.63",
+                "psa10": "$34.23",
+                "grade9": "$10.12"
+            }
+        }
+    }
+}

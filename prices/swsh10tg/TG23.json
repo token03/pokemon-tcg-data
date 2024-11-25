@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG23",
+    "name": "Garchomp V",
+    "number": "TG23",
+    "setId": "swsh10tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3508415"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$27.19",
+                "psa10": "$103.65",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

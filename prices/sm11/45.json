@@ -1,0 +1,25 @@
+{
+    "id": "sm11-45",
+    "name": "Carracosta",
+    "number": "45",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963611",
+        "reverse-holo": "963866"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$34.48",
+                "grade9": "$12.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.40",
+                "psa10": "$46.99",
+                "grade9": "$19.56"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-98",
+    "name": "Krabby",
+    "number": "98",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809479",
+        "reverse-holo": "5809681"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.72",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$36.38",
+                "grade9": "$11.93"
+            }
+        }
+    }
+}

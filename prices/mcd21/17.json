@@ -1,0 +1,25 @@
+{
+    "id": "mcd21-17",
+    "name": "Squirtle",
+    "number": "17",
+    "setId": "mcd21",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1317297",
+        "holo": "1317322"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$18.99",
+                "grade9": "$8.82"
+            },
+            "holo": {
+                "ungraded": "$3.03",
+                "psa10": "$38.49",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

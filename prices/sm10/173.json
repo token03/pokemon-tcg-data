@@ -1,0 +1,25 @@
+{
+    "id": "sm10-173",
+    "name": "Fire Crystal",
+    "number": "173",
+    "setId": "sm10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963329",
+        "reverse-holo": "963549"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$34.94",
+                "grade9": "$12.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$36.38",
+                "grade9": "$13.67"
+            }
+        }
+    }
+}

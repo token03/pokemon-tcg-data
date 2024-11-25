@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-36",
+    "name": "Sharpedo",
+    "number": "36",
+    "setId": "swsh7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2512847",
+        "reverse-holo": "2513072"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.89",
+                "psa10": "$33.47",
+                "grade9": "$11.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$35.15",
+                "grade9": "$12.29"
+            }
+        }
+    }
+}

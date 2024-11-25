@@ -1,0 +1,19 @@
+{
+    "id": "sv4-263",
+    "name": "Beach Court",
+    "number": "263",
+    "setId": "sv4",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5953102"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.25",
+                "psa10": "$24.00",
+                "grade9": "$9.33"
+            }
+        }
+    }
+}

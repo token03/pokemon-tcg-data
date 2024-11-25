@@ -1,0 +1,25 @@
+{
+    "id": "xy12-99",
+    "name": "Fairy Energy",
+    "number": "99",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2358132",
+        "reverse-holo": "2371260"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$59.48",
+                "grade9": "$12.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.45",
+                "psa10": "$67.91",
+                "grade9": "$9.10"
+            }
+        }
+    }
+}

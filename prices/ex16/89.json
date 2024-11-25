@@ -1,0 +1,25 @@
+{
+    "id": "ex16-89",
+    "name": "Multi Energy",
+    "number": "89",
+    "setId": "ex16",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889753",
+        "reverse-holo": "889860"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.31",
+                "psa10": "$46.73",
+                "grade9": "$25.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.28",
+                "psa10": "$86.45",
+                "grade9": "$31.39"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw8-54",
+    "name": "Golbat",
+    "number": "54",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956852",
+        "reverse-holo": "956985"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.83",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

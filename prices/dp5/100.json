@@ -1,0 +1,19 @@
+{
+    "id": "dp5-100",
+    "name": "Porygon-Z LV.X",
+    "number": "100",
+    "setId": "dp5",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "921462"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$45.00",
+                "psa10": "$695.78",
+                "grade9": "$215.00"
+            }
+        }
+    }
+}

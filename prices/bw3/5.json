@@ -1,0 +1,25 @@
+{
+    "id": "bw3-5",
+    "name": "Lilligant",
+    "number": "5",
+    "setId": "bw3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955660",
+        "reverse-holo": "955762"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.63",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

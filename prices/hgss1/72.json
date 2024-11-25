@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-72",
+    "name": "Magikarp",
+    "number": "72",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806184",
+        "reverse-holo": "806290"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$53.65",
+                "grade9": "$16.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.28",
+                "psa10": "",
+                "grade9": "$79.95"
+            }
+        }
+    }
+}

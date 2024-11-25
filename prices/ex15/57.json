@@ -1,0 +1,25 @@
+{
+    "id": "ex15-57",
+    "name": "Nidoran \u2642 \u03b4",
+    "number": "57",
+    "setId": "ex15",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889531",
+        "reverse-holo": "889632"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$6.99",
+                "psa10": "$103.50",
+                "grade9": "$55.00"
+            }
+        }
+    }
+}

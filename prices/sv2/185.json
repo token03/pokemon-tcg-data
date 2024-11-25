@@ -1,0 +1,55 @@
+{
+    "id": "sv2-185",
+    "name": "Iono",
+    "number": "185",
+    "setId": "sv2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5287474",
+        "cosmo-holo": "6628323",
+        "premium-tournament-collection": "6627608",
+        "prize-pack": "6654118",
+        "regional-championship-staff": "5790509",
+        "regional-championship": "5790508",
+        "reverse-holo": "5287736"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.66",
+                "psa10": "$80.00",
+                "grade9": "$67.00"
+            },
+            "cosmo-holo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "premium-tournament-collection": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "prize-pack": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "regional-championship-staff": {
+                "ungraded": "$191.41",
+                "psa10": "$1,010.88",
+                "grade9": "$296.23"
+            },
+            "regional-championship": {
+                "ungraded": "$25.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$74.63",
+                "grade9": "$29.21"
+            }
+        }
+    }
+}

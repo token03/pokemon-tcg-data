@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-110",
+    "name": "Ursaring",
+    "number": "110",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842762",
+        "reverse-holo": "2252709"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.64",
+                "psa10": "$69.00",
+                "grade9": "$26.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$55.62",
+                "psa10": "$199.58",
+                "grade9": "$54.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-203",
+    "name": "Grant",
+    "number": "203",
+    "setId": "swsh10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3489703"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.93",
+                "psa10": "$20.30",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

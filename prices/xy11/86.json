@@ -1,0 +1,25 @@
+{
+    "id": "xy11-86",
+    "name": "Hydreigon",
+    "number": "86",
+    "setId": "xy11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "960165",
+        "reverse-holo": "960269"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.66",
+                "psa10": "$26.09",
+                "grade9": "$23.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$36.17",
+                "grade9": "$13.68"
+            }
+        }
+    }
+}

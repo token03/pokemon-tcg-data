@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG29",
+    "name": "Rayquaza VMAX",
+    "number": "TG29",
+    "setId": "swsh12tg",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "4277117"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$5.44",
+                "psa10": "$41.60",
+                "grade9": "$16.67"
+            }
+        }
+    }
+}

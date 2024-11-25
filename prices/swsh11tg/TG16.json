@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG16",
+    "name": "Pikachu V",
+    "number": "TG16",
+    "setId": "swsh11tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4080768"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$27.94",
+                "psa10": "$106.47",
+                "grade9": "$37.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex2-65",
+    "name": "Growlithe",
+    "number": "65",
+    "setId": "ex2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849253",
+        "reverse-holo": "849353"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$36.14",
+                "grade9": "$23.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.12",
+                "psa10": "$130.15",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

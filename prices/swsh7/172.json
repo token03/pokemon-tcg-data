@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-172",
+    "name": "Vaporeon V",
+    "number": "172",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2512983"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.50",
+                "psa10": "$49.01",
+                "grade9": "$26.31"
+            }
+        }
+    }
+}

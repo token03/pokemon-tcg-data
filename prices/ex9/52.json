@@ -1,0 +1,25 @@
+{
+    "id": "ex9-52",
+    "name": "Larvitar",
+    "number": "52",
+    "setId": "ex9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888277",
+        "reverse-holo": "888384"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.27",
+                "psa10": "$114.19",
+                "grade9": "$64.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.01",
+                "psa10": "$200.00",
+                "grade9": "$22.72"
+            }
+        }
+    }
+}

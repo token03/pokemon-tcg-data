@@ -1,0 +1,25 @@
+{
+    "id": "pl1-44",
+    "name": "Cascoon",
+    "number": "44",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "805907",
+        "reverse-holo": "805908"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "$39.99",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.93",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

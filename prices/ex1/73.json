@@ -1,0 +1,25 @@
+{
+    "id": "ex1-73",
+    "name": "Torchic",
+    "number": "73",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762928",
+        "reverse-holo": "763010"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$89.99",
+                "grade9": "$30.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.00",
+                "psa10": "$75.06",
+                "grade9": "$47.38"
+            }
+        }
+    }
+}

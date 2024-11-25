@@ -1,0 +1,19 @@
+{
+    "id": "pl1-127",
+    "name": "Shaymin LV.X",
+    "number": "127",
+    "setId": "pl1",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "886666"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.54",
+                "psa10": "$274.62",
+                "grade9": "$57.88"
+            }
+        }
+    }
+}

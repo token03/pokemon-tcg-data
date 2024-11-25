@@ -1,0 +1,19 @@
+{
+    "id": "bw6-92",
+    "name": "Giratina-EX",
+    "number": "92",
+    "setId": "bw6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956346"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$161.97",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex5-13",
+    "name": "Pinsir",
+    "number": "13",
+    "setId": "ex5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849786",
+        "reverse-holo": "849888"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.95",
+                "psa10": "$92.87",
+                "grade9": "$23.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.99",
+                "psa10": "$80.00",
+                "grade9": "$24.11"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "sm4-91",
+    "name": "Counter Catcher",
+    "number": "91",
+    "setId": "sm4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961237",
+        "league-cup-staff": "6009630",
+        "league-cup": "6073274",
+        "reverse-holo": "961353"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$34.97",
+                "grade9": "$12.99"
+            },
+            "league-cup-staff": {
+                "ungraded": "$28.98",
+                "psa10": "",
+                "grade9": ""
+            },
+            "league-cup": {
+                "ungraded": "$10.90",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.84",
+                "psa10": "$46.74",
+                "grade9": "$19.19"
+            }
+        }
+    }
+}

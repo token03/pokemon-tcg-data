@@ -1,0 +1,19 @@
+{
+    "id": "hgss3-83",
+    "name": "Raichu",
+    "number": "83",
+    "setId": "hgss3",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "925970"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.99",
+                "psa10": "$554.83",
+                "grade9": "$106.50"
+            }
+        }
+    }
+}

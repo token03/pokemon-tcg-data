@@ -1,0 +1,25 @@
+{
+    "id": "basep-12",
+    "name": "Mewtwo",
+    "number": "12",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5997609",
+        "journey-across-america": "4373060"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.05",
+                "psa10": "$208.42",
+                "grade9": "$58.18"
+            },
+            "journey-across-america": {
+                "ungraded": "$35.24",
+                "psa10": "$155.89",
+                "grade9": "$61.01"
+            }
+        }
+    }
+}

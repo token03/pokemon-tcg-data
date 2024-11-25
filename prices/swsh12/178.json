@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-178",
+    "name": "Mawile V",
+    "number": "178",
+    "setId": "swsh12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277299"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.57",
+                "psa10": "$36.64",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

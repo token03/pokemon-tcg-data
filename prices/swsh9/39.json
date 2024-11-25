@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-39",
+    "name": "Floatzel",
+    "number": "39",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188264",
+        "reverse-holo": "3219401"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.50",
+                "psa10": "$32.00",
+                "grade9": "$10.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$36.13",
+                "grade9": "$12.52"
+            }
+        }
+    }
+}

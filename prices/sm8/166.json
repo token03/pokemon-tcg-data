@@ -1,0 +1,25 @@
+{
+    "id": "sm8-166",
+    "name": "Toucannon",
+    "number": "166",
+    "setId": "sm8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962554",
+        "reverse-holo": "962773"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

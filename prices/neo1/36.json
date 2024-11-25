@@ -1,0 +1,25 @@
+{
+    "id": "neo1-36",
+    "name": "Gloom",
+    "number": "36",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762353",
+        "1st-edition": "2324870"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.68",
+                "psa10": "$15.50",
+                "grade9": "$14.59"
+            },
+            "1st-edition": {
+                "ungraded": "$3.80",
+                "psa10": "$41.97",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

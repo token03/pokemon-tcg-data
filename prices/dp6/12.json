@@ -1,0 +1,25 @@
+{
+    "id": "dp6-12",
+    "name": "Politoed",
+    "number": "12",
+    "setId": "dp6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "924943",
+        "reverse-holo": "925089"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.07",
+                "psa10": "$104.83",
+                "grade9": "$49.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.49",
+                "psa10": "$84.00",
+                "grade9": "$20.50"
+            }
+        }
+    }
+}

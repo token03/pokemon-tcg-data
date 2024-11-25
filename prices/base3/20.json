@@ -1,0 +1,31 @@
+{
+    "id": "base3-20",
+    "name": "Gengar",
+    "number": "20",
+    "setId": "base3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1341267",
+        "1999-2000-copyright": "6870158",
+        "1st-edition": "1099514"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$132.10",
+                "grade9": "$32.61"
+            },
+            "1999-2000-copyright": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "1st-edition": {
+                "ungraded": "$21.50",
+                "psa10": "$265.94",
+                "grade9": "$66.87"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4-211",
+    "name": "Aipom",
+    "number": "211",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953049"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$45.63",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

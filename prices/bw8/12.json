@@ -1,0 +1,25 @@
+{
+    "id": "bw8-12",
+    "name": "Foongus",
+    "number": "12",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956810",
+        "reverse-holo": "956947"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.08",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.22",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

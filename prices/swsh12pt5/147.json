@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-147",
+    "name": "Elesa's Sparkle",
+    "number": "147",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4637042"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.99",
+                "psa10": "$55.81",
+                "grade9": "$19.63"
+            }
+        }
+    }
+}

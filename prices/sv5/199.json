@@ -1,0 +1,19 @@
+{
+    "id": "sv5-199",
+    "name": "Eri",
+    "number": "199",
+    "setId": "sv5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6495659"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.25",
+                "psa10": "$28.88",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

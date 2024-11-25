@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-235",
+    "name": "Lightning Energy",
+    "number": "235",
+    "setId": "swsh7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2513044"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.99",
+                "psa10": "$40.00",
+                "grade9": "$27.37"
+            }
+        }
+    }
+}

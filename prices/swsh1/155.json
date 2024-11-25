@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-155",
+    "name": "Cramorant V",
+    "number": "155",
+    "setId": "swsh1",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "807059"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$16.21",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

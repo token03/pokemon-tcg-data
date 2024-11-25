@@ -1,0 +1,25 @@
+{
+    "id": "dp2-103",
+    "name": "Spinarak",
+    "number": "103",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920727",
+        "reverse-holo": "920850"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

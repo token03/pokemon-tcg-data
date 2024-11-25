@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-48",
+    "name": "Furret",
+    "number": "48",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842575",
+        "reverse-holo": "2293939"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.91",
+                "psa10": "$62.82",
+                "grade9": "$37.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$21.50",
+                "psa10": "$603.99",
+                "grade9": "$57.76"
+            }
+        }
+    }
+}

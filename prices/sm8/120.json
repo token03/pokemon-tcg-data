@@ -1,0 +1,25 @@
+{
+    "id": "sm8-120",
+    "name": "Umbreon",
+    "number": "120",
+    "setId": "sm8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962508",
+        "reverse-holo": "962734"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.77",
+                "psa10": "$175.00",
+                "grade9": "$39.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.63",
+                "psa10": "$125.00",
+                "grade9": "$66.02"
+            }
+        }
+    }
+}

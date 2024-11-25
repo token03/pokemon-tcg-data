@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-161",
+    "name": "Phoebe",
+    "number": "161",
+    "setId": "swsh5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "1673341"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.25",
+                "psa10": "$62.00",
+                "grade9": "$19.76"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex15-18",
+    "name": "Ledian \u03b4",
+    "number": "18",
+    "setId": "ex15",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889492",
+        "reverse-holo": "889593"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.60",
+                "psa10": "$25.64",
+                "grade9": "$13.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.60",
+                "psa10": "$41.72",
+                "grade9": "$29.50"
+            }
+        }
+    }
+}

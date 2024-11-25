@@ -1,0 +1,25 @@
+{
+    "id": "ex1-16",
+    "name": "Breloom",
+    "number": "16",
+    "setId": "ex1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762895",
+        "reverse-holo": "762977"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$46.51",
+                "grade9": "$18.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.14",
+                "psa10": "$61.06",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

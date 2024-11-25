@@ -1,0 +1,25 @@
+{
+    "id": "gym1-113",
+    "name": "Minion of Team Rocket",
+    "number": "113",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762112",
+        "1st-edition": "2156423"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "1st-edition": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

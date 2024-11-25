@@ -1,0 +1,37 @@
+{
+    "id": "base1-56",
+    "name": "Onix",
+    "number": "56",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630469",
+        "1st-edition": "715645",
+        "shadowless": "715747",
+        "trainer-deck-a": "2386890"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$45.23",
+                "grade9": "$21.35"
+            },
+            "1st-edition": {
+                "ungraded": "$13.02",
+                "psa10": "$191.58",
+                "grade9": "$46.00"
+            },
+            "shadowless": {
+                "ungraded": "$2.46",
+                "psa10": "$50.23",
+                "grade9": "$27.00"
+            },
+            "trainer-deck-a": {
+                "ungraded": "$260.18",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

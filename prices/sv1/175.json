@@ -1,0 +1,25 @@
+{
+    "id": "sv1-175",
+    "name": "Jacq",
+    "number": "175",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933949",
+        "reverse-holo": "4934195"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.83",
+                "psa10": "$33.63",
+                "grade9": "$11.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.64",
+                "psa10": "$37.17",
+                "grade9": "$12.40"
+            }
+        }
+    }
+}

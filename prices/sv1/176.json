@@ -1,0 +1,25 @@
+{
+    "id": "sv1-176",
+    "name": "Judge",
+    "number": "176",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933950",
+        "reverse-holo": "4934196"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.02",
+                "grade9": "$11.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.64",
+                "grade9": "$11.88"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "swsh9-140",
+    "name": "Friends in Galar",
+    "number": "140",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188364",
+        "professor-program-top-8": "5154249",
+        "reverse-holo": "3219484"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$34.53",
+                "grade9": "$11.86"
+            },
+            "professor-program-top-8": {
+                "ungraded": "$1,409.91",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "$35.13",
+                "grade9": "$12.11"
+            }
+        }
+    }
+}

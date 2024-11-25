@@ -1,0 +1,25 @@
+{
+    "id": "bw8-125",
+    "name": "Team Plasma Grunt",
+    "number": "125",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956922",
+        "reverse-holo": "957052"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "$40.88",
+                "grade9": "$14.35"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

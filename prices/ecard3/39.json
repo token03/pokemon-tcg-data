@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-39",
+    "name": "Misdreavus",
+    "number": "39",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842701",
+        "reverse-holo": "2252638"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.31",
+                "psa10": "$38.29",
+                "grade9": "$22.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$27.38",
+                "psa10": "$127.50",
+                "grade9": "$44.91"
+            }
+        }
+    }
+}

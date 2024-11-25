@@ -1,0 +1,19 @@
+{
+    "id": "sm7-179",
+    "name": "Hustle Belt",
+    "number": "179",
+    "setId": "sm7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "962092"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.99",
+                "psa10": "$22.86",
+                "grade9": "$19.00"
+            }
+        }
+    }
+}

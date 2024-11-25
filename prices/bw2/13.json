@@ -1,0 +1,25 @@
+{
+    "id": "bw2-13",
+    "name": "Petilil",
+    "number": "13",
+    "setId": "bw2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955440",
+        "reverse-holo": "955536"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.36",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "",
+                "grade9": "$12.60"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy10-79",
+    "name": "Lugia BREAK",
+    "number": "79",
+    "setId": "xy10",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "959936"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.05",
+                "psa10": "$108.32",
+                "grade9": "$25.57"
+            }
+        }
+    }
+}

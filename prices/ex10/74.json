@@ -1,0 +1,25 @@
+{
+    "id": "ex10-74",
+    "name": "Snubbull",
+    "number": "74",
+    "setId": "ex10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888494",
+        "reverse-holo": "888636"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$15.00",
+                "grade9": "$6.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.98",
+                "psa10": "$97.83",
+                "grade9": "$26.37"
+            }
+        }
+    }
+}

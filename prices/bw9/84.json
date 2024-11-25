@@ -1,0 +1,25 @@
+{
+    "id": "bw9-84",
+    "name": "Kingdra",
+    "number": "84",
+    "setId": "bw9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957138",
+        "reverse-holo": "957256"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$120.14",
+                "grade9": "$28.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.32",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

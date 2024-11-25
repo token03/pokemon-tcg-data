@@ -1,0 +1,25 @@
+{
+    "id": "base5-43",
+    "name": "Dark Primeape",
+    "number": "43",
+    "setId": "base5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643469",
+        "1st-edition": "1341385"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$27.24",
+                "grade9": "$23.18"
+            },
+            "1st-edition": {
+                "ungraded": "$3.03",
+                "psa10": "$88.31",
+                "grade9": "$25.88"
+            }
+        }
+    }
+}

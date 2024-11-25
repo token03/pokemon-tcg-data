@@ -1,0 +1,25 @@
+{
+    "id": "gym2-39",
+    "name": "Erika's Bulbasaur",
+    "number": "39",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762245",
+        "1st-edition": "1450233"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.52",
+                "psa10": "$45.50",
+                "grade9": "$27.76"
+            },
+            "1st-edition": {
+                "ungraded": "$13.93",
+                "psa10": "$118.50",
+                "grade9": "$32.50"
+            }
+        }
+    }
+}

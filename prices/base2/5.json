@@ -1,0 +1,31 @@
+{
+    "id": "base2-5",
+    "name": "Kangaskhan",
+    "number": "5",
+    "setId": "base2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643313",
+        "1st-edition": "643361",
+        "no-symbol": "3179655"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$767.00",
+                "grade9": "$50.38"
+            },
+            "1st-edition": {
+                "ungraded": "$25.49",
+                "psa10": "$2,700.25",
+                "grade9": "$166.21"
+            },
+            "no-symbol": {
+                "ungraded": "$12.11",
+                "psa10": "$398.16",
+                "grade9": "$86.23"
+            }
+        }
+    }
+}

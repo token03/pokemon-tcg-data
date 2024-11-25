@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-179",
+    "name": "Hisuian Arcanine V",
+    "number": "179",
+    "setId": "swsh12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277300"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.69",
+                "psa10": "$40.00",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

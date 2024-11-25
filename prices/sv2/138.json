@@ -1,0 +1,25 @@
+{
+    "id": "sv2-138",
+    "name": "Deino",
+    "number": "138",
+    "setId": "sv2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5287427",
+        "reverse-holo": "5287692"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.99",
+                "grade9": "$11.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$35.53",
+                "grade9": "$11.77"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex1-31",
+    "name": "Grovyle",
+    "number": "31",
+    "setId": "ex1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762906",
+        "reverse-holo": "762988"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.40",
+                "psa10": "$59.99",
+                "grade9": "$37.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.50",
+                "psa10": "$71.28",
+                "grade9": "$31.65"
+            }
+        }
+    }
+}

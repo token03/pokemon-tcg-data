@@ -1,0 +1,25 @@
+{
+    "id": "xy1-83",
+    "name": "Honedge",
+    "number": "83",
+    "setId": "xy1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806749",
+        "reverse-holo": "806703"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.59",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

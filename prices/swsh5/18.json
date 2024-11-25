@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-18",
+    "name": "Flapple V",
+    "number": "18",
+    "setId": "swsh5",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "1673199"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$14.00",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

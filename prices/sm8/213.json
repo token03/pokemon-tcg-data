@@ -1,0 +1,19 @@
+{
+    "id": "sm8-213",
+    "name": "Professor Elm's Lecture",
+    "number": "213",
+    "setId": "sm8",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962601"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$53.24",
+                "psa10": "$172.94",
+                "grade9": "$74.99"
+            }
+        }
+    }
+}

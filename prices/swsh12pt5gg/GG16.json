@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG16",
+    "name": "Absol",
+    "number": "GG16",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637072"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.09",
+                "psa10": "$36.26",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex5-4",
+    "name": "Dark Celebi",
+    "number": "4",
+    "setId": "ex5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849777",
+        "reverse-holo": "849879"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.14",
+                "psa10": "$340.00",
+                "grade9": "$39.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.51",
+                "psa10": "$435.52",
+                "grade9": "$69.00"
+            }
+        }
+    }
+}

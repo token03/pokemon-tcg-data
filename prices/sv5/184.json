@@ -1,0 +1,19 @@
+{
+    "id": "sv5-184",
+    "name": "Drampa",
+    "number": "184",
+    "setId": "sv5",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "6495644"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.38",
+                "psa10": "$82.01",
+                "grade9": "$14.27"
+            }
+        }
+    }
+}

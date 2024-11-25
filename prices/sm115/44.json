@@ -1,0 +1,19 @@
+{
+    "id": "sm115-44",
+    "name": "Moltres & Zapdos & Articuno-GX",
+    "number": "44",
+    "setId": "sm115",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964064"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.39",
+                "psa10": "$42.00",
+                "grade9": "$24.02"
+            }
+        }
+    }
+}

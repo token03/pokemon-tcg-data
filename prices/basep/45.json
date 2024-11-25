@@ -1,0 +1,25 @@
+{
+    "id": "basep-45",
+    "name": "Scyther",
+    "number": "45",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "quarter-finalist": "6791475",
+        "normal": "643544"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "quarter-finalist": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "normal": {
+                "ungraded": "$17.92",
+                "psa10": "$67.50",
+                "grade9": "$22.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ex16-101",
+    "name": "Jolteon \u2605",
+    "number": "101",
+    "setId": "ex16",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "889765"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$298.80",
+                "psa10": "$2,278.23",
+                "grade9": "$832.68"
+            }
+        }
+    }
+}

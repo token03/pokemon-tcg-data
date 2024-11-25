@@ -1,0 +1,25 @@
+{
+    "id": "ex2-15",
+    "name": "Arcanine",
+    "number": "15",
+    "setId": "ex2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849204",
+        "reverse-holo": "849303"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.31",
+                "psa10": "$66.47",
+                "grade9": "$36.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.84",
+                "psa10": "$543.95",
+                "grade9": "$75.00"
+            }
+        }
+    }
+}

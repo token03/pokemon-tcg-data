@@ -1,0 +1,31 @@
+{
+    "id": "swsh8-233",
+    "name": "Elesa's Sparkle",
+    "number": "233",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771259",
+        "holo-prize-pack-stamp": "6115080",
+        "reverse-holo": "2771515"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.90",
+                "grade9": "$11.68"
+            },
+            "holo-prize-pack-stamp": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "$35.09",
+                "grade9": "$12.19"
+            }
+        }
+    }
+}

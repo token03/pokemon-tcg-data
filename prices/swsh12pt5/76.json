@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-76",
+    "name": "Absol",
+    "number": "76",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4636972",
+        "reverse-holo": "4637186"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.15",
+                "psa10": "$36.23",
+                "grade9": "$8.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.93",
+                "psa10": "$38.29",
+                "grade9": "$12.88"
+            }
+        }
+    }
+}

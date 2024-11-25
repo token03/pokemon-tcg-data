@@ -1,0 +1,25 @@
+{
+    "id": "sm2-95",
+    "name": "Sliggoo",
+    "number": "95",
+    "setId": "sm2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960592",
+        "reverse-holo": "960751"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$34.77",
+                "grade9": "$12.87"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.01",
+                "psa10": "$34.59",
+                "grade9": "$12.76"
+            }
+        }
+    }
+}

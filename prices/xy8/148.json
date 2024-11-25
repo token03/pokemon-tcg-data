@@ -1,0 +1,25 @@
+{
+    "id": "xy8-148",
+    "name": "Skyla",
+    "number": "148",
+    "setId": "xy8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959337",
+        "reverse-holo": "959487"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.34",
+                "psa10": "$37.31",
+                "grade9": "$14.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.87",
+                "psa10": "$40.14",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

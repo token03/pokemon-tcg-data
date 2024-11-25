@@ -1,0 +1,25 @@
+{
+    "id": "ex13-63",
+    "name": "Corphish",
+    "number": "63",
+    "setId": "ex13",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889143",
+        "reverse-holo": "889870"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.89",
+                "psa10": "$66.28",
+                "grade9": "$23.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.98",
+                "psa10": "$111.50",
+                "grade9": "$44.75"
+            }
+        }
+    }
+}

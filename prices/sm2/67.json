@@ -1,0 +1,25 @@
+{
+    "id": "sm2-67",
+    "name": "Gligar",
+    "number": "67",
+    "setId": "sm2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960564",
+        "reverse-holo": "960726"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

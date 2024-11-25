@@ -1,0 +1,25 @@
+{
+    "id": "bw9-77",
+    "name": "Zweilous",
+    "number": "77",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957131",
+        "reverse-holo": "957249"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": "$2.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.88",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

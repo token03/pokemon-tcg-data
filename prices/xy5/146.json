@@ -1,0 +1,19 @@
+{
+    "id": "xy5-146",
+    "name": "Camerupt-EX",
+    "number": "146",
+    "setId": "xy5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958603"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.06",
+                "psa10": "$180.00",
+                "grade9": "$14.99"
+            }
+        }
+    }
+}

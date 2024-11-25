@@ -1,0 +1,25 @@
+{
+    "id": "sm7-134",
+    "name": "Hustle Belt",
+    "number": "134",
+    "setId": "sm7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962233",
+        "reverse-holo": "962215"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.43",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

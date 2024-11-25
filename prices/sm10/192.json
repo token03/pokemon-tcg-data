@@ -1,0 +1,19 @@
+{
+    "id": "sm10-192",
+    "name": "Pheromosa & Buzzwole-GX",
+    "number": "192",
+    "setId": "sm10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963348"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$29.50",
+                "psa10": "$93.30",
+                "grade9": "$40.12"
+            }
+        }
+    }
+}

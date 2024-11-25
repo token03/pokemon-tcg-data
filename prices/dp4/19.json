@@ -1,0 +1,25 @@
+{
+    "id": "dp4-19",
+    "name": "Hypno",
+    "number": "19",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921173",
+        "reverse-holo": "921279"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$59.66",
+                "grade9": "$21.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.35",
+                "psa10": "$158.58",
+                "grade9": ""
+            }
+        }
+    }
+}

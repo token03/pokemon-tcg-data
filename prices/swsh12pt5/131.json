@@ -1,0 +1,31 @@
+{
+    "id": "swsh12pt5-131",
+    "name": "Friends in Sinnoh",
+    "number": "131",
+    "setId": "swsh12pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4637027",
+        "professor-program": "6330598",
+        "reverse-holo": "4637227"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$34.26",
+                "grade9": "$11.48"
+            },
+            "professor-program": {
+                "ungraded": "$139.44",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "$37.56",
+                "grade9": "$12.63"
+            }
+        }
+    }
+}

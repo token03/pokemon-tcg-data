@@ -1,0 +1,43 @@
+{
+    "id": "ex8-16",
+    "name": "Deoxys",
+    "number": "16",
+    "setId": "ex8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888037",
+        "destiny-deoxys": "3366448",
+        "pokemon-day": "4134110",
+        "regional-championships": "4956335",
+        "reverse-holo": "888144"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.64",
+                "psa10": "$90.18",
+                "grade9": "$21.00"
+            },
+            "destiny-deoxys": {
+                "ungraded": "$5.90",
+                "psa10": "$171.50",
+                "grade9": "$44.43"
+            },
+            "pokemon-day": {
+                "ungraded": "$7.72",
+                "psa10": "",
+                "grade9": ""
+            },
+            "regional-championships": {
+                "ungraded": "$7.82",
+                "psa10": "$197.51",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$21.11",
+                "psa10": "$341.69",
+                "grade9": "$98.05"
+            }
+        }
+    }
+}

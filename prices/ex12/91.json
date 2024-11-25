@@ -1,0 +1,19 @@
+{
+    "id": "ex12-91",
+    "name": "Regirock \u2605",
+    "number": "91",
+    "setId": "ex12",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "888973"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$270.13",
+                "psa10": "$1,806.06",
+                "grade9": "$646.56"
+            }
+        }
+    }
+}

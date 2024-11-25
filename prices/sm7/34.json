@@ -1,0 +1,25 @@
+{
+    "id": "sm7-34",
+    "name": "Marshtomp",
+    "number": "34",
+    "setId": "sm7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961948",
+        "reverse-holo": "962127"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$35.78",
+                "grade9": "$13.42"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.72",
+                "psa10": "$41.07",
+                "grade9": "$16.55"
+            }
+        }
+    }
+}

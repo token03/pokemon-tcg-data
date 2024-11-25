@@ -1,0 +1,19 @@
+{
+    "id": "bw8-135",
+    "name": "Colress",
+    "number": "135",
+    "setId": "bw8",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956932"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$65.69",
+                "psa10": "$1,500.00",
+                "grade9": "$116.01"
+            }
+        }
+    }
+}

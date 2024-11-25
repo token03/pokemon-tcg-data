@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-146",
+    "name": "Crystal Energy",
+    "number": "146",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842662",
+        "reverse-holo": "2294037"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$123.26",
+                "grade9": "$33.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.69",
+                "psa10": "$110.50",
+                "grade9": "$31.00"
+            }
+        }
+    }
+}

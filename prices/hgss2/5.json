@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-5",
+    "name": "Mismagius",
+    "number": "5",
+    "setId": "hgss2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "1287347",
+        "reverse-holo": "1287443"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.37",
+                "psa10": "$103.17",
+                "grade9": "$25.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

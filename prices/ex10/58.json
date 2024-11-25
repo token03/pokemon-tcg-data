@@ -1,0 +1,25 @@
+{
+    "id": "ex10-58",
+    "name": "Gloom",
+    "number": "58",
+    "setId": "ex10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888478",
+        "reverse-holo": "888620"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$61.53",
+                "grade9": "$9.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.00",
+                "psa10": "$99.99",
+                "grade9": "$27.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex11-50",
+    "name": "Persian",
+    "number": "50",
+    "setId": "ex11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888712",
+        "reverse-holo": "888826"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.08",
+                "psa10": "$69.86",
+                "grade9": "$24.96"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.75",
+                "psa10": "$107.50",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

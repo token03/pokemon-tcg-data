@@ -1,0 +1,31 @@
+{
+    "id": "base1-81",
+    "name": "Energy Retrieval",
+    "number": "81",
+    "setId": "base1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "630494",
+        "1st-edition": "715670",
+        "shadowless": "3951805"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$40.82",
+                "grade9": "$19.49"
+            },
+            "1st-edition": {
+                "ungraded": "$14.95",
+                "psa10": "$138.97",
+                "grade9": "$39.99"
+            },
+            "shadowless": {
+                "ungraded": "$1.39",
+                "psa10": "$24.75",
+                "grade9": "$22.66"
+            }
+        }
+    }
+}

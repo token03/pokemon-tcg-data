@@ -1,0 +1,25 @@
+{
+    "id": "sm11-173",
+    "name": "Munchlax",
+    "number": "173",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963739",
+        "reverse-holo": "963980"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.89",
+                "psa10": "$37.30",
+                "grade9": "$14.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.80",
+                "psa10": "$40.84",
+                "grade9": "$16.10"
+            }
+        }
+    }
+}

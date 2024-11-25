@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-113",
+    "name": "Krookodile",
+    "number": "113",
+    "setId": "swsh12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4277234",
+        "reverse-holo": "4293841"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.89",
+                "psa10": "$37.98",
+                "grade9": "$12.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.73",
+                "psa10": "$37.31",
+                "grade9": "$12.64"
+            }
+        }
+    }
+}

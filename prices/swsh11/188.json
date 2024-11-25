@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-188",
+    "name": "Pidgeot V",
+    "number": "188",
+    "setId": "swsh11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4050105"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.43",
+                "psa10": "$30.97",
+                "grade9": "$9.86"
+            }
+        }
+    }
+}

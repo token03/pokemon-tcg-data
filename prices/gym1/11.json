@@ -1,0 +1,25 @@
+{
+    "id": "gym1-11",
+    "name": "Rocket's Hitmonchan",
+    "number": "11",
+    "setId": "gym1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762108",
+        "1st-edition": "2156419"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.96",
+                "psa10": "$294.22",
+                "grade9": "$68.56"
+            },
+            "1st-edition": {
+                "ungraded": "$61.05",
+                "psa10": "$415.00",
+                "grade9": "$115.58"
+            }
+        }
+    }
+}

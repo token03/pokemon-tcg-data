@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-153",
+    "name": "Fire Energy",
+    "number": "153",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "holo": "4637049"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.76",
+                "psa10": "$18.50",
+                "grade9": "$12.95"
+            }
+        }
+    }
+}

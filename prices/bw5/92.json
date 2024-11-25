@@ -1,0 +1,25 @@
+{
+    "id": "bw5-92",
+    "name": "Dark Claw",
+    "number": "92",
+    "setId": "bw5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956138",
+        "reverse-holo": "956244"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$73.80",
+                "grade9": "$31.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.53",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

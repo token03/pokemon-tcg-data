@@ -1,0 +1,25 @@
+{
+    "id": "ex6-39",
+    "name": "Metapod",
+    "number": "39",
+    "setId": "ex6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "850006",
+        "reverse-holo": "850121"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.86",
+                "psa10": "$100.91",
+                "grade9": "$12.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.65",
+                "psa10": "$75.00",
+                "grade9": "$27.49"
+            }
+        }
+    }
+}

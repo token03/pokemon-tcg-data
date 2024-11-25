@@ -1,0 +1,25 @@
+{
+    "id": "xy9-15",
+    "name": "Heatmor",
+    "number": "15",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959506",
+        "reverse-holo": "959628"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.97",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$35.72",
+                "grade9": "$13.38"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm6-125",
+    "name": "Dialga-GX",
+    "number": "125",
+    "setId": "sm6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961788"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.13",
+                "psa10": "$63.22",
+                "grade9": "$26.51"
+            }
+        }
+    }
+}

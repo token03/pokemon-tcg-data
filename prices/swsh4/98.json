@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-98",
+    "name": "Coalossal V",
+    "number": "98",
+    "setId": "swsh4",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "887648"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$16.42",
+                "grade9": "$8.25"
+            }
+        }
+    }
+}

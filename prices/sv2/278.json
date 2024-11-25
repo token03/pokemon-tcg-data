@@ -1,0 +1,19 @@
+{
+    "id": "sv2-278",
+    "name": "Basic Grass Energy",
+    "number": "278",
+    "setId": "sv2",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5287567"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.85",
+                "psa10": "$39.54",
+                "grade9": "$10.51"
+            }
+        }
+    }
+}

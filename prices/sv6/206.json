@@ -1,0 +1,19 @@
+{
+    "id": "sv6-206",
+    "name": "Kieran",
+    "number": "206",
+    "setId": "sv6",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6775723"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.65",
+                "psa10": "$57.22",
+                "grade9": "$17.10"
+            }
+        }
+    }
+}

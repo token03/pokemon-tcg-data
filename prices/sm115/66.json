@@ -1,0 +1,19 @@
+{
+    "id": "sm115-66",
+    "name": "Moltres & Zapdos & Articuno-GX",
+    "number": "66",
+    "setId": "sm115",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964086"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.75",
+                "psa10": "$48.00",
+                "grade9": "$19.91"
+            }
+        }
+    }
+}

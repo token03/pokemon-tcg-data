@@ -1,0 +1,25 @@
+{
+    "id": "base6-28",
+    "name": "Magneton",
+    "number": "28",
+    "setId": "base6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842335",
+        "reverse-holo": "2253711"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$60.00",
+                "grade9": "$50.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$37.53",
+                "psa10": "$395.89",
+                "grade9": "$114.99"
+            }
+        }
+    }
+}

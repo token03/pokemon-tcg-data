@@ -1,0 +1,25 @@
+{
+    "id": "sm9-90",
+    "name": "Zorua",
+    "number": "90",
+    "setId": "sm9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962888",
+        "reverse-holo": "963076"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

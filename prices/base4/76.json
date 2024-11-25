@@ -1,0 +1,19 @@
+{
+    "id": "base4-76",
+    "name": "Goldeen",
+    "number": "76",
+    "setId": "base4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "641879"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$28.65",
+                "grade9": "$8.61"
+            }
+        }
+    }
+}

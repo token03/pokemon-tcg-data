@@ -1,0 +1,25 @@
+{
+    "id": "sm10-60",
+    "name": "Zeraora",
+    "number": "60",
+    "setId": "sm10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963216",
+        "reverse-holo": "963445"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$77.50",
+                "grade9": "$18.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$30.00",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

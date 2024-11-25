@@ -1,0 +1,19 @@
+{
+    "id": "sv2-230",
+    "name": "Forretress ex",
+    "number": "230",
+    "setId": "sv2",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5287519"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$39.31",
+                "grade9": "$9.34"
+            }
+        }
+    }
+}

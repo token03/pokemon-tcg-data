@@ -1,0 +1,25 @@
+{
+    "id": "col1-19",
+    "name": "Palkia",
+    "number": "19",
+    "setId": "col1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "926270",
+        "reverse-holo": "926376"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.50",
+                "psa10": "$400.00",
+                "grade9": "$29.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.82",
+                "psa10": "$69.76",
+                "grade9": "$27.44"
+            }
+        }
+    }
+}

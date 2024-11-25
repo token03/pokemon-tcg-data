@@ -1,0 +1,31 @@
+{
+    "id": "base1-13",
+    "name": "Poliwrath",
+    "number": "13",
+    "setId": "base1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "630426",
+        "1st-edition": "715602",
+        "shadowless": "715704"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.49",
+                "psa10": "$382.22",
+                "grade9": "$63.38"
+            },
+            "1st-edition": {
+                "ungraded": "$221.96",
+                "psa10": "$5,300.00",
+                "grade9": "$938.70"
+            },
+            "shadowless": {
+                "ungraded": "$30.00",
+                "psa10": "$2,031.18",
+                "grade9": "$179.00"
+            }
+        }
+    }
+}

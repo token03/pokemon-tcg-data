@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-71",
+    "name": "Galvantula",
+    "number": "71",
+    "setId": "swsh1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "807118",
+        "reverse-holo": "807119"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.54",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$34.76",
+                "grade9": "$12.57"
+            }
+        }
+    }
+}

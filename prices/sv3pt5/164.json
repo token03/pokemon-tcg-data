@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-164",
+    "name": "Protective Goggles",
+    "number": "164",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5810593",
+        "reverse-holo": "5809743"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$41.42",
+                "grade9": "$13.46"
+            }
+        }
+    }
+}

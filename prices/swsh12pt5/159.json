@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5-159",
+    "name": "Metal Energy",
+    "number": "159",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "holo": "4637055"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.73",
+                "psa10": "$25.87",
+                "grade9": "$8.00"
+            }
+        }
+    }
+}

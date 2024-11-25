@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-156",
+    "name": "Capacious Bucket",
+    "number": "156",
+    "setId": "swsh2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886882",
+        "reverse-holo": "887068"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$34.14",
+                "grade9": "$12.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$37.57",
+                "grade9": "$13.99"
+            }
+        }
+    }
+}

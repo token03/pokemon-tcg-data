@@ -1,0 +1,25 @@
+{
+    "id": "ex3-29",
+    "name": "Graveler",
+    "number": "29",
+    "setId": "ex3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849409",
+        "reverse-holo": "849508"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$90.91",
+                "grade9": "$30.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "$103.18",
+                "grade9": "$47.02"
+            }
+        }
+    }
+}

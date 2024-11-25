@@ -1,0 +1,31 @@
+{
+    "id": "base1-98",
+    "name": "Fire Energy",
+    "number": "98",
+    "setId": "base1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "630511",
+        "1st-edition": "715687",
+        "shadowless": "4034808"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$46.08",
+                "grade9": "$16.70"
+            },
+            "1st-edition": {
+                "ungraded": "$5.98",
+                "psa10": "$164.75",
+                "grade9": "$29.29"
+            },
+            "shadowless": {
+                "ungraded": "$2.73",
+                "psa10": "$36.06",
+                "grade9": "$18.75"
+            }
+        }
+    }
+}

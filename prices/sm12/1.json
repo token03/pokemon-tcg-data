@@ -1,0 +1,19 @@
+{
+    "id": "sm12-1",
+    "name": "Venusaur & Snivy-GX",
+    "number": "1",
+    "setId": "sm12",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964239"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.00",
+                "psa10": "$39.99",
+                "grade9": "$16.74"
+            }
+        }
+    }
+}

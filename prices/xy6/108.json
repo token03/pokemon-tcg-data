@@ -1,0 +1,19 @@
+{
+    "id": "xy6-108",
+    "name": "Winona",
+    "number": "108",
+    "setId": "xy6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958931"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.00",
+                "psa10": "$1,802.81",
+                "grade9": "$85.00"
+            }
+        }
+    }
+}

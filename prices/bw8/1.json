@@ -1,0 +1,25 @@
+{
+    "id": "bw8-1",
+    "name": "Turtwig",
+    "number": "1",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956799",
+        "reverse-holo": "956936"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

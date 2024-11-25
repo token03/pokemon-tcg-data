@@ -1,0 +1,25 @@
+{
+    "id": "sv1-72",
+    "name": "Toxtricity",
+    "number": "72",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933848",
+        "reverse-holo": "4934100"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "$34.55",
+                "grade9": "$11.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.33",
+                "grade9": "$11.45"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm1-134",
+    "name": "Timer Ball",
+    "number": "134",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806878",
+        "reverse-holo": "807007"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.05",
+                "psa10": "$34.90",
+                "grade9": "$12.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.70",
+                "psa10": "$37.93",
+                "grade9": "$14.76"
+            }
+        }
+    }
+}

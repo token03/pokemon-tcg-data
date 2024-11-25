@@ -1,0 +1,25 @@
+{
+    "id": "xy3-87",
+    "name": "Noibat",
+    "number": "87",
+    "setId": "xy3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958070",
+        "reverse-holo": "958176"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.87",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$38.30",
+                "grade9": "$14.61"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw7-35",
+    "name": "Golduck",
+    "number": "35",
+    "setId": "bw7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956550",
+        "reverse-holo": "956701"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.28",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm8-8",
+    "name": "Meganium",
+    "number": "8",
+    "setId": "sm8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962396",
+        "reverse-holo": "962632"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.63",
+                "psa10": "$44.54",
+                "grade9": "$28.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.87",
+                "psa10": "$45.49",
+                "grade9": "$9.13"
+            }
+        }
+    }
+}

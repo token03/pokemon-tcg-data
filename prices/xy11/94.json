@@ -1,0 +1,25 @@
+{
+    "id": "xy11-94",
+    "name": "Fletchling",
+    "number": "94",
+    "setId": "xy11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960173",
+        "reverse-holo": "960276"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$29.99",
+                "grade9": "$12.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$36.17",
+                "grade9": "$13.68"
+            }
+        }
+    }
+}

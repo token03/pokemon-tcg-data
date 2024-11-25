@@ -1,0 +1,25 @@
+{
+    "id": "ex4-6",
+    "name": "Team Aqua's Walrein",
+    "number": "6",
+    "setId": "ex4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849575",
+        "reverse-holo": "849672"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.60",
+                "psa10": "$152.73",
+                "grade9": "$31.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.78",
+                "psa10": "",
+                "grade9": "$71.99"
+            }
+        }
+    }
+}

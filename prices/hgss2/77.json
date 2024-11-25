@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-77",
+    "name": "Interviewer's Questions",
+    "number": "77",
+    "setId": "hgss2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287419",
+        "reverse-holo": "1287515"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$46.58",
+                "grade9": "$17.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.09",
+                "psa10": "",
+                "grade9": "$15.52"
+            }
+        }
+    }
+}

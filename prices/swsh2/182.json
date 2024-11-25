@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-182",
+    "name": "Toxtricity V",
+    "number": "182",
+    "setId": "swsh2",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "886908"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.40",
+                "psa10": "$36.71",
+                "grade9": "$12.79"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-141",
+    "name": "Kabutops",
+    "number": "141",
+    "setId": "sv3pt5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5809522",
+        "reverse-holo": "5809722"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$27.25",
+                "grade9": "$10.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$39.18",
+                "grade9": "$12.78"
+            }
+        }
+    }
+}

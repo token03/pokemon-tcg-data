@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-36",
+    "name": "Morpeko",
+    "number": "36",
+    "setId": "swsh45",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1341513",
+        "reverse-holo": "1341703"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.97",
+                "psa10": "$39.42",
+                "grade9": "$11.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "$14.06",
+                "grade9": "$9.33"
+            }
+        }
+    }
+}

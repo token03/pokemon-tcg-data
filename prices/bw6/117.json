@@ -1,0 +1,31 @@
+{
+    "id": "bw6-117",
+    "name": "Blend Energy GrassFirePsychicDarkness",
+    "number": "117",
+    "setId": "bw6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956371",
+        "crosshatch-league-promo": "6042254",
+        "reverse-holo": "956492"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.84",
+                "psa10": "$55.22",
+                "grade9": "$22.65"
+            },
+            "crosshatch-league-promo": {
+                "ungraded": "$13.31",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

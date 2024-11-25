@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-207",
+    "name": "Basic Psychic Energy",
+    "number": "207",
+    "setId": "sv3pt5",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "holo": "5809591"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$4.21",
+                "psa10": "$37.00",
+                "grade9": "$13.20"
+            }
+        }
+    }
+}

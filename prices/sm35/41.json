@@ -1,0 +1,25 @@
+{
+    "id": "sm35-41",
+    "name": "Latios",
+    "number": "41",
+    "setId": "sm35",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "961110",
+        "reverse-holo": "2425813"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$48.56",
+                "grade9": "$10.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$100.00",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

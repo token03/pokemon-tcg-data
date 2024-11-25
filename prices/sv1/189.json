@@ -1,0 +1,31 @@
+{
+    "id": "sv1-189",
+    "name": "Professor's Research (Professor Sada)",
+    "number": "189",
+    "setId": "sv1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5058660",
+        "holo": "4933963",
+        "reverse-holo": "4934209"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$35.20",
+                "grade9": "$11.74"
+            },
+            "holo": {
+                "ungraded": "$1.13",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

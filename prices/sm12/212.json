@@ -1,0 +1,19 @@
+{
+    "id": "sm12-212",
+    "name": "Charizard & Braixen-GX",
+    "number": "212",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964450"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$36.70",
+                "psa10": "$114.50",
+                "grade9": "$51.01"
+            }
+        }
+    }
+}

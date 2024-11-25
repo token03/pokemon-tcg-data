@@ -1,0 +1,25 @@
+{
+    "id": "dp5-12",
+    "name": "Phione",
+    "number": "12",
+    "setId": "dp5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "921374",
+        "reverse-holo": "921475"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.32",
+                "psa10": "$98.81",
+                "grade9": "$29.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.64",
+                "psa10": "$83.86",
+                "grade9": "$26.45"
+            }
+        }
+    }
+}

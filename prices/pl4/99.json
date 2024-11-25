@@ -1,0 +1,19 @@
+{
+    "id": "pl4-99",
+    "name": "Tangrowth LV.X",
+    "number": "99",
+    "setId": "pl4",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925718"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.06",
+                "psa10": "$380.00",
+                "grade9": "$99.26"
+            }
+        }
+    }
+}

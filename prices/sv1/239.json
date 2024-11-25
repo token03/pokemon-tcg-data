@@ -1,0 +1,19 @@
+{
+    "id": "sv1-239",
+    "name": "Penny",
+    "number": "239",
+    "setId": "sv1",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "4934013"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$55.00",
+                "grade9": "$18.00"
+            }
+        }
+    }
+}

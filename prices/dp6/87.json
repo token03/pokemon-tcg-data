@@ -1,0 +1,25 @@
+{
+    "id": "dp6-87",
+    "name": "Chinchou",
+    "number": "87",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925018",
+        "reverse-holo": "925163"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.88",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

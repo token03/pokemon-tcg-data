@@ -1,0 +1,25 @@
+{
+    "id": "sm11-149",
+    "name": "Dragonair",
+    "number": "149",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963715",
+        "reverse-holo": "963958"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$30.68",
+                "grade9": "$11.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.97",
+                "psa10": "$41.23",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

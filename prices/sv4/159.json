@@ -1,0 +1,31 @@
+{
+    "id": "sv4-159",
+    "name": "Ancient Booster Energy Capsule",
+    "number": "159",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5952997",
+        "cosmos-holo": "6021782",
+        "reverse-holo": "5953244"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.34",
+                "psa10": "$40.91",
+                "grade9": "$13.22"
+            },
+            "cosmos-holo": {
+                "ungraded": "$3.27",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.13",
+                "psa10": "$35.25",
+                "grade9": "$11.55"
+            }
+        }
+    }
+}

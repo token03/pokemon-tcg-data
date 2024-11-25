@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG14",
+    "name": "Blaziken V",
+    "number": "TG14",
+    "setId": "swsh12tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277102"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$13.00",
+                "psa10": "$67.20",
+                "grade9": "$21.00"
+            }
+        }
+    }
+}

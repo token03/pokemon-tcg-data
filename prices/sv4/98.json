@@ -1,0 +1,19 @@
+{
+    "id": "sv4-98",
+    "name": "Hoopa ex",
+    "number": "98",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952936"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$2.62",
+                "psa10": "$39.06",
+                "grade9": "$3.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "pop9-8",
+    "name": "Gabite",
+    "number": "8",
+    "setId": "pop9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762866"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

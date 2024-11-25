@@ -1,0 +1,19 @@
+{
+    "id": "sm7-163",
+    "name": "Copycat",
+    "number": "163",
+    "setId": "sm7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962076"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.55",
+                "psa10": "$75.53",
+                "grade9": "$37.38"
+            }
+        }
+    }
+}

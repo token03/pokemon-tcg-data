@@ -1,0 +1,19 @@
+{
+    "id": "pop5-17",
+    "name": "Umbreon \u2605",
+    "number": "17",
+    "setId": "pop5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "gold-star": "762776"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$2,037.50",
+                "psa10": "$19,999.99",
+                "grade9": "$7,005.65"
+            }
+        }
+    }
+}

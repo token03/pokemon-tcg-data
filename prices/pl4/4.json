@@ -1,0 +1,25 @@
+{
+    "id": "pl4-4",
+    "name": "Kabutops",
+    "number": "4",
+    "setId": "pl4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925623",
+        "reverse-holo": "925734"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.65",
+                "psa10": "$99.45",
+                "grade9": "$34.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.96",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

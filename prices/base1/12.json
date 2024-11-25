@@ -1,0 +1,43 @@
+{
+    "id": "base1-12",
+    "name": "Ninetales",
+    "number": "12",
+    "setId": "base1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "630425",
+        "1st-edition": "715601",
+        "black-flame": "2386882",
+        "no-damage": "6326897",
+        "shadowless": "715703"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.37",
+                "psa10": "$379.99",
+                "grade9": "$93.57"
+            },
+            "1st-edition": {
+                "ungraded": "$272.58",
+                "psa10": "$9,321.82",
+                "grade9": "$951.18"
+            },
+            "black-flame": {
+                "ungraded": "$19.17",
+                "psa10": "",
+                "grade9": ""
+            },
+            "no-damage": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "shadowless": {
+                "ungraded": "$28.18",
+                "psa10": "$2,024.00",
+                "grade9": "$221.11"
+            }
+        }
+    }
+}

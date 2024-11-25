@@ -1,0 +1,19 @@
+{
+    "id": "sm6-142",
+    "name": "Eneporter",
+    "number": "142",
+    "setId": "sm6",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "961805"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.28",
+                "psa10": "$54.50",
+                "grade9": "$7.50"
+            }
+        }
+    }
+}

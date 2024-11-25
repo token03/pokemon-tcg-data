@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-34",
+    "name": "Alolan Vulpix VSTAR",
+    "number": "34",
+    "setId": "swsh12",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4277153"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$20.69",
+                "grade9": "$7.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv2-274",
+    "name": "Chien-Pao ex",
+    "number": "274",
+    "setId": "sv2",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5287563"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.00",
+                "psa10": "$29.99",
+                "grade9": "$23.44"
+            }
+        }
+    }
+}

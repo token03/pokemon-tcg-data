@@ -1,0 +1,19 @@
+{
+    "id": "sm4-109",
+    "name": "Gladion",
+    "number": "109",
+    "setId": "sm4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961255"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.21",
+                "psa10": "$64.97",
+                "grade9": "$16.49"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy5-148",
+    "name": "Kyogre-EX",
+    "number": "148",
+    "setId": "xy5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958605"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.55",
+                "psa10": "$1,025.00",
+                "grade9": "$75.00"
+            }
+        }
+    }
+}

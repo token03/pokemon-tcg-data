@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-123",
+    "name": "Bea",
+    "number": "123",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4637019",
+        "reverse-holo": "4637219"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.60",
+                "psa10": "$33.49",
+                "grade9": "$9.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.86",
+                "psa10": "$37.99",
+                "grade9": "$7.80"
+            }
+        }
+    }
+}

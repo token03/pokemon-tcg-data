@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG09",
+    "name": "Ariados",
+    "number": "TG09",
+    "setId": "swsh9tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3188400"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.77",
+                "psa10": "$21.11",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

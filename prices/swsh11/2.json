@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-2",
+    "name": "Gloom",
+    "number": "2",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4049919",
+        "reverse-holo": "4050136"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$34.12",
+                "grade9": "$11.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.96",
+                "psa10": "$34.00",
+                "grade9": "$11.49"
+            }
+        }
+    }
+}

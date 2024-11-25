@@ -1,0 +1,25 @@
+{
+    "id": "ex5-12",
+    "name": "Milotic",
+    "number": "12",
+    "setId": "ex5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849785",
+        "reverse-holo": "849887"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.89",
+                "psa10": "$198.13",
+                "grade9": "$43.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.49",
+                "psa10": "$343.18",
+                "grade9": "$54.48"
+            }
+        }
+    }
+}

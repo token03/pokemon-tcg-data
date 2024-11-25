@@ -1,0 +1,19 @@
+{
+    "id": "ex14-89",
+    "name": "Aggron ex",
+    "number": "89",
+    "setId": "ex14",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889376"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.59",
+                "psa10": "$328.24",
+                "grade9": "$110.14"
+            }
+        }
+    }
+}

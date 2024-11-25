@@ -1,0 +1,25 @@
+{
+    "id": "xy10-57",
+    "name": "Vullaby",
+    "number": "57",
+    "setId": "xy10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959914",
+        "reverse-holo": "960030"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.54",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm9-149",
+    "name": "Morgan",
+    "number": "149",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962947",
+        "reverse-holo": "963129"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.33",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm11-88",
+    "name": "Munna",
+    "number": "88",
+    "setId": "sm11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963654",
+        "reverse-holo": "963903"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.29",
+                "grade9": "$12.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$34.21",
+                "grade9": "$12.37"
+            }
+        }
+    }
+}

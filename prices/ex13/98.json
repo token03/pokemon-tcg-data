@@ -1,0 +1,25 @@
+{
+    "id": "ex13-98",
+    "name": "\u03b4 Rainbow Energy",
+    "number": "98",
+    "setId": "ex13",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889178",
+        "reverse-holo": "889287"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.12",
+                "psa10": "$109.10",
+                "grade9": "$24.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.14",
+                "psa10": "$193.14",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

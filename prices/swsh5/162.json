@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-162",
+    "name": "Rapid Strike Style Mustard",
+    "number": "162",
+    "setId": "swsh5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "1673342"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.83",
+                "psa10": "$28.00",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

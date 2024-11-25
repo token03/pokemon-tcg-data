@@ -1,0 +1,25 @@
+{
+    "id": "dp6-137",
+    "name": "Technical Machine TS-2",
+    "number": "137",
+    "setId": "dp6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925068",
+        "reverse-holo": "925211"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.47",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

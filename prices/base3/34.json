@@ -1,0 +1,25 @@
+{
+    "id": "base3-34",
+    "name": "Golbat",
+    "number": "34",
+    "setId": "base3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643408",
+        "1st-edition": "1099528"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$39.99",
+                "grade9": "$13.65"
+            },
+            "1st-edition": {
+                "ungraded": "$3.13",
+                "psa10": "$75.00",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

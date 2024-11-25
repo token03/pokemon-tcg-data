@@ -1,0 +1,25 @@
+{
+    "id": "neo2-19",
+    "name": "Butterfree",
+    "number": "19",
+    "setId": "neo2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762418",
+        "1st-edition": "2158429"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.13",
+                "psa10": "$37.50",
+                "grade9": "$16.85"
+            },
+            "1st-edition": {
+                "ungraded": "$8.20",
+                "psa10": "$75.00",
+                "grade9": "$17.63"
+            }
+        }
+    }
+}

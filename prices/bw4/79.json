@@ -1,0 +1,25 @@
+{
+    "id": "bw4-79",
+    "name": "Wigglytuff",
+    "number": "79",
+    "setId": "bw4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955931",
+        "reverse-holo": "956030"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.96",
+                "psa10": "$56.25",
+                "grade9": "$35.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.13",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

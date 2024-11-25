@@ -1,0 +1,25 @@
+{
+    "id": "sm9-151",
+    "name": "Nita",
+    "number": "151",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962949",
+        "reverse-holo": "963131"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "$36.91",
+                "grade9": "$14.01"
+            }
+        }
+    }
+}

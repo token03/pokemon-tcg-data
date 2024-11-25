@@ -1,0 +1,19 @@
+{
+    "id": "sv3-208",
+    "name": "Pidgeotto",
+    "number": "208",
+    "setId": "sv3",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5605726"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.53",
+                "psa10": "$57.86",
+                "grade9": "$15.53"
+            }
+        }
+    }
+}

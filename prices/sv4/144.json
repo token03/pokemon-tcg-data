@@ -1,0 +1,25 @@
+{
+    "id": "sv4-144",
+    "name": "Porygon-Z",
+    "number": "144",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5982880",
+        "reverse-holo": "5953231"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.26",
+                "psa10": "",
+                "grade9": "$5.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "$37.25",
+                "grade9": "$12.14"
+            }
+        }
+    }
+}

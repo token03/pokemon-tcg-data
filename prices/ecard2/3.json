@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-3",
+    "name": "Ariados",
+    "number": "3",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842532",
+        "reverse-holo": "2293894"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.15",
+                "psa10": "$66.03",
+                "grade9": "$36.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.40",
+                "psa10": "$112.50",
+                "grade9": "$28.75"
+            }
+        }
+    }
+}

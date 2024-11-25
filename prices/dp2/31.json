@@ -1,0 +1,25 @@
+{
+    "id": "dp2-31",
+    "name": "Nidoqueen",
+    "number": "31",
+    "setId": "dp2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920654",
+        "reverse-holo": "920778"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$53.49",
+                "grade9": "$19.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.67",
+                "psa10": "",
+                "grade9": "$40.00"
+            }
+        }
+    }
+}

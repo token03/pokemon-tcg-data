@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-44",
+    "name": "Pikachu VMAX",
+    "number": "44",
+    "setId": "swsh4",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "842039"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.12",
+                "psa10": "$35.00",
+                "grade9": "$12.25"
+            }
+        }
+    }
+}

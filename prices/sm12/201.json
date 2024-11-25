@@ -1,0 +1,25 @@
+{
+    "id": "sm12-201",
+    "name": "Professor Oak's Setup",
+    "number": "201",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964439",
+        "reverse-holo": "964693"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$35.36",
+                "grade9": "$8.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.71",
+                "psa10": "$36.59",
+                "grade9": "$13.69"
+            }
+        }
+    }
+}

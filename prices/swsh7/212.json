@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-212",
+    "name": "Sylveon VMAX",
+    "number": "212",
+    "setId": "swsh7",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2513021"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$198.75",
+                "psa10": "$306.26",
+                "grade9": "$188.09"
+            }
+        }
+    }
+}

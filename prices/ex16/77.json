@@ -1,0 +1,25 @@
+{
+    "id": "ex16-77",
+    "name": "Great Ball",
+    "number": "77",
+    "setId": "ex16",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889741",
+        "reverse-holo": "889848"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.57",
+                "psa10": "$91.49",
+                "grade9": "$33.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.31",
+                "psa10": "$104.25",
+                "grade9": "$18.02"
+            }
+        }
+    }
+}

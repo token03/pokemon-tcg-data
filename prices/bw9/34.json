@@ -1,0 +1,25 @@
+{
+    "id": "bw9-34",
+    "name": "Jolteon",
+    "number": "34",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957089",
+        "reverse-holo": "957209"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$84.14",
+                "grade9": "$25.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.71",
+                "psa10": "$274.63",
+                "grade9": "$53.74"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-95",
+    "name": "Weezing",
+    "number": "95",
+    "setId": "swsh6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2253900",
+        "reverse-holo": "2254116"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.84",
+                "grade9": "$12.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$34.26",
+                "grade9": "$11.95"
+            }
+        }
+    }
+}

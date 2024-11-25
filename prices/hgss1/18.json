@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-18",
+    "name": "Exeggutor",
+    "number": "18",
+    "setId": "hgss1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806131",
+        "reverse-holo": "806236"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$6.23",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm6-5",
+    "name": "Scatterbug",
+    "number": "5",
+    "setId": "sm6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961668",
+        "reverse-holo": "961814"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.13",
+                "psa10": "",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

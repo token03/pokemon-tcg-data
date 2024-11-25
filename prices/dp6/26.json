@@ -1,0 +1,25 @@
+{
+    "id": "dp6-26",
+    "name": "Deoxys Speed Forme",
+    "number": "26",
+    "setId": "dp6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "speed-reverse-holo": "925103",
+        "speed": "924957"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "speed-reverse-holo": {
+                "ungraded": "$5.08",
+                "psa10": "$105.32",
+                "grade9": "$40.63"
+            },
+            "speed": {
+                "ungraded": "$3.16",
+                "psa10": "$75.35",
+                "grade9": "$28.44"
+            }
+        }
+    }
+}

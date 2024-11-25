@@ -1,0 +1,31 @@
+{
+    "id": "ex11-63",
+    "name": "Ditto",
+    "number": "63",
+    "setId": "ex11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888725",
+        "reverse-holo": "888839",
+        "pikachu-comic-con": "5830383"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.50",
+                "psa10": "$126.57",
+                "grade9": "$36.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$30.13",
+                "psa10": "$405.00",
+                "grade9": "$86.00"
+            },
+            "pikachu-comic-con": {
+                "ungraded": "$59.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

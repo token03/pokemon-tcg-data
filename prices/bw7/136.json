@@ -1,0 +1,25 @@
+{
+    "id": "bw7-136",
+    "name": "Town Map",
+    "number": "136",
+    "setId": "bw7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956651",
+        "reverse-holo": "956795"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.09",
+                "psa10": "$63.42",
+                "grade9": "$26.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

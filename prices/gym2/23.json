@@ -1,0 +1,25 @@
+{
+    "id": "gym2-23",
+    "name": "Giovanni's Nidoqueen",
+    "number": "23",
+    "setId": "gym2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762229",
+        "1st-edition": "1450217"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.27",
+                "psa10": "$41.00",
+                "grade9": "$24.50"
+            },
+            "1st-edition": {
+                "ungraded": "$15.89",
+                "psa10": "$73.84",
+                "grade9": "$24.32"
+            }
+        }
+    }
+}

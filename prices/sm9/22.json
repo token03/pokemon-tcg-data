@@ -1,0 +1,25 @@
+{
+    "id": "sm9-22",
+    "name": "Squirtle",
+    "number": "22",
+    "setId": "sm9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962820",
+        "reverse-holo": "963014"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$37.89",
+                "grade9": "$22.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$120.00",
+                "grade9": "$99.99"
+            }
+        }
+    }
+}

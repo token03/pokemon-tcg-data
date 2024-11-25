@@ -1,0 +1,25 @@
+{
+    "id": "dp3-75",
+    "name": "Wartortle",
+    "number": "75",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920965",
+        "reverse-holo": "921096"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "$58.41",
+                "grade9": "$14.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.12",
+                "psa10": "$79.25",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

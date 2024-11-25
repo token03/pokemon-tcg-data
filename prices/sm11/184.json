@@ -1,0 +1,25 @@
+{
+    "id": "sm11-184",
+    "name": "Silvally",
+    "number": "184",
+    "setId": "sm11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963750",
+        "reverse-holo": "963991"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.55",
+                "psa10": "$19.50",
+                "grade9": "$10.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.12",
+                "psa10": "$38.19",
+                "grade9": "$14.61"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-48",
+    "name": "Flaaffy",
+    "number": "48",
+    "setId": "swsh6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2253854",
+        "reverse-holo": "2254077"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.83",
+                "grade9": "$11.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$34.34",
+                "grade9": "$11.99"
+            }
+        }
+    }
+}

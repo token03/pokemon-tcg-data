@@ -1,0 +1,25 @@
+{
+    "id": "ex7-77",
+    "name": "Slugma",
+    "number": "77",
+    "setId": "ex7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886411",
+        "reverse-holo": "886522"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$33.00",
+                "grade9": "$27.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.96",
+                "psa10": "$272.34",
+                "grade9": "$25.70"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neo1-97",
+    "name": "Sprout Tower",
+    "number": "97",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762410",
+        "1st-edition": "2324923"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$78.98",
+                "grade9": "$23.81"
+            },
+            "1st-edition": {
+                "ungraded": "$2.90",
+                "psa10": "$26.25",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

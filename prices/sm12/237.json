@@ -1,0 +1,19 @@
+{
+    "id": "sm12-237",
+    "name": "Torkoal",
+    "number": "237",
+    "setId": "sm12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "964475"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.54",
+                "psa10": "$37.93",
+                "grade9": "$14.95"
+            }
+        }
+    }
+}

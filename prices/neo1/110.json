@@ -1,0 +1,25 @@
+{
+    "id": "neo1-110",
+    "name": "Psychic Energy",
+    "number": "110",
+    "setId": "neo1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "2418111",
+        "1st-edition": "2158421"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.07",
+                "psa10": "$23.75",
+                "grade9": "$13.97"
+            },
+            "1st-edition": {
+                "ungraded": "$2.27",
+                "psa10": "$20.50",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

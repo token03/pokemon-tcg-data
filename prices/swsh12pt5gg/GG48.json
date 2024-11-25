@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG48",
+    "name": "Zacian V",
+    "number": "GG48",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4637104"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$11.99",
+                "psa10": "$64.94",
+                "grade9": "$21.78"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm10-81",
+    "name": "Marshadow",
+    "number": "81",
+    "setId": "sm10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963237",
+        "reverse-holo": "963465"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.11",
+                "psa10": "$38.30",
+                "grade9": "$3.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.44",
+                "psa10": "$39.55",
+                "grade9": "$15.49"
+            }
+        }
+    }
+}

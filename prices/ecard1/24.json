@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-24",
+    "name": "Poliwrath",
+    "number": "24",
+    "setId": "ecard1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842440",
+        "reverse-holo": "2266879"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$33.42",
+                "psa10": "$1,667.00",
+                "grade9": "$118.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.68",
+                "psa10": "$99.99",
+                "grade9": "$35.56"
+            }
+        }
+    }
+}

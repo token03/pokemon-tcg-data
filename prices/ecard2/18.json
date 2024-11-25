@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-18",
+    "name": "Jynx",
+    "number": "18",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842546",
+        "reverse-holo": "2293909"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.17",
+                "psa10": "$43.00",
+                "grade9": "$13.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.59",
+                "psa10": "$113.25",
+                "grade9": "$35.35"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex1-18",
+    "name": "Nosepass",
+    "number": "18",
+    "setId": "ex1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762897",
+        "reverse-holo": "762979"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$49.50",
+                "grade9": "$11.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.90",
+                "psa10": "$51.73",
+                "grade9": "$34.00"
+            }
+        }
+    }
+}

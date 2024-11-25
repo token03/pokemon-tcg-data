@@ -1,0 +1,25 @@
+{
+    "id": "xy7-58",
+    "name": "Goomy",
+    "number": "58",
+    "setId": "xy7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959076",
+        "reverse-holo": "959165"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.70",
+                "psa10": "$39.50",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

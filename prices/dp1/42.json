@@ -1,0 +1,25 @@
+{
+    "id": "dp1-42",
+    "name": "Wynaut",
+    "number": "42",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763078",
+        "reverse-holo": "763200"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$62.05",
+                "grade9": "$22.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$63.18",
+                "grade9": "$20.76"
+            }
+        }
+    }
+}

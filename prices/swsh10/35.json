@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-35",
+    "name": "Barboach",
+    "number": "35",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489533",
+        "reverse-holo": "3489745"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.03",
+                "grade9": "$6.50"
+            }
+        }
+    }
+}

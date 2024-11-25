@@ -1,0 +1,19 @@
+{
+    "id": "mcd17-2",
+    "name": "Grubbin",
+    "number": "2",
+    "setId": "mcd17",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180029"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.54",
+                "psa10": "$40.97",
+                "grade9": "$16.60"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy10-117",
+    "name": "Alakazam-EX",
+    "number": "117",
+    "setId": "xy10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959974"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.50",
+                "psa10": "$134.76",
+                "grade9": "$33.21"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-74",
+    "name": "Sylveon V",
+    "number": "74",
+    "setId": "swsh7",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2512885"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$25.00",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw1-72",
+    "name": "Vullaby",
+    "number": "72",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806381",
+        "reverse-holo": "806468"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.06",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "",
+                "grade9": "$1.80"
+            }
+        }
+    }
+}

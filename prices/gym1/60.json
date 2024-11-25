@@ -1,0 +1,25 @@
+{
+    "id": "gym1-60",
+    "name": "Sabrina's Slowbro",
+    "number": "60",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762178",
+        "1st-edition": "2156496"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.96",
+                "psa10": "$44.25",
+                "grade9": "$27.25"
+            },
+            "1st-edition": {
+                "ungraded": "$3.64",
+                "psa10": "$70.00",
+                "grade9": "$24.88"
+            }
+        }
+    }
+}

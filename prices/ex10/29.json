@@ -1,0 +1,31 @@
+{
+    "id": "ex10-29",
+    "name": "Lugia",
+    "number": "29",
+    "setId": "ex10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "888449",
+        "reverse-holo": "888591",
+        "rocks-america": "5529002"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.04",
+                "psa10": "$92.98",
+                "grade9": "$50.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$70.00",
+                "psa10": "$467.41",
+                "grade9": "$125.00"
+            },
+            "rocks-america": {
+                "ungraded": "$25.00",
+                "psa10": "$282.06",
+                "grade9": "$49.75"
+            }
+        }
+    }
+}

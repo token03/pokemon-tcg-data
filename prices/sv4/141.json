@@ -1,0 +1,25 @@
+{
+    "id": "sv4-141",
+    "name": "Tatsugiri",
+    "number": "141",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5952979",
+        "reverse-holo": "5953228"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "$35.39",
+                "grade9": "$11.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.60",
+                "grade9": "$11.36"
+            }
+        }
+    }
+}

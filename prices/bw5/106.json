@@ -1,0 +1,19 @@
+{
+    "id": "bw5-106",
+    "name": "Groudon-EX",
+    "number": "106",
+    "setId": "bw5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956153"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$47.00",
+                "psa10": "$1,638.33",
+                "grade9": "$310.00"
+            }
+        }
+    }
+}

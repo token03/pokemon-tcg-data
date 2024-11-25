@@ -1,0 +1,19 @@
+{
+    "id": "sm9-51",
+    "name": "Tapu Koko \u25c7",
+    "number": "51",
+    "setId": "sm9",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "962849"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.82",
+                "psa10": "$25.16",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

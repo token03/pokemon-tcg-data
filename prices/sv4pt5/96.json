@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-96",
+    "name": "Hoppip",
+    "number": "96",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277014"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.20",
+                "psa10": "$23.12",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

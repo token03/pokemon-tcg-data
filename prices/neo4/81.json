@@ -1,0 +1,25 @@
+{
+    "id": "neo4-81",
+    "name": "Seel",
+    "number": "81",
+    "setId": "neo4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762636",
+        "1st-edition": "2183376"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.74",
+                "grade9": "$19.97"
+            },
+            "1st-edition": {
+                "ungraded": "$2.24",
+                "psa10": "$45.65",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

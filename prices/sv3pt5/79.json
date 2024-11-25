@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-79",
+    "name": "Slowpoke",
+    "number": "79",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809460",
+        "reverse-holo": "5809662"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.98",
+                "psa10": "$34.49",
+                "grade9": "$11.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.74",
+                "grade9": "$11.73"
+            }
+        }
+    }
+}

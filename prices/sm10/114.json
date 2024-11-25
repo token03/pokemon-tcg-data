@@ -1,0 +1,25 @@
+{
+    "id": "sm10-114",
+    "name": "Sandile",
+    "number": "114",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963270",
+        "reverse-holo": "963495"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.85",
+                "psa10": "$37.24",
+                "grade9": "$14.16"
+            }
+        }
+    }
+}

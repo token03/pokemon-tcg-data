@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-210",
+    "name": "Serperior VSTAR",
+    "number": "210",
+    "setId": "swsh12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "4277331"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.43",
+                "psa10": "$30.06",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

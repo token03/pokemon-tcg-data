@@ -1,0 +1,19 @@
+{
+    "id": "sv2-232",
+    "name": "Wo-Chien ex",
+    "number": "232",
+    "setId": "sv2",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5287521"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "$38.47",
+                "grade9": "$12.72"
+            }
+        }
+    }
+}

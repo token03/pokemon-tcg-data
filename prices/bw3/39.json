@@ -1,0 +1,25 @@
+{
+    "id": "bw3-39",
+    "name": "Tynamo",
+    "number": "39",
+    "setId": "bw3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955694",
+        "reverse-holo": "955796"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.30",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

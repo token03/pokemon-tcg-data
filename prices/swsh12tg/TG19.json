@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG19",
+    "name": "Corviknight VMAX",
+    "number": "TG19",
+    "setId": "swsh12tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "4277107"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$5.99",
+                "psa10": "$34.59",
+                "grade9": "$15.49"
+            }
+        }
+    }
+}

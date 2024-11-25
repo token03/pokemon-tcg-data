@@ -1,0 +1,25 @@
+{
+    "id": "pl1-104",
+    "name": "Broken Time-Space",
+    "number": "104",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "805897",
+        "reverse-holo": "805898"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.27",
+                "psa10": "$26.00",
+                "grade9": "$8.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.66",
+                "psa10": "",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

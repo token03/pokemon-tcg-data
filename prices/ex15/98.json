@@ -1,0 +1,19 @@
+{
+    "id": "ex15-98",
+    "name": "Salamence ex \u03b4",
+    "number": "98",
+    "setId": "ex15",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889572"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$55.50",
+                "psa10": "$1,070.00",
+                "grade9": "$199.98"
+            }
+        }
+    }
+}

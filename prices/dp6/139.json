@@ -1,0 +1,25 @@
+{
+    "id": "dp6-139",
+    "name": "Root Fossil",
+    "number": "139",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925070",
+        "reverse-holo": "925213"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.57",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.79",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

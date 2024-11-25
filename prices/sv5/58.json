@@ -1,0 +1,25 @@
+{
+    "id": "sv5-58",
+    "name": "Yamper",
+    "number": "58",
+    "setId": "sv5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6495518",
+        "reverse-holo": "6495731"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.07",
+                "psa10": "$40.03",
+                "grade9": "$12.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$35.09",
+                "grade9": "$11.38"
+            }
+        }
+    }
+}

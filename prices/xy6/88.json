@@ -1,0 +1,25 @@
+{
+    "id": "xy6-88",
+    "name": "Revive",
+    "number": "88",
+    "setId": "xy6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958911",
+        "reverse-holo": "959009"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$37.00",
+                "grade9": "$14.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.80",
+                "psa10": "$40.39",
+                "grade9": "$4.91"
+            }
+        }
+    }
+}

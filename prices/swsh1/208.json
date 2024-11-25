@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-208",
+    "name": "Marnie",
+    "number": "208",
+    "setId": "swsh1",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2336171"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.87",
+                "psa10": "$40.75",
+                "grade9": "$26.63"
+            }
+        }
+    }
+}

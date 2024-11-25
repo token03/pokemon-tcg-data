@@ -1,0 +1,19 @@
+{
+    "id": "base4-56",
+    "name": "Persian",
+    "number": "56",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641859"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$41.00",
+                "grade9": "$25.86"
+            }
+        }
+    }
+}

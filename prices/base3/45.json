@@ -1,0 +1,25 @@
+{
+    "id": "base3-45",
+    "name": "Weezing",
+    "number": "45",
+    "setId": "base3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643440",
+        "1st-edition": "1099539"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$54.01",
+                "grade9": "$12.78"
+            },
+            "1st-edition": {
+                "ungraded": "$2.47",
+                "psa10": "$55.00",
+                "grade9": "$17.44"
+            }
+        }
+    }
+}

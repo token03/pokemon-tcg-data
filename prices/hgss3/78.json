@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-78",
+    "name": "Team Rocket's Trickery",
+    "number": "78",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925965",
+        "reverse-holo": "926056"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.75",
+                "psa10": "",
+                "grade9": "$44.95"
+            }
+        }
+    }
+}

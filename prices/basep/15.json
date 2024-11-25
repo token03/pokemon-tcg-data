@@ -1,0 +1,25 @@
+{
+    "id": "basep-15",
+    "name": "Cool Porygon",
+    "number": "15",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5133977",
+        "winner": "4050290"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "winner": {
+                "ungraded": "$61.00",
+                "psa10": "$375.00",
+                "grade9": "$55.50"
+            }
+        }
+    }
+}

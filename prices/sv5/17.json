@@ -1,0 +1,25 @@
+{
+    "id": "sv5-17",
+    "name": "Sawsbuck",
+    "number": "17",
+    "setId": "sv5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6495477",
+        "reverse-holo": "6495695"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$34.85",
+                "grade9": "$11.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "$36.65",
+                "grade9": "$11.80"
+            }
+        }
+    }
+}

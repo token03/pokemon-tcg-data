@@ -1,0 +1,25 @@
+{
+    "id": "sv1-193",
+    "name": "Rocky Helmet",
+    "number": "193",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933967",
+        "reverse-holo": "4934213"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.90",
+                "grade9": "$11.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$35.68",
+                "grade9": "$11.90"
+            }
+        }
+    }
+}

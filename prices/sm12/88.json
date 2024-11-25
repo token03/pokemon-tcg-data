@@ -1,0 +1,25 @@
+{
+    "id": "sm12-88",
+    "name": "Swoobat",
+    "number": "88",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964326",
+        "reverse-holo": "964589"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "$34.85",
+                "grade9": "$12.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "$36.36",
+                "grade9": "$13.57"
+            }
+        }
+    }
+}

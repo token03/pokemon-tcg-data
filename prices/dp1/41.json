@@ -1,0 +1,25 @@
+{
+    "id": "dp1-41",
+    "name": "Wobbuffet",
+    "number": "41",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763077",
+        "reverse-holo": "763199"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$28.88",
+                "grade9": "$20.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$50.83",
+                "grade9": "$39.60"
+            }
+        }
+    }
+}

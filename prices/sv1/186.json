@@ -1,0 +1,25 @@
+{
+    "id": "sv1-186",
+    "name": "Pok\u00e9gear 3.0",
+    "number": "186",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933960",
+        "reverse-holo": "4934206"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$36.07",
+                "grade9": "$12.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$37.39",
+                "grade9": "$12.47"
+            }
+        }
+    }
+}

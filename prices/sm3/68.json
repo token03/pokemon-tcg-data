@@ -1,0 +1,25 @@
+{
+    "id": "sm3-68",
+    "name": "Lunatone",
+    "number": "68",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960852",
+        "reverse-holo": "961014"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$20.75",
+                "grade9": ""
+            }
+        }
+    }
+}

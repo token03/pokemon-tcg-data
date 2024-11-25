@@ -1,0 +1,25 @@
+{
+    "id": "xy2-95",
+    "name": "Protection Cube",
+    "number": "95",
+    "setId": "xy2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957842",
+        "reverse-holo": "957942"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.72",
+                "psa10": "$41.61",
+                "grade9": "$9.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.04",
+                "psa10": "$64.42",
+                "grade9": "$2.00"
+            }
+        }
+    }
+}

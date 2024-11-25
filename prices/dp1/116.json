@@ -1,0 +1,25 @@
+{
+    "id": "dp1-116",
+    "name": "Warp Point",
+    "number": "116",
+    "setId": "dp1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "763152",
+        "reverse-holo": "763274"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$24.50",
+                "grade9": "$19.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$63.38",
+                "grade9": "$22.80"
+            }
+        }
+    }
+}

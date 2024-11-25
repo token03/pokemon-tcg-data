@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-117",
+    "name": "Trubbish",
+    "number": "117",
+    "setId": "swsh2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886844",
+        "reverse-holo": "887034"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "$36.01",
+                "grade9": "$13.17"
+            }
+        }
+    }
+}

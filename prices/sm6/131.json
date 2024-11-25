@@ -1,0 +1,19 @@
+{
+    "id": "sm6-131",
+    "name": "Ultra Recon Squad",
+    "number": "131",
+    "setId": "sm6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961794"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.57",
+                "psa10": "$68.00",
+                "grade9": "$28.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex9-42",
+    "name": "Volbeat",
+    "number": "42",
+    "setId": "ex9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888267",
+        "reverse-holo": "888374"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "$70.55",
+                "grade9": "$24.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.63",
+                "psa10": "$148.22",
+                "grade9": "$22.77"
+            }
+        }
+    }
+}

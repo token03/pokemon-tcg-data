@@ -1,0 +1,19 @@
+{
+    "id": "swsh35-69",
+    "name": "Drednaw V",
+    "number": "69",
+    "setId": "swsh35",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887496"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$19.99",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

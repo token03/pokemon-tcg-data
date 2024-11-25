@@ -1,0 +1,19 @@
+{
+    "id": "base4-18",
+    "name": "Venusaur",
+    "number": "18",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641821"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$36.78",
+                "psa10": "$795.34",
+                "grade9": "$130.46"
+            }
+        }
+    }
+}

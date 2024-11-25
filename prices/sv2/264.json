@@ -1,0 +1,19 @@
+{
+    "id": "sv2-264",
+    "name": "Squawkabilly ex",
+    "number": "264",
+    "setId": "sv2",
+    "rarity": "Special Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287553"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.87",
+                "psa10": "$46.82",
+                "grade9": "$24.12"
+            }
+        }
+    }
+}

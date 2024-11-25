@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-20",
+    "name": "Orbeetle V",
+    "number": "20",
+    "setId": "swsh4",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "842015"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.08",
+                "psa10": "$14.41",
+                "grade9": "$7.68"
+            }
+        }
+    }
+}

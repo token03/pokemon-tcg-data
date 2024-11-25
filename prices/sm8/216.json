@@ -1,0 +1,19 @@
+{
+    "id": "sm8-216",
+    "name": "Sceptile-GX",
+    "number": "216",
+    "setId": "sm8",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "962604"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.50",
+                "psa10": "$70.00",
+                "grade9": "$39.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "base4-117",
+    "name": "Super Potion",
+    "number": "117",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641919"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$18.97",
+                "grade9": "$15.75"
+            }
+        }
+    }
+}

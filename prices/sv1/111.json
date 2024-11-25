@@ -1,0 +1,25 @@
+{
+    "id": "sv1-111",
+    "name": "Medicham",
+    "number": "111",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933886",
+        "reverse-holo": "4934136"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.86",
+                "psa10": "$33.71",
+                "grade9": "$11.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$35.03",
+                "grade9": "$11.68"
+            }
+        }
+    }
+}

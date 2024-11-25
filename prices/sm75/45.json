@@ -1,0 +1,25 @@
+{
+    "id": "sm75-45",
+    "name": "Druddigon",
+    "number": "45",
+    "setId": "sm75",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962279",
+        "reverse-holo": "962351"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$37.89",
+                "grade9": "$14.65"
+            }
+        }
+    }
+}

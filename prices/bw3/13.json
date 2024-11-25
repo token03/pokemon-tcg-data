@@ -1,0 +1,25 @@
+{
+    "id": "bw3-13",
+    "name": "Virizion",
+    "number": "13",
+    "setId": "bw3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955668",
+        "reverse-holo": "955770"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.70",
+                "psa10": "$55.40",
+                "grade9": "$22.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

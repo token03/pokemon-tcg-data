@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-90",
+    "name": "Rattata",
+    "number": "90",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842746",
+        "reverse-holo": "2252688"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$30.39",
+                "grade9": "$11.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$21.14",
+                "psa10": "$147.50",
+                "grade9": "$47.27"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG17",
+    "name": "Pikachu VMAX",
+    "number": "TG17",
+    "setId": "swsh11tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "4080769"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$41.00",
+                "psa10": "$127.50",
+                "grade9": "$47.72"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "bw7-152",
+    "name": "Altaria",
+    "number": "152",
+    "setId": "bw7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "956667"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$50.00",
+                "psa10": "$1,290.97",
+                "grade9": "$150.00"
+            }
+        }
+    }
+}

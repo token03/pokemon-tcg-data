@@ -1,0 +1,25 @@
+{
+    "id": "ex4-16",
+    "name": "Team Aqua's Sealeo",
+    "number": "16",
+    "setId": "ex4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849585",
+        "reverse-holo": "849682"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$31.00",
+                "grade9": "$13.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

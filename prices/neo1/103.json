@@ -1,0 +1,25 @@
+{
+    "id": "neo1-103",
+    "name": "Super Rod",
+    "number": "103",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762416",
+        "1st-edition": "2324930"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.80",
+                "psa10": "$53.58",
+                "grade9": "$24.00"
+            },
+            "1st-edition": {
+                "ungraded": "$2.32",
+                "psa10": "$35.70",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

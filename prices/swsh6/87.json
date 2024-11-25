@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-87",
+    "name": "Lycanroc",
+    "number": "87",
+    "setId": "swsh6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "2253892",
+        "reverse-holo": "2254110"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.50",
+                "psa10": "$100.00",
+                "grade9": "$24.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.46",
+                "psa10": "$36.27",
+                "grade9": "$12.88"
+            }
+        }
+    }
+}

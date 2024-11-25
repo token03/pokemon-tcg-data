@@ -1,0 +1,19 @@
+{
+    "id": "bp-8",
+    "name": "Rocket's Mewtwo",
+    "number": "8",
+    "setId": "bp",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "winner": "2978643"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "winner": {
+                "ungraded": "$125.50",
+                "psa10": "$1,403.01",
+                "grade9": "$234.65"
+            }
+        }
+    }
+}

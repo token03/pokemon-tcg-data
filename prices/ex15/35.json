@@ -1,0 +1,25 @@
+{
+    "id": "ex15-35",
+    "name": "Nidorino \u03b4",
+    "number": "35",
+    "setId": "ex15",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889509",
+        "reverse-holo": "889610"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.19",
+                "psa10": "$24.13",
+                "grade9": "$9.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.68",
+                "psa10": "$71.35",
+                "grade9": "$34.77"
+            }
+        }
+    }
+}

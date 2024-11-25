@@ -1,0 +1,25 @@
+{
+    "id": "sm2-121",
+    "name": "Choice Band",
+    "number": "121",
+    "setId": "sm2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960618",
+        "reverse-holo": "960775"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$36.45",
+                "grade9": "$13.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "$37.22",
+                "grade9": "$14.35"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG02",
+    "name": "Roserade",
+    "number": "TG02",
+    "setId": "swsh11tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4080754"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$25.48",
+                "grade9": "$11.12"
+            }
+        }
+    }
+}

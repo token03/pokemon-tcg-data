@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-50",
+    "name": "Raikou",
+    "number": "50",
+    "setId": "swsh4",
+    "rarity": "Amazing Rare",
+    "priceChartingIds": {
+        "normal": "842045"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.39",
+                "psa10": "$20.90",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

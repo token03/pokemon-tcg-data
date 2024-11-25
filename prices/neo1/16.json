@@ -1,0 +1,25 @@
+{
+    "id": "neo1-16",
+    "name": "Togetic",
+    "number": "16",
+    "setId": "neo1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762336",
+        "1st-edition": "2324934"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.64",
+                "psa10": "$318.18",
+                "grade9": "$48.84"
+            },
+            "1st-edition": {
+                "ungraded": "$35.24",
+                "psa10": "$880.00",
+                "grade9": "$99.85"
+            }
+        }
+    }
+}

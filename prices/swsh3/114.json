@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-114",
+    "name": "Grimmsnarl V",
+    "number": "114",
+    "setId": "swsh3",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "836655"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "$13.00",
+                "grade9": "$9.16"
+            }
+        }
+    }
+}

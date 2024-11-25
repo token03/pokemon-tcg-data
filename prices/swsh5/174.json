@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-174",
+    "name": "Korrina's Focus",
+    "number": "174",
+    "setId": "swsh5",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "rainbow-foil": "2267028"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "rainbow-foil": {
+                "ungraded": "$6.99",
+                "psa10": "$33.07",
+                "grade9": ""
+            }
+        }
+    }
+}

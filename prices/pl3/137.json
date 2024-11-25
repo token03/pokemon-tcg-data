@@ -1,0 +1,25 @@
+{
+    "id": "pl3-137",
+    "name": "Cyrus's Initiative",
+    "number": "137",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287185",
+        "reverse-holo": "1287338"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "$45.99",
+                "grade9": "$9.40"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.03",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

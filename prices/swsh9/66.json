@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-66",
+    "name": "Sigilyph",
+    "number": "66",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188290",
+        "reverse-holo": "3219422"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.39",
+                "psa10": "$31.56",
+                "grade9": "$10.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$36.09",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

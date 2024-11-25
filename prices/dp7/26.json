@@ -1,0 +1,25 @@
+{
+    "id": "dp7-26",
+    "name": "Skuntank",
+    "number": "26",
+    "setId": "dp7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925239",
+        "reverse-holo": "925885"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.71",
+                "psa10": "",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$59.97",
+                "grade9": ""
+            }
+        }
+    }
+}

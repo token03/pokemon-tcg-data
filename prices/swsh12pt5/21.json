@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-21",
+    "name": "Entei",
+    "number": "21",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4636917",
+        "reverse-holo": "4637143"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.66",
+                "psa10": "$37.13",
+                "grade9": "$12.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.64",
+                "psa10": "$37.05",
+                "grade9": "$12.45"
+            }
+        }
+    }
+}

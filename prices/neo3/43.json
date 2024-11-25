@@ -1,0 +1,25 @@
+{
+    "id": "neo3-43",
+    "name": "Farfetch'd",
+    "number": "43",
+    "setId": "neo3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762502",
+        "1st-edition": "2427405"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$40.99",
+                "grade9": "$8.99"
+            },
+            "1st-edition": {
+                "ungraded": "$3.99",
+                "psa10": "$52.00",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

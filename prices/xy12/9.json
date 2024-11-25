@@ -1,0 +1,31 @@
+{
+    "id": "xy12-9",
+    "name": "Charmander",
+    "number": "9",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960297",
+        "reverse-holo": "960399",
+        "toys-r-us": "3010353"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.73",
+                "psa10": "$35.32",
+                "grade9": "$21.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$44.99",
+                "grade9": "$12.16"
+            },
+            "toys-r-us": {
+                "ungraded": "$32.14",
+                "psa10": "$503.61",
+                "grade9": "$59.49"
+            }
+        }
+    }
+}

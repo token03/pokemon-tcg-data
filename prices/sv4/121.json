@@ -1,0 +1,25 @@
+{
+    "id": "sv4-121",
+    "name": "Morpeko",
+    "number": "121",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5952959",
+        "reverse-holo": "5953213"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.12",
+                "psa10": "$40.33",
+                "grade9": "$7.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$13.28",
+                "grade9": "$6.59"
+            }
+        }
+    }
+}

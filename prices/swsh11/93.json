@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-93",
+    "name": "Aerodactyl VSTAR",
+    "number": "93",
+    "setId": "swsh11",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4050010"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.17",
+                "psa10": "$24.27",
+                "grade9": "$9.70"
+            }
+        }
+    }
+}

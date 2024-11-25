@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-59",
+    "name": "Mismagius",
+    "number": "59",
+    "setId": "swsh10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3489557",
+        "reverse-holo": "3489765"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.03",
+                "grade9": "$11.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.97",
+                "psa10": "$33.95",
+                "grade9": "$11.56"
+            }
+        }
+    }
+}

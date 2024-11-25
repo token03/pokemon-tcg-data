@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-5",
+    "name": "Toedscruel ex",
+    "number": "5",
+    "setId": "sv4pt5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "6276924"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.37",
+                "psa10": "$35.00",
+                "grade9": "$12.38"
+            }
+        }
+    }
+}

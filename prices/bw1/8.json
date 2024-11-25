@@ -1,0 +1,25 @@
+{
+    "id": "bw1-8",
+    "name": "Simisage",
+    "number": "8",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806330",
+        "reverse-holo": "806417"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.83",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

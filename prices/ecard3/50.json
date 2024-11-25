@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-50",
+    "name": "Diglett",
+    "number": "50",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842710",
+        "reverse-holo": "2252648"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.92",
+                "psa10": "$39.99",
+                "grade9": "$15.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.00",
+                "psa10": "$183.44",
+                "grade9": "$51.00"
+            }
+        }
+    }
+}

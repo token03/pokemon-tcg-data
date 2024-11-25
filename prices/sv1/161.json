@@ -1,0 +1,25 @@
+{
+    "id": "sv1-161",
+    "name": "Maushold",
+    "number": "161",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933935",
+        "reverse-holo": "4934181"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.33",
+                "grade9": "$11.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$35.68",
+                "grade9": "$11.90"
+            }
+        }
+    }
+}

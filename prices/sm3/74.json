@@ -1,0 +1,25 @@
+{
+    "id": "sm3-74",
+    "name": "Crabominable",
+    "number": "74",
+    "setId": "sm3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960858",
+        "reverse-holo": "961020"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "$35.09",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

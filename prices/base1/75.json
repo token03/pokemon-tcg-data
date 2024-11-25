@@ -1,0 +1,31 @@
+{
+    "id": "base1-75",
+    "name": "Lass",
+    "number": "75",
+    "setId": "base1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "630488",
+        "1st-edition": "715664",
+        "shadowless": "4602501"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.83",
+                "psa10": "$53.46",
+                "grade9": "$27.00"
+            },
+            "1st-edition": {
+                "ungraded": "$49.99",
+                "psa10": "$1,680.57",
+                "grade9": "$132.61"
+            },
+            "shadowless": {
+                "ungraded": "$3.37",
+                "psa10": "$52.37",
+                "grade9": "$23.00"
+            }
+        }
+    }
+}

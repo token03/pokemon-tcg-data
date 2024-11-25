@@ -1,0 +1,25 @@
+{
+    "id": "ex16-3",
+    "name": "Armaldo",
+    "number": "3",
+    "setId": "ex16",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889667",
+        "reverse-holo": "889775"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.01",
+                "psa10": "$91.75",
+                "grade9": "$28.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.62",
+                "psa10": "$112.73",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

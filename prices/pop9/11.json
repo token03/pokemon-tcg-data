@@ -1,0 +1,19 @@
+{
+    "id": "pop9-11",
+    "name": "Pichu",
+    "number": "11",
+    "setId": "pop9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762869"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$108.50",
+                "grade9": "$11.19"
+            }
+        }
+    }
+}

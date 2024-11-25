@@ -1,0 +1,25 @@
+{
+    "id": "base3-31",
+    "name": "Arbok",
+    "number": "31",
+    "setId": "base3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643397",
+        "1st-edition": "1099525"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$41.81",
+                "grade9": "$22.44"
+            },
+            "1st-edition": {
+                "ungraded": "$3.44",
+                "psa10": "$66.00",
+                "grade9": "$22.50"
+            }
+        }
+    }
+}

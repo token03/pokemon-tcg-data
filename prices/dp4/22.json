@@ -1,0 +1,25 @@
+{
+    "id": "dp4-22",
+    "name": "Latias",
+    "number": "22",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921176",
+        "reverse-holo": "921282"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "$60.59",
+                "grade9": "$55.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$123.08",
+                "grade9": "$34.02"
+            }
+        }
+    }
+}

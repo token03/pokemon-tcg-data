@@ -1,0 +1,19 @@
+{
+    "id": "swsh45-51",
+    "name": "Ditto VMAX",
+    "number": "51",
+    "setId": "swsh45",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "1341528"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.76",
+                "psa10": "$17.50",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

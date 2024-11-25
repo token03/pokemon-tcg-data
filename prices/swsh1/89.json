@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-89",
+    "name": "Sinistea",
+    "number": "89",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807267",
+        "reverse-holo": "807268"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$14.00",
+                "grade9": "$12.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "$33.77",
+                "grade9": "$12.04"
+            }
+        }
+    }
+}

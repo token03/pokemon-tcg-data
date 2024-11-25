@@ -1,0 +1,25 @@
+{
+    "id": "sv3-63",
+    "name": "Magnemite",
+    "number": "63",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605581",
+        "reverse-holo": "5605816"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.07",
+                "psa10": "$18.88",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.13",
+                "psa10": "$35.22",
+                "grade9": "$11.62"
+            }
+        }
+    }
+}

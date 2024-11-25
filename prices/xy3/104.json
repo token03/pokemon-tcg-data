@@ -1,0 +1,25 @@
+{
+    "id": "xy3-104",
+    "name": "Strong Energy",
+    "number": "104",
+    "setId": "xy3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958087",
+        "reverse-holo": "958193"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.12",
+                "psa10": "$43.29",
+                "grade9": "$17.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.98",
+                "psa10": "$48.97",
+                "grade9": "$20.54"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm11-57",
+    "name": "Alolan Raichu",
+    "number": "57",
+    "setId": "sm11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963623",
+        "reverse-holo": "963876"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.63",
+                "psa10": "$56.50",
+                "grade9": "$23.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.63",
+                "psa10": "$66.50",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm8-73",
+    "name": "Chinchou",
+    "number": "73",
+    "setId": "sm8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962461",
+        "reverse-holo": "962689"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

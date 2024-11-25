@@ -1,0 +1,25 @@
+{
+    "id": "bw6-84",
+    "name": "Altaria",
+    "number": "84",
+    "setId": "bw6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956338",
+        "reverse-holo": "956462"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$144.22",
+                "grade9": "$22.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.46",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

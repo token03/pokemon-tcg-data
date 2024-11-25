@@ -1,0 +1,25 @@
+{
+    "id": "dp7-8",
+    "name": "Raichu",
+    "number": "8",
+    "setId": "dp7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925221",
+        "reverse-holo": "925312"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.50",
+                "psa10": "$469.41",
+                "grade9": "$42.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "",
+                "grade9": "$37.00"
+            }
+        }
+    }
+}

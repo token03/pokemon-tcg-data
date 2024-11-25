@@ -1,0 +1,25 @@
+{
+    "id": "dp3-102",
+    "name": "Ralts",
+    "number": "102",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920992",
+        "reverse-holo": "921123"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$61.43",
+                "grade9": "$22.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.44",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

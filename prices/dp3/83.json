@@ -1,0 +1,25 @@
+{
+    "id": "dp3-83",
+    "name": "Clefairy",
+    "number": "83",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920973",
+        "reverse-holo": "921104"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$59.51",
+                "grade9": "$21.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.59",
+                "psa10": "$70.76",
+                "grade9": "$25.97"
+            }
+        }
+    }
+}

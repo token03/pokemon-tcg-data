@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-1",
+    "name": "Pinsir",
+    "number": "1",
+    "setId": "swsh7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2512813",
+        "reverse-holo": "2513047"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$37.95",
+                "grade9": "$11.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$34.84",
+                "grade9": "$12.16"
+            }
+        }
+    }
+}

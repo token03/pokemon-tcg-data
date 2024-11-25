@@ -1,0 +1,25 @@
+{
+    "id": "gym1-34",
+    "name": "Sabrina's Venomoth",
+    "number": "34",
+    "setId": "gym1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762153",
+        "1st-edition": "2156467"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.73",
+                "psa10": "$30.26",
+                "grade9": "$26.00"
+            },
+            "1st-edition": {
+                "ungraded": "$7.85",
+                "psa10": "$126.17",
+                "grade9": "$21.50"
+            }
+        }
+    }
+}

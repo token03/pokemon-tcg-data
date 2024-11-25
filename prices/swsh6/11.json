@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-11",
+    "name": "Deerling",
+    "number": "11",
+    "setId": "swsh6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2253817",
+        "reverse-holo": "2254045"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.83",
+                "psa10": "$33.21",
+                "grade9": "$11.47"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.41",
+                "psa10": "$35.46",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

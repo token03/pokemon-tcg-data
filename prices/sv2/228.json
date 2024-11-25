@@ -1,0 +1,19 @@
+{
+    "id": "sv2-228",
+    "name": "Farigiraf",
+    "number": "228",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287517"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.09",
+                "psa10": "$40.50",
+                "grade9": "$16.06"
+            }
+        }
+    }
+}

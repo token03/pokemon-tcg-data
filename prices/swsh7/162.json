@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-162",
+    "name": "Switching Cups",
+    "number": "162",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512973",
+        "reverse-holo": "2513176"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "$35.00",
+                "grade9": "$12.22"
+            }
+        }
+    }
+}

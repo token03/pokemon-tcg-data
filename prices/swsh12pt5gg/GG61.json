@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG61",
+    "name": "Gardenia's Vigor",
+    "number": "GG61",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4637117"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$7.35",
+                "psa10": "$43.25",
+                "grade9": "$14.25"
+            }
+        }
+    }
+}

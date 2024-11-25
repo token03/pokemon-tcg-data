@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-142",
+    "name": "Bounce Energy",
+    "number": "142",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842787",
+        "reverse-holo": "2252741"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.86",
+                "psa10": "$40.01",
+                "grade9": "$16.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.98",
+                "psa10": "",
+                "grade9": "$44.88"
+            }
+        }
+    }
+}

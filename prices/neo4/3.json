@@ -1,0 +1,25 @@
+{
+    "id": "neo4-3",
+    "name": "Dark Donphan",
+    "number": "3",
+    "setId": "neo4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762561",
+        "1st-edition": "2183301"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.24",
+                "psa10": "$221.88",
+                "grade9": "$58.08"
+            },
+            "1st-edition": {
+                "ungraded": "$51.65",
+                "psa10": "$360.00",
+                "grade9": "$99.99"
+            }
+        }
+    }
+}

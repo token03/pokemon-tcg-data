@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-6",
+    "name": "Magcargo",
+    "number": "6",
+    "setId": "hgss3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925893",
+        "reverse-holo": "925984"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.11",
+                "psa10": "$74.24",
+                "grade9": "$39.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.84",
+                "psa10": "",
+                "grade9": "$39.95"
+            }
+        }
+    }
+}

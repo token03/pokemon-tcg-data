@@ -1,0 +1,19 @@
+{
+    "id": "xy6-34",
+    "name": "Gallade-EX",
+    "number": "34",
+    "setId": "xy6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958857"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$55.00",
+                "grade9": "$13.50"
+            }
+        }
+    }
+}

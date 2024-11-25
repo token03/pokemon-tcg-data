@@ -1,0 +1,19 @@
+{
+    "id": "bw4-98",
+    "name": "Mewtwo-EX",
+    "number": "98",
+    "setId": "bw4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "955950"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$40.34",
+                "psa10": "$378.61",
+                "grade9": "$173.00"
+            }
+        }
+    }
+}

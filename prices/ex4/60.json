@@ -1,0 +1,25 @@
+{
+    "id": "ex4-60",
+    "name": "Team Magma's Baltoy",
+    "number": "60",
+    "setId": "ex4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849629",
+        "reverse-holo": "849726"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.72",
+                "psa10": "$70.79",
+                "grade9": "$23.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.42",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

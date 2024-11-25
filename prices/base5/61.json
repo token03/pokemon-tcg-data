@@ -1,0 +1,25 @@
+{
+    "id": "base5-61",
+    "name": "Mankey",
+    "number": "61",
+    "setId": "base5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643493",
+        "1st-edition": "1341402"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$31.00",
+                "grade9": "$14.50"
+            },
+            "1st-edition": {
+                "ungraded": "$1.95",
+                "psa10": "$40.67",
+                "grade9": "$18.53"
+            }
+        }
+    }
+}

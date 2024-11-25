@@ -1,0 +1,19 @@
+{
+    "id": "xy9-117",
+    "name": "Espeon-EX",
+    "number": "117",
+    "setId": "xy9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959608"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.98",
+                "psa10": "$175.00",
+                "grade9": "$50.33"
+            }
+        }
+    }
+}

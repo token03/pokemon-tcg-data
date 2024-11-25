@@ -1,0 +1,25 @@
+{
+    "id": "xy7-67",
+    "name": "Porygon-Z",
+    "number": "67",
+    "setId": "xy7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959085",
+        "reverse-holo": "959174"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.96",
+                "psa10": "$57.34",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$30.00",
+                "grade9": "$25.31"
+            }
+        }
+    }
+}

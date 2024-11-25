@@ -1,0 +1,25 @@
+{
+    "id": "ex7-82",
+    "name": "Zubat",
+    "number": "82",
+    "setId": "ex7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886416",
+        "reverse-holo": "886527"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.83",
+                "psa10": "$19.89",
+                "grade9": "$17.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.62",
+                "psa10": "$100.00",
+                "grade9": "$20.62"
+            }
+        }
+    }
+}

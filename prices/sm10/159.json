@@ -1,0 +1,25 @@
+{
+    "id": "sm10-159",
+    "name": "Glameow",
+    "number": "159",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963315",
+        "reverse-holo": "963536"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$20.00",
+                "grade9": "$13.36"
+            }
+        }
+    }
+}

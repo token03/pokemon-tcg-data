@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG15",
+    "name": "Centiskorch VMAX",
+    "number": "TG15",
+    "setId": "swsh11tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "4080767"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.35",
+                "psa10": "$30.00",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw10-38",
+    "name": "Azelf",
+    "number": "38",
+    "setId": "bw10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957340",
+        "reverse-holo": "957443"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$41.16",
+                "grade9": "$15.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.75",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

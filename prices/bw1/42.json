@@ -1,0 +1,31 @@
+{
+    "id": "bw1-42",
+    "name": "Zebstrika",
+    "number": "42",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806354",
+        "pokemon-league": "6137161",
+        "reverse-holo": "886713"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "$45.98",
+                "grade9": "$35.00"
+            },
+            "pokemon-league": {
+                "ungraded": "$4.38",
+                "psa10": "$39.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.52",
+                "psa10": "$55.59",
+                "grade9": "$21.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl3-28",
+    "name": "Exploud",
+    "number": "28",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287075",
+        "reverse-holo": "1287229"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.59",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.30",
+                "psa10": "$58.56",
+                "grade9": "$25.23"
+            }
+        }
+    }
+}

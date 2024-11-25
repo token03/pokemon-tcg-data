@@ -1,0 +1,25 @@
+{
+    "id": "sm8-80",
+    "name": "Pachirisu",
+    "number": "80",
+    "setId": "sm8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962468",
+        "reverse-holo": "962696"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$34.36",
+                "grade9": "$12.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

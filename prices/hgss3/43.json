@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-43",
+    "name": "Beldum",
+    "number": "43",
+    "setId": "hgss3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925930",
+        "reverse-holo": "926021"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

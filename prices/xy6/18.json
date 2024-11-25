@@ -1,0 +1,25 @@
+{
+    "id": "xy6-18",
+    "name": "Wingull",
+    "number": "18",
+    "setId": "xy6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958841",
+        "reverse-holo": "958951"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.54",
+                "psa10": "",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

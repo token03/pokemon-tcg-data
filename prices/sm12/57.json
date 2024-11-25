@@ -1,0 +1,25 @@
+{
+    "id": "sm12-57",
+    "name": "Phione",
+    "number": "57",
+    "setId": "sm12",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964295",
+        "reverse-holo": "964560"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.77",
+                "psa10": "$36.82",
+                "grade9": "$13.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.48",
+                "psa10": "$18.00",
+                "grade9": "$15.36"
+            }
+        }
+    }
+}

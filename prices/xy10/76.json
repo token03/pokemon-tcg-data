@@ -1,0 +1,25 @@
+{
+    "id": "xy10-76",
+    "name": "Aerodactyl",
+    "number": "76",
+    "setId": "xy10",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959933",
+        "reverse-holo": "960044"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$38.46",
+                "grade9": "$9.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.73",
+                "psa10": "$57.50",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

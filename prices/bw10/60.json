@@ -1,0 +1,19 @@
+{
+    "id": "bw10-60",
+    "name": "Jirachi-EX",
+    "number": "60",
+    "setId": "bw10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "957362"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.17",
+                "psa10": "$125.14",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

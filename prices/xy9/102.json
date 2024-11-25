@@ -1,0 +1,25 @@
+{
+    "id": "xy9-102",
+    "name": "Max Elixir",
+    "number": "102",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959593",
+        "reverse-holo": "959701"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.23",
+                "psa10": "$41.59",
+                "grade9": "$16.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.69",
+                "psa10": "$29.00",
+                "grade9": "$24.39"
+            }
+        }
+    }
+}

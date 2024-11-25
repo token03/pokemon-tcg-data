@@ -1,0 +1,19 @@
+{
+    "id": "sm12-233",
+    "name": "Professor Oak's Setup",
+    "number": "233",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964471"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$28.99",
+                "psa10": "$98.67",
+                "grade9": "$38.00"
+            }
+        }
+    }
+}

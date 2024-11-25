@@ -1,0 +1,31 @@
+{
+    "id": "swsh4-47",
+    "name": "Jolteon",
+    "number": "47",
+    "setId": "swsh4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887600",
+        "cosmos-holo": "4565847",
+        "reverse-holo": "887774"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$15.58",
+                "grade9": "$11.50"
+            },
+            "cosmos-holo": {
+                "ungraded": "$2.93",
+                "psa10": "$32.50",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "$17.27",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

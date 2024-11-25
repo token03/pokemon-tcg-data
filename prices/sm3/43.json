@@ -1,0 +1,25 @@
+{
+    "id": "sm3-43",
+    "name": "Electivire",
+    "number": "43",
+    "setId": "sm3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960827",
+        "reverse-holo": "960991"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.53",
+                "grade9": "$13.33"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "$48.00",
+                "grade9": "$39.95"
+            }
+        }
+    }
+}

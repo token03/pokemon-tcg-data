@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-34",
+    "name": "Wigglytuff",
+    "number": "34",
+    "setId": "ecard3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842696",
+        "reverse-holo": "2252633"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.01",
+                "psa10": "$42.01",
+                "grade9": "$24.06"
+            },
+            "reverse-holo": {
+                "ungraded": "$21.02",
+                "psa10": "$180.50",
+                "grade9": "$43.86"
+            }
+        }
+    }
+}

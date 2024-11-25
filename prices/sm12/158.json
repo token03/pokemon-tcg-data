@@ -1,0 +1,19 @@
+{
+    "id": "sm12-158",
+    "name": "Naganadel & Guzzlord-GX",
+    "number": "158",
+    "setId": "sm12",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964396"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.80",
+                "psa10": "$49.99",
+                "grade9": "$17.26"
+            }
+        }
+    }
+}

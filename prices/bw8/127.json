@@ -1,0 +1,25 @@
+{
+    "id": "bw8-127",
+    "name": "Plasma Energy",
+    "number": "127",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956924",
+        "reverse-holo": "957054"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$40.90",
+                "grade9": "$15.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.10",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

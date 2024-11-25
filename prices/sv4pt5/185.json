@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-185",
+    "name": "Pawniard",
+    "number": "185",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277104"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$33.95",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

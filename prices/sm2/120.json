@@ -1,0 +1,25 @@
+{
+    "id": "sm2-120",
+    "name": "Brooklet Hill",
+    "number": "120",
+    "setId": "sm2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960617",
+        "reverse-holo": "960774"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$36.68",
+                "grade9": "$14.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.84",
+                "psa10": "$38.68",
+                "grade9": "$15.22"
+            }
+        }
+    }
+}

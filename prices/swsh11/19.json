@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-19",
+    "name": "Dottler",
+    "number": "19",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4049936",
+        "reverse-holo": "4050153"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

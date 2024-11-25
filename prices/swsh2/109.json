@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-109",
+    "name": "Falinks",
+    "number": "109",
+    "setId": "swsh2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886836",
+        "reverse-holo": "887027"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$35.21",
+                "grade9": "$12.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.76",
+                "grade9": "$11.99"
+            }
+        }
+    }
+}

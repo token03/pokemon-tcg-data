@@ -1,0 +1,25 @@
+{
+    "id": "pl3-34",
+    "name": "Medicham",
+    "number": "34",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287081",
+        "reverse-holo": "1287235"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.98",
+                "psa10": "$29.00",
+                "grade9": "$5.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.04",
+                "psa10": "",
+                "grade9": "$19.96"
+            }
+        }
+    }
+}

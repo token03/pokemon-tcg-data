@@ -1,0 +1,25 @@
+{
+    "id": "gym2-70",
+    "name": "Erika's Oddish",
+    "number": "70",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762276",
+        "1st-edition": "1450264"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$32.42",
+                "grade9": "$16.50"
+            },
+            "1st-edition": {
+                "ungraded": "$2.47",
+                "psa10": "$44.22",
+                "grade9": "$18.71"
+            }
+        }
+    }
+}

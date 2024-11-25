@@ -1,0 +1,25 @@
+{
+    "id": "ex12-36",
+    "name": "Kabuto",
+    "number": "36",
+    "setId": "ex12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888918",
+        "reverse-holo": "889011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.49",
+                "psa10": "$109.00",
+                "grade9": "$90.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.95",
+                "psa10": "$147.57",
+                "grade9": "$20.29"
+            }
+        }
+    }
+}

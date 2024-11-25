@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-54",
+    "name": "Eevee",
+    "number": "54",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842714",
+        "reverse-holo": "2252652"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.13",
+                "psa10": "$69.17",
+                "grade9": "$32.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$87.54",
+                "psa10": "$511.00",
+                "grade9": "$212.25"
+            }
+        }
+    }
+}

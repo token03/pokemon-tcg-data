@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-65",
+    "name": "Golett",
+    "number": "65",
+    "setId": "swsh6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2253870",
+        "reverse-holo": "2254092"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.38",
+                "psa10": "$35.34",
+                "grade9": "$12.45"
+            }
+        }
+    }
+}

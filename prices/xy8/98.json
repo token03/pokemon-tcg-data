@@ -1,0 +1,25 @@
+{
+    "id": "xy8-98",
+    "name": "Snubbull",
+    "number": "98",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959287",
+        "reverse-holo": "959439"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$36.99",
+                "grade9": "$14.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.75",
+                "psa10": "$39.48",
+                "grade9": "$15.54"
+            }
+        }
+    }
+}

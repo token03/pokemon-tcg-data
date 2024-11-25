@@ -1,0 +1,19 @@
+{
+    "id": "sm75-78",
+    "name": "Ultra Necrozma-GX",
+    "number": "78",
+    "setId": "sm75",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "962312"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$49.42",
+                "psa10": "$155.00",
+                "grade9": "$66.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "g1-78",
+    "name": "Lightning Energy",
+    "number": "78",
+    "setId": "g1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2368840",
+        "reverse-holo": "2775146"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.16",
+                "psa10": "",
+                "grade9": "$6.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.31",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

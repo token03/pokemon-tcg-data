@@ -1,0 +1,25 @@
+{
+    "id": "sm9-150",
+    "name": "Nanu",
+    "number": "150",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962948",
+        "reverse-holo": "963130"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

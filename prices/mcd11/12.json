@@ -1,0 +1,19 @@
+{
+    "id": "mcd11-12",
+    "name": "Audino",
+    "number": "12",
+    "setId": "mcd11",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179967"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.87",
+                "psa10": "$58.37",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "bw8-130",
+    "name": "Victory Piece",
+    "number": "130",
+    "setId": "bw8",
+    "rarity": "Rare ACE",
+    "priceChartingIds": {
+        "normal": "956927"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.15",
+                "psa10": "$54.87",
+                "grade9": "$32.55"
+            }
+        }
+    }
+}

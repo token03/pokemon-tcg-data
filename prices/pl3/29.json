@@ -1,0 +1,25 @@
+{
+    "id": "pl3-29",
+    "name": "Honchkrow",
+    "number": "29",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287076",
+        "reverse-holo": "1287230"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.91",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.11",
+                "psa10": "",
+                "grade9": "$34.95"
+            }
+        }
+    }
+}

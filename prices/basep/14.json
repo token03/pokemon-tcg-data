@@ -1,0 +1,25 @@
+{
+    "id": "basep-14",
+    "name": "Mewtwo",
+    "number": "14",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "1341801",
+        "pokemon-center": "5927152"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$196.22",
+                "grade9": "$34.00"
+            },
+            "pokemon-center": {
+                "ungraded": "$15.00",
+                "psa10": "$66.00",
+                "grade9": "$26.32"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "xy7-40",
+    "name": "Regirock",
+    "number": "40",
+    "setId": "xy7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959059",
+        "cracked-ice-holo": "6377514",
+        "reverse-holo": "959151"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.86",
+                "psa10": "$40.38",
+                "grade9": "$14.97"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$20.50",
+                "grade9": "$12.99"
+            }
+        }
+    }
+}

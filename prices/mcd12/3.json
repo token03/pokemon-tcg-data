@@ -1,0 +1,19 @@
+{
+    "id": "mcd12-3",
+    "name": "Dwebble",
+    "number": "3",
+    "setId": "mcd12",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179970"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.75",
+                "psa10": "$67.27",
+                "grade9": "$31.29"
+            }
+        }
+    }
+}

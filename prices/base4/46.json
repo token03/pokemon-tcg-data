@@ -1,0 +1,19 @@
+{
+    "id": "base4-46",
+    "name": "Kadabra",
+    "number": "46",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641849"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.52",
+                "psa10": "$40.00",
+                "grade9": "$23.57"
+            }
+        }
+    }
+}

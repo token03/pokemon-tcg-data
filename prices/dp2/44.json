@@ -1,0 +1,25 @@
+{
+    "id": "dp2-44",
+    "name": "Croconaw",
+    "number": "44",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920667",
+        "reverse-holo": "920791"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$78.00",
+                "grade9": "$20.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.31",
+                "psa10": "$71.77",
+                "grade9": "$27.90"
+            }
+        }
+    }
+}

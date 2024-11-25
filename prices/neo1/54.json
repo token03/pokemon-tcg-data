@@ -1,0 +1,31 @@
+{
+    "id": "neo1-54",
+    "name": "Chikorita",
+    "number": "54",
+    "setId": "neo1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1431251",
+        "1st-edition": "2324848",
+        "jumbo": "4563044"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.42",
+                "psa10": "$29.64",
+                "grade9": "$14.54"
+            },
+            "1st-edition": {
+                "ungraded": "$4.69",
+                "psa10": "$51.55",
+                "grade9": "$26.00"
+            },
+            "jumbo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

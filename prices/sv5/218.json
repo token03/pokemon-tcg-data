@@ -1,0 +1,19 @@
+{
+    "id": "sv5-218",
+    "name": "Raging Bolt ex",
+    "number": "218",
+    "setId": "sv5",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "6495679"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.25",
+                "psa10": "$58.12",
+                "grade9": "$17.30"
+            }
+        }
+    }
+}

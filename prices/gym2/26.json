@@ -1,0 +1,25 @@
+{
+    "id": "gym2-26",
+    "name": "Koga's Muk",
+    "number": "26",
+    "setId": "gym2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762232",
+        "1st-edition": "1450220"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.99",
+                "psa10": "$27.34",
+                "grade9": "$17.12"
+            },
+            "1st-edition": {
+                "ungraded": "$10.25",
+                "psa10": "$51.69",
+                "grade9": "$32.00"
+            }
+        }
+    }
+}

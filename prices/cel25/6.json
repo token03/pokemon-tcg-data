@@ -1,0 +1,19 @@
+{
+    "id": "cel25-6",
+    "name": "Flying Pikachu V",
+    "number": "6",
+    "setId": "cel25",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2618151"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$26.00",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

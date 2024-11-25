@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG23",
+    "name": "Friends in Galar",
+    "number": "TG23",
+    "setId": "swsh12tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277111"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$7.00",
+                "psa10": "$29.95",
+                "grade9": "$17.97"
+            }
+        }
+    }
+}

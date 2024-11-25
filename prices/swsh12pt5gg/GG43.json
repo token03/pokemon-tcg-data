@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG43",
+    "name": "Zeraora VSTAR",
+    "number": "GG43",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4637099"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$8.47",
+                "psa10": "$45.00",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

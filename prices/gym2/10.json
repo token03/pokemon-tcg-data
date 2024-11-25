@@ -1,0 +1,25 @@
+{
+    "id": "gym2-10",
+    "name": "Koga's Ditto",
+    "number": "10",
+    "setId": "gym2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762216",
+        "1st-edition": "1450204"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.69",
+                "psa10": "$188.96",
+                "grade9": "$60.23"
+            },
+            "1st-edition": {
+                "ungraded": "$50.56",
+                "psa10": "$300.00",
+                "grade9": "$101.47"
+            }
+        }
+    }
+}

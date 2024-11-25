@@ -1,0 +1,25 @@
+{
+    "id": "pl1-78",
+    "name": "Kricketot",
+    "number": "78",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "805974",
+        "reverse-holo": "805975"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.22",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

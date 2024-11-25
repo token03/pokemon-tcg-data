@@ -1,0 +1,25 @@
+{
+    "id": "dp3-104",
+    "name": "Sentret",
+    "number": "104",
+    "setId": "dp3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920994",
+        "reverse-holo": "921126"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.78",
+                "psa10": "$30.28",
+                "grade9": "$21.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

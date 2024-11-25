@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG26",
+    "name": "Riolu",
+    "number": "GG26",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637082"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$40.50",
+                "grade9": "$10.13"
+            }
+        }
+    }
+}

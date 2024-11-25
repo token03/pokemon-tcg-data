@@ -1,0 +1,25 @@
+{
+    "id": "sm35-70",
+    "name": "Warp Energy",
+    "number": "70",
+    "setId": "sm35",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961139",
+        "reverse-holo": "2978790"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.44",
+                "grade9": "$13.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.40",
+                "psa10": "$40.45",
+                "grade9": "$16.29"
+            }
+        }
+    }
+}

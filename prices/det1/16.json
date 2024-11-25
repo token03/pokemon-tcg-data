@@ -1,0 +1,19 @@
+{
+    "id": "det1-16",
+    "name": "Lickitung",
+    "number": "16",
+    "setId": "det1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963153"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$21.49",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

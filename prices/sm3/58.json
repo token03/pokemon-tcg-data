@@ -1,0 +1,25 @@
+{
+    "id": "sm3-58",
+    "name": "Scolipede",
+    "number": "58",
+    "setId": "sm3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960842",
+        "reverse-holo": "961006"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$35.27",
+                "grade9": "$13.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.73",
+                "psa10": "$99.95",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

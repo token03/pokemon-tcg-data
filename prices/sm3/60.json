@@ -1,0 +1,25 @@
+{
+    "id": "sm3-60",
+    "name": "Meowstic",
+    "number": "60",
+    "setId": "sm3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960844",
+        "reverse-holo": "961008"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$35.19",
+                "grade9": "$13.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$35.76",
+                "grade9": "$13.47"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-88",
+    "name": "Hitmontop",
+    "number": "88",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887638",
+        "reverse-holo": "887811"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.93",
+                "psa10": "$22.73",
+                "grade9": "$11.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$23.50",
+                "grade9": "$10.25"
+            }
+        }
+    }
+}

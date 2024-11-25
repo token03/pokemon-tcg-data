@@ -1,0 +1,25 @@
+{
+    "id": "sm8-24",
+    "name": "Wurmple",
+    "number": "24",
+    "setId": "sm8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962412",
+        "reverse-holo": "962645"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "$34.84",
+                "grade9": "$12.84"
+            }
+        }
+    }
+}

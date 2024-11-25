@@ -1,0 +1,25 @@
+{
+    "id": "ex4-30",
+    "name": "Team Aqua's Mightyena",
+    "number": "30",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849599",
+        "reverse-holo": "849696"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$59.42",
+                "grade9": "$28.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

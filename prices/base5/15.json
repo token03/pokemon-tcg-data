@@ -1,0 +1,25 @@
+{
+    "id": "base5-15",
+    "name": "Here Comes Team Rocket!",
+    "number": "15",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643487",
+        "1st-edition": "1341357"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.51",
+                "psa10": "$94.99",
+                "grade9": "$49.99"
+            },
+            "1st-edition": {
+                "ungraded": "$21.49",
+                "psa10": "$148.50",
+                "grade9": "$51.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv2-223",
+    "name": "Grafaiai",
+    "number": "223",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287512"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$57.87",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

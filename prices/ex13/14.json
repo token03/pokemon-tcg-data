@@ -1,0 +1,25 @@
+{
+    "id": "ex13-14",
+    "name": "Pidgeot \u03b4",
+    "number": "14",
+    "setId": "ex13",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889094",
+        "reverse-holo": "889205"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.10",
+                "psa10": "$180.01",
+                "grade9": "$34.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.00",
+                "psa10": "$255.51",
+                "grade9": "$66.03"
+            }
+        }
+    }
+}

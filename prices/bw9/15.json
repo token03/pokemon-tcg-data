@@ -1,0 +1,25 @@
+{
+    "id": "bw9-15",
+    "name": "Lampent",
+    "number": "15",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957070",
+        "reverse-holo": "957190"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.94",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.46",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

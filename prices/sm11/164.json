@@ -1,0 +1,25 @@
+{
+    "id": "sm11-164",
+    "name": "Tauros",
+    "number": "164",
+    "setId": "sm11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "963730",
+        "reverse-holo": "963971"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$34.28",
+                "grade9": "$12.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

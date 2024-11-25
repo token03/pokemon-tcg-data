@@ -1,0 +1,19 @@
+{
+    "id": "hgss1-118",
+    "name": "Lightning Energy",
+    "number": "118",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2677929"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.61",
+                "psa10": "",
+                "grade9": "$21.00"
+            }
+        }
+    }
+}

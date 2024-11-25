@@ -1,0 +1,31 @@
+{
+    "id": "swsh9-79",
+    "name": "Lucario",
+    "number": "79",
+    "setId": "swsh9",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "5606012",
+        "holo": "3188303",
+        "reverse-holo": "3219433"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.37",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.50",
+                "psa10": "$6.50",
+                "grade9": "$5.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.83",
+                "psa10": "$40.26",
+                "grade9": "$14.22"
+            }
+        }
+    }
+}

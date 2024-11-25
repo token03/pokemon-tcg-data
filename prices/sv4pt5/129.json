@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-129",
+    "name": "Arctibax",
+    "number": "129",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277048"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.78",
+                "psa10": "$20.66",
+                "grade9": "$8.34"
+            }
+        }
+    }
+}

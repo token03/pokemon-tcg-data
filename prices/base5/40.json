@@ -1,0 +1,25 @@
+{
+    "id": "base5-40",
+    "name": "Dark Machoke",
+    "number": "40",
+    "setId": "base5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643465",
+        "1st-edition": "1341382"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.72",
+                "psa10": "$40.74",
+                "grade9": "$22.20"
+            },
+            "1st-edition": {
+                "ungraded": "$2.09",
+                "psa10": "$99.99",
+                "grade9": "$26.00"
+            }
+        }
+    }
+}

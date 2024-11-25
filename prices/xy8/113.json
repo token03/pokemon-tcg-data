@@ -1,0 +1,19 @@
+{
+    "id": "xy8-113",
+    "name": "Noivern BREAK",
+    "number": "113",
+    "setId": "xy8",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "959302"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$43.00",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

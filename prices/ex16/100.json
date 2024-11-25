@@ -1,0 +1,19 @@
+{
+    "id": "ex16-100",
+    "name": "Flareon \u2605",
+    "number": "100",
+    "setId": "ex16",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "889764"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$262.03",
+                "psa10": "$2,251.81",
+                "grade9": "$951.50"
+            }
+        }
+    }
+}

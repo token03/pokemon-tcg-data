@@ -1,0 +1,25 @@
+{
+    "id": "ex9-64",
+    "name": "Snorunt",
+    "number": "64",
+    "setId": "ex9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888289",
+        "reverse-holo": "888396"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$114.50",
+                "grade9": "$22.55"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.00",
+                "psa10": "$197.94",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

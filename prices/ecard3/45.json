@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-45",
+    "name": "Wobbuffet",
+    "number": "45",
+    "setId": "ecard3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842705",
+        "reverse-holo": "2252643"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.99",
+                "psa10": "$46.01",
+                "grade9": "$18.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$24.81",
+                "psa10": "$267.50",
+                "grade9": "$38.60"
+            }
+        }
+    }
+}

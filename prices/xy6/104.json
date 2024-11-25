@@ -1,0 +1,19 @@
+{
+    "id": "xy6-104",
+    "name": "Rayquaza-EX",
+    "number": "104",
+    "setId": "xy6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958927"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.61",
+                "psa10": "$1,020.48",
+                "grade9": "$92.00"
+            }
+        }
+    }
+}

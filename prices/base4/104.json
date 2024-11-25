@@ -1,0 +1,19 @@
+{
+    "id": "base4-104",
+    "name": "Lass",
+    "number": "104",
+    "setId": "base4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "641906"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.78",
+                "psa10": "$37.00",
+                "grade9": "$16.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm6-103",
+    "name": "Bonnie",
+    "number": "103",
+    "setId": "sm6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961766",
+        "reverse-holo": "961901"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

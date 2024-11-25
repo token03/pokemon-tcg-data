@@ -1,0 +1,25 @@
+{
+    "id": "xy1-66",
+    "name": "Gurdurr",
+    "number": "66",
+    "setId": "xy1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806564",
+        "reverse-holo": "806688"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

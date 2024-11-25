@@ -1,0 +1,31 @@
+{
+    "id": "swsh2-167",
+    "name": "Sonia",
+    "number": "167",
+    "setId": "swsh2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886893",
+        "professor-program": "4080617",
+        "reverse-holo": "887079"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$34.14",
+                "grade9": "$12.19"
+            },
+            "professor-program": {
+                "ungraded": "$68.05",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$34.14",
+                "grade9": "$12.19"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-81",
+    "name": "Alcremie",
+    "number": "81",
+    "setId": "swsh4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887631",
+        "reverse-holo": "887805"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "$15.00",
+                "grade9": "$12.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.64",
+                "psa10": "$35.83",
+                "grade9": "$8.00"
+            }
+        }
+    }
+}

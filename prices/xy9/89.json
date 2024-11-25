@@ -1,0 +1,19 @@
+{
+    "id": "xy9-89",
+    "name": "Raticate BREAK",
+    "number": "89",
+    "setId": "xy9",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "959580"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$88.00",
+                "grade9": "$10.29"
+            }
+        }
+    }
+}

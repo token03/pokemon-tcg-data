@@ -1,0 +1,25 @@
+{
+    "id": "bw3-76",
+    "name": "Bisharp",
+    "number": "76",
+    "setId": "bw3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955731",
+        "reverse-holo": "955833"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.64",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv2-222",
+    "name": "Tyranitar",
+    "number": "222",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287511"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$33.21",
+                "psa10": "$188.50",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

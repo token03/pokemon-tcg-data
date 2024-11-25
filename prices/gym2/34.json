@@ -1,0 +1,25 @@
+{
+    "id": "gym2-34",
+    "name": "Brock's Graveler",
+    "number": "34",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762240",
+        "1st-edition": "1450228"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.90",
+                "psa10": "$37.00",
+                "grade9": "$18.59"
+            },
+            "1st-edition": {
+                "ungraded": "$5.00",
+                "psa10": "$50.30",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

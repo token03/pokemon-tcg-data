@@ -1,0 +1,25 @@
+{
+    "id": "bw1-98",
+    "name": "Pok\u00e9dex",
+    "number": "98",
+    "setId": "bw1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806404",
+        "reverse-holo": "806491"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

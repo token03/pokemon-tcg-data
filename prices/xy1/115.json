@@ -1,0 +1,25 @@
+{
+    "id": "xy1-115",
+    "name": "Cassius",
+    "number": "115",
+    "setId": "xy1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806608",
+        "reverse-holo": "806732"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG11",
+    "name": "Eevee",
+    "number": "TG11",
+    "setId": "swsh9tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3206546"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.80",
+                "psa10": "$74.00",
+                "grade9": "$15.04"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-186",
+    "name": "Giratina V",
+    "number": "186",
+    "setId": "swsh11",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4050103"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$394.49",
+                "psa10": "$745.03",
+                "grade9": "$394.32"
+            }
+        }
+    }
+}

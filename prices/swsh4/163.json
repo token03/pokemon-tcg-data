@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-163",
+    "name": "Coating Metal Energy",
+    "number": "163",
+    "setId": "swsh4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887702",
+        "reverse-holo": "887874"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "$34.42",
+                "grade9": "$12.20"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.57",
+                "psa10": "$16.00",
+                "grade9": "$12.97"
+            }
+        }
+    }
+}

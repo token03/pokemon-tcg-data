@@ -1,0 +1,25 @@
+{
+    "id": "ex6-11",
+    "name": "Poliwrath",
+    "number": "11",
+    "setId": "ex6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849978",
+        "reverse-holo": "850094"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.31",
+                "psa10": "$150.50",
+                "grade9": "$45.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$16.49",
+                "psa10": "$156.22",
+                "grade9": "$31.94"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-111",
+    "name": "Rhyhorn",
+    "number": "111",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809492",
+        "reverse-holo": "5809694"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "$35.51",
+                "grade9": "$11.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$37.48",
+                "grade9": "$12.26"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy2-38",
+    "name": "Duskull",
+    "number": "38",
+    "setId": "xy2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957785",
+        "reverse-holo": "957947"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex5-48",
+    "name": "Spinda",
+    "number": "48",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849821",
+        "reverse-holo": "849923"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.60",
+                "psa10": "$113.17",
+                "grade9": "$13.26"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.53",
+                "psa10": "$201.33",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv4-179",
+    "name": "Technical Machine: Turbo Energize",
+    "number": "179",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5953017",
+        "reverse-holo": "5953264"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.44",
+                "psa10": "$36.69",
+                "grade9": "$11.97"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$36.59",
+                "grade9": "$11.95"
+            }
+        }
+    }
+}

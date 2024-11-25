@@ -1,0 +1,31 @@
+{
+    "id": "swsh3-172",
+    "name": "Turbo Patch",
+    "number": "172",
+    "setId": "swsh3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887250",
+        "reverse-holo": "887428",
+        "thank-you": "5428257"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$34.64",
+                "grade9": "$12.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.14",
+                "psa10": "$115.00",
+                "grade9": "$14.18"
+            },
+            "thank-you": {
+                "ungraded": "$6.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

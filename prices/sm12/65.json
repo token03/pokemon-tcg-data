@@ -1,0 +1,25 @@
+{
+    "id": "sm12-65",
+    "name": "Araquanid",
+    "number": "65",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964303",
+        "reverse-holo": "964567"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.86",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

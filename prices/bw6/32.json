@@ -1,0 +1,25 @@
+{
+    "id": "bw6-32",
+    "name": "Buizel",
+    "number": "32",
+    "setId": "bw6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956286",
+        "reverse-holo": "956413"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

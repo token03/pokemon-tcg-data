@@ -1,0 +1,31 @@
+{
+    "id": "swsh7-60",
+    "name": "Regieleki",
+    "number": "60",
+    "setId": "swsh7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2512871",
+        "cosmos-holo": "4693588",
+        "reverse-holo": "2513090"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.51",
+                "psa10": "$35.93",
+                "grade9": "$9.99"
+            },
+            "cosmos-holo": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$37.77",
+                "grade9": "$13.46"
+            }
+        }
+    }
+}

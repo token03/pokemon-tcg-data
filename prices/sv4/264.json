@@ -1,0 +1,19 @@
+{
+    "id": "sv4-264",
+    "name": "Counter Catcher",
+    "number": "264",
+    "setId": "sv4",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5953103"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.00",
+                "psa10": "$19.24",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

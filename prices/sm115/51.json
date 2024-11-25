@@ -1,0 +1,25 @@
+{
+    "id": "sm115-51",
+    "name": "Bill's Analysis",
+    "number": "51",
+    "setId": "sm115",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "964071",
+        "reverse-holo": "964225"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.73",
+                "psa10": "$25.49",
+                "grade9": "$13.71"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$35.00",
+                "grade9": "$6.00"
+            }
+        }
+    }
+}

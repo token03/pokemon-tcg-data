@@ -1,0 +1,19 @@
+{
+    "id": "sv1-199",
+    "name": "Tarountula",
+    "number": "199",
+    "setId": "sv1",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "4933973"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.28",
+                "psa10": "$45.66",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

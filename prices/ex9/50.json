@@ -1,0 +1,25 @@
+{
+    "id": "ex9-50",
+    "name": "Feebas",
+    "number": "50",
+    "setId": "ex9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888275",
+        "reverse-holo": "888382"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.16",
+                "psa10": "$39.00",
+                "grade9": "$32.73"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.28",
+                "psa10": "$203.71",
+                "grade9": "$26.11"
+            }
+        }
+    }
+}

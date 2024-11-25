@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-197",
+    "name": "Giovanni's Charisma",
+    "number": "197",
+    "setId": "sv3pt5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5809578"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.12",
+                "psa10": "$31.00",
+                "grade9": "$10.07"
+            }
+        }
+    }
+}

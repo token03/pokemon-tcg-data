@@ -1,0 +1,25 @@
+{
+    "id": "bw6-60",
+    "name": "Cubone",
+    "number": "60",
+    "setId": "bw6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956314",
+        "reverse-holo": "956440"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$42.57",
+                "grade9": "$16.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.14",
+                "psa10": "$56.24",
+                "grade9": "$23.16"
+            }
+        }
+    }
+}

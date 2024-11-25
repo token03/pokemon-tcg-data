@@ -1,0 +1,31 @@
+{
+    "id": "swsh1-179",
+    "name": "Quick Ball",
+    "number": "179",
+    "setId": "swsh1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "807225",
+        "league-cup-staff": "3951747",
+        "reverse-holo": "807226"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$64.78",
+                "grade9": "$14.89"
+            },
+            "league-cup-staff": {
+                "ungraded": "$23.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.29",
+                "psa10": "$38.73",
+                "grade9": "$6.19"
+            }
+        }
+    }
+}

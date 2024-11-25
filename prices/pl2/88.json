@@ -1,0 +1,25 @@
+{
+    "id": "pl2-88",
+    "name": "Aaron's Collection",
+    "number": "88",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925484",
+        "reverse-holo": "925603"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.70",
+                "psa10": "$91.42",
+                "grade9": "$35.92"
+            }
+        }
+    }
+}

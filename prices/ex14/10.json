@@ -1,0 +1,25 @@
+{
+    "id": "ex14-10",
+    "name": "Sableye",
+    "number": "10",
+    "setId": "ex14",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889297",
+        "reverse-holo": "889397"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.17",
+                "psa10": "$142.52",
+                "grade9": "$44.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.83",
+                "psa10": "$180.50",
+                "grade9": "$36.88"
+            }
+        }
+    }
+}

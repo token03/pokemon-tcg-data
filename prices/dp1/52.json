@@ -1,0 +1,37 @@
+{
+    "id": "dp1-52",
+    "name": "Luxio",
+    "number": "52",
+    "setId": "dp1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "763088",
+        "pre-release-staff": "3930579",
+        "pre-release": "5527609",
+        "reverse-holo": "763210"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.44",
+                "psa10": "$151.25",
+                "grade9": "$67.38"
+            },
+            "pre-release-staff": {
+                "ungraded": "$77.00",
+                "psa10": "",
+                "grade9": "$202.50"
+            },
+            "pre-release": {
+                "ungraded": "$11.11",
+                "psa10": "",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.74",
+                "psa10": "$74.99",
+                "grade9": "$27.26"
+            }
+        }
+    }
+}

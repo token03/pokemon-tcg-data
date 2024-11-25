@@ -1,0 +1,25 @@
+{
+    "id": "bw7-53",
+    "name": "Electabuzz",
+    "number": "53",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956568",
+        "reverse-holo": "956718"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

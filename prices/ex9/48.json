@@ -1,0 +1,25 @@
+{
+    "id": "ex9-48",
+    "name": "Electrike",
+    "number": "48",
+    "setId": "ex9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888273",
+        "reverse-holo": "888380"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.93",
+                "psa10": "$38.00",
+                "grade9": "$31.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.25",
+                "psa10": "$161.30",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

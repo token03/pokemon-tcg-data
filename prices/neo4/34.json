@@ -1,0 +1,25 @@
+{
+    "id": "neo4-34",
+    "name": "Dark Flaaffy",
+    "number": "34",
+    "setId": "neo4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762565",
+        "1st-edition": "2183305"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.84",
+                "psa10": "$49.99",
+                "grade9": "$17.70"
+            },
+            "1st-edition": {
+                "ungraded": "$6.57",
+                "psa10": "$59.69",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

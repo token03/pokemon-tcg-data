@@ -1,0 +1,25 @@
+{
+    "id": "dp7-56",
+    "name": "Cherubi",
+    "number": "56",
+    "setId": "dp7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925269",
+        "reverse-holo": "925355"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "$52.07",
+                "grade9": "$19.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.39",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

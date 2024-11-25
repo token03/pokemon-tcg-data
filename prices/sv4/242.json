@@ -1,0 +1,19 @@
+{
+    "id": "sv4-242",
+    "name": "Roark",
+    "number": "242",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953081"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$31.69",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

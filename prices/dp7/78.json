@@ -1,0 +1,25 @@
+{
+    "id": "dp7-78",
+    "name": "Tangela",
+    "number": "78",
+    "setId": "dp7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925284",
+        "reverse-holo": "925377"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.77",
+                "psa10": "$52.00",
+                "grade9": ""
+            }
+        }
+    }
+}

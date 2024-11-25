@@ -1,0 +1,31 @@
+{
+    "id": "ex4-3",
+    "name": "Team Aqua's Kyogre",
+    "number": "3",
+    "setId": "ex4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849572",
+        "holo": "6330965",
+        "reverse-holo": "849669"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.42",
+                "psa10": "$283.56",
+                "grade9": "$95.00"
+            },
+            "holo": {
+                "ungraded": "$23.80",
+                "psa10": "$106.19",
+                "grade9": "$97.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.98",
+                "psa10": "$479.99",
+                "grade9": "$75.00"
+            }
+        }
+    }
+}

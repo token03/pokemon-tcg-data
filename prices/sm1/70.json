@@ -1,0 +1,25 @@
+{
+    "id": "sm1-70",
+    "name": "Boldore",
+    "number": "70",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806815",
+        "reverse-holo": "806947"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.61",
+                "grade9": "$12.77"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "pl2-114",
+    "name": "Surfing Pikachu",
+    "number": "114",
+    "setId": "pl2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "925510"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$26.00",
+                "psa10": "$2,500.00",
+                "grade9": "$160.00"
+            }
+        }
+    }
+}

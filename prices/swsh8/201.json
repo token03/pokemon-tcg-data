@@ -1,0 +1,19 @@
+{
+    "id": "swsh8-201",
+    "name": "Dodrio V",
+    "number": "201",
+    "setId": "swsh8",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2771227"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$18.50",
+                "grade9": "$5.35"
+            }
+        }
+    }
+}

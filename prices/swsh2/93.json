@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-93",
+    "name": "Dragapult VMAX",
+    "number": "93",
+    "setId": "swsh2",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "886822"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.86",
+                "psa10": "$23.61",
+                "grade9": "$10.99"
+            }
+        }
+    }
+}

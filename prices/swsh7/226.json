@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-226",
+    "name": "Froslass",
+    "number": "226",
+    "setId": "swsh7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2513035"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.23",
+                "psa10": "$28.99",
+                "grade9": "$17.52"
+            }
+        }
+    }
+}

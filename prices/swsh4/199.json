@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-199",
+    "name": "Oranguru",
+    "number": "199",
+    "setId": "swsh4",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2920637"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.97",
+                "psa10": "$29.81",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

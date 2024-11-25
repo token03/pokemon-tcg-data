@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-37",
+    "name": "Skuntank",
+    "number": "37",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925924",
+        "reverse-holo": "926015"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.14",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.76",
+                "psa10": "",
+                "grade9": "$13.36"
+            }
+        }
+    }
+}

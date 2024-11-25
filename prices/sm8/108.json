@@ -1,0 +1,31 @@
+{
+    "id": "sm8-108",
+    "name": "Naganadel",
+    "number": "108",
+    "setId": "sm8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962496",
+        "league": "5705712",
+        "reverse-holo": "962722"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.51",
+                "psa10": "$20.52",
+                "grade9": "$3.75"
+            },
+            "league": {
+                "ungraded": "$3.13",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.29",
+                "psa10": "$31.03",
+                "grade9": "$15.38"
+            }
+        }
+    }
+}

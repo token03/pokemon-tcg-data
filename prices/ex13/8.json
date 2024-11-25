@@ -1,0 +1,25 @@
+{
+    "id": "ex13-8",
+    "name": "Gyarados \u03b4",
+    "number": "8",
+    "setId": "ex13",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889088",
+        "reverse-holo": "889199"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$33.14",
+                "psa10": "$535.90",
+                "grade9": "$113.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$41.89",
+                "psa10": "$900.00",
+                "grade9": "$202.29"
+            }
+        }
+    }
+}

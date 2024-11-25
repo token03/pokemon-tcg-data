@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-111",
+    "name": "Garbodor",
+    "number": "111",
+    "setId": "swsh4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887658",
+        "reverse-holo": "887830"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.22",
+                "psa10": "$18.50",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "$12.78",
+                "grade9": "$11.08"
+            }
+        }
+    }
+}

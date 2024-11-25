@@ -1,0 +1,25 @@
+{
+    "id": "dp2-28",
+    "name": "Manectric",
+    "number": "28",
+    "setId": "dp2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920651",
+        "reverse-holo": "920775"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "",
+                "grade9": "$49.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "",
+                "grade9": "$20.40"
+            }
+        }
+    }
+}

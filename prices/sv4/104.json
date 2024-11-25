@@ -1,0 +1,25 @@
+{
+    "id": "sv4-104",
+    "name": "Garganacl",
+    "number": "104",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5984546",
+        "reverse-holo": "5953197"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": "$4.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.72",
+                "psa10": "$37.99",
+                "grade9": "$12.36"
+            }
+        }
+    }
+}

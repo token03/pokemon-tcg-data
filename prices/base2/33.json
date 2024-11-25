@@ -1,0 +1,31 @@
+{
+    "id": "base2-33",
+    "name": "Butterfree",
+    "number": "33",
+    "setId": "base2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643299",
+        "1st-edition": "643347",
+        "d-edition-error": "3295688"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$55.00",
+                "grade9": "$17.57"
+            },
+            "1st-edition": {
+                "ungraded": "$2.26",
+                "psa10": "$151.30",
+                "grade9": "$29.10"
+            },
+            "d-edition-error": {
+                "ungraded": "$23.19",
+                "psa10": "$256.50",
+                "grade9": "$70.00"
+            }
+        }
+    }
+}

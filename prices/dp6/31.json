@@ -1,0 +1,25 @@
+{
+    "id": "dp6-31",
+    "name": "Jirachi",
+    "number": "31",
+    "setId": "dp6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "924962",
+        "reverse-holo": "925108"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.80",
+                "psa10": "$55.82",
+                "grade9": "$26.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.13",
+                "psa10": "$117.89",
+                "grade9": "$69.00"
+            }
+        }
+    }
+}

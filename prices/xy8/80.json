@@ -1,0 +1,25 @@
+{
+    "id": "xy8-80",
+    "name": "Swinub",
+    "number": "80",
+    "setId": "xy8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959269",
+        "reverse-holo": "959422"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "$37.10",
+                "grade9": "$14.15"
+            }
+        }
+    }
+}

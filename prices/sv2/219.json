@@ -1,0 +1,19 @@
+{
+    "id": "sv2-219",
+    "name": "Sudowoodo",
+    "number": "219",
+    "setId": "sv2",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5287508"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.48",
+                "psa10": "$200.00",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

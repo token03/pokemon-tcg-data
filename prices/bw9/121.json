@@ -1,0 +1,19 @@
+{
+    "id": "bw9-121",
+    "name": "Max Potion",
+    "number": "121",
+    "setId": "bw9",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "957175"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.24",
+                "psa10": "$181.36",
+                "grade9": "$40.00"
+            }
+        }
+    }
+}

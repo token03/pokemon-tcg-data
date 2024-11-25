@@ -1,0 +1,25 @@
+{
+    "id": "pl4-34",
+    "name": "Bronzor",
+    "number": "34",
+    "setId": "pl4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925653",
+        "reverse-holo": "925764"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

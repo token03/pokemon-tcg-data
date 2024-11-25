@@ -1,0 +1,25 @@
+{
+    "id": "ex4-53",
+    "name": "Team Aqua's Electrike",
+    "number": "53",
+    "setId": "ex4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849622",
+        "reverse-holo": "849719"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$77.17",
+                "grade9": "$25.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": "$23.19"
+            }
+        }
+    }
+}

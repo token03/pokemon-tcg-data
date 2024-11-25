@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-18",
+    "name": "Pidgeot",
+    "number": "18",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809398",
+        "reverse-holo": "5809606"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.54",
+                "grade9": "$11.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "$39.99",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

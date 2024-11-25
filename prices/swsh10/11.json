@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-11",
+    "name": "Combee",
+    "number": "11",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489509",
+        "reverse-holo": "3489725"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.66",
+                "psa10": "$31.14",
+                "grade9": "$10.45"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.42",
+                "psa10": "$31.71",
+                "grade9": "$10.67"
+            }
+        }
+    }
+}

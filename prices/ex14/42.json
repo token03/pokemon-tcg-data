@@ -1,0 +1,25 @@
+{
+    "id": "ex14-42",
+    "name": "Wartortle",
+    "number": "42",
+    "setId": "ex14",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889329",
+        "reverse-holo": "889429"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$80.76",
+                "grade9": "$24.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.50",
+                "psa10": "$124.50",
+                "grade9": "$25.82"
+            }
+        }
+    }
+}

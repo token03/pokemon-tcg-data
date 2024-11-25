@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-86",
+    "name": "Indigo Plateau",
+    "number": "86",
+    "setId": "hgss4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926143",
+        "reverse-holo": "926246"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "$70.00",
+                "grade9": "$39.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.11",
+                "psa10": "$63.52",
+                "grade9": "$39.95"
+            }
+        }
+    }
+}

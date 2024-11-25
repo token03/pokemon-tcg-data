@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG14",
+    "name": "Ice Rider Calyrex V",
+    "number": "TG14",
+    "setId": "swsh10tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3508406"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.27",
+                "psa10": "$31.62",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

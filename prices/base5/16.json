@@ -1,0 +1,25 @@
+{
+    "id": "base5-16",
+    "name": "Rocket's Sneak Attack",
+    "number": "16",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643503",
+        "1st-edition": "1341358"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.16",
+                "psa10": "$132.19",
+                "grade9": "$32.59"
+            },
+            "1st-edition": {
+                "ungraded": "$20.20",
+                "psa10": "$157.33",
+                "grade9": "$44.03"
+            }
+        }
+    }
+}

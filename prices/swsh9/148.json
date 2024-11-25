@@ -1,0 +1,31 @@
+{
+    "id": "swsh9-148",
+    "name": "Roseanne's Backup",
+    "number": "148",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188372",
+        "professor-program": "6138841",
+        "reverse-holo": "3219493"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.61",
+                "grade9": "$11.89"
+            },
+            "professor-program": {
+                "ungraded": "$55.56",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "$35.53",
+                "grade9": "$12.27"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "sv3-85",
+    "name": "Togekiss",
+    "number": "85",
+    "setId": "sv3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5704612",
+        "cosmos-holo": "6837188",
+        "holo": "5605603",
+        "reverse-holo": "5605834"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$19.00",
+                "grade9": "$10.00"
+            },
+            "cosmos-holo": {
+                "ungraded": "$5.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$0.99",
+                "psa10": "$40.00",
+                "grade9": "$5.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$35.98",
+                "grade9": "$11.86"
+            }
+        }
+    }
+}

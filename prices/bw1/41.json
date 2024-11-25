@@ -1,0 +1,25 @@
+{
+    "id": "bw1-41",
+    "name": "Blitzle",
+    "number": "41",
+    "setId": "bw1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886691",
+        "reverse-holo": "886712"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.77",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

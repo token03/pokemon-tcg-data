@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-134",
+    "name": "Tauros",
+    "number": "134",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "836675",
+        "reverse-holo": "887392"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$32.28",
+                "grade9": "$11.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.04",
+                "psa10": "$33.88",
+                "grade9": "$11.98"
+            }
+        }
+    }
+}

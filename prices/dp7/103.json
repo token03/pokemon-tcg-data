@@ -1,0 +1,19 @@
+{
+    "id": "dp7-103",
+    "name": "Charizard",
+    "number": "103",
+    "setId": "dp7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "925879"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$134.79",
+                "psa10": "$9,500.00",
+                "grade9": "$750.64"
+            }
+        }
+    }
+}

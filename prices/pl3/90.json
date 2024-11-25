@@ -1,0 +1,25 @@
+{
+    "id": "pl3-90",
+    "name": "Beldum",
+    "number": "90",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287137",
+        "reverse-holo": "1287291"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.33",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.64",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

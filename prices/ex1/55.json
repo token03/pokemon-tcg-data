@@ -1,0 +1,25 @@
+{
+    "id": "ex1-55",
+    "name": "Goldeen",
+    "number": "55",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762919",
+        "reverse-holo": "763001"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$59.25",
+                "grade9": "$50.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.85",
+                "psa10": "$51.24",
+                "grade9": "$15.05"
+            }
+        }
+    }
+}

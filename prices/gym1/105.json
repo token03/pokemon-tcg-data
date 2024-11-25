@@ -1,0 +1,25 @@
+{
+    "id": "gym1-105",
+    "name": "Blaine's Last Resort",
+    "number": "105",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762103",
+        "1st-edition": "2156414"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$93.56",
+                "grade9": "$4.25"
+            },
+            "1st-edition": {
+                "ungraded": "$3.00",
+                "psa10": "$41.00",
+                "grade9": "$16.57"
+            }
+        }
+    }
+}

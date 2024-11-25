@@ -1,0 +1,25 @@
+{
+    "id": "neo2-46",
+    "name": "Scyther",
+    "number": "46",
+    "setId": "neo2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762451",
+        "1st-edition": "2158473"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.95",
+                "psa10": "$86.16",
+                "grade9": "$15.09"
+            },
+            "1st-edition": {
+                "ungraded": "$6.40",
+                "psa10": "$66.39",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

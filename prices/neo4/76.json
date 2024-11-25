@@ -1,0 +1,25 @@
+{
+    "id": "neo4-76",
+    "name": "Phanpy",
+    "number": "76",
+    "setId": "neo4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762628",
+        "1st-edition": "2183368"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$52.48",
+                "grade9": "$10.52"
+            },
+            "1st-edition": {
+                "ungraded": "$2.21",
+                "psa10": "$41.61",
+                "grade9": "$19.60"
+            }
+        }
+    }
+}

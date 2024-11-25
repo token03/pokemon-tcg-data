@@ -1,0 +1,25 @@
+{
+    "id": "xy8-66",
+    "name": "Mismagius",
+    "number": "66",
+    "setId": "xy8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959255",
+        "reverse-holo": "959409"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$37.58",
+                "grade9": "$14.43"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.88",
+                "psa10": "$40.18",
+                "grade9": "$15.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex10-8",
+    "name": "Jolteon",
+    "number": "8",
+    "setId": "ex10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888428",
+        "reverse-holo": "888570"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.97",
+                "psa10": "$156.00",
+                "grade9": "$40.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$24.99",
+                "psa10": "$254.37",
+                "grade9": "$82.40"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-89",
+    "name": "Twins",
+    "number": "89",
+    "setId": "hgss4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926146",
+        "reverse-holo": "926249"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.12",
+                "psa10": "$52.88",
+                "grade9": "$39.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.60",
+                "psa10": "$79.63",
+                "grade9": "$32.60"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex10-93",
+    "name": "Warp Point",
+    "number": "93",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888513",
+        "reverse-holo": "888655"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$6.95",
+                "psa10": "$122.50",
+                "grade9": "$14.61"
+            }
+        }
+    }
+}

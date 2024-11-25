@@ -1,0 +1,25 @@
+{
+    "id": "ex10-95",
+    "name": "Potion",
+    "number": "95",
+    "setId": "ex10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888515",
+        "reverse-holo": "888657"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.25",
+                "psa10": "",
+                "grade9": "$14.04"
+            }
+        }
+    }
+}

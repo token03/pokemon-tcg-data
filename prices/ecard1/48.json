@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-48",
+    "name": "Gengar",
+    "number": "48",
+    "setId": "ecard1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887893",
+        "reverse-holo": "2266901"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.30",
+                "psa10": "$181.67",
+                "grade9": "$61.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$55.00",
+                "psa10": "$403.95",
+                "grade9": "$115.50"
+            }
+        }
+    }
+}

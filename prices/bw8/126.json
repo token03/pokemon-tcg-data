@@ -1,0 +1,25 @@
+{
+    "id": "bw8-126",
+    "name": "Virbank City Gym",
+    "number": "126",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956923",
+        "reverse-holo": "957053"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.59",
+                "psa10": "$74.11",
+                "grade9": "$32.71"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.27",
+                "psa10": "$111.58",
+                "grade9": "$51.99"
+            }
+        }
+    }
+}

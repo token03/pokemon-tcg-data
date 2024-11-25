@@ -1,0 +1,25 @@
+{
+    "id": "ex2-77",
+    "name": "Seedot",
+    "number": "77",
+    "setId": "ex2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849265",
+        "reverse-holo": "849365"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$78.00",
+                "grade9": "$64.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$154.27",
+                "grade9": "$27.76"
+            }
+        }
+    }
+}

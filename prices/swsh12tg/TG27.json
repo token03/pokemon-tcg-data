@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG27",
+    "name": "Raihan",
+    "number": "TG27",
+    "setId": "swsh12tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277115"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.65",
+                "psa10": "$21.49",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

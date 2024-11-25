@@ -1,0 +1,25 @@
+{
+    "id": "neo3-48",
+    "name": "Quagsire",
+    "number": "48",
+    "setId": "neo3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762527",
+        "1st-edition": "2427431"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$39.73",
+                "grade9": "$18.31"
+            },
+            "1st-edition": {
+                "ungraded": "$1.85",
+                "psa10": "$52.50",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

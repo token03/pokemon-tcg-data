@@ -1,0 +1,25 @@
+{
+    "id": "dp4-14",
+    "name": "Butterfree",
+    "number": "14",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921168",
+        "reverse-holo": "921274"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$32.00",
+                "grade9": "$28.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.38",
+                "psa10": "$236.24",
+                "grade9": "$32.60"
+            }
+        }
+    }
+}

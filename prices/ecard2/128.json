@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-128",
+    "name": "Memory Berry",
+    "number": "128",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842644",
+        "reverse-holo": "2294019"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$52.00",
+                "grade9": "$29.34"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.13",
+                "psa10": "$32.00",
+                "grade9": "$20.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "gym2-53",
+    "name": "Lt. Surge's Raticate",
+    "number": "53",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762259",
+        "1st-edition": "1450247"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.50",
+                "psa10": "$58.31",
+                "grade9": "$19.59"
+            },
+            "1st-edition": {
+                "ungraded": "$3.97",
+                "psa10": "$38.00",
+                "grade9": "$19.64"
+            }
+        }
+    }
+}

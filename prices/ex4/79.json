@@ -1,0 +1,25 @@
+{
+    "id": "ex4-79",
+    "name": "Team Aqua Technical Machine 01",
+    "number": "79",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849648",
+        "reverse-holo": "849746"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.51",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$6.57",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

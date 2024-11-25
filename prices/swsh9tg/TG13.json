@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG13",
+    "name": "Boltund V",
+    "number": "TG13",
+    "setId": "swsh9tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3188401"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$5.37",
+                "psa10": "$37.53",
+                "grade9": "$13.69"
+            }
+        }
+    }
+}

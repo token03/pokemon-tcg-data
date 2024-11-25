@@ -1,0 +1,25 @@
+{
+    "id": "ex11-94",
+    "name": "Holon Research Tower",
+    "number": "94",
+    "setId": "ex11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888756",
+        "reverse-holo": "888870"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.46",
+                "psa10": "$42.00",
+                "grade9": "$34.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.63",
+                "psa10": "$89.95",
+                "grade9": "$25.45"
+            }
+        }
+    }
+}

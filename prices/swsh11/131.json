@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-131",
+    "name": "Giratina VSTAR",
+    "number": "131",
+    "setId": "swsh11",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "prize-pack": "5830260",
+        "normal": "4050048"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "prize-pack": {
+                "ungraded": "$15.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "normal": {
+                "ungraded": "$3.38",
+                "psa10": "$27.38",
+                "grade9": "$10.15"
+            }
+        }
+    }
+}

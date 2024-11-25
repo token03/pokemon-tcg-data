@@ -1,0 +1,25 @@
+{
+    "id": "xy8-110",
+    "name": "Fraxure",
+    "number": "110",
+    "setId": "xy8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959299",
+        "reverse-holo": "959450"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "$37.97",
+                "grade9": "$14.65"
+            }
+        }
+    }
+}

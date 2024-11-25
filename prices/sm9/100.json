@@ -1,0 +1,25 @@
+{
+    "id": "sm9-100",
+    "name": "Bronzor",
+    "number": "100",
+    "setId": "sm9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "962898",
+        "reverse-holo": "963084"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.28",
+                "psa10": "$35.05",
+                "grade9": "$12.93"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

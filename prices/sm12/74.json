@@ -1,0 +1,25 @@
+{
+    "id": "sm12-74",
+    "name": "Togedemaru",
+    "number": "74",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964312",
+        "reverse-holo": "964576"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": "$5.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$34.58",
+                "grade9": "$12.57"
+            }
+        }
+    }
+}

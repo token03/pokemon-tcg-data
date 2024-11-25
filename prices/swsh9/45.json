@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-45",
+    "name": "Raichu V",
+    "number": "45",
+    "setId": "swsh9",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3188270"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$29.99",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

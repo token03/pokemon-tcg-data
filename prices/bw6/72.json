@@ -1,0 +1,25 @@
+{
+    "id": "bw6-72",
+    "name": "Murkrow",
+    "number": "72",
+    "setId": "bw6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956326",
+        "reverse-holo": "956451"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

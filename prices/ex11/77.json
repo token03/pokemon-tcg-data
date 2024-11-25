@@ -1,0 +1,25 @@
+{
+    "id": "ex11-77",
+    "name": "Meowth",
+    "number": "77",
+    "setId": "ex11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888739",
+        "reverse-holo": "888853"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$90.88",
+                "grade9": "$18.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.45",
+                "psa10": "$96.00",
+                "grade9": "$34.00"
+            }
+        }
+    }
+}

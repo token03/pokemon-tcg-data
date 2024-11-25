@@ -1,0 +1,25 @@
+{
+    "id": "sm2-84",
+    "name": "Metang",
+    "number": "84",
+    "setId": "sm2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960581",
+        "reverse-holo": "960742"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

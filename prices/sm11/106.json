@@ -1,0 +1,19 @@
+{
+    "id": "sm11-106",
+    "name": "Aerodactyl-GX",
+    "number": "106",
+    "setId": "sm11",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963672"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.51",
+                "psa10": "$40.15",
+                "grade9": "$20.82"
+            }
+        }
+    }
+}

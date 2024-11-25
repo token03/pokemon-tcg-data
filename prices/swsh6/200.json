@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-200",
+    "name": "Blaziken VMAX",
+    "number": "200",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254004"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$26.39",
+                "psa10": "$67.77",
+                "grade9": "$28.00"
+            }
+        }
+    }
+}

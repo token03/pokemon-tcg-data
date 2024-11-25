@@ -1,0 +1,25 @@
+{
+    "id": "sm2-42",
+    "name": "Alolan Golem",
+    "number": "42",
+    "setId": "sm2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "960539",
+        "reverse-holo": "960705"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.03",
+                "psa10": "$17.50",
+                "grade9": "$15.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.81",
+                "psa10": "$30.00",
+                "grade9": "$9.50"
+            }
+        }
+    }
+}

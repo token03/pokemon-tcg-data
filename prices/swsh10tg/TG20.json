@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG20",
+    "name": "Galarian Moltres V",
+    "number": "TG20",
+    "setId": "swsh10tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3508412"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$9.55",
+                "psa10": "$51.57",
+                "grade9": "$16.38"
+            }
+        }
+    }
+}

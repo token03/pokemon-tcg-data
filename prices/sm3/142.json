@@ -1,0 +1,19 @@
+{
+    "id": "sm3-142",
+    "name": "Acerola",
+    "number": "142",
+    "setId": "sm3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960926"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$30.36",
+                "psa10": "$483.14",
+                "grade9": "$74.69"
+            }
+        }
+    }
+}

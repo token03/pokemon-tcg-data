@@ -1,0 +1,25 @@
+{
+    "id": "base5-34",
+    "name": "Dark Electrode",
+    "number": "34",
+    "setId": "base5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643455",
+        "1st-edition": "1341376"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$35.20",
+                "grade9": "$23.06"
+            },
+            "1st-edition": {
+                "ungraded": "$2.74",
+                "psa10": "$52.86",
+                "grade9": "$22.06"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy10-111",
+    "name": "Shauna",
+    "number": "111",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959968",
+        "reverse-holo": "960075"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$35.04",
+                "grade9": "$12.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "$38.50",
+                "grade9": "$15.04"
+            }
+        }
+    }
+}

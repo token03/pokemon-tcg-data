@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-97",
+    "name": "Hypno",
+    "number": "97",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809478",
+        "reverse-holo": "5809680"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$38.31",
+                "grade9": "$12.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.51",
+                "psa10": "$38.86",
+                "grade9": "$12.68"
+            }
+        }
+    }
+}

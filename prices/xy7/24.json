@@ -1,0 +1,25 @@
+{
+    "id": "xy7-24",
+    "name": "Regice",
+    "number": "24",
+    "setId": "xy7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959043",
+        "reverse-holo": "959140"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$39.99",
+                "grade9": "$22.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.38",
+                "psa10": "$21.00",
+                "grade9": "$17.70"
+            }
+        }
+    }
+}

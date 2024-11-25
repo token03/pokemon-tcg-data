@@ -1,0 +1,31 @@
+{
+    "id": "swsh3-44",
+    "name": "Galarian Darmanitan",
+    "number": "44",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887130",
+        "cracked-ice": "3399952",
+        "reverse-holo": "887314"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$36.27",
+                "grade9": "$5.88"
+            },
+            "cracked-ice": {
+                "ungraded": "$4.49",
+                "psa10": "$12.50",
+                "grade9": "$9.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.94",
+                "psa10": "$15.50",
+                "grade9": "$13.77"
+            }
+        }
+    }
+}

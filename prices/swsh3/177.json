@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-177",
+    "name": "Butterfree V",
+    "number": "177",
+    "setId": "swsh3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "887255"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.17",
+                "psa10": "$27.49",
+                "grade9": "$9.48"
+            }
+        }
+    }
+}

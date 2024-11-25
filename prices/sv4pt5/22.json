@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-22",
+    "name": "Kilowattrel",
+    "number": "22",
+    "setId": "sv4pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6276941",
+        "reverse-holo": "6277185"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.69",
+                "psa10": "$33.29",
+                "grade9": "$10.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.19",
+                "psa10": "$35.67",
+                "grade9": "$11.59"
+            }
+        }
+    }
+}

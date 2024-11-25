@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG21",
+    "name": "Rapid Strike Urshifu VMAX",
+    "number": "TG21",
+    "setId": "swsh9tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "3216322"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$7.49",
+                "psa10": "$46.50",
+                "grade9": "$13.27"
+            }
+        }
+    }
+}

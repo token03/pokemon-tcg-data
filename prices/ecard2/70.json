@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-70",
+    "name": "Chinchou",
+    "number": "70",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842596",
+        "reverse-holo": "2293961"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$87.00",
+                "grade9": "$35.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.86",
+                "psa10": "$346.29",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

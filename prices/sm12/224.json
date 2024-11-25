@@ -1,0 +1,19 @@
+{
+    "id": "sm12-224",
+    "name": "Naganadel & Guzzlord-GX",
+    "number": "224",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964462"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$37.00",
+                "psa10": "$137.50",
+                "grade9": "$45.71"
+            }
+        }
+    }
+}

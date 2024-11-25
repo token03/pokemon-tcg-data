@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-122",
+    "name": "Duraludon V",
+    "number": "122",
+    "setId": "swsh7",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "2512933"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$13.86",
+                "grade9": "$5.00"
+            }
+        }
+    }
+}

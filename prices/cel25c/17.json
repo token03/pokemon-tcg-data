@@ -1,0 +1,19 @@
+{
+    "id": "cel25c-17_A",
+    "name": "Umbreon \u2605",
+    "number": "17",
+    "setId": "cel25c",
+    "rarity": "Classic Collection",
+    "priceChartingIds": {
+        "normal": "2618188"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.00",
+                "psa10": "$58.74",
+                "grade9": "$24.34"
+            }
+        }
+    }
+}

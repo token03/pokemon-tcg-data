@@ -1,0 +1,19 @@
+{
+    "id": "xy9-115",
+    "name": "M Gyarados-EX",
+    "number": "115",
+    "setId": "xy9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959606"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$26.49",
+                "psa10": "$170.62",
+                "grade9": "$57.60"
+            }
+        }
+    }
+}

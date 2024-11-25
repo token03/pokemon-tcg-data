@@ -1,0 +1,19 @@
+{
+    "id": "sm12-266",
+    "name": "Lana's Fishing Rod",
+    "number": "266",
+    "setId": "sm12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "964504"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.06",
+                "psa10": "$29.78",
+                "grade9": "$26.22"
+            }
+        }
+    }
+}

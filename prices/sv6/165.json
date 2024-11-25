@@ -1,0 +1,25 @@
+{
+    "id": "sv6-165",
+    "name": "Unfair Stamp",
+    "number": "165",
+    "setId": "sv6",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "6769645",
+        "reverse-holo": "6769858"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.02",
+                "psa10": "$59.71",
+                "grade9": "$17.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

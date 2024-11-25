@@ -1,0 +1,25 @@
+{
+    "id": "xy2-15",
+    "name": "Rapidash",
+    "number": "15",
+    "setId": "xy2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957762",
+        "reverse-holo": "957868"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$41.26",
+                "grade9": "$4.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.93",
+                "psa10": "$49.83",
+                "grade9": "$20.79"
+            }
+        }
+    }
+}

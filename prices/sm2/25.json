@@ -1,0 +1,25 @@
+{
+    "id": "sm2-25",
+    "name": "Politoed",
+    "number": "25",
+    "setId": "sm2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "960522",
+        "reverse-holo": "960689"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "$78.01",
+                "grade9": "$11.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$37.99",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

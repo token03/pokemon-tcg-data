@@ -1,0 +1,25 @@
+{
+    "id": "xy5-75",
+    "name": "Rhydon",
+    "number": "75",
+    "setId": "xy5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958532",
+        "reverse-holo": "958690"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$28.62",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$38.14",
+                "grade9": "$14.62"
+            }
+        }
+    }
+}

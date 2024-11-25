@@ -1,0 +1,25 @@
+{
+    "id": "basep-16",
+    "name": "Computer Error",
+    "number": "16",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "845018",
+        "prize-pack": "5977615"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$399.99",
+                "grade9": "$34.14"
+            },
+            "prize-pack": {
+                "ungraded": "$12.66",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

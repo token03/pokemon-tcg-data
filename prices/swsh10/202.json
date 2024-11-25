@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-202",
+    "name": "Gardenia's Vigor",
+    "number": "202",
+    "setId": "swsh10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3509635"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.59",
+                "psa10": "$22.50",
+                "grade9": "$17.75"
+            }
+        }
+    }
+}

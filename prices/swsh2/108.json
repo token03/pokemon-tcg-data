@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-108",
+    "name": "Sandaconda V",
+    "number": "108",
+    "setId": "swsh2",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "836324"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$14.36",
+                "grade9": "$11.52"
+            }
+        }
+    }
+}

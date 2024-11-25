@@ -1,0 +1,19 @@
+{
+    "id": "xy3-110",
+    "name": "Fossil Researcher",
+    "number": "110",
+    "setId": "xy3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958093"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$93.88",
+                "grade9": "$52.19"
+            }
+        }
+    }
+}

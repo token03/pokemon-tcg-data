@@ -1,0 +1,25 @@
+{
+    "id": "bw5-34",
+    "name": "Vanillish",
+    "number": "34",
+    "setId": "bw5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956080",
+        "reverse-holo": "956190"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.19",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

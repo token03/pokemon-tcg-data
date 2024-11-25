@@ -1,0 +1,25 @@
+{
+    "id": "dp4-96",
+    "name": "Zigzagoon",
+    "number": "96",
+    "setId": "dp4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "921250",
+        "reverse-holo": "921356"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$52.62",
+                "grade9": "$18.98"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

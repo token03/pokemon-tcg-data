@@ -1,0 +1,19 @@
+{
+    "id": "sv1-211",
+    "name": "Ralts",
+    "number": "211",
+    "setId": "sv1",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "4933985"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.99",
+                "psa10": "$122.56",
+                "grade9": "$25.20"
+            }
+        }
+    }
+}

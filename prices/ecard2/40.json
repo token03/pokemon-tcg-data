@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-40",
+    "name": "Tyranitar",
+    "number": "40",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842567",
+        "reverse-holo": "2293931"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.03",
+                "psa10": "$130.61",
+                "grade9": "$66.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$69.49",
+                "psa10": "$360.00",
+                "grade9": "$120.50"
+            }
+        }
+    }
+}

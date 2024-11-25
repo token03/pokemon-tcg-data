@@ -1,0 +1,25 @@
+{
+    "id": "dp7-5",
+    "name": "Magnezone",
+    "number": "5",
+    "setId": "dp7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "925218",
+        "reverse-holo": "925309"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.74",
+                "psa10": "$431.69",
+                "grade9": "$31.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.67",
+                "psa10": "$81.44",
+                "grade9": "$35.77"
+            }
+        }
+    }
+}

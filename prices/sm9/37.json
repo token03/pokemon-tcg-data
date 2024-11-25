@@ -1,0 +1,25 @@
+{
+    "id": "sm9-37",
+    "name": "Alolan Golem",
+    "number": "37",
+    "setId": "sm9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962835",
+        "reverse-holo": "963028"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.03",
+                "psa10": "$38.01",
+                "grade9": "$14.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

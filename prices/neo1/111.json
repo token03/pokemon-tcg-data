@@ -1,0 +1,25 @@
+{
+    "id": "neo1-111",
+    "name": "Water Energy",
+    "number": "111",
+    "setId": "neo1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1431244",
+        "1st-edition": "2324939"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$22.14",
+                "grade9": "$19.99"
+            },
+            "1st-edition": {
+                "ungraded": "$2.00",
+                "psa10": "$27.59",
+                "grade9": "$7.93"
+            }
+        }
+    }
+}

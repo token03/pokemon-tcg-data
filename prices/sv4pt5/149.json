@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-149",
+    "name": "Kadabra",
+    "number": "149",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277068"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.50",
+                "psa10": "$33.17",
+                "grade9": "$9.32"
+            }
+        }
+    }
+}

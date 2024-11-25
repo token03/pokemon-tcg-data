@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG23",
+    "name": "Dunsparce",
+    "number": "GG23",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637079"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.77",
+                "psa10": "$37.03",
+                "grade9": "$9.38"
+            }
+        }
+    }
+}

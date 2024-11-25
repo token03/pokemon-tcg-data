@@ -1,0 +1,25 @@
+{
+    "id": "ex15-10",
+    "name": "Snorlax \u03b4",
+    "number": "10",
+    "setId": "ex15",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889484",
+        "reverse-holo": "889585"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.98",
+                "psa10": "$353.00",
+                "grade9": "$68.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$33.90",
+                "psa10": "$541.45",
+                "grade9": "$107.44"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "bw8-132",
+    "name": "Articuno-EX",
+    "number": "132",
+    "setId": "bw8",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956929"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$40.89",
+                "psa10": "$683.94",
+                "grade9": "$124.19"
+            }
+        }
+    }
+}

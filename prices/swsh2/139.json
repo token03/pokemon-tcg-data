@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-139",
+    "name": "Zacian",
+    "number": "139",
+    "setId": "swsh2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886865",
+        "reverse-holo": "887052"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.19",
+                "psa10": "$39.00",
+                "grade9": "$20.30"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$38.10",
+                "grade9": "$8.62"
+            }
+        }
+    }
+}

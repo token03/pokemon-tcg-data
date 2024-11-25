@@ -1,0 +1,25 @@
+{
+    "id": "sm115-28",
+    "name": "Koffing",
+    "number": "28",
+    "setId": "sm115",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964048",
+        "reverse-holo": "964206"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$34.97",
+                "grade9": "$15.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "$18.00",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

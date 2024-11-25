@@ -1,0 +1,25 @@
+{
+    "id": "ex4-12",
+    "name": "Team Magma's Torkoal",
+    "number": "12",
+    "setId": "ex4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849581",
+        "reverse-holo": "849678"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.69",
+                "psa10": "$465.49",
+                "grade9": "$40.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.76",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-150",
+    "name": "Nidoking",
+    "number": "150",
+    "setId": "ecard2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "887936",
+        "reverse-holo": "2294041"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$276.27",
+                "psa10": "$2,200.00",
+                "grade9": "$751.97"
+            },
+            "reverse-holo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

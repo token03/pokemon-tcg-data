@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-129",
+    "name": "Metal Cube 01",
+    "number": "129",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842645",
+        "reverse-holo": "2294020"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$82.50",
+                "grade9": "$25.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.53",
+                "psa10": "$150.72",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

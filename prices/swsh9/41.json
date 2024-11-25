@@ -1,0 +1,31 @@
+{
+    "id": "swsh9-41",
+    "name": "Manaphy",
+    "number": "41",
+    "setId": "swsh9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3188266",
+        "prize-pack": "6658423",
+        "reverse-holo": "3219402"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.39",
+                "psa10": "$39.86",
+                "grade9": "$14.05"
+            },
+            "prize-pack": {
+                "ungraded": "$2.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.37",
+                "psa10": "$39.98",
+                "grade9": "$14.10"
+            }
+        }
+    }
+}

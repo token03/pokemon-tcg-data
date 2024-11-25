@@ -1,0 +1,25 @@
+{
+    "id": "sv6-16",
+    "name": "Rillaboom",
+    "number": "16",
+    "setId": "sv6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6769496",
+        "reverse-holo": "6769722"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.53",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

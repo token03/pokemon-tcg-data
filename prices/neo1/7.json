@@ -1,0 +1,25 @@
+{
+    "id": "neo1-7",
+    "name": "Jumpluff",
+    "number": "7",
+    "setId": "neo1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762328",
+        "1st-edition": "2324878"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.34",
+                "psa10": "$340.00",
+                "grade9": "$36.14"
+            },
+            "1st-edition": {
+                "ungraded": "$27.32",
+                "psa10": "$1,700.00",
+                "grade9": "$63.83"
+            }
+        }
+    }
+}

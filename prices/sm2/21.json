@@ -1,0 +1,37 @@
+{
+    "id": "sm2-21",
+    "name": "Alolan Vulpix",
+    "number": "21",
+    "setId": "sm2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960518",
+        "build-a-bear": "5122322",
+        "reverse-holo": "960686",
+        "toys-'r-us": "4107249"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$36.31",
+                "grade9": "$13.80"
+            },
+            "build-a-bear": {
+                "ungraded": "$15.66",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.16",
+                "psa10": "$41.35",
+                "grade9": "$16.83"
+            },
+            "toys-'r-us": {
+                "ungraded": "$8.91",
+                "psa10": "$48.20",
+                "grade9": "$23.36"
+            }
+        }
+    }
+}

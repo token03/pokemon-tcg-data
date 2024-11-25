@@ -1,0 +1,25 @@
+{
+    "id": "base3-59",
+    "name": "Energy Search",
+    "number": "59",
+    "setId": "base3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643403",
+        "1st-edition": "1099553"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$29.50",
+                "grade9": "$13.99"
+            },
+            "1st-edition": {
+                "ungraded": "$1.43",
+                "psa10": "$37.80",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

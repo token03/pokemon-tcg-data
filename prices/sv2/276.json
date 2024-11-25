@@ -1,0 +1,19 @@
+{
+    "id": "sv2-276",
+    "name": "Super Rod",
+    "number": "276",
+    "setId": "sv2",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5287565"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.35",
+                "psa10": "$45.00",
+                "grade9": "$16.55"
+            }
+        }
+    }
+}

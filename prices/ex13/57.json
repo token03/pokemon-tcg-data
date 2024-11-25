@@ -1,0 +1,25 @@
+{
+    "id": "ex13-57",
+    "name": "Anorith \u03b4",
+    "number": "57",
+    "setId": "ex13",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889137",
+        "reverse-holo": "889248"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$65.89",
+                "grade9": "$34.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.58",
+                "psa10": "$115.11",
+                "grade9": "$26.38"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "bw11-90",
+    "name": "Zoroark",
+    "number": "90",
+    "setId": "bw11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "957584",
+        "cosmos-holo": "6390608",
+        "reverse-holo": "957715"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.03",
+                "psa10": "$81.33",
+                "grade9": "$15.02"
+            },
+            "cosmos-holo": {
+                "ungraded": "$2.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

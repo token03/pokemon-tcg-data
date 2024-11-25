@@ -1,0 +1,25 @@
+{
+    "id": "sm6-102",
+    "name": "Beast Ring",
+    "number": "102",
+    "setId": "sm6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961765",
+        "reverse-holo": "961900"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$38.05",
+                "grade9": "$14.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

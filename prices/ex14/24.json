@@ -1,0 +1,25 @@
+{
+    "id": "ex14-24",
+    "name": "Marshtomp",
+    "number": "24",
+    "setId": "ex14",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889311",
+        "reverse-holo": "889411"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.94",
+                "psa10": "$33.65",
+                "grade9": "$13.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.68",
+                "psa10": "$76.00",
+                "grade9": "$36.01"
+            }
+        }
+    }
+}

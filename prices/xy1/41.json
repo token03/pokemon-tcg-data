@@ -1,0 +1,25 @@
+{
+    "id": "xy1-41",
+    "name": "Greninja",
+    "number": "41",
+    "setId": "xy1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806539",
+        "reverse-holo": "806663"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.98",
+                "psa10": "$52.39",
+                "grade9": "$31.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$50.58",
+                "grade9": "$21.15"
+            }
+        }
+    }
+}

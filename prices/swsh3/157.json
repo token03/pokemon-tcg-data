@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-157",
+    "name": "Big Parasol",
+    "number": "157",
+    "setId": "swsh3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "887235",
+        "reverse-holo": "887413"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$34.94",
+                "grade9": "$2.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$36.20",
+                "grade9": "$13.17"
+            }
+        }
+    }
+}

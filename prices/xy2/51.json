@@ -1,0 +1,25 @@
+{
+    "id": "xy2-51",
+    "name": "Sneasel",
+    "number": "51",
+    "setId": "xy2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957798",
+        "reverse-holo": "957901"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

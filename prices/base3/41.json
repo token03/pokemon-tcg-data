@@ -1,0 +1,25 @@
+{
+    "id": "base3-41",
+    "name": "Sandslash",
+    "number": "41",
+    "setId": "base3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643433",
+        "1st-edition": "1099535"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "$62.30",
+                "grade9": "$13.68"
+            },
+            "1st-edition": {
+                "ungraded": "$3.62",
+                "psa10": "$75.67",
+                "grade9": "$24.98"
+            }
+        }
+    }
+}

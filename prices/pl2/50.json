@@ -1,0 +1,25 @@
+{
+    "id": "pl2-50",
+    "name": "Starmie",
+    "number": "50",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925446",
+        "reverse-holo": "925565"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$51.82",
+                "grade9": "$19.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.82",
+                "psa10": "$53.78",
+                "grade9": "$20.04"
+            }
+        }
+    }
+}

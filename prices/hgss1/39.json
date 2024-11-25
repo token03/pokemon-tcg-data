@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-39",
+    "name": "Delibird",
+    "number": "39",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806152",
+        "reverse-holo": "806258"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$53.19",
+                "grade9": "$22.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.22",
+                "psa10": "$77.57",
+                "grade9": "$30.84"
+            }
+        }
+    }
+}

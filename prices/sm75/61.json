@@ -1,0 +1,19 @@
+{
+    "id": "sm75-61",
+    "name": "Lance \u25c7",
+    "number": "61",
+    "setId": "sm75",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "962295"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$38.09",
+                "grade9": "$20.25"
+            }
+        }
+    }
+}

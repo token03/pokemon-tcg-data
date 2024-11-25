@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-143",
+    "name": "Pawmo",
+    "number": "143",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277062"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$20.50",
+                "grade9": "$8.00"
+            }
+        }
+    }
+}

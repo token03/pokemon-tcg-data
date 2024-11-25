@@ -1,0 +1,19 @@
+{
+    "id": "ex11-113",
+    "name": "Metagross \u2605",
+    "number": "113",
+    "setId": "ex11",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "888775"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$354.51",
+                "psa10": "$3,300.00",
+                "grade9": "$1,285.56"
+            }
+        }
+    }
+}

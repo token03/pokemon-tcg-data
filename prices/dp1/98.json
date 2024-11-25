@@ -1,0 +1,37 @@
+{
+    "id": "dp1-98",
+    "name": "Shinx",
+    "number": "98",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763134",
+        "city-championships-staff": "5528976",
+        "reverse-holo": "763256",
+        "stamped": "5428228"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$144.72",
+                "grade9": "$59.99"
+            },
+            "city-championships-staff": {
+                "ungraded": "$42.20",
+                "psa10": "",
+                "grade9": "$39.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.45",
+                "psa10": "$73.01",
+                "grade9": "$26.00"
+            },
+            "stamped": {
+                "ungraded": "$4.24",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

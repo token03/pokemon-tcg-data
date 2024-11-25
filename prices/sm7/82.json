@@ -1,0 +1,19 @@
+{
+    "id": "sm7-82",
+    "name": "Palossand-GX",
+    "number": "82",
+    "setId": "sm7",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961996"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.98",
+                "psa10": "$34.99",
+                "grade9": "$11.05"
+            }
+        }
+    }
+}

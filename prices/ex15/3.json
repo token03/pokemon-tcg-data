@@ -1,0 +1,25 @@
+{
+    "id": "ex15-3",
+    "name": "Heracross \u03b4",
+    "number": "3",
+    "setId": "ex15",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889477",
+        "reverse-holo": "889578"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$223.50",
+                "grade9": "$39.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$16.75",
+                "psa10": "$175.25",
+                "grade9": "$52.50"
+            }
+        }
+    }
+}

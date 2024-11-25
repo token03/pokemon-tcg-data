@@ -1,0 +1,19 @@
+{
+    "id": "sm7-97",
+    "name": "Jirachi \u25c7",
+    "number": "97",
+    "setId": "sm7",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "962011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.62",
+                "psa10": "$65.25",
+                "grade9": "$16.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "base4-25",
+    "name": "Electrode",
+    "number": "25",
+    "setId": "base4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "641828"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.59",
+                "psa10": "$38.00",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

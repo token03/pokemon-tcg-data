@@ -1,0 +1,19 @@
+{
+    "id": "dp1-120",
+    "name": "Empoleon LV.X",
+    "number": "120",
+    "setId": "dp1",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "763158"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.51",
+                "psa10": "$632.50",
+                "grade9": "$233.60"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "mcd11-7",
+    "name": "Munna",
+    "number": "7",
+    "setId": "mcd11",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179962"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$50.64",
+                "grade9": "$19.72"
+            }
+        }
+    }
+}

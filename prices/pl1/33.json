@@ -1,0 +1,25 @@
+{
+    "id": "pl1-33",
+    "name": "Lickilicky",
+    "number": "33",
+    "setId": "pl1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "805982",
+        "reverse-holo": "805983"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.23",
+                "psa10": "$60.12",
+                "grade9": "$22.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.07",
+                "psa10": "$71.48",
+                "grade9": "$27.28"
+            }
+        }
+    }
+}

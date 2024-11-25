@@ -1,0 +1,19 @@
+{
+    "id": "ex1-96",
+    "name": "Chansey ex",
+    "number": "96",
+    "setId": "ex1",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "762949"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.75",
+                "psa10": "$455.35",
+                "grade9": "$70.00"
+            }
+        }
+    }
+}

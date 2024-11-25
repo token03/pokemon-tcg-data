@@ -1,0 +1,25 @@
+{
+    "id": "base3-39",
+    "name": "Magmar",
+    "number": "39",
+    "setId": "base3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643422",
+        "1st-edition": "1099533"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$69.69",
+                "grade9": "$13.50"
+            },
+            "1st-edition": {
+                "ungraded": "$2.73",
+                "psa10": "$79.99",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

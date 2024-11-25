@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-205",
+    "name": "Mew ex",
+    "number": "205",
+    "setId": "sv3pt5",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "metal": "5873367",
+        "normal": "5809586"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "metal": {
+                "ungraded": "$6.14",
+                "psa10": "$38.14",
+                "grade9": "$15.56"
+            },
+            "normal": {
+                "ungraded": "$5.50",
+                "psa10": "$37.50",
+                "grade9": "$16.81"
+            }
+        }
+    }
+}

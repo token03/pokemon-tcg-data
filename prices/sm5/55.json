@@ -1,0 +1,25 @@
+{
+    "id": "sm5-55",
+    "name": "Drapion",
+    "number": "55",
+    "setId": "sm5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961418",
+        "reverse-holo": "961590"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": "$2.25"
+            }
+        }
+    }
+}

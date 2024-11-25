@@ -1,0 +1,25 @@
+{
+    "id": "xy4-63",
+    "name": "Heatran",
+    "number": "63",
+    "setId": "xy4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958256",
+        "reverse-holo": "958372"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.96",
+                "psa10": "$48.33",
+                "grade9": "$20.29"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.54",
+                "psa10": "$38.60",
+                "grade9": "$14.83"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex6-86",
+    "name": "Weedle",
+    "number": "86",
+    "setId": "ex6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "850053",
+        "reverse-holo": "850168"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "$74.00",
+                "grade9": "$25.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.48",
+                "psa10": "$53.50",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

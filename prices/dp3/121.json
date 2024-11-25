@@ -1,0 +1,25 @@
+{
+    "id": "dp3-121",
+    "name": "PlusPower",
+    "number": "121",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921011",
+        "reverse-holo": "921143"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

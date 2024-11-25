@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-23",
+    "name": "Roserade",
+    "number": "23",
+    "setId": "hgss2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287365",
+        "reverse-holo": "1287461"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.69",
+                "psa10": "$49.45",
+                "grade9": "$18.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.46",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-53",
+    "name": "Keldeo V",
+    "number": "53",
+    "setId": "swsh1",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "807153"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$29.87",
+                "grade9": "$11.10"
+            }
+        }
+    }
+}

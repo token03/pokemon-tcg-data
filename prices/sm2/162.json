@@ -1,0 +1,19 @@
+{
+    "id": "sm2-162",
+    "name": "Enhanced Hammer",
+    "number": "162",
+    "setId": "sm2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960659"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.75",
+                "psa10": "$41.57",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

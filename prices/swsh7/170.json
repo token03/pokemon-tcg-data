@@ -1,0 +1,19 @@
+{
+    "id": "swsh7-170",
+    "name": "Volcarona V",
+    "number": "170",
+    "setId": "swsh7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2512981"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.97",
+                "psa10": "$37.50",
+                "grade9": "$13.17"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "gym1-91",
+    "name": "Sabrina's Abra",
+    "number": "91",
+    "setId": "gym1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762199",
+        "1st-edition": "2156529"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.09",
+                "psa10": "$36.88",
+                "grade9": "$22.00"
+            },
+            "1st-edition": {
+                "ungraded": "$3.26",
+                "psa10": "$62.00",
+                "grade9": "$25.20"
+            }
+        }
+    }
+}

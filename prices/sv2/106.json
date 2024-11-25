@@ -1,0 +1,31 @@
+{
+    "id": "sv2-106",
+    "name": "Mankey",
+    "number": "106",
+    "setId": "sv2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5287395",
+        "cosmos-holo": "5441924",
+        "reverse-holo": "5287663"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.71",
+                "psa10": "$37.61",
+                "grade9": "$8.00"
+            },
+            "cosmos-holo": {
+                "ungraded": "$1.75",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.45",
+                "psa10": "$36.46",
+                "grade9": "$17.05"
+            }
+        }
+    }
+}

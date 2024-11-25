@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-112",
+    "name": "Bronzong",
+    "number": "112",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489611",
+        "reverse-holo": "3489809"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.93",
+                "psa10": "$33.91",
+                "grade9": "$11.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "$14.00",
+                "grade9": "$11.86"
+            }
+        }
+    }
+}

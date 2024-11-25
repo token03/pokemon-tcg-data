@@ -1,0 +1,19 @@
+{
+    "id": "swsh45-50",
+    "name": "Ditto V",
+    "number": "50",
+    "setId": "swsh45",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "1341527"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$15.10",
+                "grade9": "$10.70"
+            }
+        }
+    }
+}

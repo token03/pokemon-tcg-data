@@ -1,0 +1,25 @@
+{
+    "id": "ex2-64",
+    "name": "Ekans",
+    "number": "64",
+    "setId": "ex2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849252",
+        "reverse-holo": "849352"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.91",
+                "psa10": "$79.37",
+                "grade9": "$13.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.99",
+                "psa10": "$129.45",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

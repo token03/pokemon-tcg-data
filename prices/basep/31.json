@@ -1,0 +1,19 @@
+{
+    "id": "basep-31",
+    "name": "Cleffa",
+    "number": "31",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5441927"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.34",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

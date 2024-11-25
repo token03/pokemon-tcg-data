@@ -1,0 +1,19 @@
+{
+    "id": "sv2-273",
+    "name": "Quaquaval ex",
+    "number": "273",
+    "setId": "sv2",
+    "rarity": "Hyper Rare",
+    "priceChartingIds": {
+        "normal": "5287562"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.03",
+                "psa10": "$48.49",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-61",
+    "name": "Pikachu",
+    "number": "61",
+    "setId": "hgss3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925948",
+        "reverse-holo": "926039"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$79.57",
+                "grade9": "$22.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$18.05",
+                "psa10": "$230.34",
+                "grade9": "$100.20"
+            }
+        }
+    }
+}

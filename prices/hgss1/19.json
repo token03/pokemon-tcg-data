@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-19",
+    "name": "Farfetch'd",
+    "number": "19",
+    "setId": "hgss1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806132",
+        "reverse-holo": "806237"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$53.76",
+                "grade9": "$39.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.83",
+                "psa10": "$100.10",
+                "grade9": "$40.72"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm6-110",
+    "name": "Lysandre \u25c7",
+    "number": "110",
+    "setId": "sm6",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "961773"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.89",
+                "psa10": "$37.83",
+                "grade9": "$23.46"
+            }
+        }
+    }
+}

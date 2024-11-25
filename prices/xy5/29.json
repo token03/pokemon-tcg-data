@@ -1,0 +1,19 @@
+{
+    "id": "xy5-29",
+    "name": "Camerupt-EX",
+    "number": "29",
+    "setId": "xy5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958486"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.44",
+                "psa10": "$17.94",
+                "grade9": "$9.93"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG13",
+    "name": "Orbeetle VMAX",
+    "number": "TG13",
+    "setId": "swsh11tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "4080765"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.53",
+                "psa10": "$39.02",
+                "grade9": "$13.37"
+            }
+        }
+    }
+}

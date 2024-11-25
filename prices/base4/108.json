@@ -1,0 +1,19 @@
+{
+    "id": "base4-108",
+    "name": "Super Energy Removal",
+    "number": "108",
+    "setId": "base4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "641910"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.29",
+                "psa10": "$31.78",
+                "grade9": "$14.75"
+            }
+        }
+    }
+}

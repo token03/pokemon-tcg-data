@@ -1,0 +1,25 @@
+{
+    "id": "pop7-1",
+    "name": "Ampharos",
+    "number": "1",
+    "setId": "pop7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762807",
+        "holo": "762824"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$75.59",
+                "grade9": "$41.37"
+            },
+            "holo": {
+                "ungraded": "$5.09",
+                "psa10": "$107.42",
+                "grade9": "$51.63"
+            }
+        }
+    }
+}

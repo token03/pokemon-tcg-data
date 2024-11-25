@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG06",
+    "name": "Wyrdeer",
+    "number": "TG06",
+    "setId": "swsh10tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3508398"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$39.00",
+                "grade9": "$9.44"
+            }
+        }
+    }
+}

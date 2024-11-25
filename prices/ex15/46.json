@@ -1,0 +1,25 @@
+{
+    "id": "ex15-46",
+    "name": "Dratini \u03b4",
+    "number": "46",
+    "setId": "ex15",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889520",
+        "reverse-holo": "889621"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.32",
+                "psa10": "$100.00",
+                "grade9": "$18.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.00",
+                "psa10": "$112.53",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

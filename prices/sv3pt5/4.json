@@ -1,0 +1,37 @@
+{
+    "id": "sv3pt5-4",
+    "name": "Charmander",
+    "number": "4",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809384",
+        "eb-games": "6314580",
+        "gamestop": "5811322",
+        "reverse-holo": "5809594"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$16.50",
+                "grade9": "$5.80"
+            },
+            "eb-games": {
+                "ungraded": "$26.27",
+                "psa10": "$152.36",
+                "grade9": "$45.40"
+            },
+            "gamestop": {
+                "ungraded": "$25.50",
+                "psa10": "$95.16",
+                "grade9": "$30.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$29.50",
+                "grade9": "$10.49"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "bw7-103",
+    "name": "White Kyurem-EX",
+    "number": "103",
+    "setId": "bw7",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956618"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$35.83",
+                "grade9": "$11.22"
+            }
+        }
+    }
+}

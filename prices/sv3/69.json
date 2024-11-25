@@ -1,0 +1,25 @@
+{
+    "id": "sv3-69",
+    "name": "Eelektross",
+    "number": "69",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605587",
+        "reverse-holo": "5605821"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$35.40",
+                "grade9": "$11.67"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "$36.30",
+                "grade9": "$11.95"
+            }
+        }
+    }
+}

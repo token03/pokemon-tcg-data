@@ -1,0 +1,25 @@
+{
+    "id": "sm9-153",
+    "name": "Return Label",
+    "number": "153",
+    "setId": "sm9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962951",
+        "reverse-holo": "963133"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

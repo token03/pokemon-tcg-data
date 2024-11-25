@@ -1,0 +1,25 @@
+{
+    "id": "sv2-28",
+    "name": "Paldean Tauros",
+    "number": "28",
+    "setId": "sv2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5287317",
+        "reverse-holo": "5287593"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$36.11",
+                "grade9": "$11.96"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "$35.17",
+                "grade9": "$11.66"
+            }
+        }
+    }
+}

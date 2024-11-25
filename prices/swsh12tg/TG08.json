@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG08",
+    "name": "Passimian",
+    "number": "TG08",
+    "setId": "swsh12tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4277096"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$14.36",
+                "grade9": "$7.92"
+            }
+        }
+    }
+}

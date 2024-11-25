@@ -1,0 +1,25 @@
+{
+    "id": "ex12-63",
+    "name": "Shuppet",
+    "number": "63",
+    "setId": "ex12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888945",
+        "reverse-holo": "889038"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.75",
+                "psa10": "$44.00",
+                "grade9": "$36.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.77",
+                "psa10": "$100.90",
+                "grade9": "$25.38"
+            }
+        }
+    }
+}

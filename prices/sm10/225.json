@@ -1,0 +1,19 @@
+{
+    "id": "sm10-225",
+    "name": "Gardevoir & Sylveon-GX",
+    "number": "225",
+    "setId": "sm10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963381"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$39.00",
+                "psa10": "$118.46",
+                "grade9": "$49.99"
+            }
+        }
+    }
+}

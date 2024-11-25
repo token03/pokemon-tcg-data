@@ -1,0 +1,25 @@
+{
+    "id": "ex6-36",
+    "name": "Kakuna",
+    "number": "36",
+    "setId": "ex6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "850003",
+        "reverse-holo": "850118"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$40.00",
+                "grade9": "$33.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.45",
+                "psa10": "$64.50",
+                "grade9": "$28.23"
+            }
+        }
+    }
+}

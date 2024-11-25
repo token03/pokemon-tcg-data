@@ -1,0 +1,31 @@
+{
+    "id": "base1-19",
+    "name": "Dugtrio",
+    "number": "19",
+    "setId": "base1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "630432",
+        "1st-edition": "715608",
+        "shadowless": "715710"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.87",
+                "psa10": "$86.09",
+                "grade9": "$35.81"
+            },
+            "1st-edition": {
+                "ungraded": "$57.14",
+                "psa10": "$595.91",
+                "grade9": "$146.23"
+            },
+            "shadowless": {
+                "ungraded": "$6.09",
+                "psa10": "$89.00",
+                "grade9": "$35.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy6-98",
+    "name": "Thundurus-EX",
+    "number": "98",
+    "setId": "xy6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958921"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$159.34",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

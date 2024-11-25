@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-80",
+    "name": "Mimikyu",
+    "number": "80",
+    "setId": "swsh11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "4049997",
+        "reverse-holo": "4050208"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$21.50",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.70",
+                "psa10": "$37.53",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

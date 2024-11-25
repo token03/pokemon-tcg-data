@@ -1,0 +1,25 @@
+{
+    "id": "sm6-36",
+    "name": "Magnezone",
+    "number": "36",
+    "setId": "sm6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961699",
+        "reverse-holo": "961842"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$36.67",
+                "grade9": "$9.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

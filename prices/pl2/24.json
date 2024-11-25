@@ -1,0 +1,25 @@
+{
+    "id": "pl2-24",
+    "name": "Heracross E4",
+    "number": "24",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925420",
+        "reverse-holo": "925539"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.74",
+                "psa10": "",
+                "grade9": "$21.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.55",
+                "psa10": "$465.00",
+                "grade9": ""
+            }
+        }
+    }
+}

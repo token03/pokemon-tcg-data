@@ -1,0 +1,25 @@
+{
+    "id": "dp4-20",
+    "name": "Kingler",
+    "number": "20",
+    "setId": "dp4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "921174",
+        "reverse-holo": "921280"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.91",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.91",
+                "psa10": "$95.68",
+                "grade9": ""
+            }
+        }
+    }
+}

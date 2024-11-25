@@ -1,0 +1,25 @@
+{
+    "id": "bw8-15",
+    "name": "Chimchar",
+    "number": "15",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956813",
+        "reverse-holo": "956949"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": "$58.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

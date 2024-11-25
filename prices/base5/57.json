@@ -1,0 +1,25 @@
+{
+    "id": "base5-57",
+    "name": "Grimer",
+    "number": "57",
+    "setId": "base5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643486",
+        "1st-edition": "1341398"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "$37.90",
+                "grade9": "$20.70"
+            },
+            "1st-edition": {
+                "ungraded": "$2.85",
+                "psa10": "$54.47",
+                "grade9": "$20.31"
+            }
+        }
+    }
+}

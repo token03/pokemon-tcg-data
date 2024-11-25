@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-34",
+    "name": "Centiskorch VMAX",
+    "number": "34",
+    "setId": "swsh3",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "887120"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.47",
+                "psa10": "$18.50",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

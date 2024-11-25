@@ -1,0 +1,25 @@
+{
+    "id": "ex2-35",
+    "name": "Electabuzz",
+    "number": "35",
+    "setId": "ex2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849223",
+        "reverse-holo": "849323"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.11",
+                "psa10": "$82.00",
+                "grade9": "$68.44"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.40",
+                "psa10": "$102.50",
+                "grade9": "$57.17"
+            }
+        }
+    }
+}

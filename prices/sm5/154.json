@@ -1,0 +1,19 @@
+{
+    "id": "sm5-154",
+    "name": "Mars",
+    "number": "154",
+    "setId": "sm5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961517"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$47.00",
+                "psa10": "$138.29",
+                "grade9": "$62.00"
+            }
+        }
+    }
+}

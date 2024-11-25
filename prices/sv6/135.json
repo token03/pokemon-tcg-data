@@ -1,0 +1,25 @@
+{
+    "id": "sv6-135",
+    "name": "Eevee",
+    "number": "135",
+    "setId": "sv6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6769615",
+        "reverse-holo": "6769829"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.90",
+                "grade9": "$11.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$35.45",
+                "grade9": "$11.42"
+            }
+        }
+    }
+}

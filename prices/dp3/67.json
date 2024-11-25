@@ -1,0 +1,25 @@
+{
+    "id": "dp3-67",
+    "name": "Smoochum",
+    "number": "67",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920957",
+        "reverse-holo": "921088"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.76",
+                "psa10": "$60.93",
+                "grade9": "$22.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.42",
+                "psa10": "$70.27",
+                "grade9": "$25.78"
+            }
+        }
+    }
+}

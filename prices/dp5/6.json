@@ -1,0 +1,25 @@
+{
+    "id": "dp5-6",
+    "name": "Kabutops",
+    "number": "6",
+    "setId": "dp5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "921368",
+        "reverse-holo": "921468"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.84",
+                "psa10": "$315.14",
+                "grade9": "$52.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.59",
+                "psa10": "$91.40",
+                "grade9": "$23.81"
+            }
+        }
+    }
+}

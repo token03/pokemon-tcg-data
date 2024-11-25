@@ -1,0 +1,19 @@
+{
+    "id": "sm5-136",
+    "name": "Super Boost Energy \u25c7",
+    "number": "136",
+    "setId": "sm5",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "961499"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.36",
+                "psa10": "$30.51",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

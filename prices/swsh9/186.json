@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-186",
+    "name": "Ultra Ball",
+    "number": "186",
+    "setId": "swsh9",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "3216309"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.99",
+                "psa10": "$34.00",
+                "grade9": "$21.90"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm10-199",
+    "name": "Marshadow & Machamp-GX",
+    "number": "199",
+    "setId": "sm10",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "963355"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$65.00",
+                "psa10": "$163.33",
+                "grade9": "$79.82"
+            }
+        }
+    }
+}

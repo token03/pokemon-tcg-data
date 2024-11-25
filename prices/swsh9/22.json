@@ -1,0 +1,19 @@
+{
+    "id": "swsh9-22",
+    "name": "Entei V",
+    "number": "22",
+    "setId": "swsh9",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3188247"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.58",
+                "psa10": "$30.57",
+                "grade9": "$9.48"
+            }
+        }
+    }
+}

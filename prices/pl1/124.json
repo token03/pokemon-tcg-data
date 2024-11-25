@@ -1,0 +1,19 @@
+{
+    "id": "pl1-124",
+    "name": "Giratina LV.X",
+    "number": "124",
+    "setId": "pl1",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "805954"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$29.00",
+                "psa10": "$2,295.38",
+                "grade9": "$173.12"
+            }
+        }
+    }
+}

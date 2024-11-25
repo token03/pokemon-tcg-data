@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-110",
+    "name": "Charmeleon",
+    "number": "110",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277028"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.25",
+                "psa10": "$50.74",
+                "grade9": "$19.28"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "gym2-95",
+    "name": "Sabrina's Drowzee",
+    "number": "95",
+    "setId": "gym2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762296",
+        "1st-edition": "1450289"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.61",
+                "psa10": "$36.69",
+                "grade9": "$18.64"
+            },
+            "1st-edition": {
+                "ungraded": "$3.15",
+                "psa10": "$38.80",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

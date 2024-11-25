@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-32",
+    "name": "Woobat",
+    "number": "32",
+    "setId": "sv4pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6276951",
+        "reverse-holo": "6277194"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.95",
+                "grade9": "$11.67"
+            }
+        }
+    }
+}

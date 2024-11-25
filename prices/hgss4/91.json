@@ -1,0 +1,19 @@
+{
+    "id": "hgss4-91",
+    "name": "Absol",
+    "number": "91",
+    "setId": "hgss4",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "926148"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.13",
+                "psa10": "$285.00",
+                "grade9": "$61.57"
+            }
+        }
+    }
+}

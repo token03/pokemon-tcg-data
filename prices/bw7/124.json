@@ -1,0 +1,25 @@
+{
+    "id": "bw7-124",
+    "name": "Tranquill",
+    "number": "124",
+    "setId": "bw7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956639",
+        "reverse-holo": "956783"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

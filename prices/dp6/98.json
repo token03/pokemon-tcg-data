@@ -1,0 +1,25 @@
+{
+    "id": "dp6-98",
+    "name": "Gulpin",
+    "number": "98",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925029",
+        "reverse-holo": "925174"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

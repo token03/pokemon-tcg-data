@@ -1,0 +1,25 @@
+{
+    "id": "sm8-127",
+    "name": "Dialga",
+    "number": "127",
+    "setId": "sm8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "962515",
+        "reverse-holo": "962740"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.37",
+                "psa10": "$60.00",
+                "grade9": "$18.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "$35.85",
+                "grade9": "$13.43"
+            }
+        }
+    }
+}

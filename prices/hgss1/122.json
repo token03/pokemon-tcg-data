@@ -1,0 +1,19 @@
+{
+    "id": "hgss1-122",
+    "name": "Metal Energy",
+    "number": "122",
+    "setId": "hgss1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3365526"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.75",
+                "psa10": "",
+                "grade9": "$11.90"
+            }
+        }
+    }
+}

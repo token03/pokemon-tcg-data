@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-16",
+    "name": "Grookey",
+    "number": "16",
+    "setId": "swsh6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2253822",
+        "reverse-holo": "2254050"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$34.61",
+                "grade9": "$12.11"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.54",
+                "psa10": "$35.96",
+                "grade9": "$12.73"
+            }
+        }
+    }
+}

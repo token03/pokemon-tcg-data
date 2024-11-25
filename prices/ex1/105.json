@@ -1,0 +1,25 @@
+{
+    "id": "ex1-105",
+    "name": "Fighting Energy",
+    "number": "105",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762958",
+        "reverse-holo": "763032"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$64.00",
+                "grade9": "$52.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.95",
+                "psa10": "$67.16",
+                "grade9": "$12.50"
+            }
+        }
+    }
+}

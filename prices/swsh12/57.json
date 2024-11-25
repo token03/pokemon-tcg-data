@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-57",
+    "name": "Regieleki V",
+    "number": "57",
+    "setId": "swsh12",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277177"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$14.67",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

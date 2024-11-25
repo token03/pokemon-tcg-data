@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-28",
+    "name": "Nidoqueen",
+    "number": "28",
+    "setId": "hgss4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926086",
+        "reverse-holo": "926188"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.24",
+                "psa10": "$54.18",
+                "grade9": "$26.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.49",
+                "psa10": "$77.98",
+                "grade9": "$19.93"
+            }
+        }
+    }
+}

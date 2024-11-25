@@ -1,0 +1,19 @@
+{
+    "id": "swsh12-90",
+    "name": "Hisuian Arcanine V",
+    "number": "90",
+    "setId": "swsh12",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277211"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$21.50",
+                "grade9": "$14.43"
+            }
+        }
+    }
+}

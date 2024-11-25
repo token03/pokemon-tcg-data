@@ -1,0 +1,25 @@
+{
+    "id": "bw9-60",
+    "name": "Primeape",
+    "number": "60",
+    "setId": "bw9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "957114",
+        "reverse-holo": "957233"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl2-25",
+    "name": "Hippowdon",
+    "number": "25",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925421",
+        "reverse-holo": "925540"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.70",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

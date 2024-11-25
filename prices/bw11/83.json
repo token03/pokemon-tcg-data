@@ -1,0 +1,25 @@
+{
+    "id": "bw11-83",
+    "name": "Stunfisk",
+    "number": "83",
+    "setId": "bw11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957577",
+        "reverse-holo": "957709"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.63",
+                "psa10": "",
+                "grade9": "$11.50"
+            }
+        }
+    }
+}

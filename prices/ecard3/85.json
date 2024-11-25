@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-85",
+    "name": "Pineco",
+    "number": "85",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842742",
+        "reverse-holo": "2252683"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.51",
+                "psa10": "$34.50",
+                "grade9": "$16.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.12",
+                "psa10": "$83.04",
+                "grade9": "$35.17"
+            }
+        }
+    }
+}

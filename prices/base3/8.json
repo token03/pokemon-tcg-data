@@ -1,0 +1,25 @@
+{
+    "id": "base3-8",
+    "name": "Hypno",
+    "number": "8",
+    "setId": "base3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643416",
+        "1st-edition": "1099502"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.39",
+                "psa10": "$190.00",
+                "grade9": "$41.60"
+            },
+            "1st-edition": {
+                "ungraded": "$29.73",
+                "psa10": "$419.00",
+                "grade9": "$80.13"
+            }
+        }
+    }
+}

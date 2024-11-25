@@ -1,0 +1,25 @@
+{
+    "id": "bw8-35",
+    "name": "Vanillite",
+    "number": "35",
+    "setId": "bw8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956833",
+        "reverse-holo": "956967"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

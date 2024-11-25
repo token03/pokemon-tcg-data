@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-68",
+    "name": "Wigglytuff",
+    "number": "68",
+    "setId": "swsh3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887154",
+        "reverse-holo": "887337"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "$21.24",
+                "grade9": "$19.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.89",
+                "psa10": "$14.64",
+                "grade9": "$7.00"
+            }
+        }
+    }
+}

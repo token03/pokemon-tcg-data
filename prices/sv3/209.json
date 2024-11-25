@@ -1,0 +1,19 @@
+{
+    "id": "sv3-209",
+    "name": "Lechonk",
+    "number": "209",
+    "setId": "sv3",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5605727"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.80",
+                "psa10": "$57.49",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

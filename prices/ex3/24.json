@@ -1,0 +1,25 @@
+{
+    "id": "ex3-24",
+    "name": "Camerupt",
+    "number": "24",
+    "setId": "ex3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849404",
+        "reverse-holo": "849503"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.57",
+                "psa10": "$114.44",
+                "grade9": "$22.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.80",
+                "psa10": "$122.84",
+                "grade9": "$38.71"
+            }
+        }
+    }
+}

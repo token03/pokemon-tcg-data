@@ -1,0 +1,25 @@
+{
+    "id": "ex16-83",
+    "name": "Steven's Advice",
+    "number": "83",
+    "setId": "ex16",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889747",
+        "reverse-holo": "889854"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.97",
+                "psa10": "$98.34",
+                "grade9": "$35.90"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.49",
+                "psa10": "$107.30",
+                "grade9": "$14.06"
+            }
+        }
+    }
+}

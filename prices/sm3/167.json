@@ -1,0 +1,19 @@
+{
+    "id": "sm3-167",
+    "name": "Fire Energy",
+    "number": "167",
+    "setId": "sm3",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960951"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.71",
+                "psa10": "$94.96",
+                "grade9": "$22.55"
+            }
+        }
+    }
+}

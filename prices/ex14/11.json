@@ -1,0 +1,25 @@
+{
+    "id": "ex14-11",
+    "name": "Swalot",
+    "number": "11",
+    "setId": "ex14",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "889298",
+        "reverse-holo": "889398"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.73",
+                "psa10": "$73.37",
+                "grade9": "$19.82"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.95",
+                "psa10": "$132.52",
+                "grade9": "$22.47"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "base3-57",
+    "name": "Zubat",
+    "number": "57",
+    "setId": "base3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643442",
+        "1st-edition": "1099551"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$34.99",
+                "grade9": "$11.30"
+            },
+            "1st-edition": {
+                "ungraded": "$2.19",
+                "psa10": "$40.71",
+                "grade9": "$13.25"
+            }
+        }
+    }
+}

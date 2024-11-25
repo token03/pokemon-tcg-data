@@ -1,0 +1,19 @@
+{
+    "id": "sm3-145",
+    "name": "Plumeria",
+    "number": "145",
+    "setId": "sm3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960929"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.50",
+                "psa10": "$127.50",
+                "grade9": "$24.99"
+            }
+        }
+    }
+}

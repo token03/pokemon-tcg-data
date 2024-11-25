@@ -1,0 +1,19 @@
+{
+    "id": "xy9-14",
+    "name": "Emboar-EX",
+    "number": "14",
+    "setId": "xy9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959505"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.66",
+                "psa10": "$50.45",
+                "grade9": "$23.99"
+            }
+        }
+    }
+}

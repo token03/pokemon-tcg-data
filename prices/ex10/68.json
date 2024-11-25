@@ -1,0 +1,25 @@
+{
+    "id": "ex10-68",
+    "name": "Poliwhirl",
+    "number": "68",
+    "setId": "ex10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888488",
+        "reverse-holo": "888630"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$52.00",
+                "grade9": "$43.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.00",
+                "psa10": "$85.27",
+                "grade9": "$37.14"
+            }
+        }
+    }
+}

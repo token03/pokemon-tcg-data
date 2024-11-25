@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-50",
+    "name": "Luxio",
+    "number": "50",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188274",
+        "reverse-holo": "3219409"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "$35.45",
+                "grade9": "$12.24"
+            }
+        }
+    }
+}

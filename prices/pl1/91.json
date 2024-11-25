@@ -1,0 +1,37 @@
+{
+    "id": "pl1-91",
+    "name": "Riolu",
+    "number": "91",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806060",
+        "reverse-holo": "806061",
+        "san-diego-comic-con": "5324860",
+        "staff": "4913632"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.84",
+                "psa10": "$108.94",
+                "grade9": "$42.87"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": "$39.99"
+            },
+            "san-diego-comic-con": {
+                "ungraded": "$20.75",
+                "psa10": "",
+                "grade9": ""
+            },
+            "staff": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

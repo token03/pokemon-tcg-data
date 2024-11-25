@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG68",
+    "name": "Origin Forme Dialga VSTAR",
+    "number": "GG68",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "4637124"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$55.00",
+                "psa10": "$148.68",
+                "grade9": "$56.40"
+            }
+        }
+    }
+}

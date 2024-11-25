@@ -1,0 +1,25 @@
+{
+    "id": "gym2-54",
+    "name": "Misty's Dewgong",
+    "number": "54",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762260",
+        "1st-edition": "1450248"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.47",
+                "psa10": "$46.92",
+                "grade9": "$11.98"
+            },
+            "1st-edition": {
+                "ungraded": "$7.00",
+                "psa10": "$52.12",
+                "grade9": "$19.97"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy7-43",
+    "name": "M Tyranitar-EX",
+    "number": "43",
+    "setId": "xy7",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959062"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.31",
+                "psa10": "$70.18",
+                "grade9": "$30.55"
+            }
+        }
+    }
+}

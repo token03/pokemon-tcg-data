@@ -1,0 +1,25 @@
+{
+    "id": "bw6-73",
+    "name": "Honchkrow",
+    "number": "73",
+    "setId": "bw6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956327",
+        "reverse-holo": "956452"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.77",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

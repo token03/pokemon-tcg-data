@@ -1,0 +1,25 @@
+{
+    "id": "base5-13",
+    "name": "Dark Vileplume",
+    "number": "13",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643475",
+        "1st-edition": "1341355"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.97",
+                "psa10": "$587.13",
+                "grade9": "$45.42"
+            },
+            "1st-edition": {
+                "ungraded": "$34.53",
+                "psa10": "$450.00",
+                "grade9": "$83.73"
+            }
+        }
+    }
+}

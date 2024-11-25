@@ -1,0 +1,19 @@
+{
+    "id": "bw7-9",
+    "name": "Celebi-EX",
+    "number": "9",
+    "setId": "bw7",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956524"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.99",
+                "psa10": "$93.69",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

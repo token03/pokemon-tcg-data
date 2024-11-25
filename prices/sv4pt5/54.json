@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-54",
+    "name": "Charizard ex",
+    "number": "54",
+    "setId": "sv4pt5",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "6276973"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$5.00",
+                "psa10": "$34.00",
+                "grade9": "$16.63"
+            }
+        }
+    }
+}

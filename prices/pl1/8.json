@@ -1,0 +1,25 @@
+{
+    "id": "pl1-8",
+    "name": "Gardevoir",
+    "number": "8",
+    "setId": "pl1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "805949",
+        "reverse-holo": "805951"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.43",
+                "psa10": "$116.51",
+                "grade9": "$34.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.02",
+                "psa10": "$1,121.09",
+                "grade9": "$28.40"
+            }
+        }
+    }
+}

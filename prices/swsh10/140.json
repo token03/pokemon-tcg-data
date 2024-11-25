@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-140",
+    "name": "Energy Loto",
+    "number": "140",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489639",
+        "reverse-holo": "3489833"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$35.10",
+                "grade9": "$12.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.09",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

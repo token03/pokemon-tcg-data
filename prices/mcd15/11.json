@@ -1,0 +1,19 @@
+{
+    "id": "mcd15-11",
+    "name": "Zigzagoon",
+    "number": "11",
+    "setId": "mcd15",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180014"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.59",
+                "psa10": "$49.34",
+                "grade9": "$21.32"
+            }
+        }
+    }
+}

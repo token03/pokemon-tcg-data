@@ -1,0 +1,25 @@
+{
+    "id": "pl1-117",
+    "name": "Team Galactic's Invention G-103 Power Spray",
+    "number": "117",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806042",
+        "reverse-holo": "806043"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.64",
+                "psa10": "$52.71",
+                "grade9": "$19.46"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

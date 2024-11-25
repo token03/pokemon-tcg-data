@@ -1,0 +1,25 @@
+{
+    "id": "pl4-47",
+    "name": "Rapidash",
+    "number": "47",
+    "setId": "pl4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925666",
+        "reverse-holo": "925777"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$53.13",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.36",
+                "psa10": "",
+                "grade9": "$12.83"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm8-156",
+    "name": "Stantler",
+    "number": "156",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962544",
+        "reverse-holo": "962764"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.35",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

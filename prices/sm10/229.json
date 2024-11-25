@@ -1,0 +1,19 @@
+{
+    "id": "sm10-229",
+    "name": "Beast Bringer",
+    "number": "229",
+    "setId": "sm10",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "963385"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$31.31",
+                "grade9": "$15.69"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex8-29",
+    "name": "Xatu",
+    "number": "29",
+    "setId": "ex8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889866",
+        "reverse-holo": "888157"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$22.50",
+                "grade9": "$16.15"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.00",
+                "psa10": "$245.21",
+                "grade9": "$41.00"
+            }
+        }
+    }
+}

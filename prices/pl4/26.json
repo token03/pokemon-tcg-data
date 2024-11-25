@@ -1,0 +1,25 @@
+{
+    "id": "pl4-26",
+    "name": "Porygon-Z G",
+    "number": "26",
+    "setId": "pl4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925645",
+        "reverse-holo": "925756"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.30",
+                "psa10": "$60.39",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.46",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

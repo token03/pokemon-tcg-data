@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-114",
+    "name": "Weedle",
+    "number": "114",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842766",
+        "reverse-holo": "2252713"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.02",
+                "psa10": "$46.00",
+                "grade9": "$24.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.35",
+                "psa10": "$151.25",
+                "grade9": "$31.00"
+            }
+        }
+    }
+}

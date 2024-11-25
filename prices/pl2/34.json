@@ -1,0 +1,25 @@
+{
+    "id": "pl2-34",
+    "name": "Vaporeon",
+    "number": "34",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925430",
+        "reverse-holo": "925549"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.57",
+                "psa10": "$50.09",
+                "grade9": "$22.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.89",
+                "psa10": "$184.30",
+                "grade9": "$52.75"
+            }
+        }
+    }
+}

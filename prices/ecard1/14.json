@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-14",
+    "name": "Golem",
+    "number": "14",
+    "setId": "ecard1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842430",
+        "reverse-holo": "2266869"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.06",
+                "psa10": "$157.98",
+                "grade9": "$60.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.38",
+                "psa10": "$109.94",
+                "grade9": "$49.39"
+            }
+        }
+    }
+}

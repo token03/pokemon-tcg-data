@@ -1,0 +1,19 @@
+{
+    "id": "cel25-14",
+    "name": "Cosmoem",
+    "number": "14",
+    "setId": "cel25",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2618159"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$64.99",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

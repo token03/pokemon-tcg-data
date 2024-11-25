@@ -1,0 +1,25 @@
+{
+    "id": "sm5-97",
+    "name": "Gible",
+    "number": "97",
+    "setId": "sm5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961460",
+        "reverse-holo": "961626"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.18",
+                "grade9": "$12.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.27",
+                "psa10": "$49.99",
+                "grade9": "$4.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp6-32",
+    "name": "Kyogre",
+    "number": "32",
+    "setId": "dp6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "924963",
+        "reverse-holo": "925109"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$73.01",
+                "grade9": "$27.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.68",
+                "psa10": "$97.11",
+                "grade9": "$44.99"
+            }
+        }
+    }
+}

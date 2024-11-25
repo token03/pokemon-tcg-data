@@ -1,0 +1,25 @@
+{
+    "id": "xy6-25",
+    "name": "Manectric",
+    "number": "25",
+    "setId": "xy6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958848",
+        "reverse-holo": "958958"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$37.35",
+                "grade9": "$14.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$79.99",
+                "grade9": "$13.48"
+            }
+        }
+    }
+}

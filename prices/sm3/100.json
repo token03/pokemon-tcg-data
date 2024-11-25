@@ -1,0 +1,31 @@
+{
+    "id": "sm3-100",
+    "name": "Zygarde",
+    "number": "100",
+    "setId": "sm3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "960884",
+        "league": "5705718",
+        "reverse-holo": "961041"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$31.51",
+                "grade9": "$8.52"
+            },
+            "league": {
+                "ungraded": "$2.35",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.95",
+                "psa10": "$34.65",
+                "grade9": "$2.50"
+            }
+        }
+    }
+}

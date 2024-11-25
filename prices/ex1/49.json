@@ -1,0 +1,25 @@
+{
+    "id": "ex1-49",
+    "name": "Aron",
+    "number": "49",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "886606",
+        "reverse-holo": "886633"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.87",
+                "psa10": "$44.04",
+                "grade9": "$17.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.37",
+                "psa10": "$77.78",
+                "grade9": "$39.00"
+            }
+        }
+    }
+}

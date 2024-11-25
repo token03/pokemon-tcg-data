@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-73",
+    "name": "Medicham",
+    "number": "73",
+    "setId": "swsh12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4277194",
+        "reverse-holo": "4293807"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$35.83",
+                "grade9": "$12.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$38.40",
+                "grade9": "$13.03"
+            }
+        }
+    }
+}

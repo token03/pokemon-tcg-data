@@ -1,0 +1,25 @@
+{
+    "id": "xy10-107",
+    "name": "Pok\u00e9mon Fan Club",
+    "number": "107",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959964",
+        "reverse-holo": "960071"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$36.06",
+                "grade9": "$13.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.54",
+                "psa10": "$40.61",
+                "grade9": "$9.36"
+            }
+        }
+    }
+}

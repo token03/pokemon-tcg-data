@@ -1,0 +1,19 @@
+{
+    "id": "sv6-23",
+    "name": "Sinistcha ex",
+    "number": "23",
+    "setId": "sv6",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "6769503"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.50",
+                "psa10": "$36.83",
+                "grade9": "$11.78"
+            }
+        }
+    }
+}

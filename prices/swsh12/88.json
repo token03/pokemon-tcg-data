@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-88",
+    "name": "Drakloak",
+    "number": "88",
+    "setId": "swsh12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4277209",
+        "reverse-holo": "4293820"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.85",
+                "psa10": "$33.72",
+                "grade9": "$11.34"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$36.29",
+                "grade9": "$4.90"
+            }
+        }
+    }
+}

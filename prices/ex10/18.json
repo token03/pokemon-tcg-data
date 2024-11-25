@@ -1,0 +1,25 @@
+{
+    "id": "ex10-18",
+    "name": "Ursaring",
+    "number": "18",
+    "setId": "ex10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888438",
+        "reverse-holo": "888580"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.40",
+                "psa10": "$201.49",
+                "grade9": "$27.21"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.50",
+                "psa10": "$102.50",
+                "grade9": "$31.39"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv3-227",
+    "name": "Poppy",
+    "number": "227",
+    "setId": "sv3",
+    "rarity": "Special Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5605745"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.15",
+                "psa10": "$33.99",
+                "grade9": "$11.60"
+            }
+        }
+    }
+}

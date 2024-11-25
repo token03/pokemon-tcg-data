@@ -1,0 +1,19 @@
+{
+    "id": "mcd22-1",
+    "name": "Ledyba",
+    "number": "1",
+    "setId": "mcd22",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "3892298"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.74",
+                "psa10": "$37.20",
+                "grade9": "$12.73"
+            }
+        }
+    }
+}

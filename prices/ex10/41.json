@@ -1,0 +1,25 @@
+{
+    "id": "ex10-41",
+    "name": "Magcargo",
+    "number": "41",
+    "setId": "ex10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "888461",
+        "reverse-holo": "888603"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.15",
+                "psa10": "$58.26",
+                "grade9": "$25.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.61",
+                "psa10": "$71.58",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

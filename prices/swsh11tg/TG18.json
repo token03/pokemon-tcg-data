@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG18",
+    "name": "Enamorus V",
+    "number": "TG18",
+    "setId": "swsh11tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4080770"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.75",
+                "psa10": "$32.81",
+                "grade9": "$15.61"
+            }
+        }
+    }
+}

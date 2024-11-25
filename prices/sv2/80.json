@@ -1,0 +1,25 @@
+{
+    "id": "sv2-80",
+    "name": "Wattrel",
+    "number": "80",
+    "setId": "sv2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5287369",
+        "reverse-holo": "5287639"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "$34.77",
+                "grade9": "$11.53"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.41",
+                "psa10": "$36.29",
+                "grade9": "$12.02"
+            }
+        }
+    }
+}

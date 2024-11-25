@@ -1,0 +1,25 @@
+{
+    "id": "gym1-104",
+    "name": "The Rocket's Training Gym",
+    "number": "104",
+    "setId": "gym1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762102",
+        "1st-edition": "2156413"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.75",
+                "psa10": "$46.00",
+                "grade9": "$38.00"
+            },
+            "1st-edition": {
+                "ungraded": "$12.86",
+                "psa10": "$95.33",
+                "grade9": "$26.95"
+            }
+        }
+    }
+}

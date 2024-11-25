@@ -1,0 +1,25 @@
+{
+    "id": "sv1-110",
+    "name": "Meditite",
+    "number": "110",
+    "setId": "sv1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4933885",
+        "reverse-holo": "4934135"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "$35.47",
+                "grade9": "$11.83"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "$34.89",
+                "grade9": "$11.64"
+            }
+        }
+    }
+}

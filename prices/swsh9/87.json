@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-87",
+    "name": "Weavile",
+    "number": "87",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188311",
+        "reverse-holo": "3219441"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.42",
+                "psa10": "$31.68",
+                "grade9": "$10.69"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.01",
+                "grade9": "$12.06"
+            }
+        }
+    }
+}

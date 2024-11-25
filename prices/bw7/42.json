@@ -1,0 +1,25 @@
+{
+    "id": "bw7-42",
+    "name": "Ducklett",
+    "number": "42",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956557",
+        "reverse-holo": "956708"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "",
+                "grade9": "$7.50"
+            }
+        }
+    }
+}

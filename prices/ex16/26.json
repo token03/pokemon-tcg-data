@@ -1,0 +1,31 @@
+{
+    "id": "ex16-26",
+    "name": "Anorith",
+    "number": "26",
+    "setId": "ex16",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889690",
+        "reverse-holo": "889798",
+        "stamped": "4917001"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$51.16",
+                "grade9": "$29.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.84",
+                "psa10": "$78.86",
+                "grade9": "$19.75"
+            },
+            "stamped": {
+                "ungraded": "$2.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

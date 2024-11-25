@@ -1,0 +1,25 @@
+{
+    "id": "sv3-71",
+    "name": "Toxel",
+    "number": "71",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605589",
+        "reverse-holo": "5605823"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.18",
+                "psa10": "$34.53",
+                "grade9": "$11.41"
+            }
+        }
+    }
+}

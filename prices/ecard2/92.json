@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-92",
+    "name": "Mankey",
+    "number": "92",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842612",
+        "reverse-holo": "2293983"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.57",
+                "psa10": "$56.00",
+                "grade9": "$21.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.00",
+                "psa10": "$97.00",
+                "grade9": "$38.23"
+            }
+        }
+    }
+}

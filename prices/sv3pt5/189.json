@@ -1,0 +1,19 @@
+{
+    "id": "sv3pt5-189",
+    "name": "Golem ex",
+    "number": "189",
+    "setId": "sv3pt5",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5810595"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.95",
+                "psa10": "$23.55",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

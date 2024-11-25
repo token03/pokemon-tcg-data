@@ -1,0 +1,25 @@
+{
+    "id": "bw2-65",
+    "name": "Liepard",
+    "number": "65",
+    "setId": "bw2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955491",
+        "reverse-holo": "955588"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.09",
+                "psa10": "",
+                "grade9": "$12.60"
+            }
+        }
+    }
+}

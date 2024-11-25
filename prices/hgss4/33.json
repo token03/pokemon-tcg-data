@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-33",
+    "name": "Electabuzz",
+    "number": "33",
+    "setId": "hgss4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "926091",
+        "reverse-holo": "926193"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.67",
+                "psa10": "$47.99",
+                "grade9": "$18.20"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.38",
+                "psa10": "",
+                "grade9": "$34.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sv4-26",
+    "name": "Charcadet",
+    "number": "26",
+    "setId": "sv4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5952864",
+        "cosmos-holo": "6675475",
+        "reverse-holo": "5953130"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$35.76",
+                "grade9": "$11.70"
+            },
+            "cosmos-holo": {
+                "ungraded": "$1.95",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "$35.07",
+                "grade9": "$6.50"
+            }
+        }
+    }
+}

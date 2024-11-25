@@ -1,0 +1,25 @@
+{
+    "id": "neo1-104",
+    "name": "Darkness Energy",
+    "number": "104",
+    "setId": "neo1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2210073",
+        "1st-edition": "2324855"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.41",
+                "psa10": "$26.78",
+                "grade9": "$9.51"
+            },
+            "1st-edition": {
+                "ungraded": "$4.95",
+                "psa10": "$46.00",
+                "grade9": "$15.79"
+            }
+        }
+    }
+}

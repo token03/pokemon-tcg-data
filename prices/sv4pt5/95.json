@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-95",
+    "name": "Scyther",
+    "number": "95",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277013"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.97",
+                "psa10": "$36.00",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

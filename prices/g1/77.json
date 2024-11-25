@@ -1,0 +1,25 @@
+{
+    "id": "g1-77",
+    "name": "Water Energy",
+    "number": "77",
+    "setId": "g1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2368835",
+        "reverse-holo": "4558014"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.32",
+                "psa10": "$44.99",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.60",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

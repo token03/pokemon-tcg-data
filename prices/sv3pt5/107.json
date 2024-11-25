@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-107",
+    "name": "Hitmonchan",
+    "number": "107",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809488",
+        "reverse-holo": "5809690"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$36.83",
+                "grade9": "$12.07"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.14",
+                "psa10": "$40.27",
+                "grade9": "$13.11"
+            }
+        }
+    }
+}

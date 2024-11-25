@@ -1,0 +1,25 @@
+{
+    "id": "bw6-5",
+    "name": "Yanmega",
+    "number": "5",
+    "setId": "bw6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956259",
+        "reverse-holo": "956387"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

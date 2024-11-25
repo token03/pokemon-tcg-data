@@ -1,0 +1,25 @@
+{
+    "id": "sm3-117",
+    "name": "Lana",
+    "number": "117",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960901",
+        "reverse-holo": "961058"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.38",
+                "grade9": "$12.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$36.60",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "basep-17",
+    "name": "Dark Persian",
+    "number": "17",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "5115345",
+        "no-hp": "2405097",
+        "prize-pack-series-3": "6688134"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.99",
+                "psa10": "$36.16",
+                "grade9": "$17.99"
+            },
+            "no-hp": {
+                "ungraded": "$167.50",
+                "psa10": "",
+                "grade9": "$849.00"
+            },
+            "prize-pack-series-3": {
+                "ungraded": "$12.01",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

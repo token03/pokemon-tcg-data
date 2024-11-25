@@ -1,0 +1,25 @@
+{
+    "id": "dp6-77",
+    "name": "Unown [R]",
+    "number": "77",
+    "setId": "dp6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925009",
+        "reverse-holo": "925153"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.03",
+                "psa10": "$91.74",
+                "grade9": "$35.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$101.53",
+                "grade9": "$39.10"
+            }
+        }
+    }
+}

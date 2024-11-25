@@ -1,0 +1,25 @@
+{
+    "id": "ex11-86",
+    "name": "Taillow",
+    "number": "86",
+    "setId": "ex11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "888748",
+        "reverse-holo": "888862"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$25.00",
+                "grade9": "$20.64"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.10",
+                "psa10": "$131.54",
+                "grade9": "$13.75"
+            }
+        }
+    }
+}

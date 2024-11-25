@@ -1,0 +1,25 @@
+{
+    "id": "base2-48",
+    "name": "Weepinbell",
+    "number": "48",
+    "setId": "base2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "643344",
+        "1st-edition": "643392"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.38",
+                "psa10": "$37.02",
+                "grade9": "$18.45"
+            },
+            "1st-edition": {
+                "ungraded": "$2.49",
+                "psa10": "$60.00",
+                "grade9": "$20.10"
+            }
+        }
+    }
+}

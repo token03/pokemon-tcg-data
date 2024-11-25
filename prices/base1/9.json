@@ -1,0 +1,31 @@
+{
+    "id": "base1-9",
+    "name": "Magneton",
+    "number": "9",
+    "setId": "base1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "630422",
+        "1st-edition": "715598",
+        "shadowless": "715700"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$549.99",
+                "grade9": "$87.25"
+            },
+            "1st-edition": {
+                "ungraded": "$142.50",
+                "psa10": "$7,428.69",
+                "grade9": "$731.31"
+            },
+            "shadowless": {
+                "ungraded": "$18.15",
+                "psa10": "$938.00",
+                "grade9": "$182.25"
+            }
+        }
+    }
+}

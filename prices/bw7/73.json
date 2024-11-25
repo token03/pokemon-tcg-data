@@ -1,0 +1,25 @@
+{
+    "id": "bw7-73",
+    "name": "Whirlipede",
+    "number": "73",
+    "setId": "bw7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956588",
+        "reverse-holo": "956736"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.72",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

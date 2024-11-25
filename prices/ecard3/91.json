@@ -1,0 +1,25 @@
+{
+    "id": "ecard3-91",
+    "name": "Rhyhorn",
+    "number": "91",
+    "setId": "ecard3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842747",
+        "reverse-holo": "2252689"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.94",
+                "psa10": "$37.97",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$16.66",
+                "psa10": "$147.48",
+                "grade9": "$44.99"
+            }
+        }
+    }
+}

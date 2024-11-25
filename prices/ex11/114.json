@@ -1,0 +1,19 @@
+{
+    "id": "ex11-114",
+    "name": "Azumarill",
+    "number": "114",
+    "setId": "ex11",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "888776"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$18.03",
+                "psa10": "$400.00",
+                "grade9": "$33.89"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-153",
+    "name": "Capturing Aroma",
+    "number": "153",
+    "setId": "swsh12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4277274",
+        "reverse-holo": "4293873"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.02",
+                "psa10": "$38.07",
+                "grade9": "$12.91"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.67",
+                "psa10": "$36.97",
+                "grade9": "$12.51"
+            }
+        }
+    }
+}

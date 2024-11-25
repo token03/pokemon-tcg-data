@@ -1,0 +1,25 @@
+{
+    "id": "gym1-108",
+    "name": "Cerulean City Gym",
+    "number": "108",
+    "setId": "gym1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762106",
+        "1st-edition": "2156417"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.88",
+                "psa10": "$65.00",
+                "grade9": "$27.36"
+            },
+            "1st-edition": {
+                "ungraded": "$3.79",
+                "psa10": "$42.06",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

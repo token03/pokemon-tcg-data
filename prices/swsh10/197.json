@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-197",
+    "name": "Hisuian Samurott VSTAR",
+    "number": "197",
+    "setId": "swsh10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "3489697"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.57",
+                "psa10": "$29.06",
+                "grade9": "$18.37"
+            }
+        }
+    }
+}

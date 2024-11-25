@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-93",
+    "name": "Zygarde",
+    "number": "93",
+    "setId": "swsh4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "887643",
+        "reverse-holo": "887816"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.27",
+                "psa10": "$15.01",
+                "grade9": "$7.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.57",
+                "psa10": "$12.07",
+                "grade9": "$6.00"
+            }
+        }
+    }
+}

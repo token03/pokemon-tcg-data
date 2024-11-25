@@ -1,0 +1,25 @@
+{
+    "id": "xy5-78",
+    "name": "Nosepass",
+    "number": "78",
+    "setId": "xy5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958535",
+        "reverse-holo": "958693"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

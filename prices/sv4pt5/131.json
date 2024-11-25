@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-131",
+    "name": "Pikachu",
+    "number": "131",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277050"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$36.00",
+                "psa10": "$145.24",
+                "grade9": "$41.00"
+            }
+        }
+    }
+}

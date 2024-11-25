@@ -1,0 +1,31 @@
+{
+    "id": "ex5-41",
+    "name": "Machoke",
+    "number": "41",
+    "setId": "ex5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849814",
+        "reverse-holo": "849916",
+        "state-championships": "6135481"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.62",
+                "psa10": "$146.50",
+                "grade9": "$30.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.99",
+                "psa10": "$78.00",
+                "grade9": "$38.00"
+            },
+            "state-championships": {
+                "ungraded": "$13.49",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

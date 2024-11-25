@@ -1,0 +1,25 @@
+{
+    "id": "base6-15",
+    "name": "Machamp",
+    "number": "15",
+    "setId": "base6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842322",
+        "reverse-holo": "2253699"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.22",
+                "psa10": "$225.43",
+                "grade9": "$58.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$57.50",
+                "psa10": "$850.00",
+                "grade9": "$255.45"
+            }
+        }
+    }
+}

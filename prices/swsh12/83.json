@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-83",
+    "name": "Swirlix",
+    "number": "83",
+    "setId": "swsh12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4277204",
+        "reverse-holo": "4293816"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.90",
+                "psa10": "$38.11",
+                "grade9": "$12.92"
+            }
+        }
+    }
+}

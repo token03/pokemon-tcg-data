@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-223",
+    "name": "Dubwool",
+    "number": "223",
+    "setId": "swsh8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2771249",
+        "reverse-holo": "2771505"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.93",
+                "psa10": "$33.67",
+                "grade9": "$11.58"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "$35.40",
+                "grade9": "$12.33"
+            }
+        }
+    }
+}

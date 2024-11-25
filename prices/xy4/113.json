@@ -1,0 +1,19 @@
+{
+    "id": "xy4-113",
+    "name": "Manectric-EX",
+    "number": "113",
+    "setId": "xy4",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958306"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.39",
+                "psa10": "$524.69",
+                "grade9": "$27.90"
+            }
+        }
+    }
+}

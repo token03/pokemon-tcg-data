@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-60",
+    "name": "Eelektrik",
+    "number": "60",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4049977",
+        "reverse-holo": "4050188"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.18",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

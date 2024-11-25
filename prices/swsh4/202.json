@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-202",
+    "name": "Memory Capsule",
+    "number": "202",
+    "setId": "swsh4",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "887738"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.37",
+                "psa10": "$24.95",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

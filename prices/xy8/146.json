@@ -1,0 +1,25 @@
+{
+    "id": "xy8-146",
+    "name": "Professor's Letter",
+    "number": "146",
+    "setId": "xy8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959335",
+        "reverse-holo": "959485"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "$38.01",
+                "grade9": "$7.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.47",
+                "psa10": "$43.39",
+                "grade9": "$17.82"
+            }
+        }
+    }
+}

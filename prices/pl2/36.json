@@ -1,0 +1,25 @@
+{
+    "id": "pl2-36",
+    "name": "Walrein",
+    "number": "36",
+    "setId": "pl2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925432",
+        "reverse-holo": "925551"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$55.61",
+                "grade9": "$25.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.13",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

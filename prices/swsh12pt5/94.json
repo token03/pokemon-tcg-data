@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-94",
+    "name": "Zacian",
+    "number": "94",
+    "setId": "swsh12pt5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "4636990",
+        "reverse-holo": "4637204"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.36",
+                "psa10": "$40.00",
+                "grade9": "$12.03"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.71",
+                "psa10": "$37.31",
+                "grade9": "$3.25"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex7-90",
+    "name": "Rocket's Tricky Gym",
+    "number": "90",
+    "setId": "ex7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "886424",
+        "reverse-holo": "886534"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$114.96",
+                "grade9": "$16.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.29",
+                "psa10": "$99.45",
+                "grade9": "$35.22"
+            }
+        }
+    }
+}

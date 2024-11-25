@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-144",
+    "name": "Noctowl",
+    "number": "144",
+    "setId": "swsh1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "807195",
+        "reverse-holo": "807196"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.77",
+                "grade9": "$12.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.77",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

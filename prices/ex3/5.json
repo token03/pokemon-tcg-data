@@ -1,0 +1,25 @@
+{
+    "id": "ex3-5",
+    "name": "Golem",
+    "number": "5",
+    "setId": "ex3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849385",
+        "reverse-holo": "849484"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.05",
+                "psa10": "$242.46",
+                "grade9": "$41.54"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.07",
+                "psa10": "$250.82",
+                "grade9": "$44.21"
+            }
+        }
+    }
+}

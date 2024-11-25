@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG22",
+    "name": "Umbreon V",
+    "number": "TG22",
+    "setId": "swsh9tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3188406"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$26.75",
+                "psa10": "$118.00",
+                "grade9": "$41.00"
+            }
+        }
+    }
+}

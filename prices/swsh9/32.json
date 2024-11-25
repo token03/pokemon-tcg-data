@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-32",
+    "name": "Corphish",
+    "number": "32",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188257",
+        "reverse-holo": "3219394"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.14",
+                "psa10": "$30.56",
+                "grade9": "$10.23"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$36.37",
+                "grade9": "$12.62"
+            }
+        }
+    }
+}

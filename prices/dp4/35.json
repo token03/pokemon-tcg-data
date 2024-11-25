@@ -1,0 +1,25 @@
+{
+    "id": "dp4-35",
+    "name": "Combusken",
+    "number": "35",
+    "setId": "dp4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921189",
+        "reverse-holo": "921295"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": "$69.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.53",
+                "psa10": "$60.00",
+                "grade9": "$24.72"
+            }
+        }
+    }
+}

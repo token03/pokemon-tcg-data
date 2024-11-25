@@ -1,0 +1,19 @@
+{
+    "id": "swsh4-21",
+    "name": "Orbeetle VMAX",
+    "number": "21",
+    "setId": "swsh4",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "887577"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "$15.88",
+                "grade9": "$11.75"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp6-110",
+    "name": "Numel",
+    "number": "110",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925041",
+        "reverse-holo": "925865"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.55",
+                "psa10": "$52.23",
+                "grade9": "$19.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.23",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

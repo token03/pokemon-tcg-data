@@ -1,0 +1,19 @@
+{
+    "id": "mcd11-4",
+    "name": "Oshawott",
+    "number": "4",
+    "setId": "mcd11",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179958"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.37",
+                "psa10": "$53.49",
+                "grade9": "$21.06"
+            }
+        }
+    }
+}

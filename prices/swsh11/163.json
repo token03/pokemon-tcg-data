@@ -1,0 +1,31 @@
+{
+    "id": "swsh11-163",
+    "name": "Mirage Gate",
+    "number": "163",
+    "setId": "swsh11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4050080",
+        "prize-pack": "6688511",
+        "reverse-holo": "4050281"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$38.04",
+                "grade9": "$13.00"
+            },
+            "prize-pack": {
+                "ungraded": "$3.74",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.02",
+                "psa10": "$44.54",
+                "grade9": "$15.42"
+            }
+        }
+    }
+}

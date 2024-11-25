@@ -1,0 +1,19 @@
+{
+    "id": "pl2-112",
+    "name": "Pikachu",
+    "number": "112",
+    "setId": "pl2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "925508"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$37.52",
+                "psa10": "$447.64",
+                "grade9": "$148.76"
+            }
+        }
+    }
+}

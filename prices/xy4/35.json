@@ -1,0 +1,19 @@
+{
+    "id": "xy4-35",
+    "name": "M Gengar-EX",
+    "number": "35",
+    "setId": "xy4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958228"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$29.22",
+                "psa10": "$249.99",
+                "grade9": "$69.94"
+            }
+        }
+    }
+}

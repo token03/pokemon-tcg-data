@@ -1,0 +1,19 @@
+{
+    "id": "xy4-24",
+    "name": "M Manectric-EX",
+    "number": "24",
+    "setId": "xy4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "958217"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.45",
+                "psa10": "$37.22",
+                "grade9": "$19.55"
+            }
+        }
+    }
+}

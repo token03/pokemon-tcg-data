@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-183",
+    "name": "Single Strike Energy",
+    "number": "183",
+    "setId": "swsh5",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "2728518"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$24.08",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

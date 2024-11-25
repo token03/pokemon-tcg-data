@@ -1,0 +1,37 @@
+{
+    "id": "sv3-188",
+    "name": "Geeta",
+    "number": "188",
+    "setId": "sv3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5605706",
+        "regional-championships-staff": "6021930",
+        "regional-championships": "5964251",
+        "reverse-holo": "5672759"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$0.86",
+                "psa10": "$50.00",
+                "grade9": "$11.38"
+            },
+            "regional-championships-staff": {
+                "ungraded": "$122.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "regional-championships": {
+                "ungraded": "$13.80",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.77",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

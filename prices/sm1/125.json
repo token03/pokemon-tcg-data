@@ -1,0 +1,25 @@
+{
+    "id": "sm1-125",
+    "name": "Pok\u00e9 Ball",
+    "number": "125",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806869",
+        "reverse-holo": "806998"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$35.13",
+                "grade9": "$13.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.05",
+                "psa10": "$34.90",
+                "grade9": "$2.99"
+            }
+        }
+    }
+}

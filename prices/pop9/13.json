@@ -1,0 +1,19 @@
+{
+    "id": "pop9-13",
+    "name": "Chimchar",
+    "number": "13",
+    "setId": "pop9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762871"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$54.44",
+                "grade9": "$20.20"
+            }
+        }
+    }
+}

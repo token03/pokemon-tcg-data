@@ -1,0 +1,25 @@
+{
+    "id": "base5-3",
+    "name": "Dark Blastoise",
+    "number": "3",
+    "setId": "base5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "643449",
+        "1st-edition": "1341345"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$51.00",
+                "psa10": "$1,293.89",
+                "grade9": "$184.37"
+            },
+            "1st-edition": {
+                "ungraded": "$133.00",
+                "psa10": "$2,050.00",
+                "grade9": "$367.50"
+            }
+        }
+    }
+}

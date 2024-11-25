@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-39",
+    "name": "Togetic",
+    "number": "39",
+    "setId": "hgss3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925926",
+        "reverse-holo": "926017"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$48.43",
+                "grade9": "$36.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.41",
+                "psa10": "$78.96",
+                "grade9": "$16.81"
+            }
+        }
+    }
+}

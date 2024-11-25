@@ -1,0 +1,25 @@
+{
+    "id": "neo3-23",
+    "name": "Skarmory",
+    "number": "23",
+    "setId": "neo3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762537",
+        "1st-edition": "2427442"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.94",
+                "psa10": "$24.34",
+                "grade9": "$19.73"
+            },
+            "1st-edition": {
+                "ungraded": "$10.56",
+                "psa10": "$53.34",
+                "grade9": "$39.00"
+            }
+        }
+    }
+}

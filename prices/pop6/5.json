@@ -1,0 +1,19 @@
+{
+    "id": "pop6-5",
+    "name": "Rampardos",
+    "number": "5",
+    "setId": "pop6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762788"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.85",
+                "psa10": "$76.02",
+                "grade9": "$27.87"
+            }
+        }
+    }
+}

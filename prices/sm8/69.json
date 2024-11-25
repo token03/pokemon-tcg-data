@@ -1,0 +1,25 @@
+{
+    "id": "sm8-69",
+    "name": "Toxapex",
+    "number": "69",
+    "setId": "sm8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962457",
+        "reverse-holo": "962798"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-5",
+    "name": "Butterfree",
+    "number": "5",
+    "setId": "ecard1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "842421",
+        "reverse-holo": "2266860"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$44.32",
+                "psa10": "$644.82",
+                "grade9": "$114.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.99",
+                "psa10": "$110.50",
+                "grade9": "$39.02"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "bw4-100",
+    "name": "Emboar",
+    "number": "100",
+    "setId": "bw4",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "955952"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$50.04",
+                "psa10": "$1,625.96",
+                "grade9": "$150.00"
+            }
+        }
+    }
+}

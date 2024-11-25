@@ -1,0 +1,25 @@
+{
+    "id": "swsh12-152",
+    "name": "Candice",
+    "number": "152",
+    "setId": "swsh12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4277273",
+        "reverse-holo": "4293872"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "$34.61",
+                "grade9": "$11.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$36.34",
+                "grade9": "$12.29"
+            }
+        }
+    }
+}

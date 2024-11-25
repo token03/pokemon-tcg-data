@@ -1,0 +1,19 @@
+{
+    "id": "ex10-102",
+    "name": "Espeon ex",
+    "number": "102",
+    "setId": "ex10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888522"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$201.25",
+                "psa10": "$2,500.00",
+                "grade9": "$675.43"
+            }
+        }
+    }
+}

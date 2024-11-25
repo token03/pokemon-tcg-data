@@ -1,0 +1,25 @@
+{
+    "id": "xy2-47",
+    "name": "Golem",
+    "number": "47",
+    "setId": "xy2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957794",
+        "reverse-holo": "957897"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": "$8.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.93",
+                "psa10": "$43.10",
+                "grade9": "$17.13"
+            }
+        }
+    }
+}

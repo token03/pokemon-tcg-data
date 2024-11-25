@@ -1,0 +1,19 @@
+{
+    "id": "cel25-21",
+    "name": "Solgaleo",
+    "number": "21",
+    "setId": "cel25",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2618166"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$63.92",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

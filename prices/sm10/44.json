@@ -1,0 +1,25 @@
+{
+    "id": "sm10-44",
+    "name": "Seel",
+    "number": "44",
+    "setId": "sm10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "963200",
+        "reverse-holo": "963430"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.14",
+                "psa10": "$16.00",
+                "grade9": "$12.32"
+            }
+        }
+    }
+}

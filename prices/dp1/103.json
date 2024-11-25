@@ -1,0 +1,37 @@
+{
+    "id": "dp1-103",
+    "name": "Turtwig",
+    "number": "103",
+    "setId": "dp1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "763139",
+        "jumbo": "4563045",
+        "reverse-holo": "763261",
+        "stamped": "5428218"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.73",
+                "psa10": "$169.58",
+                "grade9": "$74.99"
+            },
+            "jumbo": {
+                "ungraded": "$7.13",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.09",
+                "psa10": "$69.70",
+                "grade9": "$25.23"
+            },
+            "stamped": {
+                "ungraded": "$3.44",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

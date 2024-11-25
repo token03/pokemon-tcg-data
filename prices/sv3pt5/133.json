@@ -1,0 +1,31 @@
+{
+    "id": "sv3pt5-133",
+    "name": "Eevee",
+    "number": "133",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809514",
+        "pokemon-together": "6076343",
+        "reverse-holo": "5809714"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$37.95",
+                "grade9": "$10.50"
+            },
+            "pokemon-together": {
+                "ungraded": "$49.97",
+                "psa10": "",
+                "grade9": "$73.88"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.23",
+                "psa10": "$34.95",
+                "grade9": "$7.99"
+            }
+        }
+    }
+}

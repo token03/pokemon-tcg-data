@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-155",
+    "name": "Ribbon Badge",
+    "number": "155",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512966",
+        "reverse-holo": "2513170"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "$34.80",
+                "grade9": "$12.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$34.84",
+                "grade9": "$12.16"
+            }
+        }
+    }
+}

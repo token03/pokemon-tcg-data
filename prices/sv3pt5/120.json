@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-120",
+    "name": "Staryu",
+    "number": "120",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809501",
+        "reverse-holo": "5809702"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.17",
+                "psa10": "$35.36",
+                "grade9": "$4.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.44",
+                "psa10": "$36.60",
+                "grade9": "$5.61"
+            }
+        }
+    }
+}

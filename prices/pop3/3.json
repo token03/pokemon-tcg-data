@@ -1,0 +1,25 @@
+{
+    "id": "pop3-3",
+    "name": "Jolteon",
+    "number": "3",
+    "setId": "pop3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762715",
+        "holo": "762732"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.12",
+                "psa10": "$200.00",
+                "grade9": "$41.76"
+            },
+            "holo": {
+                "ungraded": "$8.09",
+                "psa10": "$349.54",
+                "grade9": "$58.51"
+            }
+        }
+    }
+}

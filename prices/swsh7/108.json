@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-108",
+    "name": "Shelgon",
+    "number": "108",
+    "setId": "swsh7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2512920",
+        "reverse-holo": "2513127"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$34.88",
+                "grade9": "$12.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "$35.27",
+                "grade9": "$12.35"
+            }
+        }
+    }
+}

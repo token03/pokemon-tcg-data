@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-69",
+    "name": "Weedle",
+    "number": "69",
+    "setId": "hgss2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287411",
+        "reverse-holo": "1287507"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$42.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.62",
+                "psa10": "",
+                "grade9": "$49.95"
+            }
+        }
+    }
+}

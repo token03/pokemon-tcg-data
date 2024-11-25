@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-30",
+    "name": "Poliwag",
+    "number": "30",
+    "setId": "swsh11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4049947",
+        "reverse-holo": "4050163"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.75",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.81",
+                "psa10": "$33.38",
+                "grade9": "$11.26"
+            }
+        }
+    }
+}

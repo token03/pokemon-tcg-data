@@ -1,0 +1,25 @@
+{
+    "id": "dp6-113",
+    "name": "Pineco",
+    "number": "113",
+    "setId": "dp6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925044",
+        "reverse-holo": "925188"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.43",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.34",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

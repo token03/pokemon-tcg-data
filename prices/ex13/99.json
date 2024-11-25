@@ -1,0 +1,19 @@
+{
+    "id": "ex13-99",
+    "name": "Crawdaunt ex",
+    "number": "99",
+    "setId": "ex13",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889179"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.58",
+                "psa10": "$442.00",
+                "grade9": "$102.92"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex2-17",
+    "name": "Golduck",
+    "number": "17",
+    "setId": "ex2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849206",
+        "reverse-holo": "849305"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$30.00",
+                "grade9": "$24.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.99",
+                "psa10": "$179.00",
+                "grade9": "$27.50"
+            }
+        }
+    }
+}

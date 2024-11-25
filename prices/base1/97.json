@@ -1,0 +1,31 @@
+{
+    "id": "base1-97",
+    "name": "Fighting Energy",
+    "number": "97",
+    "setId": "base1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "630510",
+        "1st-edition": "715686",
+        "shadowless": "5116108"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$30.41",
+                "grade9": "$19.35"
+            },
+            "1st-edition": {
+                "ungraded": "$5.51",
+                "psa10": "$110.88",
+                "grade9": "$35.43"
+            },
+            "shadowless": {
+                "ungraded": "$1.50",
+                "psa10": "$26.99",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

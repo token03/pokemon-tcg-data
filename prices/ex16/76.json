@@ -1,0 +1,25 @@
+{
+    "id": "ex16-76",
+    "name": "Glacia's Stadium",
+    "number": "76",
+    "setId": "ex16",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889740",
+        "reverse-holo": "889847"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.58",
+                "psa10": "$60.82",
+                "grade9": "$21.68"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.72",
+                "psa10": "$47.49",
+                "grade9": ""
+            }
+        }
+    }
+}

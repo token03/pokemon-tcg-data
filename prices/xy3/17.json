@@ -1,0 +1,25 @@
+{
+    "id": "xy3-17",
+    "name": "Poliwrath",
+    "number": "17",
+    "setId": "xy3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "958000",
+        "reverse-holo": "958111"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.31",
+                "psa10": "$44.77",
+                "grade9": "$24.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.03",
+                "psa10": "$49.34",
+                "grade9": "$20.75"
+            }
+        }
+    }
+}

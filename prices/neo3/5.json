@@ -1,0 +1,25 @@
+{
+    "id": "neo3-5",
+    "name": "Delibird",
+    "number": "5",
+    "setId": "neo3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762500",
+        "1st-edition": "2427402"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.63",
+                "psa10": "$259.62",
+                "grade9": "$43.75"
+            },
+            "1st-edition": {
+                "ungraded": "$33.42",
+                "psa10": "$350.00",
+                "grade9": "$81.31"
+            }
+        }
+    }
+}

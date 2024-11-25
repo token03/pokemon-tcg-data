@@ -1,0 +1,25 @@
+{
+    "id": "sm9-66",
+    "name": "Mr. Mime",
+    "number": "66",
+    "setId": "sm9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "962863",
+        "reverse-holo": "963054"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.87",
+                "psa10": "$45.27",
+                "grade9": "$10.95"
+            }
+        }
+    }
+}

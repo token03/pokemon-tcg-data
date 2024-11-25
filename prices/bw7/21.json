@@ -1,0 +1,25 @@
+{
+    "id": "bw7-21",
+    "name": "Numel",
+    "number": "21",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956536",
+        "reverse-holo": "956688"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.11",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

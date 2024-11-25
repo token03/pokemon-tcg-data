@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-97",
+    "name": "Tyranitar V",
+    "number": "97",
+    "setId": "swsh5",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "1673277",
+        "play": "5604271"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$28.14",
+                "grade9": "$8.52"
+            },
+            "play": {
+                "ungraded": "$11.81",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

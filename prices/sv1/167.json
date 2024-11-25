@@ -1,0 +1,31 @@
+{
+    "id": "sv1-167",
+    "name": "Beach Court",
+    "number": "167",
+    "setId": "sv1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "4933941",
+        "prize-pack": "5810918",
+        "reverse-holo": "4934187"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$34.37",
+                "grade9": "$11.46"
+            },
+            "prize-pack": {
+                "ungraded": "$7.27",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.30",
+                "psa10": "$35.68",
+                "grade9": "$8.50"
+            }
+        }
+    }
+}

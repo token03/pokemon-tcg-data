@@ -1,0 +1,25 @@
+{
+    "id": "xy10-6",
+    "name": "Servine",
+    "number": "6",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959863",
+        "reverse-holo": "959988"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$38.46",
+                "grade9": "$15.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.71",
+                "psa10": "$38.71",
+                "grade9": "$15.16"
+            }
+        }
+    }
+}

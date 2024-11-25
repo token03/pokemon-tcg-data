@@ -1,0 +1,31 @@
+{
+    "id": "swsh12-22",
+    "name": "Rapidash",
+    "number": "22",
+    "setId": "swsh12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4725375",
+        "holo": "4277140",
+        "reverse-holo": "4293772"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.29",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.00",
+                "psa10": "$34.22",
+                "grade9": "$16.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.32",
+                "grade9": "$11.92"
+            }
+        }
+    }
+}

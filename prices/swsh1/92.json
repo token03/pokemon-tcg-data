@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-92",
+    "name": "Diglett",
+    "number": "92",
+    "setId": "swsh1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "807067",
+        "reverse-holo": "807068"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": "$17.99"
+            }
+        }
+    }
+}

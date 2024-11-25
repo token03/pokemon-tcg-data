@@ -1,0 +1,25 @@
+{
+    "id": "gym2-49",
+    "name": "Koga's Pidgey",
+    "number": "49",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762255",
+        "1st-edition": "1450243"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.45",
+                "psa10": "$76.96",
+                "grade9": "$28.40"
+            },
+            "1st-edition": {
+                "ungraded": "$5.79",
+                "psa10": "$46.52",
+                "grade9": "$15.88"
+            }
+        }
+    }
+}

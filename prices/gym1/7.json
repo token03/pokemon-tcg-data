@@ -1,0 +1,25 @@
+{
+    "id": "gym1-7",
+    "name": "Lt. Surge's Fearow",
+    "number": "7",
+    "setId": "gym1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762184",
+        "1st-edition": "2156506"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.24",
+                "psa10": "$366.24",
+                "grade9": "$64.99"
+            },
+            "1st-edition": {
+                "ungraded": "$44.66",
+                "psa10": "$1,058.70",
+                "grade9": "$108.55"
+            }
+        }
+    }
+}

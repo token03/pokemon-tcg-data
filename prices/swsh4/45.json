@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-45",
+    "name": "Voltorb",
+    "number": "45",
+    "setId": "swsh4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887598",
+        "reverse-holo": "887772"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.28",
+                "psa10": "$31.07",
+                "grade9": "$5.51"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$34.73",
+                "grade9": "$12.35"
+            }
+        }
+    }
+}

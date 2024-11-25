@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-15",
+    "name": "Eldegoss",
+    "number": "15",
+    "setId": "swsh45",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1341491",
+        "reverse-holo": "1341684"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.26",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.26",
+                "psa10": "$12.50",
+                "grade9": "$7.00"
+            }
+        }
+    }
+}

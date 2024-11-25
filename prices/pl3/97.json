@@ -1,0 +1,25 @@
+{
+    "id": "pl3-97",
+    "name": "Chimchar",
+    "number": "97",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287144",
+        "reverse-holo": "1287298"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$31.00",
+                "grade9": "$9.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.81",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

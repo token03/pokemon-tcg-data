@@ -1,0 +1,19 @@
+{
+    "id": "base4-40",
+    "name": "Farfetch'd",
+    "number": "40",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641843"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$32.02",
+                "grade9": "$16.41"
+            }
+        }
+    }
+}

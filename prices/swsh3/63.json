@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-63",
+    "name": "Toxtricity",
+    "number": "63",
+    "setId": "swsh3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "887149",
+        "reverse-holo": "887332"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.59",
+                "psa10": "$18.00",
+                "grade9": "$15.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$24.75",
+                "grade9": "$13.21"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh7-115",
+    "name": "Hydreigon",
+    "number": "115",
+    "setId": "swsh7",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "2512927",
+        "reverse-holo": "2513132"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.48",
+                "psa10": "$23.25",
+                "grade9": "$12.38"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "$36.01",
+                "grade9": "$12.68"
+            }
+        }
+    }
+}

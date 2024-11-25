@@ -1,0 +1,25 @@
+{
+    "id": "bw5-95",
+    "name": "Hooligans Jim & Cas",
+    "number": "95",
+    "setId": "bw5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956141",
+        "reverse-holo": "956247"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.64",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

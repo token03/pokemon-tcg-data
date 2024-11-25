@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-32",
+    "name": "Wailord",
+    "number": "32",
+    "setId": "swsh4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "887588",
+        "reverse-holo": "887763"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.53",
+                "psa10": "$25.74",
+                "grade9": "$9.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.73",
+                "psa10": "$15.50",
+                "grade9": "$8.72"
+            }
+        }
+    }
+}

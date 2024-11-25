@@ -1,0 +1,25 @@
+{
+    "id": "ex6-4",
+    "name": "Ditto",
+    "number": "4",
+    "setId": "ex6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849971",
+        "reverse-holo": "850087"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.03",
+                "psa10": "$204.82",
+                "grade9": "$46.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.02",
+                "psa10": "$215.00",
+                "grade9": "$50.00"
+            }
+        }
+    }
+}

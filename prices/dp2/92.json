@@ -1,0 +1,25 @@
+{
+    "id": "dp2-92",
+    "name": "Paras",
+    "number": "92",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920716",
+        "reverse-holo": "920839"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.05",
+                "psa10": "",
+                "grade9": "$15.02"
+            }
+        }
+    }
+}

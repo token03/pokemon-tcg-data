@@ -1,0 +1,25 @@
+{
+    "id": "sv3-180",
+    "name": "Lechonk",
+    "number": "180",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605698",
+        "reverse-holo": "5605915"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.31",
+                "psa10": "$35.94",
+                "grade9": "$11.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.18",
+                "psa10": "$35.21",
+                "grade9": "$11.62"
+            }
+        }
+    }
+}

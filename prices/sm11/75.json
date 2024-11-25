@@ -1,0 +1,25 @@
+{
+    "id": "sm11-75",
+    "name": "Alolan Marowak",
+    "number": "75",
+    "setId": "sm11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963641",
+        "reverse-holo": "963892"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$35.33",
+                "grade9": "$13.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.29",
+                "psa10": "$42.70",
+                "grade9": "$17.14"
+            }
+        }
+    }
+}

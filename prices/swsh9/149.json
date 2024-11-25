@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-149",
+    "name": "Team Yell's Cheer",
+    "number": "149",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188373",
+        "reverse-holo": "3219494"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$34.97",
+                "grade9": "$12.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.50",
+                "psa10": "$36.01",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

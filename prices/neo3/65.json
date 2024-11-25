@@ -1,0 +1,25 @@
+{
+    "id": "neo3-65",
+    "name": "Shining Gyarados",
+    "number": "65",
+    "setId": "neo3",
+    "rarity": "Rare Shining",
+    "priceChartingIds": {
+        "normal": "762534",
+        "1st-edition": "2427439"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$263.00",
+                "psa10": "$2,649.99",
+                "grade9": "$739.55"
+            },
+            "1st-edition": {
+                "ungraded": "$477.90",
+                "psa10": "$6,800.00",
+                "grade9": "$1,600.00"
+            }
+        }
+    }
+}

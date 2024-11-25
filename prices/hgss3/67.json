@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-67",
+    "name": "Slugma",
+    "number": "67",
+    "setId": "hgss3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925954",
+        "reverse-holo": "926045"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$43.86",
+                "grade9": "$16.24"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.29",
+                "psa10": "$55.42",
+                "grade9": "$15.61"
+            }
+        }
+    }
+}

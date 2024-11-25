@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-157",
+    "name": "Switch",
+    "number": "157",
+    "setId": "ecard1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842529",
+        "reverse-holo": "2267010"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.18",
+                "psa10": "$48.25",
+                "grade9": "$11.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.18",
+                "psa10": "$421.61",
+                "grade9": "$64.99"
+            }
+        }
+    }
+}

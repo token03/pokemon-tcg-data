@@ -1,0 +1,19 @@
+{
+    "id": "mcd14-10",
+    "name": "Bunnelby",
+    "number": "10",
+    "setId": "mcd14",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180001"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.75",
+                "psa10": "$48.13",
+                "grade9": "$19.97"
+            }
+        }
+    }
+}

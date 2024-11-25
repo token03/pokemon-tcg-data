@@ -1,0 +1,19 @@
+{
+    "id": "mcd19-6",
+    "name": "Pikachu",
+    "number": "6",
+    "setId": "mcd19",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180057"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.30",
+                "psa10": "$303.78",
+                "grade9": "$89.95"
+            }
+        }
+    }
+}

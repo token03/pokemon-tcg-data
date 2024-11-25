@@ -1,0 +1,25 @@
+{
+    "id": "sm7-69",
+    "name": "Deoxys",
+    "number": "69",
+    "setId": "sm7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "961983",
+        "reverse-holo": "962158"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$36.07",
+                "grade9": "$3.74"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.24",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

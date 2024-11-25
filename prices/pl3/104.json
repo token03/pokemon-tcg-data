@@ -1,0 +1,25 @@
+{
+    "id": "pl3-104",
+    "name": "Feebas",
+    "number": "104",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287151",
+        "reverse-holo": "1287305"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

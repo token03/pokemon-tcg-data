@@ -1,0 +1,25 @@
+{
+    "id": "hgss2-48",
+    "name": "Chinchou",
+    "number": "48",
+    "setId": "hgss2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287390",
+        "reverse-holo": "1287486"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

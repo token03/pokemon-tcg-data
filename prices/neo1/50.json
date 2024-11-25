@@ -1,0 +1,25 @@
+{
+    "id": "neo1-50",
+    "name": "Sunflora",
+    "number": "50",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762366",
+        "1st-edition": "2324927"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "$37.51",
+                "grade9": "$27.76"
+            },
+            "1st-edition": {
+                "ungraded": "$3.00",
+                "psa10": "$45.80",
+                "grade9": "$18.16"
+            }
+        }
+    }
+}

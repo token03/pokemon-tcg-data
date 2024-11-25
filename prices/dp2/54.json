@@ -1,0 +1,25 @@
+{
+    "id": "dp2-54",
+    "name": "Magmar",
+    "number": "54",
+    "setId": "dp2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920677",
+        "reverse-holo": "920801"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$22.00",
+                "grade9": "$18.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.56",
+                "psa10": "$71.44",
+                "grade9": "$26.08"
+            }
+        }
+    }
+}

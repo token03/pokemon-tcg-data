@@ -1,0 +1,19 @@
+{
+    "id": "pl3-145",
+    "name": "Garchomp C LV.X",
+    "number": "145",
+    "setId": "pl3",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "1287193"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.20",
+                "psa10": "$1,095.80",
+                "grade9": "$93.75"
+            }
+        }
+    }
+}

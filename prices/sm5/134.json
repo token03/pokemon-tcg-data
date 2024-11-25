@@ -1,0 +1,25 @@
+{
+    "id": "sm5-134",
+    "name": "Unidentified Fossil",
+    "number": "134",
+    "setId": "sm5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961497",
+        "reverse-holo": "961659"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": "$3.25"
+            }
+        }
+    }
+}

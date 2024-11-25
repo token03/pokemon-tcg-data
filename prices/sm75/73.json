@@ -1,0 +1,19 @@
+{
+    "id": "sm75-73",
+    "name": "Salamence-GX",
+    "number": "73",
+    "setId": "sm75",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "962307"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.99",
+                "psa10": "$144.00",
+                "grade9": "$43.55"
+            }
+        }
+    }
+}

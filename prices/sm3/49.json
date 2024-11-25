@@ -1,0 +1,25 @@
+{
+    "id": "sm3-49",
+    "name": "Wobbuffet",
+    "number": "49",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960833",
+        "reverse-holo": "960997"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.04",
+                "psa10": "$34.60",
+                "grade9": "$12.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$37.05",
+                "grade9": "$14.24"
+            }
+        }
+    }
+}

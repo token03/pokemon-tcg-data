@@ -1,0 +1,25 @@
+{
+    "id": "xy2-55",
+    "name": "Skuntank",
+    "number": "55",
+    "setId": "xy2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957802",
+        "reverse-holo": "957905"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$12.00",
+                "grade9": "$8.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.28",
+                "psa10": "$14.50",
+                "grade9": "$7.45"
+            }
+        }
+    }
+}

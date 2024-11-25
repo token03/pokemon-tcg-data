@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-91",
+    "name": "Crobat",
+    "number": "91",
+    "setId": "swsh5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "1673271",
+        "reverse-holo": "1725065"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.07",
+                "psa10": "$34.19",
+                "grade9": "$3.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$37.64",
+                "grade9": "$13.63"
+            }
+        }
+    }
+}

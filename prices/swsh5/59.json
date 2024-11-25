@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-59",
+    "name": "Chimecho",
+    "number": "59",
+    "setId": "swsh5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1673239",
+        "reverse-holo": "1725040"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.11",
+                "psa10": "$33.99",
+                "grade9": "$11.90"
+            }
+        }
+    }
+}

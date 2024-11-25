@@ -1,0 +1,25 @@
+{
+    "id": "ecard1-158",
+    "name": "Darkness Energy",
+    "number": "158",
+    "setId": "ecard1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "3313626",
+        "reverse-holo": "3362177"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.59",
+                "psa10": "",
+                "grade9": "$10.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.20",
+                "psa10": "$83.00",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy7-90",
+    "name": "Machamp-EX",
+    "number": "90",
+    "setId": "xy7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "959108"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.17",
+                "psa10": "$105.19",
+                "grade9": "$31.64"
+            }
+        }
+    }
+}

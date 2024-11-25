@@ -1,0 +1,19 @@
+{
+    "id": "hgss3-90",
+    "name": "Rayquaza & Deoxys LEGEND",
+    "number": "90",
+    "setId": "hgss3",
+    "rarity": "LEGEND",
+    "priceChartingIds": {
+        "normal": "925977"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$36.52",
+                "psa10": "$1,136.11",
+                "grade9": "$165.79"
+            }
+        }
+    }
+}

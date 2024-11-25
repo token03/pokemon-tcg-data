@@ -1,0 +1,19 @@
+{
+    "id": "xy3-107",
+    "name": "Lucario-EX",
+    "number": "107",
+    "setId": "xy3",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "958090"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.75",
+                "psa10": "$599.98",
+                "grade9": "$138.51"
+            }
+        }
+    }
+}

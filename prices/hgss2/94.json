@@ -1,0 +1,19 @@
+{
+    "id": "hgss2-94",
+    "name": "Suicune & Entei LEGEND",
+    "number": "94",
+    "setId": "hgss2",
+    "rarity": "LEGEND",
+    "priceChartingIds": {
+        "legend": "1287436"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "legend": {
+                "ungraded": "$32.50",
+                "psa10": "$518.01",
+                "grade9": "$102.28"
+            }
+        }
+    }
+}

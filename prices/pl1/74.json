@@ -1,0 +1,25 @@
+{
+    "id": "pl1-74",
+    "name": "Electrike",
+    "number": "74",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "805940",
+        "reverse-holo": "805941"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.11",
+                "psa10": "",
+                "grade9": "$9.99"
+            }
+        }
+    }
+}

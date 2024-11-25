@@ -1,0 +1,25 @@
+{
+    "id": "bw4-91",
+    "name": "Skyarrow Bridge",
+    "number": "91",
+    "setId": "bw4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955943",
+        "reverse-holo": "956040"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.53",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.85",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

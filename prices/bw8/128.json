@@ -1,0 +1,19 @@
+{
+    "id": "bw8-128",
+    "name": "Dowsing Machine",
+    "number": "128",
+    "setId": "bw8",
+    "rarity": "Rare ACE",
+    "priceChartingIds": {
+        "normal": "956925"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.20",
+                "psa10": "$64.94",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm5-148",
+    "name": "Cynthia",
+    "number": "148",
+    "setId": "sm5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "961511"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$95.00",
+                "psa10": "$296.70",
+                "grade9": "$142.50"
+            }
+        }
+    }
+}

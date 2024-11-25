@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG65",
+    "name": "Raihan",
+    "number": "GG65",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4637121"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$25.00",
+                "grade9": "$12.74"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy9-6",
+    "name": "Kricketune",
+    "number": "6",
+    "setId": "xy9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959497",
+        "reverse-holo": "959620"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl3-138",
+    "name": "Night Teleporter",
+    "number": "138",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287186",
+        "reverse-holo": "1287339"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.51",
+                "psa10": "$9.38",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.98",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

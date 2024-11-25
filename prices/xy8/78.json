@@ -1,0 +1,49 @@
+{
+    "id": "xy8-78",
+    "name": "Marowak",
+    "number": "78",
+    "setId": "xy8",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959267",
+        "1st-place-league": "6142768",
+        "2nd-place-league": "6401414",
+        "3rd-place-league": "6748683",
+        "4th-place-league": "6736412",
+        "reverse-holo": "959421"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$38.07",
+                "grade9": "$26.00"
+            },
+            "1st-place-league": {
+                "ungraded": "$9.11",
+                "psa10": "",
+                "grade9": ""
+            },
+            "2nd-place-league": {
+                "ungraded": "$10.68",
+                "psa10": "",
+                "grade9": ""
+            },
+            "3rd-place-league": {
+                "ungraded": "$10.19",
+                "psa10": "",
+                "grade9": ""
+            },
+            "4th-place-league": {
+                "ungraded": "$10.22",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.98",
+                "psa10": "$96.30",
+                "grade9": "$25.76"
+            }
+        }
+    }
+}

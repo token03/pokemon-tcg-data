@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-78",
+    "name": "Goldeen",
+    "number": "78",
+    "setId": "ecard2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842602",
+        "reverse-holo": "2293969"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.53",
+                "psa10": "$50.86",
+                "grade9": "$14.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.43",
+                "psa10": "$228.13",
+                "grade9": "$32.08"
+            }
+        }
+    }
+}

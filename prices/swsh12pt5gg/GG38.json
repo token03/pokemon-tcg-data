@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG38",
+    "name": "Suicune V",
+    "number": "GG38",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4637094"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$25.00",
+                "psa10": "$116.72",
+                "grade9": "$37.69"
+            }
+        }
+    }
+}

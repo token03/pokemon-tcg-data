@@ -1,0 +1,19 @@
+{
+    "id": "ex15-99",
+    "name": "Tyranitar ex \u03b4",
+    "number": "99",
+    "setId": "ex15",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889573"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$70.00",
+                "psa10": "$934.14",
+                "grade9": "$215.30"
+            }
+        }
+    }
+}

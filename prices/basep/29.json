@@ -1,0 +1,19 @@
+{
+    "id": "basep-29",
+    "name": "Marill",
+    "number": "29",
+    "setId": "basep",
+    "rarity": "Promo",
+    "priceChartingIds": {
+        "normal": "643531"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.00",
+                "psa10": "$45.50",
+                "grade9": "$20.00"
+            }
+        }
+    }
+}

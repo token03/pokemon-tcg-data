@@ -1,0 +1,25 @@
+{
+    "id": "ex6-77",
+    "name": "Rattata",
+    "number": "77",
+    "setId": "ex6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "850044",
+        "reverse-holo": "850159"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.72",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$5.72",
+                "psa10": "$56.69",
+                "grade9": "$14.74"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "pop6-11",
+    "name": "Bidoof",
+    "number": "11",
+    "setId": "pop6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762793"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.99",
+                "psa10": "$175.08",
+                "grade9": "$6.50"
+            }
+        }
+    }
+}

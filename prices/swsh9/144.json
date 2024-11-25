@@ -1,0 +1,31 @@
+{
+    "id": "swsh9-144",
+    "name": "Magma Basin",
+    "number": "144",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188368",
+        "prize-pack": "6777963",
+        "reverse-holo": "3219489"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$34.97",
+                "grade9": "$12.04"
+            },
+            "prize-pack": {
+                "ungraded": "$2.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.51",
+                "psa10": "$36.06",
+                "grade9": "$12.49"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh12pt5-4",
+    "name": "Tangela",
+    "number": "4",
+    "setId": "swsh12pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "4636901",
+        "reverse-holo": "4637130"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$36.53",
+                "grade9": "$12.27"
+            }
+        }
+    }
+}

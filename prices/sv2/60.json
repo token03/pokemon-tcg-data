@@ -1,0 +1,43 @@
+{
+    "id": "sv2-60",
+    "name": "Baxcalibur",
+    "number": "60",
+    "setId": "sv2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5401627",
+        "cosmos-holo": "6837190",
+        "holo": "5287349",
+        "prize-pack": "6657678",
+        "reverse-holo": "5287622"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.08",
+                "psa10": "",
+                "grade9": ""
+            },
+            "cosmos-holo": {
+                "ungraded": "$5.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$1.72",
+                "psa10": "$37.66",
+                "grade9": "$12.46"
+            },
+            "prize-pack": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.70",
+                "psa10": "$37.57",
+                "grade9": "$12.43"
+            }
+        }
+    }
+}

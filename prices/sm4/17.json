@@ -1,0 +1,25 @@
+{
+    "id": "sm4-17",
+    "name": "Magikarp",
+    "number": "17",
+    "setId": "sm4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961164",
+        "reverse-holo": "961287"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$54.00",
+                "grade9": "$45.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.93",
+                "psa10": "$80.00",
+                "grade9": "$15.76"
+            }
+        }
+    }
+}

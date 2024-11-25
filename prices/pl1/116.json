@@ -1,0 +1,25 @@
+{
+    "id": "pl1-116",
+    "name": "Team Galactic's Invention G-101 Energy Gain",
+    "number": "116",
+    "setId": "pl1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "805944",
+        "reverse-holo": "805945"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.79",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$4.92",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

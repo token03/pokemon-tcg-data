@@ -1,0 +1,25 @@
+{
+    "id": "sv4-40",
+    "name": "Palkia",
+    "number": "40",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5983025",
+        "reverse-holo": "5953142"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.18",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.51",
+                "psa10": "$37.01",
+                "grade9": "$12.07"
+            }
+        }
+    }
+}

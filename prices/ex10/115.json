@@ -1,0 +1,19 @@
+{
+    "id": "ex10-115",
+    "name": "Suicune \u2605",
+    "number": "115",
+    "setId": "ex10",
+    "rarity": "Rare Holo Star",
+    "priceChartingIds": {
+        "gold-star": "888534"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "gold-star": {
+                "ungraded": "$227.58",
+                "psa10": "$1,202.50",
+                "grade9": "$423.78"
+            }
+        }
+    }
+}

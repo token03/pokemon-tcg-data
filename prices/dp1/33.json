@@ -1,0 +1,25 @@
+{
+    "id": "dp1-33",
+    "name": "Munchlax",
+    "number": "33",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763069",
+        "reverse-holo": "763191"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.92",
+                "psa10": "$167.72",
+                "grade9": "$150.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.18",
+                "psa10": "$99.51",
+                "grade9": "$41.96"
+            }
+        }
+    }
+}

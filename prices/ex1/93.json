@@ -1,0 +1,31 @@
+{
+    "id": "ex1-93",
+    "name": "Darkness Energy",
+    "number": "93",
+    "setId": "ex1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762946",
+        "reverse-holo": "763028",
+        "winner": "5324999"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.79",
+                "psa10": "$45.28",
+                "grade9": "$21.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.82",
+                "psa10": "$87.00",
+                "grade9": "$72.48"
+            },
+            "winner": {
+                "ungraded": "$35.00",
+                "psa10": "",
+                "grade9": "$47.50"
+            }
+        }
+    }
+}

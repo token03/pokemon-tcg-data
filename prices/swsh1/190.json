@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-190",
+    "name": "Morpeko V",
+    "number": "190",
+    "setId": "swsh1",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2336155"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.53",
+                "psa10": "$22.95",
+                "grade9": "$12.52"
+            }
+        }
+    }
+}

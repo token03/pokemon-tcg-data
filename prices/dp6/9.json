@@ -1,0 +1,25 @@
+{
+    "id": "dp6-9",
+    "name": "Mamoswine",
+    "number": "9",
+    "setId": "dp6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "924940",
+        "reverse-holo": "925086"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.97",
+                "psa10": "$114.47",
+                "grade9": "$40.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.16",
+                "psa10": "",
+                "grade9": "$30.00"
+            }
+        }
+    }
+}

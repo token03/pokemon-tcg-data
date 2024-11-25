@@ -1,0 +1,25 @@
+{
+    "id": "sm1-31",
+    "name": "Poliwhirl",
+    "number": "31",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806780",
+        "reverse-holo": "806912"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.61",
+                "grade9": "$12.77"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$15.50",
+                "grade9": "$13.50"
+            }
+        }
+    }
+}

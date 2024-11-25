@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-15",
+    "name": "Petilil",
+    "number": "15",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489513",
+        "reverse-holo": "3489729"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.05",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.44",
+                "psa10": "$31.67",
+                "grade9": "$10.66"
+            }
+        }
+    }
+}

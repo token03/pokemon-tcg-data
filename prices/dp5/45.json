@@ -1,0 +1,25 @@
+{
+    "id": "dp5-45",
+    "name": "Raichu",
+    "number": "45",
+    "setId": "dp5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921407",
+        "reverse-holo": "921507"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.27",
+                "psa10": "$29.35",
+                "grade9": "$16.60"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.00",
+                "psa10": "$118.76",
+                "grade9": "$44.87"
+            }
+        }
+    }
+}

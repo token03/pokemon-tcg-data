@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-45",
+    "name": "Bellsprout",
+    "number": "45",
+    "setId": "ecard2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "842572",
+        "reverse-holo": "2293936"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.89",
+                "psa10": "$79.94",
+                "grade9": "$19.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$13.55",
+                "psa10": "$98.00",
+                "grade9": "$30.52"
+            }
+        }
+    }
+}

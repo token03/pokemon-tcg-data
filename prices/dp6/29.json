@@ -1,0 +1,25 @@
+{
+    "id": "dp6-29",
+    "name": "Groudon",
+    "number": "29",
+    "setId": "dp6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "924960",
+        "reverse-holo": "925106"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.96",
+                "psa10": "$72.44",
+                "grade9": "$39.48"
+            },
+            "reverse-holo": {
+                "ungraded": "$7.52",
+                "psa10": "$317.50",
+                "grade9": "$92.04"
+            }
+        }
+    }
+}

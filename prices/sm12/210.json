@@ -1,0 +1,19 @@
+{
+    "id": "sm12-210",
+    "name": "Venusaur & Snivy-GX",
+    "number": "210",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964448"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.27",
+                "psa10": "$55.00",
+                "grade9": "$23.00"
+            }
+        }
+    }
+}

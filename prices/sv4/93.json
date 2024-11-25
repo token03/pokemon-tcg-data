@@ -1,0 +1,25 @@
+{
+    "id": "sv4-93",
+    "name": "Groudon",
+    "number": "93",
+    "setId": "sv4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "5952931",
+        "reverse-holo": "5953188"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.17",
+                "psa10": "$45.55",
+                "grade9": "$10.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.36",
+                "psa10": "$36.36",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

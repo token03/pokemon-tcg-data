@@ -1,0 +1,19 @@
+{
+    "id": "mcd19-9",
+    "name": "Onix",
+    "number": "9",
+    "setId": "mcd19",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180060"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$54.00",
+                "grade9": "$44.95"
+            }
+        }
+    }
+}

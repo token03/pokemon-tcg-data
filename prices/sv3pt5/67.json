@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-67",
+    "name": "Machoke",
+    "number": "67",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809448",
+        "reverse-holo": "5809651"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.29",
+                "psa10": "$35.92",
+                "grade9": "$11.79"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.59",
+                "psa10": "$37.29",
+                "grade9": "$12.21"
+            }
+        }
+    }
+}

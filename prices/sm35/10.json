@@ -1,0 +1,19 @@
+{
+    "id": "sm35-10",
+    "name": "Entei-GX",
+    "number": "10",
+    "setId": "sm35",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961079"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.25",
+                "psa10": "$35.00",
+                "grade9": "$18.52"
+            }
+        }
+    }
+}

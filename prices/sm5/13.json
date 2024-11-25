@@ -1,0 +1,25 @@
+{
+    "id": "sm5-13",
+    "name": "Leafeon-GX",
+    "number": "13",
+    "setId": "sm5",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961376",
+        "reverse-holo": "961548"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.10",
+                "psa10": "$39.78",
+                "grade9": "$20.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.50",
+                "psa10": "$40.00",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

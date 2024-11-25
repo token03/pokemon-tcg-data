@@ -1,0 +1,25 @@
+{
+    "id": "sm11-122",
+    "name": "Terrakion",
+    "number": "122",
+    "setId": "sm11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "963688",
+        "reverse-holo": "963936"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.15",
+                "psa10": "$38.30",
+                "grade9": "$11.91"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "$10.00",
+                "grade9": ""
+            }
+        }
+    }
+}

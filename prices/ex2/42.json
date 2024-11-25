@@ -1,0 +1,25 @@
+{
+    "id": "ex2-42",
+    "name": "Lileep",
+    "number": "42",
+    "setId": "ex2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849230",
+        "reverse-holo": "849330"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.83",
+                "psa10": "$75.62",
+                "grade9": "$27.08"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.97",
+                "psa10": "$153.13",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

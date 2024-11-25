@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-95",
+    "name": "Rhyperior V",
+    "number": "95",
+    "setId": "swsh3",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "836636"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.07",
+                "psa10": "$16.75",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

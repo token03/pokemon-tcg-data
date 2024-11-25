@@ -1,0 +1,25 @@
+{
+    "id": "sm12-64",
+    "name": "Dewpider",
+    "number": "64",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "964302",
+        "reverse-holo": "964566"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.22",
+                "psa10": "",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

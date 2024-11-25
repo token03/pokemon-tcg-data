@@ -1,0 +1,25 @@
+{
+    "id": "ex2-72",
+    "name": "Pikachu",
+    "number": "72",
+    "setId": "ex2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849260",
+        "reverse-holo": "849360"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.75",
+                "psa10": "$75.08",
+                "grade9": "$26.19"
+            },
+            "reverse-holo": {
+                "ungraded": "$21.26",
+                "psa10": "$452.93",
+                "grade9": "$79.99"
+            }
+        }
+    }
+}

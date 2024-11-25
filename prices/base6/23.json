@@ -1,0 +1,25 @@
+{
+    "id": "base6-23",
+    "name": "Exeggutor",
+    "number": "23",
+    "setId": "base6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842330",
+        "reverse-holo": "2253706"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.74",
+                "psa10": "$64.00",
+                "grade9": "$53.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$41.72",
+                "psa10": "$446.47",
+                "grade9": "$102.28"
+            }
+        }
+    }
+}

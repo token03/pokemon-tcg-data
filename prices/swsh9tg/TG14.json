@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG14",
+    "name": "Sylveon V",
+    "number": "TG14",
+    "setId": "swsh9tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3188402"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$19.24",
+                "psa10": "$87.85",
+                "grade9": "$33.61"
+            }
+        }
+    }
+}

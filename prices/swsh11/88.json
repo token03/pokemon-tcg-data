@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-88",
+    "name": "Machamp",
+    "number": "88",
+    "setId": "swsh11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4050005",
+        "reverse-holo": "4050215"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.97",
+                "psa10": "$33.67",
+                "grade9": "$7.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.26",
+                "psa10": "$39.41",
+                "grade9": "$13.51"
+            }
+        }
+    }
+}

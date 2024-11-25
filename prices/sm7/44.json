@@ -1,0 +1,25 @@
+{
+    "id": "sm7-44",
+    "name": "Luvdisc",
+    "number": "44",
+    "setId": "sm7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961958",
+        "reverse-holo": "962137"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "$35.21",
+                "grade9": "$13.09"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.92",
+                "psa10": "$37.81",
+                "grade9": "$14.63"
+            }
+        }
+    }
+}

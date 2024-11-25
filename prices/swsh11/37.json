@@ -1,0 +1,25 @@
+{
+    "id": "swsh11-37",
+    "name": "Kingdra",
+    "number": "37",
+    "setId": "swsh11",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4049954",
+        "reverse-holo": "4050170"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.84",
+                "psa10": "$34.99",
+                "grade9": "$9.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.47",
+                "psa10": "$36.12",
+                "grade9": "$12.28"
+            }
+        }
+    }
+}

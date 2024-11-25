@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG13",
+    "name": "Diancie",
+    "number": "GG13",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637069"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.72",
+                "psa10": "$33.11",
+                "grade9": "$23.00"
+            }
+        }
+    }
+}

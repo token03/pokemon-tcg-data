@@ -1,0 +1,25 @@
+{
+    "id": "col1-92",
+    "name": "Psychic Energy",
+    "number": "92",
+    "setId": "col1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "926343",
+        "league-promo": "6142179"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$34.99",
+                "psa10": "$159.93",
+                "grade9": "$49.62"
+            },
+            "league-promo": {
+                "ungraded": "$66.70",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "g1-8",
+    "name": "Tangela",
+    "number": "8",
+    "setId": "g1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959720",
+        "20th-anniversary": "6657497",
+        "reverse-holo": "2867112",
+        "toys-r-us": "3179765"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.85",
+                "psa10": "$55.80",
+                "grade9": "$19.00"
+            },
+            "20th-anniversary": {
+                "ungraded": "$10.60",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.78",
+                "psa10": "",
+                "grade9": ""
+            },
+            "toys-r-us": {
+                "ungraded": "$23.06",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

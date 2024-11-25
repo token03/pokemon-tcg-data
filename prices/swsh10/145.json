@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-145",
+    "name": "Gutsy Pickaxe",
+    "number": "145",
+    "setId": "swsh10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3489644",
+        "reverse-holo": "3489838"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.15",
+                "psa10": "$34.69",
+                "grade9": "$11.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.32",
+                "psa10": "$35.38",
+                "grade9": "$12.12"
+            }
+        }
+    }
+}

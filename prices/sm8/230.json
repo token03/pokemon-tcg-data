@@ -1,0 +1,19 @@
+{
+    "id": "sm8-230",
+    "name": "Counter Gain",
+    "number": "230",
+    "setId": "sm8",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "962618"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.36",
+                "psa10": "$27.99",
+                "grade9": "$16.56"
+            }
+        }
+    }
+}

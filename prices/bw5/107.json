@@ -1,0 +1,19 @@
+{
+    "id": "bw5-107",
+    "name": "Darkrai-EX",
+    "number": "107",
+    "setId": "bw5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "956154"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$78.82",
+                "psa10": "$1,587.44",
+                "grade9": "$255.00"
+            }
+        }
+    }
+}

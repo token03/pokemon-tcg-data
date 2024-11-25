@@ -1,0 +1,31 @@
+{
+    "id": "sv1-41",
+    "name": "Armarouge",
+    "number": "41",
+    "setId": "sv1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "4933817",
+        "prize-pack": "6399967",
+        "reverse-holo": "4934071"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.61",
+                "psa10": "$36.30",
+                "grade9": "$12.10"
+            },
+            "prize-pack": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.64",
+                "grade9": "$11.89"
+            }
+        }
+    }
+}

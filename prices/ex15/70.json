@@ -1,0 +1,25 @@
+{
+    "id": "ex15-70",
+    "name": "Vulpix \u03b4",
+    "number": "70",
+    "setId": "ex15",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889544",
+        "reverse-holo": "889645"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.97",
+                "psa10": "$24.50",
+                "grade9": "$22.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$6.60",
+                "psa10": "$110.00",
+                "grade9": "$24.00"
+            }
+        }
+    }
+}

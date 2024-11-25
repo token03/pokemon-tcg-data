@@ -1,0 +1,25 @@
+{
+    "id": "swsh2-28",
+    "name": "Arcanine",
+    "number": "28",
+    "setId": "swsh2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886760",
+        "reverse-holo": "886958"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$60.00",
+                "grade9": "$9.01"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.55",
+                "psa10": "$20.50",
+                "grade9": "$18.65"
+            }
+        }
+    }
+}

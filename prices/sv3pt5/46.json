@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-46",
+    "name": "Paras",
+    "number": "46",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809427",
+        "reverse-holo": "5809631"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$35.46",
+                "grade9": "$11.65"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "$36.47",
+                "grade9": "$11.96"
+            }
+        }
+    }
+}

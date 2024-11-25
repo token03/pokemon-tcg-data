@@ -1,0 +1,25 @@
+{
+    "id": "ex12-1",
+    "name": "Aerodactyl",
+    "number": "1",
+    "setId": "ex12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888884",
+        "reverse-holo": "888976"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$216.50",
+                "grade9": "$41.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.10",
+                "psa10": "$422.95",
+                "grade9": "$51.92"
+            }
+        }
+    }
+}

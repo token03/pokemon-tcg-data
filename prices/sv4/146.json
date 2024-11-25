@@ -1,0 +1,25 @@
+{
+    "id": "sv4-146",
+    "name": "Ambipom",
+    "number": "146",
+    "setId": "sv4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5952984",
+        "reverse-holo": "5953233"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.60",
+                "grade9": "$11.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.10",
+                "psa10": "$35.11",
+                "grade9": "$11.51"
+            }
+        }
+    }
+}

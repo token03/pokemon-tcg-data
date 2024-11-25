@@ -1,0 +1,19 @@
+{
+    "id": "bw9-85",
+    "name": "Latias-EX",
+    "number": "85",
+    "setId": "bw9",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "957139"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.49",
+                "psa10": "$123.22",
+                "grade9": "$51.00"
+            }
+        }
+    }
+}

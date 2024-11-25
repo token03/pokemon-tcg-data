@@ -1,0 +1,31 @@
+{
+    "id": "sv3-72",
+    "name": "Toxtricity",
+    "number": "72",
+    "setId": "sv3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "5704611",
+        "holo": "5605590",
+        "reverse-holo": "5605824"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "",
+                "grade9": ""
+            },
+            "holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.49",
+                "grade9": "$9.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$36.89",
+                "grade9": "$12.14"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-23",
+    "name": "Ekans",
+    "number": "23",
+    "setId": "sv3pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5809403",
+        "reverse-holo": "5809611"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.37",
+                "psa10": "$36.28",
+                "grade9": "$5.00"
+            }
+        }
+    }
+}

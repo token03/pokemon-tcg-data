@@ -1,0 +1,25 @@
+{
+    "id": "sm2-77",
+    "name": "Minior",
+    "number": "77",
+    "setId": "sm2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "holo": "960574",
+        "reverse-holo": "960735"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.33",
+                "psa10": "$36.04",
+                "grade9": "$12.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$37.67",
+                "grade9": "$14.62"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "base1-8",
+    "name": "Machamp",
+    "number": "8",
+    "setId": "base1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "1st-edition": "715597",
+        "shadowless": "715699",
+        "trainer-deck-a": "2347886"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "1st-edition": {
+                "ungraded": "$7.13",
+                "psa10": "$1,170.26",
+                "grade9": "$103.35"
+            },
+            "shadowless": {
+                "ungraded": "$37.05",
+                "psa10": "$2,050.79",
+                "grade9": "$262.08"
+            },
+            "trainer-deck-a": {
+                "ungraded": "$4.75",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

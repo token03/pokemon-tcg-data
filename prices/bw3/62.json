@@ -1,0 +1,25 @@
+{
+    "id": "bw3-62",
+    "name": "Timburr",
+    "number": "62",
+    "setId": "bw3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955717",
+        "reverse-holo": "955819"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

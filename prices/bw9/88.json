@@ -1,0 +1,25 @@
+{
+    "id": "bw9-88",
+    "name": "Raticate",
+    "number": "88",
+    "setId": "bw9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "957142",
+        "reverse-holo": "957258"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.54",
+                "psa10": "$41.75",
+                "grade9": "$16.12"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.18",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

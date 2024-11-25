@@ -1,0 +1,19 @@
+{
+    "id": "sv1-200",
+    "name": "Dolliv",
+    "number": "200",
+    "setId": "sv1",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "4933974"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.12",
+                "psa10": "$80.03",
+                "grade9": "$14.78"
+            }
+        }
+    }
+}

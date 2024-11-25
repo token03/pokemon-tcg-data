@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG25",
+    "name": "Judge",
+    "number": "TG25",
+    "setId": "swsh12tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "4277113"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$30.96",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

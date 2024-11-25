@@ -1,0 +1,25 @@
+{
+    "id": "sv5-59",
+    "name": "Boltund",
+    "number": "59",
+    "setId": "sv5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6495519",
+        "reverse-holo": "6495732"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "$37.95",
+                "grade9": "$11.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$36.02",
+                "grade9": "$11.63"
+            }
+        }
+    }
+}

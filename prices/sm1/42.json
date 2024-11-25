@@ -1,0 +1,19 @@
+{
+    "id": "sm1-42",
+    "name": "Primarina-GX",
+    "number": "42",
+    "setId": "sm1",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "806791"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$24.97",
+                "grade9": "$12.88"
+            }
+        }
+    }
+}

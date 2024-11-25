@@ -1,0 +1,19 @@
+{
+    "id": "sv3-202",
+    "name": "Cleffa",
+    "number": "202",
+    "setId": "sv3",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5605720"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.87",
+                "psa10": "$76.86",
+                "grade9": "$14.25"
+            }
+        }
+    }
+}

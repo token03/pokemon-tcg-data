@@ -1,0 +1,25 @@
+{
+    "id": "dp3-23",
+    "name": "Banette",
+    "number": "23",
+    "setId": "dp3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "920913",
+        "reverse-holo": "921045"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.27",
+                "psa10": "$65.85",
+                "grade9": "$24.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.96",
+                "psa10": "$60.96",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

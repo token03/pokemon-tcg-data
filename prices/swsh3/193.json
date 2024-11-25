@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-193",
+    "name": "Scizor VMAX",
+    "number": "193",
+    "setId": "swsh3",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "887271"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.34",
+                "psa10": "$33.51",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

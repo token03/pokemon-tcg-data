@@ -1,0 +1,19 @@
+{
+    "id": "mcd17-11",
+    "name": "Pikipek",
+    "number": "11",
+    "setId": "mcd17",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1180038"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.56",
+                "psa10": "$41.06",
+                "grade9": "$16.65"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bw9-96",
+    "name": "Staravia",
+    "number": "96",
+    "setId": "bw9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957150",
+        "reverse-holo": "957266"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.86",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.15",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

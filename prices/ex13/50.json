@@ -1,0 +1,25 @@
+{
+    "id": "ex13-50",
+    "name": "Primeape \u03b4",
+    "number": "50",
+    "setId": "ex13",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889130",
+        "reverse-holo": "889241"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$45.49",
+                "grade9": "$27.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.75",
+                "psa10": "$182.36",
+                "grade9": "$93.51"
+            }
+        }
+    }
+}

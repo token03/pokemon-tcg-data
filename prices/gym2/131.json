@@ -1,0 +1,25 @@
+{
+    "id": "gym2-131",
+    "name": "Psychic Energy",
+    "number": "131",
+    "setId": "gym2",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "2414195",
+        "1st-edition": "2414196"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": "$19.99"
+            },
+            "1st-edition": {
+                "ungraded": "$2.48",
+                "psa10": "$43.37",
+                "grade9": "$13.53"
+            }
+        }
+    }
+}

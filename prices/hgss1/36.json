@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-36",
+    "name": "Blissey",
+    "number": "36",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806149",
+        "reverse-holo": "806255"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$119.99",
+                "grade9": "$110.75"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.89",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

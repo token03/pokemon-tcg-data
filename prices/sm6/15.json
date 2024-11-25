@@ -1,0 +1,25 @@
+{
+    "id": "sm6-15",
+    "name": "Fennekin",
+    "number": "15",
+    "setId": "sm6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "961678",
+        "reverse-holo": "961824"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.66",
+                "psa10": "$39.41",
+                "grade9": "$15.61"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

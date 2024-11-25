@@ -1,0 +1,19 @@
+{
+    "id": "sv4-27",
+    "name": "Armarouge ex",
+    "number": "27",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952865"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.55",
+                "psa10": "$15.00",
+                "grade9": "$12.10"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm3-122",
+    "name": "Rotom Dex Pok\u00e9 Finder Mode",
+    "number": "122",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960906",
+        "reverse-holo": "961063"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

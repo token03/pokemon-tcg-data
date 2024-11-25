@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG07",
+    "name": "Rockruff",
+    "number": "TG07",
+    "setId": "swsh12tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4277095"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.34",
+                "psa10": "$29.38",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

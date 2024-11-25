@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-68",
+    "name": "Slurpuff",
+    "number": "68",
+    "setId": "swsh6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "2253873",
+        "reverse-holo": "2254095"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.33",
+                "psa10": "$35.15",
+                "grade9": "$12.36"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.06",
+                "psa10": "$35.81",
+                "grade9": "$5.50"
+            }
+        }
+    }
+}

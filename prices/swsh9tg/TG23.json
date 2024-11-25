@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG23",
+    "name": "Umbreon VMAX",
+    "number": "TG23",
+    "setId": "swsh9tg",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "3187781"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$38.75",
+                "psa10": "$124.50",
+                "grade9": "$54.50"
+            }
+        }
+    }
+}

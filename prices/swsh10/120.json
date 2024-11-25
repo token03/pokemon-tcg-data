@@ -1,0 +1,25 @@
+{
+    "id": "swsh10-120",
+    "name": "Hoothoot",
+    "number": "120",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489619",
+        "reverse-holo": "3489815"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.03",
+                "grade9": "$11.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.06",
+                "psa10": "$34.04",
+                "grade9": "$11.59"
+            }
+        }
+    }
+}

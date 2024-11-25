@@ -1,0 +1,25 @@
+{
+    "id": "sm7-130",
+    "name": "Fisherman",
+    "number": "130",
+    "setId": "sm7",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962044",
+        "reverse-holo": "962211"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

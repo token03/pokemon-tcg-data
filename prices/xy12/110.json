@@ -1,0 +1,19 @@
+{
+    "id": "xy12-110",
+    "name": "Flying Pikachu",
+    "number": "110",
+    "setId": "xy12",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "960389"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.57",
+                "psa10": "$37.00",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

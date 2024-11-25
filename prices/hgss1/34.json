@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-34",
+    "name": "Weezing",
+    "number": "34",
+    "setId": "hgss1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806147",
+        "reverse-holo": "806253"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

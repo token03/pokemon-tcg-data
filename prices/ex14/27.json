@@ -1,0 +1,31 @@
+{
+    "id": "ex14-27",
+    "name": "Swampert",
+    "number": "27",
+    "setId": "ex14",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "holo": "889314",
+        "reverse-holo": "889414",
+        "stamped": "4916943"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$5.00",
+                "psa10": "$76.35",
+                "grade9": "$59.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.65",
+                "psa10": "$315.00",
+                "grade9": "$37.33"
+            },
+            "stamped": {
+                "ungraded": "$6.23",
+                "psa10": "",
+                "grade9": "$3.14"
+            }
+        }
+    }
+}

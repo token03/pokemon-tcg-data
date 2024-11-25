@@ -1,0 +1,19 @@
+{
+    "id": "swsh5-158",
+    "name": "Bruno",
+    "number": "158",
+    "setId": "swsh5",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "1673338"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.22",
+                "psa10": "$34.49",
+                "grade9": "$11.49"
+            }
+        }
+    }
+}

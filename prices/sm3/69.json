@@ -1,0 +1,25 @@
+{
+    "id": "sm3-69",
+    "name": "Solrock",
+    "number": "69",
+    "setId": "sm3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960853",
+        "reverse-holo": "961015"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.21",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

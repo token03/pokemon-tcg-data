@@ -1,0 +1,25 @@
+{
+    "id": "xy9-35",
+    "name": "Seismitoad",
+    "number": "35",
+    "setId": "xy9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959526",
+        "reverse-holo": "959644"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.10",
+                "psa10": "$35.72",
+                "grade9": "$13.37"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "$39.05",
+                "grade9": "$15.34"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy2-17",
+    "name": "Fletchinder",
+    "number": "17",
+    "setId": "xy2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957764",
+        "reverse-holo": "957870"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy10-25",
+    "name": "Alakazam-EX",
+    "number": "25",
+    "setId": "xy10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "959882"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.85",
+                "psa10": "$56.29",
+                "grade9": "$21.44"
+            }
+        }
+    }
+}

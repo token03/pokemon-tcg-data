@@ -1,0 +1,19 @@
+{
+    "id": "bw6-81",
+    "name": "Registeel-EX",
+    "number": "81",
+    "setId": "bw6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956335"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.85",
+                "psa10": "$316.02",
+                "grade9": "$33.99"
+            }
+        }
+    }
+}

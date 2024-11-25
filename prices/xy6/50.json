@@ -1,0 +1,25 @@
+{
+    "id": "xy6-50",
+    "name": "Dragonair",
+    "number": "50",
+    "setId": "xy6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "958873",
+        "reverse-holo": "958980"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$41.25",
+                "grade9": "$15.34"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.40",
+                "psa10": "$111.25",
+                "grade9": "$11.00"
+            }
+        }
+    }
+}

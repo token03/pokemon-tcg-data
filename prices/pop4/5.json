@@ -1,0 +1,19 @@
+{
+    "id": "pop4-5",
+    "name": "Sceptile",
+    "number": "5",
+    "setId": "pop4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "762741"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$50.67",
+                "psa10": "$92.00",
+                "grade9": "$76.81"
+            }
+        }
+    }
+}

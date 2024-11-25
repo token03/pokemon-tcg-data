@@ -1,0 +1,31 @@
+{
+    "id": "pl2-97",
+    "name": "Underground Expedition",
+    "number": "97",
+    "setId": "pl2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925493",
+        "crosshatch-holo": "6777979",
+        "reverse-holo": "925612"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "$29.79",
+                "grade9": "$5.00"
+            },
+            "crosshatch-holo": {
+                "ungraded": "$19.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.03",
+                "psa10": "$14.50",
+                "grade9": "$1.25"
+            }
+        }
+    }
+}

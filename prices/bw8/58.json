@@ -1,0 +1,25 @@
+{
+    "id": "bw8-58",
+    "name": "Weezing",
+    "number": "58",
+    "setId": "bw8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "956856",
+        "reverse-holo": "956989"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.04",
+                "psa10": "$46.10",
+                "grade9": "$28.47"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.96",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

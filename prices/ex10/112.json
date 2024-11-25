@@ -1,0 +1,19 @@
+{
+    "id": "ex10-112",
+    "name": "Umbreon ex",
+    "number": "112",
+    "setId": "ex10",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888531"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$190.19",
+                "psa10": "$5,125.00",
+                "grade9": "$836.21"
+            }
+        }
+    }
+}

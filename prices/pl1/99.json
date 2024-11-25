@@ -1,0 +1,25 @@
+{
+    "id": "pl1-99",
+    "name": "Torchic",
+    "number": "99",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806090",
+        "reverse-holo": "806091"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.30",
+                "psa10": "$47.55",
+                "grade9": "$20.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.03",
+                "psa10": "$57.16",
+                "grade9": "$21.31"
+            }
+        }
+    }
+}

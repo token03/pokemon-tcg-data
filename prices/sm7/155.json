@@ -1,0 +1,19 @@
+{
+    "id": "sm7-155",
+    "name": "Electrode-GX",
+    "number": "155",
+    "setId": "sm7",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962068"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.63",
+                "psa10": "$41.85",
+                "grade9": "$27.00"
+            }
+        }
+    }
+}

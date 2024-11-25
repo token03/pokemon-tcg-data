@@ -1,0 +1,25 @@
+{
+    "id": "xy9-82",
+    "name": "Clefable",
+    "number": "82",
+    "setId": "xy9",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959573",
+        "reverse-holo": "959684"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$37.74",
+                "grade9": "$29.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "$38.95",
+                "grade9": "$15.28"
+            }
+        }
+    }
+}

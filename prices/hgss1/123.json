@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-123",
+    "name": "Gyarados",
+    "number": "123",
+    "setId": "hgss1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "886677",
+        "reverse-holo": "2481134"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$43.90",
+                "psa10": "$1,234.57",
+                "grade9": "$191.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$36.00",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

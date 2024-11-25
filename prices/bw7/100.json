@@ -1,0 +1,31 @@
+{
+    "id": "bw7-100",
+    "name": "Black Kyurem",
+    "number": "100",
+    "setId": "bw7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956615",
+        "cracked-ice": "6160690",
+        "reverse-holo": "956761"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.03",
+                "psa10": "$46.52",
+                "grade9": "$16.75"
+            },
+            "cracked-ice": {
+                "ungraded": "$1.95",
+                "psa10": "$500.00",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$46.35",
+                "grade9": "$18.30"
+            }
+        }
+    }
+}

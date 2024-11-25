@@ -1,0 +1,19 @@
+{
+    "id": "dp7-99",
+    "name": "Raichu LV.X",
+    "number": "99",
+    "setId": "dp7",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925302"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$22.01",
+                "psa10": "$700.00",
+                "grade9": "$85.00"
+            }
+        }
+    }
+}

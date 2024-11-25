@@ -1,0 +1,19 @@
+{
+    "id": "sm3-154",
+    "name": "Machamp-GX",
+    "number": "154",
+    "setId": "sm3",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "960938"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.25",
+                "psa10": "$123.50",
+                "grade9": "$26.00"
+            }
+        }
+    }
+}

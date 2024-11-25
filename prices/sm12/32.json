@@ -1,0 +1,25 @@
+{
+    "id": "sm12-32",
+    "name": "Pignite",
+    "number": "32",
+    "setId": "sm12",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964270",
+        "reverse-holo": "964538"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.02",
+                "psa10": "$33.93",
+                "grade9": "$12.20"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.31",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

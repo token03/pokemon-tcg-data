@@ -1,0 +1,25 @@
+{
+    "id": "xy8-85",
+    "name": "Meloetta",
+    "number": "85",
+    "setId": "xy8",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "959274",
+        "reverse-holo": "959427"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.75",
+                "psa10": "$99.95",
+                "grade9": "$14.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.09",
+                "psa10": "$41.38",
+                "grade9": "$6.50"
+            }
+        }
+    }
+}

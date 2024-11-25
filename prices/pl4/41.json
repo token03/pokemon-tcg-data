@@ -1,0 +1,25 @@
+{
+    "id": "pl4-41",
+    "name": "Haunter",
+    "number": "41",
+    "setId": "pl4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "925660",
+        "reverse-holo": "925771"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.38",
+                "psa10": "$59.29",
+                "grade9": "$22.66"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.00",
+                "psa10": "$91.57",
+                "grade9": "$36.60"
+            }
+        }
+    }
+}

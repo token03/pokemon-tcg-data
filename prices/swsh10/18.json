@@ -1,0 +1,19 @@
+{
+    "id": "swsh10-18",
+    "name": "Hisuian Lilligant VSTAR",
+    "number": "18",
+    "setId": "swsh10",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "3489516"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.10",
+                "psa10": "$20.50",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

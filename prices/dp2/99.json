@@ -1,0 +1,25 @@
+{
+    "id": "dp2-99",
+    "name": "Slakoth",
+    "number": "99",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920723",
+        "reverse-holo": "920846"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$55.90",
+                "grade9": "$5.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.40",
+                "psa10": "$68.86",
+                "grade9": "$25.08"
+            }
+        }
+    }
+}

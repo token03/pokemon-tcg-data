@@ -1,0 +1,19 @@
+{
+    "id": "bw6-22",
+    "name": "Ho-Oh-EX",
+    "number": "22",
+    "setId": "bw6",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "956276"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$99.41",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

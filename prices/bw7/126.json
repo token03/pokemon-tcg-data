@@ -1,0 +1,25 @@
+{
+    "id": "bw7-126",
+    "name": "Audino",
+    "number": "126",
+    "setId": "bw7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956641",
+        "reverse-holo": "956785"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.11",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-67",
+    "name": "Machop",
+    "number": "67",
+    "setId": "hgss4",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "926124",
+        "reverse-holo": "926227"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.19",
+                "psa10": "$42.84",
+                "grade9": "$15.85"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.48",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm7-181",
+    "name": "Pok\u00e9Nav",
+    "number": "181",
+    "setId": "sm7",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "962094"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.14",
+                "psa10": "$42.95",
+                "grade9": "$27.22"
+            }
+        }
+    }
+}

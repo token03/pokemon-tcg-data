@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG50",
+    "name": "Darkrai VSTAR",
+    "number": "GG50",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4637106"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$16.00",
+                "psa10": "$76.66",
+                "grade9": "$27.17"
+            }
+        }
+    }
+}

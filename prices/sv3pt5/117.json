@@ -1,0 +1,25 @@
+{
+    "id": "sv3pt5-117",
+    "name": "Seadra",
+    "number": "117",
+    "setId": "sv3pt5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5809498",
+        "reverse-holo": "5809699"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.86",
+                "psa10": "$33.90",
+                "grade9": "$11.18"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.16",
+                "psa10": "$35.18",
+                "grade9": "$3.25"
+            }
+        }
+    }
+}

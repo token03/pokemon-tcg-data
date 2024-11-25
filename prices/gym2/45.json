@@ -1,0 +1,25 @@
+{
+    "id": "gym2-45",
+    "name": "Giovanni's Nidorino",
+    "number": "45",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762251",
+        "1st-edition": "1450239"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.78",
+                "psa10": "$44.24",
+                "grade9": "$20.00"
+            },
+            "1st-edition": {
+                "ungraded": "$6.00",
+                "psa10": "$54.24",
+                "grade9": "$17.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss1-95",
+    "name": "Pok\u00e9 Ball",
+    "number": "95",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806206",
+        "reverse-holo": "806313"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.23",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

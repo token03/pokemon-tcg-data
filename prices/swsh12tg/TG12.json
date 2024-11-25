@@ -1,0 +1,19 @@
+{
+    "id": "swsh12tg-TG12",
+    "name": "Kricketune V",
+    "number": "TG12",
+    "setId": "swsh12tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4277100"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.49",
+                "psa10": "$21.59",
+                "grade9": "$9.00"
+            }
+        }
+    }
+}

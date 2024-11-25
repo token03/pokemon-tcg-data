@@ -1,0 +1,19 @@
+{
+    "id": "base4-16",
+    "name": "Raichu",
+    "number": "16",
+    "setId": "base4",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "641819"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.13",
+                "psa10": "$608.72",
+                "grade9": "$91.37"
+            }
+        }
+    }
+}

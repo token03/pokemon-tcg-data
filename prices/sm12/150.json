@@ -1,0 +1,25 @@
+{
+    "id": "sm12-150",
+    "name": "Flab\u00e9b\u00e9",
+    "number": "150",
+    "setId": "sm12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2182986",
+        "reverse-holo": "3177480"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.98",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.41",
+                "psa10": "",
+                "grade9": "$11.99"
+            }
+        }
+    }
+}

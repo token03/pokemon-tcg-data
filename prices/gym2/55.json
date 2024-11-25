@@ -1,0 +1,25 @@
+{
+    "id": "gym2-55",
+    "name": "Sabrina's Haunter",
+    "number": "55",
+    "setId": "gym2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762261",
+        "1st-edition": "1450249"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.69",
+                "psa10": "$89.60",
+                "grade9": "$28.07"
+            },
+            "1st-edition": {
+                "ungraded": "$8.77",
+                "psa10": "$84.25",
+                "grade9": "$42.30"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex13-39",
+    "name": "Combusken",
+    "number": "39",
+    "setId": "ex13",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889119",
+        "reverse-holo": "889230"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.21",
+                "psa10": "$250.00",
+                "grade9": "$28.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.16",
+                "psa10": "$107.55",
+                "grade9": "$26.13"
+            }
+        }
+    }
+}

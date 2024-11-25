@@ -1,0 +1,19 @@
+{
+    "id": "sv4-216",
+    "name": "Iron Jugulis",
+    "number": "216",
+    "setId": "sv4",
+    "rarity": "Illustration Rare",
+    "priceChartingIds": {
+        "normal": "5953055"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$55.00",
+                "grade9": "$17.30"
+            }
+        }
+    }
+}

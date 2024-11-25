@@ -1,0 +1,25 @@
+{
+    "id": "bw10-53",
+    "name": "Archen",
+    "number": "53",
+    "setId": "bw10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "957355",
+        "reverse-holo": "957457"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.74",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.86",
+                "psa10": "$43.65",
+                "grade9": "$17.22"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-187",
+    "name": "Avery",
+    "number": "187",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253991"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.63",
+                "psa10": "$29.08",
+                "grade9": "$11.27"
+            }
+        }
+    }
+}

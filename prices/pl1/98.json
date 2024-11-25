@@ -1,0 +1,25 @@
+{
+    "id": "pl1-98",
+    "name": "Tauros",
+    "number": "98",
+    "setId": "pl1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "806088",
+        "reverse-holo": "806089"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.94",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

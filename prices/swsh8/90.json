@@ -1,0 +1,25 @@
+{
+    "id": "swsh8-90",
+    "name": "Minun",
+    "number": "90",
+    "setId": "swsh8",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2771119",
+        "reverse-holo": "2771384"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.82",
+                "psa10": "$33.23",
+                "grade9": "$11.39"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "$36.82",
+                "grade9": "$12.94"
+            }
+        }
+    }
+}

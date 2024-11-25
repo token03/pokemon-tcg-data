@@ -1,0 +1,25 @@
+{
+    "id": "sv2-57",
+    "name": "Frigibax",
+    "number": "57",
+    "setId": "sv2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5287346",
+        "reverse-holo": "5287619"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$35.48",
+                "grade9": "$11.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "$35.71",
+                "grade9": "$7.95"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "hgss4-97",
+    "name": "Mew",
+    "number": "97",
+    "setId": "hgss4",
+    "rarity": "Rare Prime",
+    "priceChartingIds": {
+        "normal": "926154"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$39.99",
+                "psa10": "$715.98",
+                "grade9": "$112.20"
+            }
+        }
+    }
+}

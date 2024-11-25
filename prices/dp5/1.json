@@ -1,0 +1,25 @@
+{
+    "id": "dp5-1",
+    "name": "Articuno",
+    "number": "1",
+    "setId": "dp5",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "921363",
+        "reverse-holo": "921463"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.00",
+                "psa10": "$662.10",
+                "grade9": "$78.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.03",
+                "psa10": "$208.03",
+                "grade9": "$51.00"
+            }
+        }
+    }
+}

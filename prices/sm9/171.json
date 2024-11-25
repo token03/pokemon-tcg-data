@@ -1,0 +1,19 @@
+{
+    "id": "sm9-171",
+    "name": "Eevee & Snorlax-GX",
+    "number": "171",
+    "setId": "sm9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962969"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$29.63",
+                "psa10": "$152.65",
+                "grade9": "$44.92"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm11-24",
+    "name": "Camerupt",
+    "number": "24",
+    "setId": "sm11",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "963590",
+        "reverse-holo": "963847"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.20",
+                "psa10": "$16.81",
+                "grade9": "$12.60"
+            }
+        }
+    }
+}

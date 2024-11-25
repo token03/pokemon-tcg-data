@@ -1,0 +1,25 @@
+{
+    "id": "ex4-74",
+    "name": "Strength Charm",
+    "number": "74",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849643",
+        "reverse-holo": "849740"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.53",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

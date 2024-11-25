@@ -1,0 +1,25 @@
+{
+    "id": "bw6-15",
+    "name": "Roserade",
+    "number": "15",
+    "setId": "bw6",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "956269",
+        "reverse-holo": "956397"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.49",
+                "psa10": "$160.68",
+                "grade9": "$75.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$16.48",
+                "psa10": "$169.22",
+                "grade9": "$80.00"
+            }
+        }
+    }
+}

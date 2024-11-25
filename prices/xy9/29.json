@@ -1,0 +1,25 @@
+{
+    "id": "xy9-29",
+    "name": "Corsola",
+    "number": "29",
+    "setId": "xy9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "959520",
+        "reverse-holo": "959639"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.18",
+                "psa10": "$16.00",
+                "grade9": "$13.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.80",
+                "psa10": "$39.36",
+                "grade9": "$15.52"
+            }
+        }
+    }
+}

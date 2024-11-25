@@ -1,0 +1,19 @@
+{
+    "id": "ex4-90",
+    "name": "Cradily ex",
+    "number": "90",
+    "setId": "ex4",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849659"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$32.76",
+                "psa10": "$887.48",
+                "grade9": "$99.94"
+            }
+        }
+    }
+}

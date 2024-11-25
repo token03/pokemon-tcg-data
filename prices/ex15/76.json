@@ -1,0 +1,25 @@
+{
+    "id": "ex15-76",
+    "name": "Island Hermit",
+    "number": "76",
+    "setId": "ex15",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889550",
+        "reverse-holo": "889651"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.92",
+                "psa10": "$56.60",
+                "grade9": "$22.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.71",
+                "psa10": "$47.16",
+                "grade9": "$18.52"
+            }
+        }
+    }
+}

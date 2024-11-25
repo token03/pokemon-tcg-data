@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-180",
+    "name": "Liepard V",
+    "number": "180",
+    "setId": "swsh6",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "2253984"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.83",
+                "psa10": "$22.00",
+                "grade9": "$10.60"
+            }
+        }
+    }
+}

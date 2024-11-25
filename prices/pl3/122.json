@@ -1,0 +1,25 @@
+{
+    "id": "pl3-122",
+    "name": "Rhyhorn",
+    "number": "122",
+    "setId": "pl3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "1287169",
+        "reverse-holo": "1287323"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$55.29",
+                "grade9": "$20.81"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.51",
+                "psa10": "",
+                "grade9": "$34.27"
+            }
+        }
+    }
+}

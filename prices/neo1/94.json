@@ -1,0 +1,25 @@
+{
+    "id": "neo1-94",
+    "name": "Miracle Berry",
+    "number": "94",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "762407",
+        "1st-edition": "2324894"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$18.00",
+                "grade9": "$15.14"
+            },
+            "1st-edition": {
+                "ungraded": "$1.84",
+                "psa10": "$15.50",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

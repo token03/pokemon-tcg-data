@@ -1,0 +1,25 @@
+{
+    "id": "sm5-138",
+    "name": "Unit Energy LightningPsychicMetal",
+    "number": "138",
+    "setId": "sm5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "961501",
+        "reverse-holo": "961662"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "$39.33",
+                "grade9": "$15.59"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.21",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

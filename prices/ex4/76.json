@@ -1,0 +1,25 @@
+{
+    "id": "ex4-76",
+    "name": "Team Aqua Belt",
+    "number": "76",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849645",
+        "reverse-holo": "849742"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sv4-244",
+    "name": "Tulip",
+    "number": "244",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953083"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.25",
+                "psa10": "$34.15",
+                "grade9": "$15.50"
+            }
+        }
+    }
+}

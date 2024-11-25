@@ -1,0 +1,19 @@
+{
+    "id": "sv2-153",
+    "name": "Noivern ex",
+    "number": "153",
+    "setId": "sv2",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "normal": "5287442"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$36.64",
+                "grade9": "$6.50"
+            }
+        }
+    }
+}

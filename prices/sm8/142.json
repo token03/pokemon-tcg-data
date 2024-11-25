@@ -1,0 +1,25 @@
+{
+    "id": "sm8-142",
+    "name": "Dedenne",
+    "number": "142",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962530",
+        "reverse-holo": "962753"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$35.97",
+                "grade9": "$13.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.95",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

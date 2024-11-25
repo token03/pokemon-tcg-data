@@ -1,0 +1,37 @@
+{
+    "id": "base1-10",
+    "name": "Mewtwo",
+    "number": "10",
+    "setId": "base1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "630423",
+        "1999-2000": "6480594",
+        "1st-edition": "715599",
+        "shadowless": "715701"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.98",
+                "psa10": "$577.98",
+                "grade9": "$116.01"
+            },
+            "1999-2000": {
+                "ungraded": "$38.06",
+                "psa10": "",
+                "grade9": "$202.69"
+            },
+            "1st-edition": {
+                "ungraded": "$431.22",
+                "psa10": "$8,098.28",
+                "grade9": "$1,950.00"
+            },
+            "shadowless": {
+                "ungraded": "$41.50",
+                "psa10": "$4,226.09",
+                "grade9": "$419.53"
+            }
+        }
+    }
+}

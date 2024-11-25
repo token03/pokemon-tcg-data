@@ -1,0 +1,19 @@
+{
+    "id": "xy8-50",
+    "name": "Raichu BREAK",
+    "number": "50",
+    "setId": "xy8",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "959238"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.50",
+                "psa10": "$47.40",
+                "grade9": "$21.86"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm5-159",
+    "name": "Glaceon-GX",
+    "number": "159",
+    "setId": "sm5",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "961522"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.62",
+                "psa10": "$81.75",
+                "grade9": "$53.00"
+            }
+        }
+    }
+}

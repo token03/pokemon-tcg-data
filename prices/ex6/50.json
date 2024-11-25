@@ -1,0 +1,31 @@
+{
+    "id": "ex6-50",
+    "name": "Wartortle",
+    "number": "50",
+    "setId": "ex6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "850017",
+        "prerelease": "4894334",
+        "reverse-holo": "850132"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.36",
+                "psa10": "$44.83",
+                "grade9": "$29.48"
+            },
+            "prerelease": {
+                "ungraded": "$33.47",
+                "psa10": "$88.98",
+                "grade9": "$15.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$10.21",
+                "psa10": "$137.25",
+                "grade9": "$38.12"
+            }
+        }
+    }
+}

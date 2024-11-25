@@ -1,0 +1,25 @@
+{
+    "id": "ex3-70",
+    "name": "Numel",
+    "number": "70",
+    "setId": "ex3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "849449",
+        "reverse-holo": "849549"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$22.50",
+                "grade9": "$20.17"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.56",
+                "psa10": "$93.60",
+                "grade9": "$16.76"
+            }
+        }
+    }
+}

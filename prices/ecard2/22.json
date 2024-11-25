@@ -1,0 +1,25 @@
+{
+    "id": "ecard2-22",
+    "name": "Magneton",
+    "number": "22",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842549",
+        "reverse-holo": "2293913"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.37",
+                "psa10": "$47.50",
+                "grade9": "$20.70"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.00",
+                "psa10": "$92.50",
+                "grade9": "$46.00"
+            }
+        }
+    }
+}

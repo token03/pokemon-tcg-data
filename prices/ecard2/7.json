@@ -1,0 +1,31 @@
+{
+    "id": "ecard2-7",
+    "name": "Donphan",
+    "number": "7",
+    "setId": "ecard2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "842536",
+        "reverse-holo": "2293898",
+        "box-topper": "5400915"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$11.49",
+                "psa10": "$34.60",
+                "grade9": "$20.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.25",
+                "psa10": "$123.20",
+                "grade9": "$41.00"
+            },
+            "box-topper": {
+                "ungraded": "$65.00",
+                "psa10": "$825.00",
+                "grade9": "$202.00"
+            }
+        }
+    }
+}

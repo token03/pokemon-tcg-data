@@ -1,0 +1,25 @@
+{
+    "id": "g1-36",
+    "name": "Jynx",
+    "number": "36",
+    "setId": "g1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959748",
+        "reverse-holo": "2978679"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.45",
+                "psa10": "$37.56",
+                "grade9": "$14.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.74",
+                "psa10": "$40.37",
+                "grade9": "$16.12"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG16",
+    "name": "Mimikyu V",
+    "number": "TG16",
+    "setId": "swsh9tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "3216319"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$18.25",
+                "psa10": "$80.33",
+                "grade9": "$26.06"
+            }
+        }
+    }
+}

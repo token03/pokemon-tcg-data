@@ -1,0 +1,25 @@
+{
+    "id": "base6-82",
+    "name": "Nidoran \u2640",
+    "number": "82",
+    "setId": "base6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "842388",
+        "reverse-holo": "2253764"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.93",
+                "psa10": "$115.00",
+                "grade9": "$96.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$32.21",
+                "psa10": "$375.00",
+                "grade9": "$87.00"
+            }
+        }
+    }
+}

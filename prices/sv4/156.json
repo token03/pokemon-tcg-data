@@ -1,0 +1,19 @@
+{
+    "id": "sv4-156",
+    "name": "Bombirdier ex",
+    "number": "156",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952994"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$1.48",
+                "psa10": "$36.13",
+                "grade9": "$11.81"
+            }
+        }
+    }
+}

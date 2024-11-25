@@ -1,0 +1,25 @@
+{
+    "id": "dp2-72",
+    "name": "Barboach",
+    "number": "72",
+    "setId": "dp2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "920695",
+        "reverse-holo": "920819"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.03",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.66",
+                "psa10": "$33.00",
+                "grade9": ""
+            }
+        }
+    }
+}

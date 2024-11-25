@@ -1,0 +1,25 @@
+{
+    "id": "neo1-17",
+    "name": "Typhlosion",
+    "number": "17",
+    "setId": "neo1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762337",
+        "1st-edition": "2324938"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$66.91",
+                "psa10": "$1,146.55",
+                "grade9": "$322.50"
+            },
+            "1st-edition": {
+                "ungraded": "$225.00",
+                "psa10": "$7,899.38",
+                "grade9": "$1,387.06"
+            }
+        }
+    }
+}

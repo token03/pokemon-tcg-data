@@ -1,0 +1,19 @@
+{
+    "id": "bw9-109",
+    "name": "Heatran-EX",
+    "number": "109",
+    "setId": "bw9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "957163"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.99",
+                "psa10": "$527.27",
+                "grade9": "$89.25"
+            }
+        }
+    }
+}

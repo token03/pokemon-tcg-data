@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-204",
+    "name": "Frosmoth",
+    "number": "204",
+    "setId": "swsh2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "886930"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.00",
+                "psa10": "$32.50",
+                "grade9": "$12.00"
+            }
+        }
+    }
+}

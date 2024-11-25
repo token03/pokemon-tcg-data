@@ -1,0 +1,31 @@
+{
+    "id": "swsh10-2",
+    "name": "Hisuian Voltorb",
+    "number": "2",
+    "setId": "swsh10",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3489500",
+        "holo": "5165853",
+        "reverse-holo": "3489716"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "$34.08",
+                "grade9": "$11.60"
+            },
+            "holo": {
+                "ungraded": "$1.49",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.99",
+                "psa10": "$38.11",
+                "grade9": "$13.19"
+            }
+        }
+    }
+}

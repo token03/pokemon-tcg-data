@@ -1,0 +1,25 @@
+{
+    "id": "ex13-54",
+    "name": "Vibrava \u03b4",
+    "number": "54",
+    "setId": "ex13",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889134",
+        "reverse-holo": "889245"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.19",
+                "psa10": "$99.99",
+                "grade9": "$32.27"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.00",
+                "psa10": "$84.99",
+                "grade9": "$50.00"
+            }
+        }
+    }
+}

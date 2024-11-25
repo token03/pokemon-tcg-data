@@ -1,0 +1,25 @@
+{
+    "id": "xy5-35",
+    "name": "Swampert",
+    "number": "35",
+    "setId": "xy5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "958492",
+        "reverse-holo": "958653"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$41.97",
+                "grade9": "$30.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$98.55",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

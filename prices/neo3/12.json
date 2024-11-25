@@ -1,0 +1,25 @@
+{
+    "id": "neo3-12",
+    "name": "Porygon2",
+    "number": "12",
+    "setId": "neo3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762526",
+        "1st-edition": "2427430"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$19.99",
+                "psa10": "$626.76",
+                "grade9": "$59.50"
+            },
+            "1st-edition": {
+                "ungraded": "$38.50",
+                "psa10": "$2,587.49",
+                "grade9": "$108.81"
+            }
+        }
+    }
+}

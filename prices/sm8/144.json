@@ -1,0 +1,19 @@
+{
+    "id": "sm8-144",
+    "name": "Xerneas \u25c7",
+    "number": "144",
+    "setId": "sm8",
+    "rarity": "Rare Prism Star",
+    "priceChartingIds": {
+        "normal": "962532"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.62",
+                "psa10": "$40.74",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

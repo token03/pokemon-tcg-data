@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG29",
+    "name": "Ice Rider Calyrex VMAX",
+    "number": "TG29",
+    "setId": "swsh10tg",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "3508421"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.01",
+                "psa10": "$22.54",
+                "grade9": "$13.90"
+            }
+        }
+    }
+}

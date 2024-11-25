@@ -1,0 +1,25 @@
+{
+    "id": "neo2-2",
+    "name": "Forretress",
+    "number": "2",
+    "setId": "neo2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762425",
+        "1st-edition": "2158437"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.56",
+                "psa10": "$98.37",
+                "grade9": "$38.72"
+            },
+            "1st-edition": {
+                "ungraded": "$39.45",
+                "psa10": "$276.34",
+                "grade9": "$70.67"
+            }
+        }
+    }
+}

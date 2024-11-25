@@ -1,0 +1,25 @@
+{
+    "id": "bw5-18",
+    "name": "Torkoal",
+    "number": "18",
+    "setId": "bw5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956064",
+        "reverse-holo": "956175"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.39",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

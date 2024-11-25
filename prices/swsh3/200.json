@@ -1,0 +1,19 @@
+{
+    "id": "swsh3-200",
+    "name": "Turbo Patch",
+    "number": "200",
+    "setId": "swsh3",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "887277"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.04",
+                "psa10": "$16.76",
+                "grade9": "$9.11"
+            }
+        }
+    }
+}

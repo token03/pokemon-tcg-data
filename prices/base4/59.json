@@ -1,0 +1,19 @@
+{
+    "id": "base4-59",
+    "name": "Rhydon",
+    "number": "59",
+    "setId": "base4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "641862"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.94",
+                "psa10": "$95.92",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

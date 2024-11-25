@@ -1,0 +1,19 @@
+{
+    "id": "ex5-94",
+    "name": "Kyogre ex",
+    "number": "94",
+    "setId": "ex5",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849867"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$39.84",
+                "psa10": "$399.99",
+                "grade9": "$145.13"
+            }
+        }
+    }
+}

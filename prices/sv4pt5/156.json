@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-156",
+    "name": "Drifblim",
+    "number": "156",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277075"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.41",
+                "psa10": "$47.39",
+                "grade9": "$14.88"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm12-217",
+    "name": "Oricorio-GX",
+    "number": "217",
+    "setId": "sm12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "964455"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.64",
+                "psa10": "$24.34",
+                "grade9": "$22.00"
+            }
+        }
+    }
+}

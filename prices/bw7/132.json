@@ -1,0 +1,25 @@
+{
+    "id": "bw7-132",
+    "name": "Potion",
+    "number": "132",
+    "setId": "bw7",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "956647",
+        "reverse-holo": "956791"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.51",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.57",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

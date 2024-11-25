@@ -1,0 +1,19 @@
+{
+    "id": "hgss1-111",
+    "name": "Ho-Oh LEGEND",
+    "number": "111",
+    "setId": "hgss1",
+    "rarity": "LEGEND",
+    "priceChartingIds": {
+        "normal": "806217"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$34.85",
+                "psa10": "$635.28",
+                "grade9": "$106.46"
+            }
+        }
+    }
+}

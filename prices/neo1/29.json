@@ -1,0 +1,25 @@
+{
+    "id": "neo1-29",
+    "name": "Bayleef",
+    "number": "29",
+    "setId": "neo1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1431253",
+        "1st-edition": "2324842"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.86",
+                "psa10": "$30.64",
+                "grade9": "$22.90"
+            },
+            "1st-edition": {
+                "ungraded": "$4.38",
+                "psa10": "$56.98",
+                "grade9": "$20.86"
+            }
+        }
+    }
+}

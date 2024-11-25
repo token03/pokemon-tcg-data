@@ -1,0 +1,31 @@
+{
+    "id": "swsh6-157",
+    "name": "Impact Energy",
+    "number": "157",
+    "setId": "swsh6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2253961",
+        "prize-pack-1": "5154458",
+        "reverse-holo": "2254169"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.83",
+                "grade9": "$11.76"
+            },
+            "prize-pack-1": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$33.83",
+                "grade9": "$11.76"
+            }
+        }
+    }
+}

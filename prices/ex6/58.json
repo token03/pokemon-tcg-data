@@ -1,0 +1,25 @@
+{
+    "id": "ex6-58",
+    "name": "Charmander",
+    "number": "58",
+    "setId": "ex6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "850025",
+        "reverse-holo": "850140"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.01",
+                "psa10": "$37.88",
+                "grade9": "$20.05"
+            },
+            "reverse-holo": {
+                "ungraded": "$14.57",
+                "psa10": "$367.63",
+                "grade9": "$70.00"
+            }
+        }
+    }
+}

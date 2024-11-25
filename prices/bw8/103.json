@@ -1,0 +1,25 @@
+{
+    "id": "bw8-103",
+    "name": "Togetic",
+    "number": "103",
+    "setId": "bw8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956900",
+        "reverse-holo": "957031"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.62",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

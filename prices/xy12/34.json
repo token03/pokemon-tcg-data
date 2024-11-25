@@ -1,0 +1,37 @@
+{
+    "id": "xy12-34",
+    "name": "Gyarados",
+    "number": "34",
+    "setId": "xy12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "960322",
+        "prerelease-staff": "2038363",
+        "prerelease": "2038362",
+        "reverse-holo": "960416"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.92",
+                "psa10": "$67.38",
+                "grade9": "$14.00"
+            },
+            "prerelease-staff": {
+                "ungraded": "$246.17",
+                "psa10": "",
+                "grade9": "$714.18"
+            },
+            "prerelease": {
+                "ungraded": "$73.97",
+                "psa10": "$653.39",
+                "grade9": "$109.78"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.00",
+                "psa10": "$60.26",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

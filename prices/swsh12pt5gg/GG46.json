@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG46",
+    "name": "Deoxys VSTAR",
+    "number": "GG46",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Holo VSTAR",
+    "priceChartingIds": {
+        "normal": "4637102"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$13.00",
+                "psa10": "$55.50",
+                "grade9": "$18.21"
+            }
+        }
+    }
+}

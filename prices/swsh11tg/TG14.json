@@ -1,0 +1,19 @@
+{
+    "id": "swsh11tg-TG14",
+    "name": "Centiskorch V",
+    "number": "TG14",
+    "setId": "swsh11tg",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "4080766"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.45",
+                "psa10": "$27.53",
+                "grade9": "$17.00"
+            }
+        }
+    }
+}

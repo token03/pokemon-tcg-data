@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG02",
+    "name": "Vaporeon",
+    "number": "TG02",
+    "setId": "swsh9tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3216312"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.93",
+                "psa10": "$84.02",
+                "grade9": "$14.00"
+            }
+        }
+    }
+}

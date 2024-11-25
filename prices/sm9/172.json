@@ -1,0 +1,19 @@
+{
+    "id": "sm9-172",
+    "name": "Brock's Grit",
+    "number": "172",
+    "setId": "sm9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962970"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$27.34",
+                "psa10": "$80.80",
+                "grade9": "$37.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy1-21",
+    "name": "Magcargo",
+    "number": "21",
+    "setId": "xy1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "806518",
+        "reverse-holo": "806643"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.26",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.12",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

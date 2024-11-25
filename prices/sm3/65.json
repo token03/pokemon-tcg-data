@@ -1,0 +1,25 @@
+{
+    "id": "sm3-65",
+    "name": "Rhyhorn",
+    "number": "65",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960849",
+        "reverse-holo": "961011"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.83",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.04",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

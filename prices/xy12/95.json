@@ -1,0 +1,25 @@
+{
+    "id": "xy12-95",
+    "name": "Psychic Energy",
+    "number": "95",
+    "setId": "xy12",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2358130",
+        "reverse-holo": "1708968"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$59.31",
+                "grade9": "$13.56"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.74",
+                "psa10": "$90.93",
+                "grade9": "$10.16"
+            }
+        }
+    }
+}

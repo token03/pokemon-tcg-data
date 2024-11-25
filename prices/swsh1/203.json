@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-203",
+    "name": "Lapras VMAX",
+    "number": "203",
+    "setId": "swsh1",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2336166"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.00",
+                "psa10": "$34.82",
+                "grade9": "$15.49"
+            }
+        }
+    }
+}

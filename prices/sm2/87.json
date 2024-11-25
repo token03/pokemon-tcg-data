@@ -1,0 +1,31 @@
+{
+    "id": "sm2-87",
+    "name": "Solgaleo",
+    "number": "87",
+    "setId": "sm2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "960584",
+        "cracked-ice": "3399982",
+        "reverse-holo": "960744"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.96",
+                "psa10": "$48.00",
+                "grade9": "$39.88"
+            },
+            "cracked-ice": {
+                "ungraded": "$2.13",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.64",
+                "psa10": "$48.00",
+                "grade9": "$39.99"
+            }
+        }
+    }
+}

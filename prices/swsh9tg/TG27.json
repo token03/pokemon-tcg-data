@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG27",
+    "name": "Rapid Strike Style Mustard",
+    "number": "TG27",
+    "setId": "swsh9tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3216326"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$2.00",
+                "psa10": "$19.99",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

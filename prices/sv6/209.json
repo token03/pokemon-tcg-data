@@ -1,0 +1,19 @@
+{
+    "id": "sv6-209",
+    "name": "Perrin",
+    "number": "209",
+    "setId": "sv6",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6775726"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$7.08",
+                "psa10": "$65.05",
+                "grade9": "$19.14"
+            }
+        }
+    }
+}

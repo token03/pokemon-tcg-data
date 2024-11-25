@@ -1,0 +1,25 @@
+{
+    "id": "swsh4-7",
+    "name": "Yanmega",
+    "number": "7",
+    "setId": "swsh4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "887563",
+        "reverse-holo": "887744"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.66",
+                "psa10": "$18.22",
+                "grade9": "$5.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.48",
+                "psa10": "$15.00",
+                "grade9": "$12.80"
+            }
+        }
+    }
+}

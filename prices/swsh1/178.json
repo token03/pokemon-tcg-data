@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-178",
+    "name": "Professor's Research (Professor Magnolia)",
+    "number": "178",
+    "setId": "swsh1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "807223",
+        "reverse-holo": "807224"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "$28.68",
+                "grade9": "$24.31"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.69",
+                "psa10": "$13.50",
+                "grade9": "$13.47"
+            }
+        }
+    }
+}

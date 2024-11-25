@@ -1,0 +1,25 @@
+{
+    "id": "ex2-14",
+    "name": "Zangoose",
+    "number": "14",
+    "setId": "ex2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "849203",
+        "reverse-holo": "849302"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.20",
+                "psa10": "$172.50",
+                "grade9": "$34.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.53",
+                "psa10": "$317.57",
+                "grade9": "$66.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sv4pt5-34",
+    "name": "Cottonee",
+    "number": "34",
+    "setId": "sv4pt5",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "6276953",
+        "reverse-holo": "6277196"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.38",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.56",
+                "psa10": "$33.95",
+                "grade9": "$11.54"
+            }
+        }
+    }
+}

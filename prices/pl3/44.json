@@ -1,0 +1,25 @@
+{
+    "id": "pl3-44",
+    "name": "Shedinja",
+    "number": "44",
+    "setId": "pl3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1287091",
+        "reverse-holo": "1287245"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$55.16",
+                "grade9": "$20.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.00",
+                "psa10": "$55.31",
+                "grade9": "$35.84"
+            }
+        }
+    }
+}

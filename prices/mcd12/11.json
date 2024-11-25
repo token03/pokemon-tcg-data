@@ -1,0 +1,19 @@
+{
+    "id": "mcd12-11",
+    "name": "Klang",
+    "number": "11",
+    "setId": "mcd12",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "1179978"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.51",
+                "psa10": "$59.29",
+                "grade9": "$23.79"
+            }
+        }
+    }
+}

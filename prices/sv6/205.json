@@ -1,0 +1,19 @@
+{
+    "id": "sv6-205",
+    "name": "Hassel",
+    "number": "205",
+    "setId": "sv6",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "6775722"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.62",
+                "psa10": "$40.74",
+                "grade9": "$12.80"
+            }
+        }
+    }
+}

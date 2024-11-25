@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-59",
+    "name": "Inteleon",
+    "number": "59",
+    "setId": "swsh1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1431216",
+        "reverse-holo": "1384429"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.38",
+                "psa10": "$31.38",
+                "grade9": "$15.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.73",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

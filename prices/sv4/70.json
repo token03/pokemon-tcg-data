@@ -1,0 +1,19 @@
+{
+    "id": "sv4-70",
+    "name": "Iron Hands ex",
+    "number": "70",
+    "setId": "sv4",
+    "rarity": "Double Rare",
+    "priceChartingIds": {
+        "holo": "5952907"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "holo": {
+                "ungraded": "$12.23",
+                "psa10": "$29.99",
+                "grade9": "$26.81"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy12-42",
+    "name": "Zapdos",
+    "number": "42",
+    "setId": "xy12",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "960330",
+        "reverse-holo": "960424"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.99",
+                "psa10": "$56.29",
+                "grade9": "$13.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.08",
+                "psa10": "$49.60",
+                "grade9": "$12.13"
+            }
+        }
+    }
+}

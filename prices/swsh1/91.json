@@ -1,0 +1,19 @@
+{
+    "id": "swsh1-91",
+    "name": "Indeedee V",
+    "number": "91",
+    "setId": "swsh1",
+    "rarity": "Rare Holo V",
+    "priceChartingIds": {
+        "normal": "807148"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.60",
+                "psa10": "$16.18",
+                "grade9": "$10.00"
+            }
+        }
+    }
+}

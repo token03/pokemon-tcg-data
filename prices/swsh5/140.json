@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-140",
+    "name": "Rapid Strike Energy",
+    "number": "140",
+    "setId": "swsh5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1673320",
+        "reverse-holo": "1725109"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$34.30",
+                "grade9": "$12.04"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.08",
+                "psa10": "$34.15",
+                "grade9": "$11.97"
+            }
+        }
+    }
+}

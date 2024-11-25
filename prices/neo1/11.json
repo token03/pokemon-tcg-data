@@ -1,0 +1,25 @@
+{
+    "id": "neo1-11",
+    "name": "Meganium",
+    "number": "11",
+    "setId": "neo1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "2371277",
+        "1st-edition": "2386675"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$28.98",
+                "psa10": "$499.99",
+                "grade9": "$71.79"
+            },
+            "1st-edition": {
+                "ungraded": "$75.40",
+                "psa10": "$899.99",
+                "grade9": "$150.77"
+            }
+        }
+    }
+}

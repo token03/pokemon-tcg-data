@@ -1,0 +1,25 @@
+{
+    "id": "sm115-53",
+    "name": "Brock's Grit",
+    "number": "53",
+    "setId": "sm115",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "964073",
+        "reverse-holo": "964227"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.81",
+                "grade9": "$12.14"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.43",
+                "psa10": "$61.14",
+                "grade9": "$10.50"
+            }
+        }
+    }
+}

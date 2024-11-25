@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-205",
+    "name": "Galarian Perrserker",
+    "number": "205",
+    "setId": "swsh2",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "886931"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.00",
+                "psa10": "$29.99",
+                "grade9": "$14.71"
+            }
+        }
+    }
+}

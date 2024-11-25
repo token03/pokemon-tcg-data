@@ -1,0 +1,25 @@
+{
+    "id": "dp6-1",
+    "name": "Deoxys Normal Forme",
+    "number": "1",
+    "setId": "dp6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "924932",
+        "reverse-holo": "925078"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.56",
+                "psa10": "$109.18",
+                "grade9": "$60.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.79",
+                "psa10": "$162.38",
+                "grade9": "$37.94"
+            }
+        }
+    }
+}

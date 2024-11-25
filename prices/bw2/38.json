@@ -1,0 +1,25 @@
+{
+    "id": "bw2-38",
+    "name": "Venipede",
+    "number": "38",
+    "setId": "bw2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "955464",
+        "reverse-holo": "955561"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.96",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

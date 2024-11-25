@@ -1,0 +1,19 @@
+{
+    "id": "si1-5",
+    "name": "Ivysaur",
+    "number": "5",
+    "setId": "si1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "762487"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.75",
+                "psa10": "$74.99",
+                "grade9": "$36.00"
+            }
+        }
+    }
+}

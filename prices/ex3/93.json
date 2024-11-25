@@ -1,0 +1,19 @@
+{
+    "id": "ex3-93",
+    "name": "Latias ex",
+    "number": "93",
+    "setId": "ex3",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "849472"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$57.35",
+                "psa10": "$830.95",
+                "grade9": "$202.69"
+            }
+        }
+    }
+}

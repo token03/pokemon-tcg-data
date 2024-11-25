@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-19",
+    "name": "Magmar",
+    "number": "19",
+    "setId": "swsh9",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "3188244",
+        "reverse-holo": "3219385"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.97",
+                "grade9": "$11.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.29",
+                "psa10": "$35.09",
+                "grade9": "$12.54"
+            }
+        }
+    }
+}

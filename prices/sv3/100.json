@@ -1,0 +1,25 @@
+{
+    "id": "sv3-100",
+    "name": "Greavard",
+    "number": "100",
+    "setId": "sv3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "5605618",
+        "reverse-holo": "5605848"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.16",
+                "psa10": "$35.26",
+                "grade9": "$11.63"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.49",
+                "grade9": "$11.39"
+            }
+        }
+    }
+}

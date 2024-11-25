@@ -1,0 +1,25 @@
+{
+    "id": "pl3-80",
+    "name": "Rhydon",
+    "number": "80",
+    "setId": "pl3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1287127",
+        "reverse-holo": "1287281"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.73",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.40",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swsh35-10",
+    "name": "Centiskorch",
+    "number": "10",
+    "setId": "swsh35",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "887442",
+        "reverse-holo": "887512"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.23",
+                "psa10": "$18.92",
+                "grade9": "$7.02"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$11.01",
+                "grade9": "$6.25"
+            }
+        }
+    }
+}

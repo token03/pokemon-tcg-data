@@ -1,0 +1,25 @@
+{
+    "id": "hgss3-46",
+    "name": "Drifloon",
+    "number": "46",
+    "setId": "hgss3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "925933",
+        "reverse-holo": "926024"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.62",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.18",
+                "psa10": "",
+                "grade9": "$12.40"
+            }
+        }
+    }
+}

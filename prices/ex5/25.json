@@ -1,0 +1,25 @@
+{
+    "id": "ex5-25",
+    "name": "Snow-cloud Castform",
+    "number": "25",
+    "setId": "ex5",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "849798",
+        "reverse-holo": "849900"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.03",
+                "psa10": "$29.99",
+                "grade9": "$13.28"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.96",
+                "psa10": "$314.78",
+                "grade9": "$29.00"
+            }
+        }
+    }
+}

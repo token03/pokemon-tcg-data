@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG01",
+    "name": "Abomasnow",
+    "number": "TG01",
+    "setId": "swsh10tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3508394"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.63",
+                "psa10": "$38.77",
+                "grade9": "$11.10"
+            }
+        }
+    }
+}

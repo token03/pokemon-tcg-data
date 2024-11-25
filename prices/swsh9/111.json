@@ -1,0 +1,25 @@
+{
+    "id": "swsh9-111",
+    "name": "Fraxure",
+    "number": "111",
+    "setId": "swsh9",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "3188335",
+        "reverse-holo": "3219459"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.46",
+                "psa10": "$35.85",
+                "grade9": "$12.40"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.18",
+                "psa10": "$34.73",
+                "grade9": "$11.94"
+            }
+        }
+    }
+}

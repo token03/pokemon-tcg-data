@@ -1,0 +1,25 @@
+{
+    "id": "ex16-53",
+    "name": "Machop",
+    "number": "53",
+    "setId": "ex16",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889717",
+        "reverse-holo": "889824"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.40",
+                "psa10": "$65.19",
+                "grade9": "$19.13"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.13",
+                "psa10": "$71.36",
+                "grade9": "$20.35"
+            }
+        }
+    }
+}

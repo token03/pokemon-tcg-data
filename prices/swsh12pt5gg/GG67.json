@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG67",
+    "name": "Origin Forme Palkia VSTAR",
+    "number": "GG67",
+    "setId": "swsh12pt5gg",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "4637123"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$55.00",
+                "psa10": "$149.99",
+                "grade9": "$59.99"
+            }
+        }
+    }
+}

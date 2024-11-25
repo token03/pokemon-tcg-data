@@ -1,0 +1,25 @@
+{
+    "id": "sm8-193",
+    "name": "Whitney",
+    "number": "193",
+    "setId": "sm8",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "962581",
+        "reverse-holo": "962796"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$35.28",
+                "grade9": "$13.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.90",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

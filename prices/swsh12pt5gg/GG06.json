@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG06",
+    "name": "Manaphy",
+    "number": "GG06",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637062"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.65",
+                "psa10": "$34.71",
+                "grade9": "$13.00"
+            }
+        }
+    }
+}

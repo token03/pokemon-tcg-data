@@ -1,0 +1,25 @@
+{
+    "id": "sv5-158",
+    "name": "Reboot Pod",
+    "number": "158",
+    "setId": "sv5",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "6495618",
+        "reverse-holo": "6495822"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.47",
+                "psa10": "$8.02",
+                "grade9": "$6.84"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

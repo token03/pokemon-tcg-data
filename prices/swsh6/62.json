@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-62",
+    "name": "Shuppet",
+    "number": "62",
+    "setId": "swsh6",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "2253867",
+        "reverse-holo": "2254089"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.84",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.40",
+                "psa10": "$35.42",
+                "grade9": "$12.49"
+            }
+        }
+    }
+}

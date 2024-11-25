@@ -1,0 +1,25 @@
+{
+    "id": "neo1-6",
+    "name": "Heracross",
+    "number": "6",
+    "setId": "neo1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762327",
+        "1st-edition": "2324874"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.00",
+                "psa10": "$411.70",
+                "grade9": "$75.27"
+            },
+            "1st-edition": {
+                "ungraded": "$47.81",
+                "psa10": "$5,339.00",
+                "grade9": "$202.35"
+            }
+        }
+    }
+}

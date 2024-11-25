@@ -1,0 +1,19 @@
+{
+    "id": "ex8-96",
+    "name": "Crobat ex",
+    "number": "96",
+    "setId": "ex8",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "888116"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$24.00",
+                "psa10": "$548.00",
+                "grade9": "$131.20"
+            }
+        }
+    }
+}

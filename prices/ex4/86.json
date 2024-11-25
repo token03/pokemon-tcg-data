@@ -1,0 +1,25 @@
+{
+    "id": "ex4-86",
+    "name": "Aqua Energy",
+    "number": "86",
+    "setId": "ex4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "849655",
+        "reverse-holo": "849752"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.12",
+                "psa10": "$103.90",
+                "grade9": "$34.86"
+            },
+            "reverse-holo": {
+                "ungraded": "$8.07",
+                "psa10": "",
+                "grade9": "$39.24"
+            }
+        }
+    }
+}

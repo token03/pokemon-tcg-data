@@ -1,0 +1,25 @@
+{
+    "id": "base2-54",
+    "name": "Jigglypuff",
+    "number": "54",
+    "setId": "base2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643311",
+        "1st-edition": "643359"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.25",
+                "psa10": "$39.99",
+                "grade9": "$23.88"
+            },
+            "1st-edition": {
+                "ungraded": "$2.38",
+                "psa10": "$74.50",
+                "grade9": "$19.74"
+            }
+        }
+    }
+}

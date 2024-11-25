@@ -1,0 +1,19 @@
+{
+    "id": "dp6-146",
+    "name": "Uxie LV.X",
+    "number": "146",
+    "setId": "dp6",
+    "rarity": "Rare Holo LV.X",
+    "priceChartingIds": {
+        "normal": "925077"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$27.50",
+                "psa10": "$699.06",
+                "grade9": "$102.50"
+            }
+        }
+    }
+}

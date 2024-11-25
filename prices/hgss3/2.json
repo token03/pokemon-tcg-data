@@ -1,0 +1,37 @@
+{
+    "id": "hgss3-2",
+    "name": "Espeon",
+    "number": "2",
+    "setId": "hgss3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "4998509",
+        "cracked-ice-holo": "925889",
+        "holo": "4998462",
+        "reverse-holo": "925980"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.02",
+                "psa10": "$700.00",
+                "grade9": "$51.35"
+            },
+            "cracked-ice-holo": {
+                "ungraded": "$9.51",
+                "psa10": "$399.99",
+                "grade9": "$46.99"
+            },
+            "holo": {
+                "ungraded": "$11.09",
+                "psa10": "",
+                "grade9": "$51.92"
+            },
+            "reverse-holo": {
+                "ungraded": "$9.13",
+                "psa10": "$255.00",
+                "grade9": "$74.99"
+            }
+        }
+    }
+}

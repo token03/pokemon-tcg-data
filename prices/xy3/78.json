@@ -1,0 +1,25 @@
+{
+    "id": "xy3-78",
+    "name": "Lickitung",
+    "number": "78",
+    "setId": "xy3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "958061",
+        "reverse-holo": "958167"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

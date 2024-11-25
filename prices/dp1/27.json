@@ -1,0 +1,25 @@
+{
+    "id": "dp1-27",
+    "name": "Gengar",
+    "number": "27",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763063",
+        "reverse-holo": "763185"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.49",
+                "psa10": "$263.20",
+                "grade9": "$92.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$19.20",
+                "psa10": "$309.95",
+                "grade9": "$186.22"
+            }
+        }
+    }
+}

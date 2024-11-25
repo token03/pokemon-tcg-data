@@ -1,0 +1,25 @@
+{
+    "id": "bw2-75",
+    "name": "Klang",
+    "number": "75",
+    "setId": "bw2",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955501",
+        "reverse-holo": "955598"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.48",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$30.38",
+                "grade9": ""
+            }
+        }
+    }
+}

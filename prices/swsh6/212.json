@@ -1,0 +1,19 @@
+{
+    "id": "swsh6-212",
+    "name": "Brawly",
+    "number": "212",
+    "setId": "swsh6",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "2254016"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.50",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

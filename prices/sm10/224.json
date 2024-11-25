@@ -1,0 +1,19 @@
+{
+    "id": "sm10-224",
+    "name": "Lucario & Melmetal-GX",
+    "number": "224",
+    "setId": "sm10",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963380"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$20.36",
+                "psa10": "$77.30",
+                "grade9": "$26.77"
+            }
+        }
+    }
+}

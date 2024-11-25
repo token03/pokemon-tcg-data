@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-149",
+    "name": "Drampa",
+    "number": "149",
+    "setId": "swsh1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "807071",
+        "reverse-holo": "807072"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.14",
+                "psa10": "$11.81",
+                "grade9": "$4.89"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$31.00",
+                "grade9": "$15.99"
+            }
+        }
+    }
+}

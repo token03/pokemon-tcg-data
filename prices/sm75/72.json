@@ -1,0 +1,19 @@
+{
+    "id": "sm75-72",
+    "name": "Altaria-GX",
+    "number": "72",
+    "setId": "sm75",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "962306"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$13.21",
+                "psa10": "$51.07",
+                "grade9": "$19.51"
+            }
+        }
+    }
+}

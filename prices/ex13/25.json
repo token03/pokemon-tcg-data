@@ -1,0 +1,31 @@
+{
+    "id": "ex13-25",
+    "name": "Nosepass",
+    "number": "25",
+    "setId": "ex13",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "889105",
+        "reverse-holo": "889216",
+        "stamped": "5489516"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.55",
+                "psa10": "$46.08",
+                "grade9": "$40.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.13",
+                "psa10": "$116.41",
+                "grade9": "$24.79"
+            },
+            "stamped": {
+                "ungraded": "$2.16",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

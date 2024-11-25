@@ -1,0 +1,25 @@
+{
+    "id": "dp4-102",
+    "name": "Rare Candy",
+    "number": "102",
+    "setId": "dp4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "921256",
+        "reverse-holo": "921362"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.78",
+                "psa10": "$88.34",
+                "grade9": "$33.16"
+            },
+            "reverse-holo": {
+                "ungraded": "$11.24",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

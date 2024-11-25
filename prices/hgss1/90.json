@@ -1,0 +1,31 @@
+{
+    "id": "hgss1-90",
+    "name": "Copycat",
+    "number": "90",
+    "setId": "hgss1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "806201",
+        "cross-holo": "6254481",
+        "reverse-holo": "806308"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.54",
+                "psa10": "$66.28",
+                "grade9": "$30.00"
+            },
+            "cross-holo": {
+                "ungraded": "",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.05",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

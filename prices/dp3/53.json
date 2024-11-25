@@ -1,0 +1,37 @@
+{
+    "id": "dp3-53",
+    "name": "Kirlia",
+    "number": "53",
+    "setId": "dp3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "920943",
+        "pre-release-staff": "3953428",
+        "pre-release": "5528793",
+        "reverse-holo": "921075"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.56",
+                "psa10": "$128.00",
+                "grade9": "$106.53"
+            },
+            "pre-release-staff": {
+                "ungraded": "$74.16",
+                "psa10": "",
+                "grade9": "$92.27"
+            },
+            "pre-release": {
+                "ungraded": "$14.98",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.87",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

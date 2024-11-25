@@ -1,0 +1,19 @@
+{
+    "id": "sm11-239",
+    "name": "Slowpoke & Psyduck-GX",
+    "number": "239",
+    "setId": "sm11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963805"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$33.75",
+                "psa10": "$118.80",
+                "grade9": "$49.33"
+            }
+        }
+    }
+}

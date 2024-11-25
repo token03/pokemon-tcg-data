@@ -1,0 +1,19 @@
+{
+    "id": "swsh2-203",
+    "name": "Sonia",
+    "number": "203",
+    "setId": "swsh2",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "886929"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$10.95",
+                "psa10": "$47.06",
+                "grade9": "$17.50"
+            }
+        }
+    }
+}

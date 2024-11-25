@@ -1,0 +1,19 @@
+{
+    "id": "xy6-110",
+    "name": "VS Seeker",
+    "number": "110",
+    "setId": "xy6",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "958933"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.65",
+                "psa10": "$44.99",
+                "grade9": "$34.99"
+            }
+        }
+    }
+}

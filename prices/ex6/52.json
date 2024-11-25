@@ -1,0 +1,25 @@
+{
+    "id": "ex6-52",
+    "name": "Wigglytuff",
+    "number": "52",
+    "setId": "ex6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "850019",
+        "reverse-holo": "850134"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.82",
+                "psa10": "$139.13",
+                "grade9": "$80.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.43",
+                "psa10": "$87.95",
+                "grade9": "$19.50"
+            }
+        }
+    }
+}

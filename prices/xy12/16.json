@@ -1,0 +1,19 @@
+{
+    "id": "xy12-16",
+    "name": "Ninetales BREAK",
+    "number": "16",
+    "setId": "xy12",
+    "rarity": "Rare BREAK",
+    "priceChartingIds": {
+        "normal": "960304"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.78",
+                "psa10": "$30.49",
+                "grade9": "$16.00"
+            }
+        }
+    }
+}

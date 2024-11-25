@@ -1,0 +1,25 @@
+{
+    "id": "swsh6-27",
+    "name": "Raboot",
+    "number": "27",
+    "setId": "swsh6",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2253833",
+        "reverse-holo": "2254059"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.12",
+                "psa10": "$33.83",
+                "grade9": "$11.76"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.65",
+                "psa10": "$37.09",
+                "grade9": "$13.25"
+            }
+        }
+    }
+}

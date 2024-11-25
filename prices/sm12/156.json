@@ -1,0 +1,19 @@
+{
+    "id": "sm12-156",
+    "name": "Arceus & Dialga & Palkia-GX",
+    "number": "156",
+    "setId": "sm12",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964394"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$8.88",
+                "psa10": "$53.50",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

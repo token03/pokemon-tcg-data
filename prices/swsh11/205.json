@@ -1,0 +1,19 @@
+{
+    "id": "swsh11-205",
+    "name": "Colress's Experiment",
+    "number": "205",
+    "setId": "swsh11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "4050122"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.65",
+                "psa10": "$24.21",
+                "grade9": "$17.27"
+            }
+        }
+    }
+}

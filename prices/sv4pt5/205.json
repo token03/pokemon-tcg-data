@@ -1,0 +1,19 @@
+{
+    "id": "sv4pt5-205",
+    "name": "Skwovet",
+    "number": "205",
+    "setId": "sv4pt5",
+    "rarity": "Shiny Rare",
+    "priceChartingIds": {
+        "normal": "6277124"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.51",
+                "psa10": "$26.57",
+                "grade9": "$8.34"
+            }
+        }
+    }
+}

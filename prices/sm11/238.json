@@ -1,0 +1,19 @@
+{
+    "id": "sm11-238",
+    "name": "Heatran-GX",
+    "number": "238",
+    "setId": "sm11",
+    "rarity": "Rare Rainbow",
+    "priceChartingIds": {
+        "normal": "963804"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$9.50",
+                "psa10": "$54.44",
+                "grade9": "$14.50"
+            }
+        }
+    }
+}

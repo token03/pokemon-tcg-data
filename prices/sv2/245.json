@@ -1,0 +1,19 @@
+{
+    "id": "sv2-245",
+    "name": "Copperajah ex",
+    "number": "245",
+    "setId": "sv2",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5287534"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$38.91",
+                "grade9": "$12.86"
+            }
+        }
+    }
+}

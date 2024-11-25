@@ -1,0 +1,19 @@
+{
+    "id": "ex15-94",
+    "name": "Kingdra ex \u03b4",
+    "number": "94",
+    "setId": "ex15",
+    "rarity": "Rare Holo EX",
+    "priceChartingIds": {
+        "normal": "889568"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$29.87",
+                "psa10": "$450.00",
+                "grade9": "$79.31"
+            }
+        }
+    }
+}

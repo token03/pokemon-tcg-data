@@ -1,0 +1,19 @@
+{
+    "id": "sm6-79",
+    "name": "Yveltal-GX",
+    "number": "79",
+    "setId": "sm6",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961742"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.32",
+                "psa10": "$43.38",
+                "grade9": "$17.52"
+            }
+        }
+    }
+}

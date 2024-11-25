@@ -1,0 +1,25 @@
+{
+    "id": "ex16-38",
+    "name": "Sharpedo",
+    "number": "38",
+    "setId": "ex16",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "889702",
+        "reverse-holo": "889810"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.81",
+                "psa10": "$61.13",
+                "grade9": "$21.80"
+            },
+            "reverse-holo": {
+                "ungraded": "$5.37",
+                "psa10": "$118.17",
+                "grade9": "$29.99"
+            }
+        }
+    }
+}

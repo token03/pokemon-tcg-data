@@ -1,0 +1,25 @@
+{
+    "id": "xy10-75",
+    "name": "Kangaskhan",
+    "number": "75",
+    "setId": "xy10",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "959932",
+        "reverse-holo": "960043"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.32",
+                "psa10": "$36.72",
+                "grade9": "$5.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.63",
+                "psa10": "$15.25",
+                "grade9": "$14.86"
+            }
+        }
+    }
+}

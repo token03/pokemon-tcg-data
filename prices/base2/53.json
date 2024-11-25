@@ -1,0 +1,25 @@
+{
+    "id": "base2-53",
+    "name": "Goldeen",
+    "number": "53",
+    "setId": "base2",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "643310",
+        "1st-edition": "643358"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$33.99",
+                "grade9": "$12.66"
+            },
+            "1st-edition": {
+                "ungraded": "$1.36",
+                "psa10": "$49.45",
+                "grade9": "$15.00"
+            }
+        }
+    }
+}

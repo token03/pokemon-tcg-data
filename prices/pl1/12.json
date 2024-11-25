@@ -1,0 +1,25 @@
+{
+    "id": "pl1-12",
+    "name": "Palkia G",
+    "number": "12",
+    "setId": "pl1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "806025",
+        "reverse-holo": "806026"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$6.00",
+                "psa10": "$297.27",
+                "grade9": "$81.41"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.25",
+                "psa10": "$255.00",
+                "grade9": "$124.81"
+            }
+        }
+    }
+}

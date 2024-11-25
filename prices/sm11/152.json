@@ -1,0 +1,19 @@
+{
+    "id": "sm11-152",
+    "name": "Dragonite-GX",
+    "number": "152",
+    "setId": "sm11",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963718"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.59",
+                "psa10": "$48.75",
+                "grade9": "$22.09"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "xy12-102",
+    "name": "M Blastoise-EX",
+    "number": "102",
+    "setId": "xy12",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "960381"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$15.37",
+                "psa10": "$101.75",
+                "grade9": "$33.41"
+            }
+        }
+    }
+}

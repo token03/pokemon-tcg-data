@@ -1,0 +1,25 @@
+{
+    "id": "bw5-96",
+    "name": "N",
+    "number": "96",
+    "setId": "bw5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "956142",
+        "reverse-holo": "956248"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$47.45",
+                "grade9": "$18.62"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.70",
+                "psa10": "$62.51",
+                "grade9": "$26.07"
+            }
+        }
+    }
+}

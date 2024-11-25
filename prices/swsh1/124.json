@@ -1,0 +1,25 @@
+{
+    "id": "swsh1-124",
+    "name": "Toxicroak",
+    "number": "124",
+    "setId": "swsh1",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "807300",
+        "reverse-holo": "807301"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.02",
+                "psa10": "$22.44",
+                "grade9": "$12.99"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.49",
+                "psa10": "$39.49",
+                "grade9": "$6.55"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "hgss4-26",
+    "name": "Machamp",
+    "number": "26",
+    "setId": "hgss4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "926084",
+        "reverse-holo": "926186"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.00",
+                "psa10": "$151.99",
+                "grade9": "$57.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.16",
+                "psa10": "$193.76",
+                "grade9": "$49.46"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sm3-4",
+    "name": "Oddish",
+    "number": "4",
+    "setId": "sm3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960788",
+        "reverse-holo": "960957"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$34.38",
+                "grade9": "$10.95"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.52",
+                "psa10": "$36.73",
+                "grade9": "$14.05"
+            }
+        }
+    }
+}

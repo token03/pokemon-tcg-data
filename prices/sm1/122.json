@@ -1,0 +1,25 @@
+{
+    "id": "sm1-122",
+    "name": "Lillie",
+    "number": "122",
+    "setId": "sm1",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "2158351",
+        "reverse-holo": "806995"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.09",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.79",
+                "psa10": "$21.49",
+                "grade9": "$6.06"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ex14-64",
+    "name": "Squirtle",
+    "number": "64",
+    "setId": "ex14",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889351",
+        "reverse-holo": "889451"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.99",
+                "psa10": "$61.89",
+                "grade9": "$21.72"
+            },
+            "reverse-holo": {
+                "ungraded": "$20.00",
+                "psa10": "$256.72",
+                "grade9": "$55.00"
+            }
+        }
+    }
+}

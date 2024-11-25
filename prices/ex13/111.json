@@ -1,0 +1,25 @@
+{
+    "id": "ex13-111",
+    "name": "Mew",
+    "number": "111",
+    "setId": "ex13",
+    "rarity": "Rare Secret",
+    "priceChartingIds": {
+        "normal": "4654020",
+        "holo": "889191"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$21.50",
+                "psa10": "$180.00",
+                "grade9": "$149.99"
+            },
+            "holo": {
+                "ungraded": "$42.32",
+                "psa10": "$832.32",
+                "grade9": "$122.80"
+            }
+        }
+    }
+}

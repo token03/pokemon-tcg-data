@@ -1,0 +1,25 @@
+{
+    "id": "bw4-34",
+    "name": "Frillish",
+    "number": "34",
+    "setId": "bw4",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "955886",
+        "reverse-holo": "955987"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.41",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

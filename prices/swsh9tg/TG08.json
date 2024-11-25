@@ -1,0 +1,19 @@
+{
+    "id": "swsh9tg-TG08",
+    "name": "Alcremie",
+    "number": "TG08",
+    "setId": "swsh9tg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "3216316"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$1.82",
+                "psa10": "$33.52",
+                "grade9": "$5.62"
+            }
+        }
+    }
+}

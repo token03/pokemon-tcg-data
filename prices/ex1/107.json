@@ -1,0 +1,25 @@
+{
+    "id": "ex1-107",
+    "name": "Psychic Energy",
+    "number": "107",
+    "setId": "ex1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "762960",
+        "reverse-holo": "763034"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.99",
+                "psa10": "$71.00",
+                "grade9": "$59.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.44",
+                "psa10": "$83.00",
+                "grade9": "$69.00"
+            }
+        }
+    }
+}

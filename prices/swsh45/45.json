@@ -1,0 +1,25 @@
+{
+    "id": "swsh45-45",
+    "name": "Crobat VMAX",
+    "number": "45",
+    "setId": "swsh45",
+    "rarity": "Rare Holo VMAX",
+    "priceChartingIds": {
+        "normal": "1341522",
+        "reverse-holo": "1341709"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.65",
+                "psa10": "$17.69",
+                "grade9": "$7.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.58",
+                "psa10": "$29.74",
+                "grade9": "$12.52"
+            }
+        }
+    }
+}

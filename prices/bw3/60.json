@@ -1,0 +1,25 @@
+{
+    "id": "bw3-60",
+    "name": "Chandelure",
+    "number": "60",
+    "setId": "bw3",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "955715",
+        "reverse-holo": "955817"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.00",
+                "psa10": "$76.79",
+                "grade9": "$13.52"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.25",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xy11-100",
+    "name": "Claw Fossil Anorith",
+    "number": "100",
+    "setId": "xy11",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "960179",
+        "reverse-holo": "960282"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.17",
+                "psa10": "$35.78",
+                "grade9": "$13.44"
+            }
+        }
+    }
+}

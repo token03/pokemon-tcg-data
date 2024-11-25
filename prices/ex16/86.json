@@ -1,0 +1,25 @@
+{
+    "id": "ex16-86",
+    "name": "Root Fossil",
+    "number": "86",
+    "setId": "ex16",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "889750",
+        "reverse-holo": "889857"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.37",
+                "psa10": "$27.58",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$3.72",
+                "psa10": "",
+                "grade9": "$15.63"
+            }
+        }
+    }
+}

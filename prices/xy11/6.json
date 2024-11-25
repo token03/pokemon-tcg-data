@@ -1,0 +1,25 @@
+{
+    "id": "xy11-6",
+    "name": "Yanma",
+    "number": "6",
+    "setId": "xy11",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "960085",
+        "reverse-holo": "960201"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.21",
+                "psa10": "$35.98",
+                "grade9": "$13.56"
+            }
+        }
+    }
+}

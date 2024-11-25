@@ -1,0 +1,37 @@
+{
+    "id": "base1-57",
+    "name": "Pidgey",
+    "number": "57",
+    "setId": "base1",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "630470",
+        "1st-edition": "715646",
+        "shadowless": "715748",
+        "trainer-deck-b": "2386884"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.99",
+                "psa10": "$48.59",
+                "grade9": "$19.48"
+            },
+            "1st-edition": {
+                "ungraded": "$14.33",
+                "psa10": "$192.85",
+                "grade9": "$46.00"
+            },
+            "shadowless": {
+                "ungraded": "$2.05",
+                "psa10": "$56.88",
+                "grade9": "$24.97"
+            },
+            "trainer-deck-b": {
+                "ungraded": "$142.01",
+                "psa10": "",
+                "grade9": "$150.00"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pl4-13",
+    "name": "Aerodactyl",
+    "number": "13",
+    "setId": "pl4",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "925632",
+        "reverse-holo": "925743"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.43",
+                "psa10": "$72.23",
+                "grade9": "$28.25"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.52",
+                "psa10": "$111.95",
+                "grade9": "$51.16"
+            }
+        }
+    }
+}

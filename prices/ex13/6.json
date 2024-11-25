@@ -1,0 +1,25 @@
+{
+    "id": "ex13-6",
+    "name": "Deoxys \u03b4",
+    "number": "6",
+    "setId": "ex13",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "speed": "889086",
+        "speed]-[reverse-holo": "889197"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "speed": {
+                "ungraded": "$14.75",
+                "psa10": "$337.18",
+                "grade9": "$53.36"
+            },
+            "speed]-[reverse-holo": {
+                "ungraded": "$14.75",
+                "psa10": "$286.41",
+                "grade9": "$74.66"
+            }
+        }
+    }
+}

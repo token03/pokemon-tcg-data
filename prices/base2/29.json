@@ -1,0 +1,25 @@
+{
+    "id": "base2-29",
+    "name": "Venomoth",
+    "number": "29",
+    "setId": "base2",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "1099569",
+        "1st-edition": "1099585"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$3.63",
+                "psa10": "$37.44",
+                "grade9": "$21.73"
+            },
+            "1st-edition": {
+                "ungraded": "$8.15",
+                "psa10": "$85.39",
+                "grade9": "$28.49"
+            }
+        }
+    }
+}

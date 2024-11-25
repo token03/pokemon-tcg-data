@@ -1,0 +1,25 @@
+{
+    "id": "dp1-30",
+    "name": "Lopunny",
+    "number": "30",
+    "setId": "dp1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "763066",
+        "reverse-holo": "763188"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.13",
+                "psa10": "$65.37",
+                "grade9": "$23.57"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.55",
+                "psa10": "$64.51",
+                "grade9": "$25.00"
+            }
+        }
+    }
+}

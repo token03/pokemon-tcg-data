@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-118",
+    "name": "Bouffalant",
+    "number": "118",
+    "setId": "swsh5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1673298",
+        "reverse-holo": "1725087"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.24",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.24",
+                "psa10": "$34.69",
+                "grade9": "$12.22"
+            }
+        }
+    }
+}

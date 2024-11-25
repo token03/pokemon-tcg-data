@@ -1,0 +1,25 @@
+{
+    "id": "ex10-14",
+    "name": "Slowking",
+    "number": "14",
+    "setId": "ex10",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "888434",
+        "reverse-holo": "888576"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$12.73",
+                "psa10": "$306.46",
+                "grade9": "$38.50"
+            },
+            "reverse-holo": {
+                "ungraded": "$12.84",
+                "psa10": "$350.00",
+                "grade9": "$45.59"
+            }
+        }
+    }
+}

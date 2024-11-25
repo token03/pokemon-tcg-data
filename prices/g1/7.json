@@ -1,0 +1,25 @@
+{
+    "id": "g1-7",
+    "name": "Parasect",
+    "number": "7",
+    "setId": "g1",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "959719",
+        "reverse-holo": "2978662"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$37.77",
+                "grade9": "$35.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.78",
+                "psa10": "$49.71",
+                "grade9": "$21.62"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm9-178",
+    "name": "Morgan",
+    "number": "178",
+    "setId": "sm9",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "962976"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$25.99",
+                "psa10": "$97.89",
+                "grade9": "$48.83"
+            }
+        }
+    }
+}

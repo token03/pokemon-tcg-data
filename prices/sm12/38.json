@@ -1,0 +1,19 @@
+{
+    "id": "sm12-38",
+    "name": "Blastoise & Piplup-GX",
+    "number": "38",
+    "setId": "sm12",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "964276"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.16",
+                "psa10": "$69.75",
+                "grade9": "$30.33"
+            }
+        }
+    }
+}

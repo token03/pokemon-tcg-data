@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-45",
+    "name": "Vanillite",
+    "number": "45",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887131",
+        "reverse-holo": "887315"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.07",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$2.66",
+                "psa10": "$40.11",
+                "grade9": "$15.17"
+            }
+        }
+    }
+}

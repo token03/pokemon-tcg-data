@@ -1,0 +1,19 @@
+{
+    "id": "sm4-74",
+    "name": "Alolan Exeggutor-GX",
+    "number": "74",
+    "setId": "sm4",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "961220"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.44",
+                "psa10": "$69.95",
+                "grade9": "$14.52"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "swsh12pt5gg-GG20",
+    "name": "Latias",
+    "number": "GG20",
+    "setId": "swsh12pt5gg",
+    "rarity": "Trainer Gallery Rare Holo",
+    "priceChartingIds": {
+        "normal": "4637076"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$3.56",
+                "psa10": "$58.13",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

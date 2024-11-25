@@ -1,0 +1,25 @@
+{
+    "id": "sv5-148",
+    "name": "Full Metal Lab",
+    "number": "148",
+    "setId": "sv5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "6495608",
+        "reverse-holo": "6495812"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.13",
+                "psa10": "$35.48",
+                "grade9": "$11.49"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.60",
+                "psa10": "$36.11",
+                "grade9": "$11.66"
+            }
+        }
+    }
+}

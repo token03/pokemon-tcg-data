@@ -1,0 +1,25 @@
+{
+    "id": "dp6-15",
+    "name": "Regigigas",
+    "number": "15",
+    "setId": "dp6",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "924946",
+        "reverse-holo": "925092"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$4.97",
+                "psa10": "$222.50",
+                "grade9": "$65.18"
+            },
+            "reverse-holo": {
+                "ungraded": "$3.13",
+                "psa10": "$72.87",
+                "grade9": "$33.00"
+            }
+        }
+    }
+}

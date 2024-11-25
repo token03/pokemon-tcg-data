@@ -1,0 +1,31 @@
+{
+    "id": "ex7-15",
+    "name": "Dark Dragonite",
+    "number": "15",
+    "setId": "ex7",
+    "rarity": "Rare",
+    "priceChartingIds": {
+        "normal": "886349",
+        "holo": "5167979",
+        "reverse-holo": "886460"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$17.33",
+                "psa10": "$176.96",
+                "grade9": "$131.35"
+            },
+            "holo": {
+                "ungraded": "$29.32",
+                "psa10": "",
+                "grade9": "$196.20"
+            },
+            "reverse-holo": {
+                "ungraded": "$102.70",
+                "psa10": "$1,947.19",
+                "grade9": "$357.91"
+            }
+        }
+    }
+}

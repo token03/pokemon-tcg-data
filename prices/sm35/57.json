@@ -1,0 +1,19 @@
+{
+    "id": "sm35-57",
+    "name": "Shining Arceus",
+    "number": "57",
+    "setId": "sm35",
+    "rarity": "Rare Shining",
+    "priceChartingIds": {
+        "normal": "961126"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$14.47",
+                "psa10": "$67.07",
+                "grade9": "$20.30"
+            }
+        }
+    }
+}

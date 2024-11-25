@@ -1,0 +1,19 @@
+{
+    "id": "dv1-21",
+    "name": "Kyurem",
+    "number": "21",
+    "setId": "dv1",
+    "rarity": "ACE SPEC Rare",
+    "priceChartingIds": {
+        "normal": "956514"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$38.43",
+                "psa10": "$930.37",
+                "grade9": "$90.00"
+            }
+        }
+    }
+}

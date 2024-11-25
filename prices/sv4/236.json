@@ -1,0 +1,19 @@
+{
+    "id": "sv4-236",
+    "name": "Mela",
+    "number": "236",
+    "setId": "sv4",
+    "rarity": "Ultra Rare",
+    "priceChartingIds": {
+        "normal": "5953075"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.43",
+                "psa10": "$22.00",
+                "grade9": "$13.25"
+            }
+        }
+    }
+}

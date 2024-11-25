@@ -1,0 +1,25 @@
+{
+    "id": "bw2-30",
+    "name": "Beartic",
+    "number": "30",
+    "setId": "bw2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "955456",
+        "reverse-holo": "955553"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$2.20",
+                "psa10": "$58.00",
+                "grade9": "$26.94"
+            },
+            "reverse-holo": {
+                "ungraded": "$2.30",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sm11-35",
+    "name": "Slowpoke & Psyduck-GX",
+    "number": "35",
+    "setId": "sm11",
+    "rarity": "Rare Holo GX",
+    "priceChartingIds": {
+        "normal": "963601"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$16.90",
+                "psa10": "$74.95",
+                "grade9": "$31.50"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dp3-8",
+    "name": "Gastrodon East Sea",
+    "number": "8",
+    "setId": "dp3",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "920898",
+        "reverse-holo": "921030"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$5.65",
+                "psa10": "$119.20",
+                "grade9": "$100.00"
+            },
+            "reverse-holo": {
+                "ungraded": "$4.38",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

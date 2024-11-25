@@ -1,0 +1,25 @@
+{
+    "id": "swsh3-9",
+    "name": "Shelmet",
+    "number": "9",
+    "setId": "swsh3",
+    "rarity": "Common",
+    "priceChartingIds": {
+        "normal": "887095",
+        "reverse-holo": "887284"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.00",
+                "psa10": "",
+                "grade9": ""
+            },
+            "reverse-holo": {
+                "ungraded": "$1.49",
+                "psa10": "$35.66",
+                "grade9": "$12.90"
+            }
+        }
+    }
+}

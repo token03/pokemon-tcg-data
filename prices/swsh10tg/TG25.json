@@ -1,0 +1,19 @@
+{
+    "id": "swsh10tg-TG25",
+    "name": "Bea",
+    "number": "TG25",
+    "setId": "swsh10tg",
+    "rarity": "Rare Ultra",
+    "priceChartingIds": {
+        "normal": "3508417"
+    },
+    "priceHistory": {
+        "2024-06-30": {
+            "normal": {
+                "ungraded": "$4.66",
+                "psa10": "$31.50",
+                "grade9": "$19.99"
+            }
+        }
+    }
+}

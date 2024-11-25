@@ -1,0 +1,25 @@
+{
+    "id": "gym2-12",
+    "name": "Misty's Golduck",
+    "number": "12",
+    "setId": "gym2",
+    "rarity": "Rare Holo",
+    "priceChartingIds": {
+        "normal": "762218",
+        "1st-edition": "1450206"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$23.16",
+                "psa10": "$592.50",
+                "grade9": "$85.26"
+            },
+            "1st-edition": {
+                "ungraded": "$42.03",
+                "psa10": "$2,384.21",
+                "grade9": "$130.00"
+            }
+        }
+    }
+}

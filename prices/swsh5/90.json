@@ -1,0 +1,25 @@
+{
+    "id": "swsh5-90",
+    "name": "Golbat",
+    "number": "90",
+    "setId": "swsh5",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "1673270",
+        "reverse-holo": "1708971"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$0.67",
+                "psa10": "$32.57",
+                "grade9": "$11.22"
+            },
+            "reverse-holo": {
+                "ungraded": "$1.58",
+                "psa10": "",
+                "grade9": ""
+            }
+        }
+    }
+}

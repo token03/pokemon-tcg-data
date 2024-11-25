@@ -1,0 +1,25 @@
+{
+    "id": "sv3-142",
+    "name": "Skarmory",
+    "number": "142",
+    "setId": "sv3",
+    "rarity": "Uncommon",
+    "priceChartingIds": {
+        "normal": "5605660",
+        "reverse-holo": "5605883"
+    },
+    "priceHistory": {
+        "2024-06-27": {
+            "normal": {
+                "ungraded": "$1.49",
+                "psa10": "$36.75",
+                "grade9": "$12.10"
+            },
+            "reverse-holo": {
+                "ungraded": "$0.99",
+                "psa10": "$34.49",
+                "grade9": "$11.39"
+            }
+        }
+    }
+}
